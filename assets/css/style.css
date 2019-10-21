@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+body,&nbsphtml {
+  height: 100%;
+  background: url(https://image.freepik.com/free-photo/maldives-island_74190-477.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/*&nbsphtml&nbspand&nbspbodyof&nbsphtml */
+/*&nbspnavbar */
+.navbar {
+    font-size:1rem;
+    font-weight:bold;
+    color: black;
+    margin-bottom: 60px;
+}
+.navbartogglericon {
+    color: black;
+    border-color:black;
+    border-width:5px;
+    outline-color:black;
+    outline-width:5px;
+}
+.navbar-toggler {
+    border-color:black;
+    border-width:5px;
+    color: black;
+    outline-color:black;
+    outline-width:5px;
+}
+.navbar-brand {
+    outline: black;
+    border-radius: 20%;
+    font-size:1rem;
+    font-weight:bold;
+    color:black;
+}
+.navbar-brand:hover {
+    background-color: white;
+    color: black;
+}
+.nav-item {
+    font: 1rem;
+    color: black;
+    margin-left: 20px;
+    margin-right:20px;
+}
+.nav-item:hover {
+    background-color: white;
+    color: black;
+}
+/*&nbspnavbar */
+
+.sitelogoheading {
+    margin-top: 20px;
+    max-width: 100%;
+    height: auto;
+    justify-content: center;
+    text-align: center;
+    font-size: 50px;
+    border: 15px solid rgba(217,3,104,0.96);
+    color: white;
+}
+
+.latestdealscarousels {
+    margin: auto;
+}
+
+#carouselExampleCaptionsone {
+    height: 600px;
+    width: auto;
+    outline-offset: 30px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
+    border-radius:20px;
+    background-color:#230B18;
+    color:#39222E;
+}
+#carouselExampleCaptionsone:hover {
+    opacity:0.9;
+}
+
+#carouselExampleCaptionstwo {
+    height: 600px;
+    width: auto;
+    outline-offset: 30px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
+    border-radius:20px;
+    background-color:#230B18;
+    color:#39222E;
+}
+#carouselExampleCaptionstwo:hover {
+    opacity:0.9;
+}
+.carousel-inner {
+    height: 600px;
+    border-radius: 20px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
+}
+.carousel-item&nbspactive {
+    height: 600px;
+    border-radius: 20px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
+}
+.carousel-item {
+    height: 600px;
+    border-radius: 20px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
+}
+.carousel-control-prev-icon {
+    color: white;
+    border-radius: 50%;
+    box-shadow: 5px 5px 4px 5px #9C928C;
+}
+.carousel-control-prev-icon:hover {
+    opacity:0.85;
+}
+.carousel-control-next-icon {
+    color: white;
+    border-radius: 50%;
+    box-shadow: 5px 5px 4px 5px #9C928C;
+}
+.carousel-control-next-icon:hover {
+    opacity:0.85;
+}
+
