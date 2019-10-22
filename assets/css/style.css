@@ -218,10 +218,17 @@ margin-bottom: 160px;
 	font-size: 50px;
 	color: #3C011D;
 }
-.carousel-control-prev-icon,.carousel-control-next-icon {
-	height: 100px;
-	width: 100px;
-	color: white;
+
+.carousel-control-prev-icon {
+	height: 150px;
+	width: 150px;
+	vertical-align: middle;
+}
+
+.carousel-control-next-icon {
+	height: 150px;
+	width: 150px;
+	vertical-align: middle;
 }
 .populardestinationstitle {
 	margin-top: 20px;
@@ -500,10 +507,120 @@ margin-top: 20px;
 margin-bottom: 20px;
 }
 
+.packagedealsheading {
+height: 100px;
+max-width: 100%;
+background-image: linear-gradient(to right top, #7b1e7a, #602273, #472368, #2f215c, #191d4d, #211e51, #292055, #312158, #5a2369, #851f72, #b11271, #d90368);
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+    font-size: 40px;
+	margin-top: 20px;
+margin-bottom: 20px;
+}
 
+.packagedeals1 {
+height: 500px;
+width: 600px;
+background-image: url(../images/packagedeals1.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+margin-bottom: 20px;
+}
 
+.packagedeals2 {
+height: 500px;
+width: 600px;
+background-image: url(../images/packagedeals2.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+margin-bottom: 20px;
+}
 
+.packagedeals3 {
+height: 500px;
+width: 600px;
+background-image: url(../images/packagedeals3.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+margin-bottom: 20px;
+}
 
+.packagedeals4 {
+height: 500px;
+width: 600px;
+background-image: url(../images/packagedeals4.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+margin-bottom: 20px;
+}
+
+.packagedeals5 {
+height: 500px;
+width: 600px;
+background-image: url(../images/packagedeals5.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+margin-bottom: 20px;
+}
+
+.packagedeals6 {
+height: 500px;
+width: 600px;
+background-image: url(../images/packagedeals6.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+margin-bottom: 20px;
+}
 
 
 
