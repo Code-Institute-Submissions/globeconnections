@@ -1,4 +1,4 @@
-Project Name: don Miguel Ruiz (User-Centric Frontend Development - Code Institute)
+PROJECT NAME: don MIGUEL RUIZ (User-Centric Frontend Development - Code Institute)
 Combining Toltec mythology and scientific perspectives, don Miguel has been able to merge ancient wisdom with modern physics and practical common-sense, forging a new philosophy for seekers of truth and personal authenticity. His landmark bestselling book, The Four Agreements, contains practical steps for long-term, personal transformation and has been read by millions around the world.
 
 First published in 1997, The Four Agreements has since sold over six million copies in the United States and seven million worldwide. It has been translated into 40 languages, appeared on the New York Times bestseller for nearly ten years, and was the 36th bestselling book of the decade. Don Miguel is also the author of The Mastery of Love, The Voice of Knowledge, Prayers, and the New York Times bestseller, The Fifth Agreement, a collaboration with his son, don José Ruiz. Each of his books are international bestsellers.
