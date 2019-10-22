@@ -203,6 +203,17 @@ label {
 	margin-bottom: 30px;
 	background-color:white;
 }
+
+#carouselExampleControlsone {
+height: 600px;
+margin-bottom: 160px;
+}
+
+#carouselExampleControlstwo {
+height: 600px;
+margin-bottom: 160px;
+}
+
 .carousel-caption {
 	font-size: 50px;
 	color: #3C011D;
