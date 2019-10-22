@@ -22,6 +22,7 @@ img {
 	font-size:1rem;
 	font-weight:bold;
 	color: white;
+    background-size: cover;
 }
 
 .bg-white {
@@ -105,6 +106,13 @@ align-items:center;
 .brandname {
     margin-bottom: 20px;
     text-align:center;
+}
+
+.searchform {
+   text-align: center;
+margin-top: 30px;
+margin-bottom: 30px;
+border: 10px solid #D90368;
 }
 
 .carouselExampleControlsoneheading {
