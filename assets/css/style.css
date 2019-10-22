@@ -271,6 +271,232 @@ label {
 	text-align: center;
 	margin: 0 auto;
 }
+
+.cairoegypt {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/CAIRO,EGYPT.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.mumbaiindia{
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/MUMBAI,INDIA.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.berlingermany{
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/BERLIN,GERMANY.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.malemaldives{
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/MALE.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.columbosrilanka{
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/COLOMBO.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.tenerifespain{
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/Tenerife-beautiful-landscape-1800x1200.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.veniceitaly{
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/VENICE.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.mombasakenya{
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/MOMBASA.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.parisfrance{
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/PARIS.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.shanghaichina{
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/SHANGHAI.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.dubaiunitedarabemirates{
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/DUBAI.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.amsterdamnetherlands{
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/AMSTERDAM,NETHERLANDS.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.populardestinationsone {
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+.populardestinationstwo {
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+.populardestinationsthree {
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+.populardestinationsfour {
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+.populardestinationsfive {
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
 /* socialmedia */
 .footer {
 	max-width:100%;
