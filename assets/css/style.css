@@ -622,7 +622,86 @@ background-image: url(../images/packagedeals6.jpg);
 margin-bottom: 20px;
 }
 
+.otherinformationhomepageheading {
+height: 100px;
+max-width: 100%;
+background-image: linear-gradient(to right top, #ece2d0, #ebcfa5, #edba7c, #efa257, #f28834, #f4752d, #f65f2b, #f7442c, #f4323e, #ee204d, #e50e5b, #d90368);
+	color: BLACK;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+    font-size: 40px;
+	margin-top: 20px;
+margin-bottom: 20px;
+}
 
+.otherinfo1 {
+height: 700px;
+width: 900px;
+background-image: url(../images/otherinfo1.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+margin-bottom: 20px;
+}
+
+.otherinfo2 {
+height: 700px;
+width: 900px;
+background-image: url(../images/otherinfo2.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+margin-bottom: 20px;
+}
+
+.otherinfo3 {
+height: 700px;
+width: 900px;
+background-image: url(../images/otherinfo3.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+margin-bottom: 20px;
+}
+
+.otherinfo4 {
+height: 700px;
+width: 900px;
+background-image: url(../images/otherinfo4.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+margin-bottom: 20px;
+}
 
 
 /* socialmedia */
