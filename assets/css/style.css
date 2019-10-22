@@ -193,6 +193,11 @@ margin-bottom: 30px;
 background-color:white;
 }
 
+.carousel-caption {
+font-size: 50px;
+color: #3C011D;
+}
+
 /* socialmedia */
 .footer {
 	max-width:100%;
@@ -203,33 +208,38 @@ background-color:white;
 	align-items: center;
 	text-align: center;
 	background-color: transparent;
-	color: #1C0913;
+	color: #F75C03;
 	font-size: 1rem;
 	margin: 0 auto;
 }
 .footer-copyright {
 	margin:auto;
 	font-size: 1rem;
-	color: #1C0913;
+	color: #D90368;
+    text-align: center;
+	align-items: center;
+	justify-content: center;
 }
 .fab {
 	margin:0 auto;
-	transition: 0.2s;
-	color: #1C0913;
+	color: #D90368;
 	text-decoration:none;
+    text-align: center;
+	align-items: center;
+	justify-content: center;
 }
 .fab:hover {
-	color: #1C0913;
-	;
+	color: #D90368;
 	opacity:0.5;
-	/* IE 9 */
-	/* Safari 3-8 */
-	transform: scale(2.5);
 	text-decoration:none;
 }
 .footer-copyright {
 	margin:0 auto;
 	font-size:1rem;
+    color: #D90368;
+    text-align: center;
+	align-items: center;
+	justify-content: center;
 }
 .footer-copyright:hover {
 	opacity:0.5;
@@ -238,9 +248,9 @@ background-color:white;
 	font-size: 1rem;
 	height: 3rem;
 	width: 8rem;
-	border-color: #1C0913;
+	border-color: #F75C03;
 	border-width: 5px;
-	color: #1C0913;
+color: #F75C03;
 	border-radius: 30px;
 	text-align: center;
 	align-items: center;
@@ -248,14 +258,29 @@ background-color:white;
 	margin: 0 auto;
 }
 .btn-outline-white:hover {
-	color:#1C0913;
+	color:#F75C03;
 	opacity:0.5;
 }
 .mb-1 {
 	font-size: 1rem;
 	margin:0 auto;
+    text-align: center;
+	align-items: center;
+	justify-content: center;
 }
 .mb-1:hover {
 	opacity:0.9;
+}
+
+.py-5 {
+    text-align: center;
+	align-items: center;
+	justify-content: center;
+}
+
+.mb-5 {
+    text-align: center;
+	align-items: center;
+	justify-content: center;
 }
 /* socialmedia */
