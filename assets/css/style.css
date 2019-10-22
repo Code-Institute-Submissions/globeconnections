@@ -118,22 +118,39 @@ img {
 }
 
 .searchform {
-   text-align: center;
+text-align: center;
 margin-top: 30px;
 margin-bottom: 30px;
-background-image: linear-gradient(to right top, #f75c03, #f84a24, #f53838, #f02648, #e81456, #e73859, #e64d5d, #e55e62, #e7856b, #e7a882, #e8c7a5, #ece2d0);
 padding: 60px;
+  background-color: #D90368;
+  -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
+  -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
+  animation-name: example;
+  animation-duration: 4s;
 }
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes example {
+  0%   {background-color: #F75C03;}
+  25%  {background-color: #7B1E7A;}
+  50%  {background-color: #011638;}
+  100% {background-color: #6C675F;}
+}
+
+/* Standard syntax */
+@keyframes example {
+  0%   {background-color: #F75C03;}
+  25%  {background-color: #7B1E7A;}
+  50%  {background-color: #011638;}
+  100% {background-color: #6C675F;}
+}
+
+
 
 .btn-primary-searchformbutton {
     color: white;
-    background-image: linear-gradient(to right top, #f76a19, #da4c2a, #b83130, #931c30, #6d0b2b, #6d1f2f, #6c2c34, #6b373a, #8c6057, #ac8b7a, #cbb7a4, #ede4d4);
-    -webkit-box-shadow: 5px 5px 15px 5px #000000;
-box-shadow: 5px 5px 15px 5px #000000;
--webkit-border-radius: 40%;
--moz-border-radius: 40%;
-border-radius: 40%;
-margin: 20px;
+    background-color:#011638;
+    margin: 25px;
 }
 
 input {
@@ -141,6 +158,7 @@ margin: 10px;
 }
 
 label {
+color: white;
 margin: 10px;
 }
 
