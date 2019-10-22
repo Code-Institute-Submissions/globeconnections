@@ -6,7 +6,7 @@ html, body {
 	font-family: 'Ubuntu', sans-serif;
 	margin: 0;
 	height: 100%;
-	background-color: #FBE8F1;
+	background-color: white;
 }
 img {
 	max-width: 100%;
@@ -106,10 +106,33 @@ img {
 /* navbar */
 
 .brandname {
+text-align: center;
     margin-top: 100px;
     margin-bottom: 20px;
-    text-align:center;
-    background-color:white;
+    background-color: none;
+    width: 500px;
+  height: 50px;
+  font-weight: bold;
+  position: relative;
+  -webkit-animation: mymove 3s infinite; /* Safari 4.0 - 8.0 */
+  animation: mymove 3s infinite;
+}
+
+/* Safari 4.0 - 8.0 */
+.brandname {-webkit-animation-timing-function: ease;}
+/* Standard syntax */
+.brandname {animation-timing-function: ease;}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes mymove {
+  from {right: 500px;}
+  to {right: 0px;}
+}
+
+/* Standard syntax */
+@keyframes mymove {
+  from {right: 500px;}
+  to {right: 0px;}
 }
 
 .searchform {
@@ -118,29 +141,28 @@ margin-top: 30px;
 margin-bottom: 30px;
 padding: 60px;
   background-color: #D90368;
-  -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
-  -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
+  -webkit-animation-name: example;
+  -webkit-animation-duration: 4s;
   animation-name: example;
   animation-duration: 4s;
+  animation-iteration-count: infinite;
 }
-
-/* Safari 4.0 - 8.0 */
 @-webkit-keyframes example {
-  0%   {background-color: #F75C03;}
+  0%   {background-color: #D90368;}
   25%  {background-color: #7B1E7A;}
   50%  {background-color: #011638;}
-  100% {background-color: #6C675F;}
+  100% {background-color: #F75C03;}
 }
-
-/* Standard syntax */
 @keyframes example {
-  0%   {background-color: #F75C03;}
+  0%   {background-color: #D90368;}
   25%  {background-color: #7B1E7A;}
   50%  {background-color: #011638;}
-  100% {background-color: #6C675F;}
+  100% {background-color: #F75C03;}
 }
 
-
+.searchformheading {
+color:white;
+}
 
 .btn-primary-searchformbutton {
     color: white;
