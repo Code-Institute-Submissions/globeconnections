@@ -18,27 +18,24 @@ img {
 }
 /* html and bodyof html */
 /* navbar */
-.navbar {
+.fixed-top {
 	font-size:1rem;
 	font-weight:bold;
-	color: white;
-    background-size: cover;
+	color: black;
     max-width: 100%;
-    margin-bottom:120px;
+	background-image: linear-gradient(to right top, #b784b6, #cf85af, #e288a4, #f18d96, #f99687, #f9a286, #f8af87, #f6bb8b, #f4c99f, #f2d7b5, #f2e3cc, #f4efe5);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color:white;
 }
 
 .navbar-nav {
     align-items: center;
     justify-content: center;
     text-align: center;
-    max-width: 100%
-}
-
-.bg-white {
-color:black;
-font-weight: bold;
-text-align: center;
-align-items:center;
+    max-width: 100%;
+    background-color: rgba(255,255,255,0.55);
 }
 
 .navbartogglericon {
@@ -113,6 +110,7 @@ align-items:center;
 /* navbar */
 
 .brandname {
+    margin-top: 100px;
     margin-bottom: 20px;
     text-align:center;
 }
@@ -127,6 +125,7 @@ background-image: linear-gradient(to right top, #f75c03, #f84a24, #f53838, #f026
 
 .btn-primary-searchformbutton {
     margin: 20px;
+    background-color:
 }
 
 .carouselExampleControlsoneheading {
