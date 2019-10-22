@@ -107,6 +107,19 @@ align-items:center;
     text-align:center;
 }
 
+.carouselExampleControlsoneheading {
+text-align: center;
+margin-top: 30px;
+margin-bottom: 30px;
+border: 10px solid #D90368;
+}
+
+.carouselExampleControlstwoheading {
+text-align: center;
+margin-top: 30px;
+margin-bottom: 30px;
+border: 10px solid #D90368;
+}
 
 /* socialmedia */
 .footer {
