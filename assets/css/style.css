@@ -18,22 +18,20 @@ img {
 	font-size:1rem;
 	font-weight:bold;
 	color: black;
-    max-width: 100%;
+	max-width: 100%;
 	background-image: linear-gradient(to right top, #ece2d0, #cdb3a4, #ac8583, #855c6a, #563956, #533157, #4f2859, #49205b, #831a63, #b90e5a, #e22b3f, #f75c03);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-color:white;
 }
-
 .navbar-nav {
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    max-width: 100%;
-    background-color: rgba(255,255,255,0.55);
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	max-width: 100%;
+	background-color: rgba(255,255,255,0.55);
 }
-
 .navbartogglericon {
 	color: black;
 	border-color:black;
@@ -51,153 +49,228 @@ img {
 .nav-item {
 	font: 1rem;
 	color: white;
-    margin-right:25px;
-    margin-left: 25px;
+	margin-right:25px;
+	margin-left: 25px;
 }
 .nav-item:hover {
 	background-color: white;
 	color: black;
 }
-
 .topnav .login-container {
-  float: right;
+	float: right;
 }
-
 .topnav input[type=text] {
-  padding: 6px;
-  margin-top: 8px;
-  font-size: 17px;
-  border: none;
-  width:120px;
+	padding: 6px;
+	margin-top: 8px;
+	font-size: 17px;
+	border: none;
+	width:120px;
 }
-
 .topnav .login-container button {
-  float: right;
-  padding: 6px 10px;
-  margin-top: 8px;
-  margin-right: 16px;
-  background-color: #d90368;
-  color: white;
-  font-size: 17px;
-  border: none;
-  cursor: pointer;
+	float: right;
+	padding: 6px 10px;
+	margin-top: 8px;
+	margin-right: 16px;
+	background-color: #d90368;
+	color: white;
+	font-size: 17px;
+	border: none;
+	cursor: pointer;
 }
-
 .topnav .login-container button:hover {
-  background-color: #E34791;
+	background-color: #E34791;
 }
-
 @media screen and (max-width: 600px) {
-  .topnav .login-container {
-    float: none;
-  }
-  .topnav a, .topnav input[type=text], .topnav .login-container button {
-    float: none;
-    display: block;
-    text-align: left;
-    width: 100%;
-    margin: 0;
-    padding: 14px;
-  }
-  .topnav input[type=text] {
-    border: 1px solid #ccc;
-  }
+	.topnav .login-container {
+		float: none;
+	}
+	.topnav a, .topnav input[type=text], .topnav .login-container button {
+		float: none;
+		display: block;
+		text-align: left;
+		width: 100%;
+		margin: 0;
+		padding: 14px;
+	}
+	.topnav input[type=text] {
+		border: 1px solid #ccc;
+	}
 }
 /* navbar */
-
 .brandname {
-text-align: center;
-    margin-top: 100px;
-    margin-bottom: 20px;
-    background-color: none;
-    width: 500px;
-  height: 50px;
-  font-weight: bold;
-  position: relative;
-  -webkit-animation: mymove 3s infinite; /* Safari 4.0 - 8.0 */
-  animation: mymove 3s infinite;
+	text-align: center;
+	margin-top: 100px;
+	margin-bottom: 20px;
+	background-color: none;
+	width: 500px;
+	height: 50px;
+	font-weight: bold;
+	position: relative;
+	-webkit-animation: mymove 3s infinite;
+	/* Safari 4.0 - 8.0 */
+	animation: mymove 3s infinite;
 }
-
 /* Safari 4.0 - 8.0 */
-.brandname {-webkit-animation-timing-function: ease;}
+.brandname {
+	-webkit-animation-timing-function: ease;
+}
 /* Standard syntax */
-.brandname {animation-timing-function: ease;}
-
+.brandname {
+	animation-timing-function: ease;
+}
 /* Safari 4.0 - 8.0 */
 @-webkit-keyframes mymove {
-  from {right: 500px;}
-  to {right: 0px;}
+	from {
+		right: 500px;
+	}
+	to {
+		right: 0px;
+	}
 }
-
 /* Standard syntax */
 @keyframes mymove {
-  from {right: 500px;}
-  to {right: 0px;}
+	from {
+		right: 500px;
+	}
+	to {
+		right: 0px;
+	}
 }
-
 .searchform {
-text-align: center;
-margin-top: 30px;
-margin-bottom: 30px;
-padding: 60px;
-  background-color: #D90368;
-  -webkit-animation-name: example;
-  -webkit-animation-duration: 4s;
-  animation-name: example;
-  animation-duration: 4s;
-  animation-iteration-count: infinite;
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	padding: 60px;
+	background-color: #D90368;
+	-webkit-animation-name: example;
+	-webkit-animation-duration: 4s;
+	animation-name: example;
+	animation-duration: 4s;
+	animation-iteration-count: infinite;
 }
 @-webkit-keyframes example {
-  0%   {background-color: #D90368;}
-  25%  {background-color: #7B1E7A;}
-  50%  {background-color: #011638;}
-  100% {background-color: #F75C03;}
+	0% {
+		background-color: #D90368;
+	}
+	25% {
+		background-color: #7B1E7A;
+	}
+	50% {
+		background-color: #011638;
+	}
+	100% {
+		background-color: #F75C03;
+	}
 }
 @keyframes example {
-  0%   {background-color: #D90368;}
-  25%  {background-color: #7B1E7A;}
-  50%  {background-color: #011638;}
-  100% {background-color: #F75C03;}
+	0% {
+		background-color: #D90368;
+	}
+	25% {
+		background-color: #7B1E7A;
+	}
+	50% {
+		background-color: #011638;
+	}
+	100% {
+		background-color: #F75C03;
+	}
 }
-
 .searchformheading {
-color:white;
+	color:white;
 }
-
 .btn-primary-searchformbutton {
-    color: white;
-    background-color:#011638;
-    margin: 25px;
+	color: white;
+	background-color:#011638;
+	margin: 25px;
 }
-
 input {
-margin: 10px;
+	margin: 10px;
 }
-
 label {
-color: white;
-margin: 10px;
+	color: white;
+	margin: 10px;
 }
-
 .carouselExampleControlsoneheading {
-text-align: center;
-margin-top: 30px;
-margin-bottom: 30px;
-background-color:white;
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	background-color:white;
 }
-
 .carouselExampleControlstwoheading {
-text-align: center;
-margin-top: 30px;
-margin-bottom: 30px;
-background-color:white;
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	background-color:white;
 }
-
 .carousel-caption {
-font-size: 50px;
-color: #3C011D;
+	font-size: 50px;
+	color: #3C011D;
 }
-
+.carousel-control-prev-icon,.carousel-control-next-icon {
+	height: 100px;
+	width: 100px;
+	color: white;
+}
+.populardestinationstitle {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	height: 100px;
+	background-image: url(https://image.freepik.com/free-photo/beautiful-beach-sea_74190-6620.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color:#2F405C;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	font-size: 40px;
+}
+.newyorkus {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/NEWYORK,US.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin: 0 auto;
+}
+.bangkokthailand {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/BANGKOK,THAILAND.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin: 0 auto;
+}
+.mexicocitymexico {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/MEXICOCITY,MEXICO.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin: 0 auto;
+}
 /* socialmedia */
 .footer {
 	max-width:100%;
@@ -216,7 +289,7 @@ color: #3C011D;
 	margin:auto;
 	font-size: 1rem;
 	color: #D90368;
-    text-align: center;
+	text-align: center;
 	align-items: center;
 	justify-content: center;
 }
@@ -224,7 +297,7 @@ color: #3C011D;
 	margin:0 auto;
 	color: #D90368;
 	text-decoration:none;
-    text-align: center;
+	text-align: center;
 	align-items: center;
 	justify-content: center;
 }
@@ -236,8 +309,8 @@ color: #3C011D;
 .footer-copyright {
 	margin:0 auto;
 	font-size:1rem;
-    color: #D90368;
-    text-align: center;
+	color: #D90368;
+	text-align: center;
 	align-items: center;
 	justify-content: center;
 }
@@ -250,7 +323,7 @@ color: #3C011D;
 	width: 8rem;
 	border-color: #F75C03;
 	border-width: 5px;
-color: #F75C03;
+	color: #F75C03;
 	border-radius: 30px;
 	text-align: center;
 	align-items: center;
@@ -264,22 +337,20 @@ color: #F75C03;
 .mb-1 {
 	font-size: 1rem;
 	margin:0 auto;
-    text-align: center;
+	text-align: center;
 	align-items: center;
 	justify-content: center;
 }
 .mb-1:hover {
 	opacity:0.9;
 }
-
 .py-5 {
-    text-align: center;
+	text-align: center;
 	align-items: center;
 	justify-content: center;
 }
-
 .mb-5 {
-    text-align: center;
+	text-align: center;
 	align-items: center;
 	justify-content: center;
 }
