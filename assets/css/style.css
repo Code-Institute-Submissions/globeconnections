@@ -19,6 +19,8 @@ img {
 	font-weight:bold;
 	color: black;
 	max-width: 100%;
+	background-image: -webkit-gradient(linear, left bottom, right top, from(#ece2d0), color-stop(#cdb3a4), color-stop(#ac8583), color-stop(#855c6a), color-stop(#563956), color-stop(#533157), color-stop(#4f2859), color-stop(#49205b), color-stop(#831a63), color-stop(#b90e5a), color-stop(#e22b3f), to(#f75c03));
+	background-image: -o-linear-gradient(left bottom, #ece2d0, #cdb3a4, #ac8583, #855c6a, #563956, #533157, #4f2859, #49205b, #831a63, #b90e5a, #e22b3f, #f75c03);
 	background-image: linear-gradient(to right top, #ece2d0, #cdb3a4, #ac8583, #855c6a, #563956, #533157, #4f2859, #49205b, #831a63, #b90e5a, #e22b3f, #f75c03);
 	background-position: center;
 	background-repeat: no-repeat;
@@ -26,8 +28,12 @@ img {
 	background-color:white;
 }
 .navbar-nav {
-	align-items: center;
-	justify-content: center;
+	-webkit-box-align: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
 	text-align: center;
 	max-width: 100%;
 	background-color: rgba(255,255,255,0.55);
@@ -116,7 +122,8 @@ img {
 }
 /* Standard syntax */
 .brandname {
-	animation-timing-function: ease;
+	-webkit-animation-timing-function: ease;
+	        animation-timing-function: ease;
 }
 /* Safari 4.0 - 8.0 */
 @-webkit-keyframes mymove {
@@ -146,7 +153,8 @@ img {
 	-webkit-animation-duration: 4s;
 	animation-name: example;
 	animation-duration: 4s;
-	animation-iteration-count: infinite;
+	-webkit-animation-iteration-count: infinite;
+	        animation-iteration-count: infinite;
 }
 @-webkit-keyframes example {
 	0% {
@@ -228,8 +236,12 @@ margin-bottom: 160px;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-color:#2F405C;
-	align-items: center;
-	justify-content: center;
+	-webkit-box-align: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
 	text-align: center;
 	font-size: 40px;
 }
@@ -281,14 +293,18 @@ margin-bottom: 160px;
 .common {
 height: 400px;
 	width: 500px;
+    background-size:cover;
     background-position: center;
 	background-repeat: no-repeat;
-	background-size: cover;
 	background-color: white;
 	font-size: 40px;
 	color: white;
-	align-items: center;
-	justify-content: center;
+	-webkit-box-align: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
 	text-align: center;
 	margin-right: 20px;
     margin-left: 20px;
@@ -301,8 +317,12 @@ height: 400px;
 .populardestinationsfive {
 margin-top: 20px;
 margin-bottom: 20px;
-align-items: center;
-	justify-content: center;
+-webkit-box-align: center;
+    -ms-flex-align: center;
+        align-items: center;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
 	text-align: center;
 }
 /* popular destinations */
@@ -310,10 +330,16 @@ align-items: center;
 .packagedealsheading {
 height: 100px;
 max-width: 100%;
+background-image: -webkit-gradient(linear, left bottom, right top, from(#7b1e7a), color-stop(#602273), color-stop(#472368), color-stop(#2f215c), color-stop(#191d4d), color-stop(#211e51), color-stop(#292055), color-stop(#312158), color-stop(#5a2369), color-stop(#851f72), color-stop(#b11271), to(#d90368));
+background-image: -o-linear-gradient(left bottom, #7b1e7a, #602273, #472368, #2f215c, #191d4d, #211e51, #292055, #312158, #5a2369, #851f72, #b11271, #d90368);
 background-image: linear-gradient(to right top, #7b1e7a, #602273, #472368, #2f215c, #191d4d, #211e51, #292055, #312158, #5a2369, #851f72, #b11271, #d90368);
 	color: white;
-	align-items: center;
-	justify-content: center;
+	-webkit-box-align: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
 	text-align: center;
     font-size: 40px;
 	margin: 20px;
@@ -346,8 +372,12 @@ background-image: linear-gradient(to right top, #7b1e7a, #602273, #472368, #2f21
 	background-color: white;
 	font-size: 40px;
 	color: black;
-	align-items: center;
-	justify-content: center;
+	-webkit-box-align: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
 	text-align: center;
 	margin: 20px;
 }
@@ -355,10 +385,16 @@ background-image: linear-gradient(to right top, #7b1e7a, #602273, #472368, #2f21
 .otherinformationhomepageheading {
 height: 100px;
 max-width: 100%;
+background-image: -webkit-gradient(linear, left bottom, right top, from(#ece2d0), color-stop(#ebcfa5), color-stop(#edba7c), color-stop(#efa257), color-stop(#f28834), color-stop(#f4752d), color-stop(#f65f2b), color-stop(#f7442c), color-stop(#f4323e), color-stop(#ee204d), color-stop(#e50e5b), to(#d90368));
+background-image: -o-linear-gradient(left bottom, #ece2d0, #ebcfa5, #edba7c, #efa257, #f28834, #f4752d, #f65f2b, #f7442c, #f4323e, #ee204d, #e50e5b, #d90368);
 background-image: linear-gradient(to right top, #ece2d0, #ebcfa5, #edba7c, #efa257, #f28834, #f4752d, #f65f2b, #f7442c, #f4323e, #ee204d, #e50e5b, #d90368);
 	color: BLACK;
-	align-items: center;
-	justify-content: center;
+	-webkit-box-align: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
 	text-align: center;
     font-size: 40px;
 	margin: 20px;
@@ -385,8 +421,12 @@ width: 900px;
 	background-color: white;
 	font-size: 40px;
 	color: white;
-	align-items: center;
-	justify-content: center;
+	-webkit-box-align: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
 	text-align: center;
 	margin: 20px;
 }
