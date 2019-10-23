@@ -217,6 +217,8 @@ margin-bottom: 160px;
 	vertical-align: middle;
 }
 
+ /* popular destinations */
+
 .populardestinationstitle {
 	margin-top: 20px;
 	margin-bottom: 20px;
@@ -231,268 +233,73 @@ margin-bottom: 160px;
 	text-align: center;
 	font-size: 40px;
 }
-.newyorkus {
-	height: 400px;
-	width: 500px;
-	background-image: url(../images/NEWYORK,US.jpg);
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-color: white;
-	font-size: 40px;
-	color: white;
-	align-items: center;
-	justify-content: center;
-	text-align: center;
-	margin: 0 auto;
+#newyorkus {
+    background-image: url(../images/new-york-city-new-york.jpg);
 }
-.bangkokthailand {
-	height: 400px;
-	width: 500px;
-	background-image: url(../images/BANGKOK,THAILAND.jpg);
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-color: white;
-	font-size: 40px;
-	color: white;
-	align-items: center;
-	justify-content: center;
-	text-align: center;
-	margin: 0 auto;
+#bangkokthailand {
+    background-image: url(../images/bangkok-thailand.jpg);
 }
-.mexicocitymexico {
-	height: 400px;
-	width: 500px;
-	background-image: url(../images/MEXICOCITY,MEXICO.jpg);
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-color: white;
-	font-size: 40px;
-	color: white;
-	align-items: center;
-	justify-content: center;
-	text-align: center;
-	margin: 0 auto;
+#mexicocitymexico {
+    background-image: url(../images/mexico-city-mexico.jpg);
 }
-
-.cairoegypt {
-	height: 400px;
-	width: 500px;
-	background-image: url(../images/CAIRO,EGYPT.jpg);
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-color: white;
-	font-size: 40px;
-	color: white;
-	align-items: center;
-	justify-content: center;
-	text-align: center;
-	margin: 0 auto;
+#cairoegypt {
+	background-image: url(../images/cairo-egypt.jpg);
+}
+#mumbaiindia{
+	background-image: url(../images/mumbai-india.jpg);
+}
+#berlingermany{
+	background-image: url(../images/berlin-germany.jpg);
+}
+#malemaldives{
+	background-image: url(../images/male-maldives.jpg);
+}
+#columbosrilanka{
+	background-image: url(../images/colombo-sri-lanka.jpg);
+}
+#tenerifespain{
+	background-image: url(../images/tenerife-spain.jpg);
+}
+#veniceitaly{
+	background-image: url(../images/venice-italy.jpg);
+}
+#mombasakenya{
+	background-image: url(../images/mombasa-kenya.jpg);
+}
+#parisfrance{
+	background-image: url(../images/paris-france.jpg);
+}
+#shanghaichina{
+	background-image: url(../images/shanghai-china.jpg);
+}
+#dubaiunitedarabemirates{
+	background-image: url(../images/dubai-united-arab-emirates.jpg);
+}
+#amsterdamnetherlands{
+	background-image: url(../images/amsterdam-netherlands.jpg);
+}
+.common {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+    font-size: 40px;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 20px;
 }
 
-.mumbaiindia{
-	height: 400px;
-	width: 500px;
-	background-image: url(../images/MUMBAI,INDIA.jpg);
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-color: white;
-	font-size: 40px;
-	color: white;
-	align-items: center;
-	justify-content: center;
-	text-align: center;
-	margin: 0 auto;
-}
-
-.berlingermany{
-	height: 400px;
-	width: 500px;
-	background-image: url(../images/BERLIN,GERMANY.jpg);
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-color: white;
-	font-size: 40px;
-	color: white;
-	align-items: center;
-	justify-content: center;
-	text-align: center;
-	margin: 0 auto;
-}
-
-.malemaldives{
-	height: 400px;
-	width: 500px;
-	background-image: url(../images/MALE.jpg);
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-color: white;
-	font-size: 40px;
-	color: white;
-	align-items: center;
-	justify-content: center;
-	text-align: center;
-	margin: 0 auto;
-}
-
-.columbosrilanka{
-	height: 400px;
-	width: 500px;
-	background-image: url(../images/COLOMBO.jpg);
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-color: white;
-	font-size: 40px;
-	color: white;
-	align-items: center;
-	justify-content: center;
-	text-align: center;
-	margin: 0 auto;
-}
-
-.tenerifespain{
-	height: 400px;
-	width: 500px;
-	background-image: url(../images/Tenerife-beautiful-landscape-1800x1200.jpg);
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-color: white;
-	font-size: 40px;
-	color: white;
-	align-items: center;
-	justify-content: center;
-	text-align: center;
-	margin: 0 auto;
-}
-
-.veniceitaly{
-	height: 400px;
-	width: 500px;
-	background-image: url(../images/VENICE.jpg);
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-color: white;
-	font-size: 40px;
-	color: white;
-	align-items: center;
-	justify-content: center;
-	text-align: center;
-	margin: 0 auto;
-}
-
-.mombasakenya{
-	height: 400px;
-	width: 500px;
-	background-image: url(../images/MOMBASA.jpg);
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-color: white;
-	font-size: 40px;
-	color: white;
-	align-items: center;
-	justify-content: center;
-	text-align: center;
-	margin: 0 auto;
-}
-
-.parisfrance{
-	height: 400px;
-	width: 500px;
-	background-image: url(../images/PARIS.jpg);
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-color: white;
-	font-size: 40px;
-	color: white;
-	align-items: center;
-	justify-content: center;
-	text-align: center;
-	margin: 0 auto;
-}
-
-.shanghaichina{
-	height: 400px;
-	width: 500px;
-	background-image: url(../images/SHANGHAI.jpg);
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-color: white;
-	font-size: 40px;
-	color: white;
-	align-items: center;
-	justify-content: center;
-	text-align: center;
-	margin: 0 auto;
-}
-
-.dubaiunitedarabemirates{
-	height: 400px;
-	width: 500px;
-	background-image: url(../images/DUBAI.jpg);
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-color: white;
-	font-size: 40px;
-	color: white;
-	align-items: center;
-	justify-content: center;
-	text-align: center;
-	margin: 0 auto;
-}
-
-.amsterdamnetherlands{
-	height: 400px;
-	width: 500px;
-	background-image: url(../images/AMSTERDAM,NETHERLANDS.jpg);
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-color: white;
-	font-size: 40px;
-	color: white;
-	align-items: center;
-	justify-content: center;
-	text-align: center;
-	margin: 0 auto;
-}
-
-.populardestinationsone {
-margin-top: 20px;
-margin-bottom: 20px;
-}
-
-.populardestinationstwo {
-margin-top: 20px;
-margin-bottom: 20px;
-}
-
-.populardestinationsthree {
-margin-top: 20px;
-margin-bottom: 20px;
-}
-
-.populardestinationsfour {
-margin-top: 20px;
-margin-bottom: 20px;
-}
-
+.populardestinationsone,
+.populardestinationstwo,
+.populardestinationsthree,
+.populardestinationsfour,
 .populardestinationsfive {
 margin-top: 20px;
 margin-bottom: 20px;
 }
+/* popular destinations */
 
 .packagedealsheading {
 height: 100px;
@@ -503,110 +310,40 @@ background-image: linear-gradient(to right top, #7b1e7a, #602273, #472368, #2f21
 	justify-content: center;
 	text-align: center;
     font-size: 40px;
-	margin-top: 20px;
-margin-bottom: 20px;
+	margin: 20px;
 }
 
-.packagedeals1 {
-height: 500px;
-width: 600px;
-background-image: url(../images/packagedeals1.jpg);
+#packagedeals1 {
+	background-image: url(../images/package-deals-1.jpg);
+}
+#packagedeals2 {
+	background-image: url(../images/package-deals-2.jpg);
+}
+#packagedeals3 {
+	background-image: url(../images/package-deals-3.jpg);
+}
+#packagedeals4 {
+	background-image: url(../images/package-deals-4.jpg);
+}
+#packagedeals5 {
+	background-image: url(../images/package-deals-5.jpg);
+}
+#packagedeals6 {
+	background-image: url(../images/package-deals-6.jpg);
+}
+.common {
+	height: 500px;
+	width: 600px;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-color: white;
 	font-size: 40px;
-	color: white;
+	color: black;
 	align-items: center;
 	justify-content: center;
 	text-align: center;
-	margin-top: 20px;
-margin-bottom: 20px;
-}
-
-.packagedeals2 {
-height: 500px;
-width: 600px;
-background-image: url(../images/packagedeals2.jpg);
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-color: white;
-	font-size: 40px;
-	color: white;
-	align-items: center;
-	justify-content: center;
-	text-align: center;
-	margin-top: 20px;
-margin-bottom: 20px;
-}
-
-.packagedeals3 {
-height: 500px;
-width: 600px;
-background-image: url(../images/packagedeals3.jpg);
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-color: white;
-	font-size: 40px;
-	color: white;
-	align-items: center;
-	justify-content: center;
-	text-align: center;
-	margin-top: 20px;
-margin-bottom: 20px;
-}
-
-.packagedeals4 {
-height: 500px;
-width: 600px;
-background-image: url(../images/packagedeals4.jpg);
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-color: white;
-	font-size: 40px;
-	color: white;
-	align-items: center;
-	justify-content: center;
-	text-align: center;
-	margin-top: 20px;
-margin-bottom: 20px;
-}
-
-.packagedeals5 {
-height: 500px;
-width: 600px;
-background-image: url(../images/packagedeals5.jpg);
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-color: white;
-	font-size: 40px;
-	color: white;
-	align-items: center;
-	justify-content: center;
-	text-align: center;
-	margin-top: 20px;
-margin-bottom: 20px;
-}
-
-.packagedeals6 {
-height: 500px;
-width: 600px;
-background-image: url(../images/packagedeals6.jpg);
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-color: white;
-	font-size: 40px;
-	color: white;
-	align-items: center;
-	justify-content: center;
-	text-align: center;
-	margin-top: 20px;
-margin-bottom: 20px;
+	margin: 20px;
 }
 
 .otherinformationhomepageheading {
@@ -618,14 +355,24 @@ background-image: linear-gradient(to right top, #ece2d0, #ebcfa5, #edba7c, #efa2
 	justify-content: center;
 	text-align: center;
     font-size: 40px;
-	margin-top: 20px;
-margin-bottom: 20px;
+	margin: 20px;
 }
 
-.otherinfo1 {
+#otherinfo1 {
+background-image: url(../images/other-info-1.jpg);
+}
+#otherinfo2 {
+background-image: url(../images/other-info-2.jpg);
+}
+#otherinfo3 {
+background-image: url(../images/other-info-3.jpg);
+}
+#otherinfo4 {
+background-image: url(../images/other-info-4.jpg);
+}
+.common {
 height: 700px;
 width: 900px;
-background-image: url(../images/otherinfo1.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -635,59 +382,7 @@ background-image: url(../images/otherinfo1.jpg);
 	align-items: center;
 	justify-content: center;
 	text-align: center;
-	margin-top: 20px;
-margin-bottom: 20px;
-}
-
-.otherinfo2 {
-height: 700px;
-width: 900px;
-background-image: url(../images/otherinfo2.jpg);
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-color: white;
-	font-size: 40px;
-	color: white;
-	align-items: center;
-	justify-content: center;
-	text-align: center;
-	margin-top: 20px;
-margin-bottom: 20px;
-}
-
-.otherinfo3 {
-height: 700px;
-width: 900px;
-background-image: url(../images/otherinfo3.jpg);
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-color: white;
-	font-size: 40px;
-	color: white;
-	align-items: center;
-	justify-content: center;
-	text-align: center;
-	margin-top: 20px;
-margin-bottom: 20px;
-}
-
-.otherinfo4 {
-height: 700px;
-width: 900px;
-background-image: url(../images/otherinfo4.jpg);
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-color: white;
-	font-size: 40px;
-	color: white;
-	align-items: center;
-	justify-content: center;
-	text-align: center;
-	margin-top: 20px;
-margin-bottom: 20px;
+	margin: 20px;
 }
 
 .alldestinationsinnorthamericaheading {
