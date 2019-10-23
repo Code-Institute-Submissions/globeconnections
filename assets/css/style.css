@@ -279,16 +279,19 @@ margin-bottom: 160px;
 	background-image: url(../images/amsterdam-netherlands.jpg);
 }
 .common {
+height: 400px;
+	width: 500px;
     background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-color: white;
-    font-size: 40px;
-    color: white;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    margin: 20px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-right: 20px;
+    margin-left: 20px;
 }
 
 .populardestinationsone,
@@ -298,6 +301,9 @@ margin-bottom: 160px;
 .populardestinationsfive {
 margin-top: 20px;
 margin-bottom: 20px;
+align-items: center;
+	justify-content: center;
+	text-align: center;
 }
 /* popular destinations */
 
