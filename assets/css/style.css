@@ -703,6 +703,844 @@ background-image: url(../images/otherinfo4.jpg);
 margin-bottom: 20px;
 }
 
+.alldestinationsinnorthamericaheading {
+height: 140px;
+max-width: 100%;
+background-image: linear-gradient(to right top, #dc1975, #e7536c, #eb7c6e, #eaa07f, #e9bf9d, #e6bc9e, #e3ba9e, #dfb79f, #d69285, #c86d7b, #b04b7d, #873286);
+	color: BLACK;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+    font-size: 40px;
+	margin-top: 120px;
+margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica1 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/NEWYORK,US.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica2 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/bridgetown.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica3 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/ottawa,CANADA.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica4 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/guatemala.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica5 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/Kingston,Jamaica.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica6 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/MEXICOCITY,MEXICO.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica7 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/panama-city.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica8 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/grenadines.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica9 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/portofspain.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica10 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/buenosaires.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica11 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/sucre.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica12 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/Brasília,Brazil.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica13 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/portofspain.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+.alldestinationsinnorthamerica14 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/portofspain.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica15 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/portofspain.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica16 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/portofspain.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica17 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/portofspain.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica18 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/portofspain.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica19 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/portofspain.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica20 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/portofspain.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica21 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/portofspain.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica22 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/portofspain.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica23 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/portofspain.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica24 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/portofspain.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica25 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/portofspain.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica26 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/portofspain.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica27 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/portofspain.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica27 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/portofspain.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica28 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/portofspain.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica29 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/portofspain.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica30 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/portofspain.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica31 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/portofspain.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica32 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/portofspain.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica33 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/portofspain.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica34 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/portofspain.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica35 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/portofspain.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica36 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/portofspain.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica37 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/portofspain.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica38 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/portofspain.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica39 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/portofspain.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica40 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/portofspain.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica41 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/portofspain.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica42 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/portofspain.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica43 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/portofspain.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica44 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/portofspain.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alldestinationsinnorthamerica45 {
+	height: 400px;
+	width: 500px;
+	background-image: url(../images/portofspain.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+	font-size: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* socialmedia */
 .footer {
