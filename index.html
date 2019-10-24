@@ -51,45 +51,46 @@
   <h1>GLOBECONNECTIONS</h1>
 </div>
 
-<div class="container searchform">
-<div class="container searchformheading">
-  <h4>FIND THE BEST DEALS WITH US:</h4>
+
+
+<div class="container searchformhomepage">
+<form>
+<div class="form-row">
+    <div class="col-sm-6">
+      <div class="custom-control custom-radio">
+  <input type="radio" id="customRadio1" name="customRadio" class="custom-control-input">
+  <label class="custom-control-label" for="customRadio1">One Way Trip</label>
 </div>
-<div class="custom-control custom-radio custom-control-inline">
-  <input type="radio" id="customRadioInline1" name="customRadioInline1" class="custom-control-input">
-  <label class="custom-control-label" for="customRadioInline1">Round Trip</label>
+    </div>
+    <div class="col-sm-6">
+      <div class="custom-control custom-radio">
+  <input type="radio" id="customRadio2" name="customRadio" class="custom-control-input">
+  <label class="custom-control-label" for="customRadio2">Round Trip</label>
 </div>
-<div class="custom-control custom-radio custom-control-inline">
-  <input type="radio" id="customRadioInline2" name="customRadioInline1" class="custom-control-input">
-  <label class="custom-control-label" for="customRadioInline2">One way</label>
-<div class="container">
-  <div class="row">
-    <div class="col-sm-6">
-      <label for="inputPassword5">From</label>
-<input type="text" class="form-control" id="validationTooltip01" placeholder="First name" value="Enter a destination" required>
-    </div>
-    <div class="col-sm-6">
-      <label for="inputPassword5">To</label>
-<input type="text" class="form-control" id="validationTooltip01" placeholder="First name" value="Enter a destination" required>
     </div>
   </div>
-  </div>
-</div>
-<div class="container">
-  <div class="row">
+  <div class="form-row">
     <div class="col-sm-6">
-      <label for="inputPassword5">Outbound Flight</label>
-<input type="text" class="form-control" id="validationTooltip01" placeholder="First name" value="Select a date" required>
+    <label for="validationTooltip01">Travelling From</label>
+      <input type="text" class="form-control" placeholder="Enter a destination">
     </div>
     <div class="col-sm-6">
-      <label for="inputPassword5">Inbound Flight</label>
-<input type="text" class="form-control" id="validationTooltip01" placeholder="First name" value="Select a date" required>
+    <label for="validationTooltip01">Travelling To</label>
+      <input type="text" class="form-control" placeholder="Enter a destination">
     </div>
   </div>
+  <div class="form-row">
+    <div class="col-sm-6">
+    <label for="validationTooltip01">Outbound Flight</label>
+      <input type="text" class="form-control" placeholder="Enter a date">
+    </div>
+    <div class="col-sm-6">
+    <label for="validationTooltip01">Inbound Flight</label>
+      <input type="text" class="form-control" placeholder="Enter a date">
+    </div>
   </div>
-  <div class="container">
-  <div class="row">
-    <div class="col-sm-4">
+  <div class="form-row">
+    <div class="col-md-4 mb-3">
       <label for="validationTooltip01">Adults</label>
       <select class="custom-select">
   <option selected>Open this select menu</option>
@@ -98,7 +99,7 @@
   <option value="3">Three</option>
 </select>
     </div>
-    <div class="col-sm-4">
+    <div class="col-md-4 mb-3">
       <label for="validationTooltip01">Children</label>
       <select class="custom-select">
   <option selected>Open this select menu</option>
@@ -107,7 +108,7 @@
   <option value="3">Three</option>
 </select>
     </div>
-    <div class="col-sm-4">
+    <div class="col-md-4 mb-3">
       <label for="validationTooltip01">Infants</label>
       <select class="custom-select">
   <option selected>Open this select menu</option>
@@ -116,12 +117,10 @@
   <option value="3">Three</option>
 </select>
     </div>
-  </div>
-  </div>
-  <div class="container">
-  <div class="row">
+    </div>
+    <div class="form-row">
     <div class="col-sm-6">
-    <label for="validationTooltip01">Class</label>
+    <label for="validationTooltip01">Outbound Flight</label>
       <select class="custom-select">
   <option selected>Open this select menu</option>
   <option value="1">One</option>
@@ -130,7 +129,7 @@
 </select>
     </div>
     <div class="col-sm-6">
-      <label for="validationTooltip01">Airline</label>
+    <label for="validationTooltip01">Inbound Flight</label>
       <select class="custom-select">
   <option selected>Open this select menu</option>
   <option value="1">One</option>
@@ -139,9 +138,11 @@
 </select>
     </div>
   </div>
-  </div>
-  <button class="btn btn-primary-searchformbutton" type="submit">SEARCH</button>
+  <button type="button" class="btn btn-primary-searchformbutton">SEARCH</button>
+</form>
 </div>
+
+
 
 <div class="container carouselExampleControlsoneheading">
   <h2>LATEST DEALS BY DESTINATION</h2>

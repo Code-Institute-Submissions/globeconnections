@@ -143,11 +143,13 @@ img {
 		right: 0px;
 	}
 }
-.searchform {
+.searchformhomepage {
+    padding: 40px;
 	text-align: center;
+    justify-content: center;
+    align-items: center;
 	margin-top: 30px;
 	margin-bottom: 30px;
-	padding: 60px;
 	background-color: #D90368;
 	-webkit-animation-name: example;
 	-webkit-animation-duration: 4s;
