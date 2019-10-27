@@ -220,15 +220,13 @@ label {
     align-items: center;
 	margin: 0 auto;
 }
-.lead-carouselExampleControlsoneheading {
-	text-align: center;
-    justify-content: center;
-    align-self: center;
-	background-color:white;
-    margin-top: 10px;
-    margin-bottom: 10px;
+
+.carouselExampleControlsoneheadingcontainer {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
+    border-radius: 20px;
 }
 
+.lead-carouselExampleControlsoneheading,
 .lead-carouselExampleControlstwoheading {
 text-align: center;
     justify-content: center;
@@ -236,17 +234,22 @@ text-align: center;
 	background-color:white;
     margin-top: 150px;
     margin-bottom: 10px;
+    border-radius: 20px;
 }
 
+.carouselcontainer {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
+    border-radius: 20px;
+    height: 800px;
+}
 #carouselExampleControlsone,
 #carouselExampleControlstwo {
-height: 600px;
+height: 800px;
 text-align: center;
     justify-content: center;
     align-items: center;
     margin-top: 50px;
     margin-bottom: 50px;
-    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
 }
 
 .carousel-caption {
