@@ -27,6 +27,7 @@ img {
 	background-size: cover;
 	background-color:white;
     opacity: 0.8;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
 }
 .navbar-nav {
 	-webkit-box-align: center;
@@ -38,6 +39,7 @@ img {
 	text-align: center;
 	max-width: 100%;
 	background-color: rgba(255,255,255,0.55);
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
 }
 .navbartogglericon {
 	color: rgba(0,0,0,0.99);
@@ -58,6 +60,7 @@ img {
 	color: white;
 	margin-right:25px;
 	margin-left: 25px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
 }
 .nav-item:hover {
 	background-color: white;
@@ -243,6 +246,9 @@ text-align: center;
 }
 
 .carouselcontainer {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
     border-radius: 20px;
     height: 800px;
@@ -303,6 +309,19 @@ margin-top: 20px;
 margin-bottom: 20px;
 	text-align: center;
 }
+
+.popular-destinations-image-overlay-card,
+.card-title {
+font-size: 2rem;
+	color: rgba(255,255,255,1.0);
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color:rgba(1,22,56,0.7);
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
+}
+
 /* popular destinations */
 
 
