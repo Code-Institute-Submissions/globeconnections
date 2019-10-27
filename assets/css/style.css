@@ -25,8 +25,7 @@ img {
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-color:white;
-    opacity: 0.8;
+	background-color: rgba(255,255,255,0.8);
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
 }
 .navbar-nav {
@@ -39,8 +38,14 @@ img {
 	text-align: center;
 	max-width: 100%;
 	background-color: rgba(255,255,255,0.55);
-    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
 }
+.navbar-brand {
+    background-color: white;
+}
+.navbar-brand:hover {
+border: 5px solid #F87930;
+}
+
 .navbartogglericon {
 	color: rgba(0,0,0,0.99);
 	border-color:rgba(0,0,0,0.99);
@@ -60,7 +65,6 @@ img {
 	color: white;
 	margin-right:25px;
 	margin-left: 25px;
-    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
 }
 .nav-item:hover {
 	background-color: white;
@@ -196,6 +200,9 @@ img {
 		background-color: #F75C03;
 	}
 }
+.searchformhomepage:hover {
+opacity:0.9;
+}
 .searchformheading {
 	color:white;
     text-align: center;
@@ -249,6 +256,9 @@ text-align: center;
     height: 800px;
     background-image: linear-gradient(to right top, #f87930, #e35741, #c63a4c, #a22551, #7a1950, #7b2750, #7c3251, #7c3c53, #9d6365, #b98c7f, #d2b7a3, #ece2d0);
 color: white;
+}
+.carouselcontainer:hover {
+opacity: 0.9;
 }
 #carouselExampleControlsone,
 #carouselExampleControlstwo {
@@ -319,7 +329,14 @@ font-size: 2rem;
   transition: transform 0.5s;
 }
 
-.card-title-popular-destinations:hover { transform: scale(0.75); }
+.card-title-popular-destinations:hover {
+    transform: scale(0.75);
+    opacity: 0.7;
+    }
+
+.popular-destinations-image-overlay-card:hover {
+    opacity: 0.7;
+}
 
 /* popular destinations */
 
@@ -335,7 +352,10 @@ outline-offset: 0px;
   transition: transform 0.5s;
 }
 
-.card-title-package-deals:hover { transform: scale(0.75); }
+.card-title-package-deals:hover {
+    transform: scale(0.75);
+    opacity: 0.9;
+}
 
 .bg-light-package-deals {
     margin-top: 20px;
@@ -348,10 +368,30 @@ outline-offset: -10px;
 border: 5px solid #F75C03;
 }
 
+.bg-white-useful-information,
+.card-title-useful-information {
+    font-size: 2rem;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(236,226,208,0.7);
+    color: #D90368;
+transition: transform 0.5s;
+border: 5px solid rgba(248,244,237,0.97);
+}
 
+.card-title-useful-information:hover {
+    transform: scale(0.75);
+opacity: 0.9;
+}
 
-
-
+.useful-information-home-page {
+    background-image: linear-gradient(to right top, #dc1975, #b52981, #8a3483, #60377b, #3b356a, #353467, #2f3363, #2a325f, #3d356d, #543779, #6d3681, #873286);
+}
+.useful-information-home-page:hover {
+opacity: 0.9;
+}
 
 
 
