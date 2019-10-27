@@ -321,17 +321,32 @@ font-size: 2rem;
 
 .card-title-popular-destinations:hover { transform: scale(0.75); }
 
-.card {
+/* popular destinations */
+
+.card-title-package-deals {
+   font-size: 2rem;
+	color: rgba(255,255,255,1.0);
+    margin: 0;
     text-align: center;
     justify-content: center;
     align-items: center;
-    margin: 0 auto;
+    background-color: rgba(247,92,3,0.6);outline: 5px solid rgba(247,92,3,1.0);
+outline-offset: 0px;
+  transition: transform 0.5s;
 }
 
-/* popular destinations */
+.card-title-package-deals:hover { transform: scale(0.75); }
 
-
-
+.bg-light-package-deals {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    outline: 2px solid #F75C03;
+outline-offset: -10px;
+border: 5px solid #F75C03;
+}
 
 
 
