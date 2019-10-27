@@ -282,13 +282,14 @@ text-align: center;
 
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
-	height: 9.375rem;
-	width: 9.375rem;
+	background-color: #D90368;
+    color: #D90368;
 	 margin: 0 auto;
      text-align: center;
     justify-content: center;
     align-items: center;
-    border-radius: 30%
+    border-radius: 30%;
+    border-color:#D90368;
 }
 
  /* popular destinations */
