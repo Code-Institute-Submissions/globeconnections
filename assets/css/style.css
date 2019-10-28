@@ -134,8 +134,7 @@ img {
 	-webkit-animation: mymove 3s infinite;
 	/* Safari 4.0 - 8.0 */
 	animation: mymove 3s infinite;
-	-webkit-box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
-	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
+	box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
 	font-size: 2rem;
 }
 /* Safari 4.0 - 8.0 */
@@ -236,6 +235,7 @@ img {
 	-webkit-box-align: center;
 	-ms-flex-align: center;
 	align-items: center;
+    box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
 }
 input {
 	margin: 0 auto;
@@ -358,6 +358,7 @@ label {
 	background-image: -webkit-gradient(linear, left bottom, right top, from(#f87930), color-stop(#e35741), color-stop(#c63a4c), color-stop(#a22551), color-stop(#7a1950), color-stop(#7b2750), color-stop(#7c3251), color-stop(#7c3c53), color-stop(#9d6365), color-stop(#b98c7f), color-stop(#d2b7a3), to(#ece2d0));
 	background-image: linear-gradient(to right top, #f87930, #e35741, #c63a4c, #a22551, #7a1950, #7b2750, #7c3251, #7c3c53, #9d6365, #b98c7f, #d2b7a3, #ece2d0);
 	color: white;
+    box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
 }
 .carouselcontainer:hover {
 	opacity: 0.9;
@@ -372,6 +373,7 @@ label {
 	align-items: center;
 	margin-top: 10px;
 	margin-bottom: 10px;
+    box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
 }
 .carousel-caption {
 	font-size: 2rem;
