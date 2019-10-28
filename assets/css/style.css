@@ -614,7 +614,7 @@ label {
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
 	justify-content: center;
-	color: #D90368;
+	color: white;
 }
 .fab:hover {
 	color: #011638;
@@ -623,7 +623,7 @@ label {
 .footer-copyright {
 	margin:0 auto;
 	font-size:1rem;
-	color: #D90368;
+	color: white;
 	text-align: center;
 	-webkit-box-align: center;
 	-ms-flex-align: center;
