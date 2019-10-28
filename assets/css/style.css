@@ -539,6 +539,19 @@ label {
 	opacity: 0.9;
 }
 /* socialmedia */
+
+.page-footer {
+    color: white;
+    background-image: linear-gradient(to right top, #d90368, #c6035f, #b30256, #a0024e, #8e0245, #901f50, #91305a, #923e64, #a45f83, #b680a2, #c8a0bf, #dbc1da);
+}
+.text-uppercase {
+    background-color: white;
+    margin-top: 20px;
+    color: #3C011D;
+    text-align: center;
+    justify-content: center;
+    align-items:center;
+}
 .footer {
 	max-width:100%;
 	height:auto;
