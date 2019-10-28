@@ -283,6 +283,14 @@ label {
 	border-radius: 30%;
 	border-color:#D90368;
 }
+
+@media (min-width: 576px) {
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+line-height: 100px;
+}
+}
+
 /* popular destinations */
 .lead-populardestinationstitle {
 	margin-top: 160px;
