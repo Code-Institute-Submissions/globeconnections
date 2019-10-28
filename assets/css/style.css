@@ -539,18 +539,23 @@ label {
 	opacity: 0.9;
 }
 /* socialmedia */
-
 .page-footer {
-    color: white;
-    background-image: linear-gradient(to right top, #d90368, #c6035f, #b30256, #a0024e, #8e0245, #901f50, #91305a, #923e64, #a45f83, #b680a2, #c8a0bf, #dbc1da);
+	color: white;
+	background-image: -webkit-gradient(linear, left bottom, right top, from(#d90368), color-stop(#c6035f), color-stop(#b30256), color-stop(#a0024e), color-stop(#8e0245), color-stop(#901f50), color-stop(#91305a), color-stop(#923e64), color-stop(#a45f83), color-stop(#b680a2), color-stop(#c8a0bf), to(#dbc1da));
+	background-image: -o-linear-gradient(left bottom, #d90368, #c6035f, #b30256, #a0024e, #8e0245, #901f50, #91305a, #923e64, #a45f83, #b680a2, #c8a0bf, #dbc1da);
+	background-image: linear-gradient(to right top, #d90368, #c6035f, #b30256, #a0024e, #8e0245, #901f50, #91305a, #923e64, #a45f83, #b680a2, #c8a0bf, #dbc1da);
 }
 .text-uppercase {
-    background-color: white;
-    margin-top: 20px;
-    color: #3C011D;
-    text-align: center;
-    justify-content: center;
-    align-items:center;
+	background-color: white;
+	margin-top: 20px;
+	color: #3C011D;
+	text-align: center;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+	-webkit-box-align:center;
+	-ms-flex-align:center;
+	align-items:center;
 }
 .footer {
 	max-width:100%;
