@@ -62,7 +62,7 @@
             <div class="form-row">
                <div class="col-sm-6">
                   <label for="validationTooltip01">Travelling From</label>
-                  <input type="text" class="form-control" placeholder="Enter your location">
+                  <input type="text" class="form-control" id="travelling_from" placeholder="Enter your location">
                </div>
                <div class="col-sm-6">
                   <label for="validationTooltip01">Travelling To</label>
@@ -588,7 +588,7 @@
       <script src="https://kit.fontawesome.com/d3512f3946.js"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.googlemap/1.5.1/jquery.googlemap.min.js"></script>
       <script src="assets/script.js"></script>
-      <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDxAqtsHZR132LdcWJvFLXU29Bs_vv_K1M&libraries=places"></script>
+      <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDxAqtsHZR132LdcWJvFLXU29Bs_vv_K1M&libraries=places&callback=activateTravellingFrom"></script>
       <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDxAqtsHZR132LdcWJvFLXU29Bs_vv_K1M&callback=initMap"  async defer></script>
    </body>
 </html>
