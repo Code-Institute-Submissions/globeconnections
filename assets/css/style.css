@@ -250,14 +250,6 @@ input {
 	-ms-flex-align: center;
 	align-items: center;
 }
-#calendaricon {
-    position: relative;
-    z-index: 1;
-    left: -25px;
-    top: 1px;
-    cursor:pointer;
-    width: 0;
-}
 label {
 	color: white;
 	text-align: center;
