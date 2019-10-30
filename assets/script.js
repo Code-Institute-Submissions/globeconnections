@@ -1,17 +1,13 @@
 var map;
-      function initMap() {
-        map = new google.maps.Map(document.getElementById('map'), {
-          center: {lat: -34.397, lng: 150.644},
-          zoom: 8
-        });
-      }
-
-
-var map;
 var service;
 var infowindow;
 
 function initMap() {
+    map = new google.maps.Map(document.getElementById('map'), {
+          center: {lat: -34.397, lng: 150.644},
+          zoom: 8
+        });
+      }
   var sydney = new google.maps.LatLng(-33.867, 151.195);
 
   infowindow = new google.maps.InfoWindow();
@@ -34,10 +30,3 @@ function initMap() {
       map.setCenter(results[0].geometry.location);
     }
   });
-}
-
-
-function initMap () {
-    var input = document.getElementById('travelling_from');
-    var autocomplete = new google.maps.places.autocomplete (input);
-}
