@@ -4,7 +4,7 @@ function initPlacesSearch(){
 }
 
 function addDateTimePicker() {
-    $('#demo').datetimepicker({
+    $('#myFromDateField').datetimepicker({
 inline:true,
 });
 }
