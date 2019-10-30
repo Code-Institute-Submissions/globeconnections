@@ -260,9 +260,7 @@ label {
 	align-items: center;
 	margin: 0 auto;
 }
-#map {
-    height: 70vh;
-    width: auto;
+#map-canvas{
     border: 5px solid #D90368;
     margin: 0 auto;
     text-align: center;
