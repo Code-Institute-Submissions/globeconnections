@@ -12,7 +12,6 @@ img {
 	max-width: 100%;
 	height: auto;
 }
-
 /* html and bodyof html */
 /* navbar */
 .fixed-top {
@@ -136,7 +135,7 @@ img {
 	/* Safari 4.0 - 8.0 */
 	animation: mymove 3s infinite;
 	-webkit-box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
-	        box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
+	box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
 	font-size: 2rem;
 }
 /* Safari 4.0 - 8.0 */
@@ -237,8 +236,8 @@ img {
 	-webkit-box-align: center;
 	-ms-flex-align: center;
 	align-items: center;
-    -webkit-box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
-            box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
+	-webkit-box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
+	box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
 }
 input {
 	margin: 0 auto;
@@ -262,16 +261,16 @@ label {
 	margin: 0 auto;
 }
 #map-canvas{
-    border: 5px solid #D90368;
-    margin: 0 auto;
-    text-align: center;
+	border: 5px solid #D90368;
+	margin: 0 auto;
+	text-align: center;
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
 	justify-content: center;
 	-ms-flex-item-align: center;
 	-ms-grid-row-align: center;
 	align-self: center;
-  }
+}
 .headingcontainer {
 	border-radius: 20px;
 	background-image: -o-linear-gradient(left bottom, #f2ece1, #edd0b4, #ecb08f, #ed8d76, #ea656d, #da4d68, #c93363, #b61260, #9b0d51, #810842, #670434, #4f0226);
@@ -316,7 +315,7 @@ label {
 	background-image: -webkit-gradient(linear, left bottom, right top, from(#dbc1da), color-stop(#c7a2c6), color-stop(#b384b1), color-stop(#9f669d), color-stop(#8b4889), color-stop(#7b3879), color-stop(#6b296a), color-stop(#5b185b), color-stop(#4c154c), color-stop(#3d123e), color-stop(#2f0e2f), to(#220922));
 	background-image: linear-gradient(to right top, #dbc1da, #c7a2c6, #b384b1, #9f669d, #8b4889, #7b3879, #6b296a, #5b185b, #4c154c, #3d123e, #2f0e2f, #220922);
 	-webkit-box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
-	        box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
+	box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
 	color: white;
 	border-radius: 20px;
 }
@@ -342,7 +341,7 @@ label {
 	background-image: -webkit-gradient(linear, left bottom, right top, from(#f75c03), color-stop(#f47e29), color-stop(#f09a4b), color-stop(#eeb26f), color-stop(#ecc897), color-stop(#ebc497), color-stop(#e9c198), color-stop(#e7bd98), color-stop(#e79d79), color-stop(#e77966), color-stop(#e34f61), to(#d90368));
 	background-image: linear-gradient(to right top, #f75c03, #f47e29, #f09a4b, #eeb26f, #ecc897, #ebc497, #e9c198, #e7bd98, #e79d79, #e77966, #e34f61, #d90368);
 	-webkit-box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
-	        box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
+	box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
 	color: white;
 	border-radius: 20px;
 }
@@ -372,8 +371,8 @@ label {
 	background-image: -webkit-gradient(linear, left bottom, right top, from(#f87930), color-stop(#e35741), color-stop(#c63a4c), color-stop(#a22551), color-stop(#7a1950), color-stop(#7b2750), color-stop(#7c3251), color-stop(#7c3c53), color-stop(#9d6365), color-stop(#b98c7f), color-stop(#d2b7a3), to(#ece2d0));
 	background-image: linear-gradient(to right top, #f87930, #e35741, #c63a4c, #a22551, #7a1950, #7b2750, #7c3251, #7c3c53, #9d6365, #b98c7f, #d2b7a3, #ece2d0);
 	color: white;
-    -webkit-box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
-            box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
+	-webkit-box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
+	box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
 }
 .carouselcontainer:hover {
 	opacity: 0.9;
@@ -388,8 +387,8 @@ label {
 	align-items: center;
 	margin-top: 10px;
 	margin-bottom: 10px;
-    -webkit-box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
-            box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
+	-webkit-box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
+	box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
 }
 .carousel-caption {
 	font-size: 2rem;
@@ -470,9 +469,9 @@ label {
 }
 .popular-destinations-image-overlay-card:hover {
 	opacity: 0.85;
-    -webkit-box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
+	-webkit-box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
 	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
-    -webkit-transform: scale(0.95);
+	-webkit-transform: scale(0.95);
 	-ms-transform: scale(0.95);
 	transform: scale(0.95);
 }
@@ -502,7 +501,7 @@ label {
 	-ms-transform: scale(0.75);
 	transform: scale(0.75);
 	opacity: 0.7;
-    -webkit-box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
+	-webkit-box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
 	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
 }
 .bg-light-package-deals {
@@ -521,11 +520,11 @@ label {
 	border: 5px solid #F75C03;
 }
 .bg-light-package-deals:hover {
-    -webkit-transform: scale(0.75);
+	-webkit-transform: scale(0.75);
 	-ms-transform: scale(0.75);
 	transform: scale(0.75);
 	opacity: 0.7;
-    -webkit-box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
+	-webkit-box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
 	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
 }
 .package-deals-home-page {
@@ -562,7 +561,7 @@ label {
 	-ms-transform: scale(0.75);
 	transform: scale(0.75);
 	opacity: 0.7;
-    -webkit-box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
+	-webkit-box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
 	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
 }
 .useful-information-home-page {
@@ -649,7 +648,6 @@ label {
 	color: #011638;
 	text-decoration:none;
 }
-
 .footer-copyright {
 	margin:0 auto;
 	font-size:1rem;
