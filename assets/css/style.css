@@ -501,7 +501,9 @@ label {
 	-webkit-transform: scale(0.75);
 	-ms-transform: scale(0.75);
 	transform: scale(0.75);
-	opacity: 0.9;
+	opacity: 0.7;
+    -webkit-box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
+	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
 }
 .bg-light-package-deals {
 	font-size: 1rem;
@@ -551,7 +553,9 @@ label {
 	-webkit-transform: scale(0.75);
 	-ms-transform: scale(0.75);
 	transform: scale(0.75);
-	opacity: 0.9;
+	opacity: 0.7;
+    -webkit-box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
+	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
 }
 .useful-information-home-page {
 	background-image: -o-linear-gradient(left bottom, #dc1975, #b52981, #8a3483, #60377b, #3b356a, #353467, #2f3363, #2a325f, #3d356d, #543779, #6d3681, #873286);
