@@ -520,6 +520,14 @@ label {
 	outline-offset: -10px;
 	border: 5px solid #F75C03;
 }
+.bg-light-package-deals:hover {
+    -webkit-transform: scale(0.75);
+	-ms-transform: scale(0.75);
+	transform: scale(0.75);
+	opacity: 0.7;
+    -webkit-box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
+	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
+}
 .package-deals-home-page {
 	font-size: 1rem;
 	text-align: center;
