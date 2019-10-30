@@ -3,8 +3,8 @@ function initPlacesSearch(){
     var autocomplete = new google.maps.places.Autocomplete(input);
 }
 
-function datetimepicker(){
-    var input = document.getElementById('demo').datetimepicker({
+function addDateTimePicker() {
+    $('#demo').datetimepicker({
 inline:true,
-})
+});
 }
