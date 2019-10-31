@@ -260,6 +260,12 @@ label {
 	align-items: center;
 	margin: 0 auto;
 }
+#map {
+width: 70vw;
+height: 70vh;
+border-color: black;
+border-width: 5px;
+}
 .headingcontainer {
 	border-radius: 20px;
 	background-image: -o-linear-gradient(left bottom, #f2ece1, #edd0b4, #ecb08f, #ed8d76, #ea656d, #da4d68, #c93363, #b61260, #9b0d51, #810842, #670434, #4f0226);
