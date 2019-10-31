@@ -114,7 +114,6 @@ img {
 /* navbar */
 .brandname {
 	text-align: center;
-
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
 	justify-content: center;
@@ -224,13 +223,12 @@ label {
 	margin: 0 auto;
 }
 #map {
-width: 70vw;
-height: 70vh;
-border-color: black;
-border-width: 5px;
+	width: 70vw;
+	height: 70vh;
+	border-color: black;
+	border-width: 5px;
 }
 .headingcontainer {
-
 	background-image: -o-linear-gradient(left bottom, #f2ece1, #edd0b4, #ecb08f, #ed8d76, #ea656d, #da4d68, #c93363, #b61260, #9b0d51, #810842, #670434, #4f0226);
 	background-image: -webkit-gradient(linear, left bottom, right top, from(#f2ece1), color-stop(#edd0b4), color-stop(#ecb08f), color-stop(#ed8d76), color-stop(#ea656d), color-stop(#da4d68), color-stop(#c93363), color-stop(#b61260), color-stop(#9b0d51), color-stop(#810842), color-stop(#670434), to(#4f0226));
 	background-image: linear-gradient(to right top, #f2ece1, #edd0b4, #ecb08f, #ed8d76, #ea656d, #da4d68, #c93363, #b61260, #9b0d51, #810842, #670434, #4f0226);
@@ -288,7 +286,6 @@ border-width: 5px;
 	background-image: linear-gradient(to right top, #f75c03, #f47e29, #f09a4b, #eeb26f, #ecc897, #ebc497, #e9c198, #e7bd98, #e79d79, #e77966, #e34f61, #d90368);
 	margin-top: 10px;
 	margin-bottom: 10px;
-
 	color: black;
 	font-size: 2rem;
 }
@@ -299,7 +296,6 @@ border-width: 5px;
 	-webkit-box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
 	box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
 	color: white;
-
 }
 .mb-3,.form-control {
 	width: 100%;
@@ -322,7 +318,6 @@ border-width: 5px;
 	-webkit-box-align: center;
 	-ms-flex-align: center;
 	align-items: center;
-
 	background-image: -o-linear-gradient(left bottom, #f87930, #e35741, #c63a4c, #a22551, #7a1950, #7b2750, #7c3251, #7c3c53, #9d6365, #b98c7f, #d2b7a3, #ece2d0);
 	background-image: -webkit-gradient(linear, left bottom, right top, from(#f87930), color-stop(#e35741), color-stop(#c63a4c), color-stop(#a22551), color-stop(#7a1950), color-stop(#7b2750), color-stop(#7c3251), color-stop(#7c3c53), color-stop(#9d6365), color-stop(#b98c7f), color-stop(#d2b7a3), to(#ece2d0));
 	background-image: linear-gradient(to right top, #f87930, #e35741, #c63a4c, #a22551, #7a1950, #7b2750, #7c3251, #7c3c53, #9d6365, #b98c7f, #d2b7a3, #ece2d0);
@@ -368,7 +363,6 @@ border-width: 5px;
 	-webkit-box-align: center;
 	-ms-flex-align: center;
 	align-items: center;
-
 	border-color:#D90368;
 }
 /* popular destinations */
@@ -612,7 +606,6 @@ border-width: 5px;
 	border-color: #F75C03;
 	border-width: 5px;
 	color: #F75C03;
-
 	text-align: center;
 	-webkit-box-align: center;
 	-ms-flex-align: center;
