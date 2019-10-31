@@ -8,6 +8,16 @@ function initPlacesSearch(){
     var autocomplete = new google.maps.places.Autocomplete(input);
 }
 
+function initPlacesSearch(){
+    var input = document.getElementById('restaurant_search');
+    var autocomplete = new google.maps.places.Autocomplete(input);
+}
+
+function initPlacesSearch(){
+    var input = document.getElementById('attraction_search');
+    var autocomplete = new google.maps.places.Autocomplete(input);
+}
+
 jQuery(function($) {
         $("#datepicker").datetimepicker();
     });
