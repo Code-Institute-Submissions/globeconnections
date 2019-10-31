@@ -114,7 +114,7 @@ img {
 /* navbar */
 .brandname {
 	text-align: center;
-	border-radius: 40px;
+
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
 	justify-content: center;
@@ -177,43 +177,6 @@ img {
 	margin-top: 10px;
 	margin-bottom: 10px;
 	background-color: #D90368;
-	-webkit-animation-name: example;
-	-webkit-animation-duration: 4s;
-	animation-name: example;
-	animation-duration: 4s;
-	-webkit-animation-iteration-count: infinite;
-	animation-iteration-count: infinite;
-}
-@-webkit-keyframes example {
-	0% {
-		background-color: #D90368;
-	}
-	25% {
-		background-color: #7B1E7A;
-	}
-	50% {
-		background-color: #011638;
-	}
-	100% {
-		background-color: #F75C03;
-	}
-}
-@keyframes example {
-	0% {
-		background-color: #D90368;
-	}
-	25% {
-		background-color: #7B1E7A;
-	}
-	50% {
-		background-color: #011638;
-	}
-	100% {
-		background-color: #F75C03;
-	}
-}
-.searchformhomepage:hover {
-	opacity:0.9;
 }
 .searchformheading {
 	color:white;
@@ -267,7 +230,7 @@ border-color: black;
 border-width: 5px;
 }
 .headingcontainer {
-	border-radius: 20px;
+
 	background-image: -o-linear-gradient(left bottom, #f2ece1, #edd0b4, #ecb08f, #ed8d76, #ea656d, #da4d68, #c93363, #b61260, #9b0d51, #810842, #670434, #4f0226);
 	background-image: -webkit-gradient(linear, left bottom, right top, from(#f2ece1), color-stop(#edd0b4), color-stop(#ecb08f), color-stop(#ed8d76), color-stop(#ea656d), color-stop(#da4d68), color-stop(#c93363), color-stop(#b61260), color-stop(#9b0d51), color-stop(#810842), color-stop(#670434), to(#4f0226));
 	background-image: linear-gradient(to right top, #f2ece1, #edd0b4, #ecb08f, #ed8d76, #ea656d, #da4d68, #c93363, #b61260, #9b0d51, #810842, #670434, #4f0226);
@@ -301,7 +264,6 @@ border-width: 5px;
 	background-image: linear-gradient(to right top, #dbc1da, #c7a2c6, #b384b1, #9f669d, #8b4889, #7b3879, #6b296a, #5b185b, #4c154c, #3d123e, #2f0e2f, #220922);
 	margin-top: 10px;
 	margin-bottom: 10px;
-	border-radius: 20px;
 	color: white;
 	font-size: 2rem;
 }
@@ -312,7 +274,6 @@ border-width: 5px;
 	-webkit-box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
 	box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
 	color: white;
-	border-radius: 20px;
 }
 .headingforattractionssearchform {
 	text-align: center;
@@ -327,7 +288,7 @@ border-width: 5px;
 	background-image: linear-gradient(to right top, #f75c03, #f47e29, #f09a4b, #eeb26f, #ecc897, #ebc497, #e9c198, #e7bd98, #e79d79, #e77966, #e34f61, #d90368);
 	margin-top: 10px;
 	margin-bottom: 10px;
-	border-radius: 20px;
+
 	color: black;
 	font-size: 2rem;
 }
@@ -338,7 +299,7 @@ border-width: 5px;
 	-webkit-box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
 	box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
 	color: white;
-	border-radius: 20px;
+
 }
 .mb-3,.form-control {
 	width: 100%;
@@ -361,7 +322,7 @@ border-width: 5px;
 	-webkit-box-align: center;
 	-ms-flex-align: center;
 	align-items: center;
-	border-radius: 20px;
+
 	background-image: -o-linear-gradient(left bottom, #f87930, #e35741, #c63a4c, #a22551, #7a1950, #7b2750, #7c3251, #7c3c53, #9d6365, #b98c7f, #d2b7a3, #ece2d0);
 	background-image: -webkit-gradient(linear, left bottom, right top, from(#f87930), color-stop(#e35741), color-stop(#c63a4c), color-stop(#a22551), color-stop(#7a1950), color-stop(#7b2750), color-stop(#7c3251), color-stop(#7c3c53), color-stop(#9d6365), color-stop(#b98c7f), color-stop(#d2b7a3), to(#ece2d0));
 	background-image: linear-gradient(to right top, #f87930, #e35741, #c63a4c, #a22551, #7a1950, #7b2750, #7c3251, #7c3c53, #9d6365, #b98c7f, #d2b7a3, #ece2d0);
@@ -407,7 +368,7 @@ border-width: 5px;
 	-webkit-box-align: center;
 	-ms-flex-align: center;
 	align-items: center;
-	border-radius: 30%;
+
 	border-color:#D90368;
 }
 /* popular destinations */
@@ -455,20 +416,6 @@ border-width: 5px;
 	transition: transform 0.5s;
 	transition: transform 0.5s, -webkit-transform 0.5s;
 	-webkit-transform: 0.5s;
-}
-.card-title-popular-destinations:hover {
-	-webkit-transform: scale(0.15);
-	-ms-transform: scale(0.15);
-	transform: scale(0.15);
-	opacity: 0.9;
-}
-.popular-destinations-image-overlay-card:hover {
-	opacity: 0.85;
-	-webkit-box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
-	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
-	-webkit-transform: scale(0.15);
-	-ms-transform: scale(0.15);
-	transform: scale(0.15);
 }
 /* popular destinations */
 .card-title-package-deals {
@@ -665,7 +612,7 @@ border-width: 5px;
 	border-color: #F75C03;
 	border-width: 5px;
 	color: #F75C03;
-	border-radius: 5px;
+
 	text-align: center;
 	-webkit-box-align: center;
 	-ms-flex-align: center;
