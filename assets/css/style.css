@@ -2,7 +2,7 @@
 /* html and bodyof html */
 html, body {
 	font-family: 'Ubuntu', sans-serif;
-	background-color: white;
+	background-color: #FFC7C7;
 }
 img {
 	max-width: 100%;
@@ -88,6 +88,17 @@ img {
     background-image: linear-gradient(to right top, #0c0410, #120616, #16071b, #1a0920, #1d0a25, #25142e, #2f1c38, #382542, #4a3953, #5d4d65, #716378, #85798b);
 		color: #CC97C4;
 }
+.headingcontainer {
+    background-image: linear-gradient(to right top, #200c24, #441a3c, #6d274f, #9a365d, #c74765, #d85470, #e9627c, #fa6f88, #f2789d, #e683af, #d98dbc, #cc97c4);
+    color: white;
+    text-align: center;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+}
 .mb-3,.form-control {
 	width: 100%;
 	height: auto;
@@ -101,61 +112,7 @@ img {
 	-ms-flex-align: center;
 	align-items: center;
 }
-.carouselcontainer {
-	text-align: center;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	-webkit-box-align: center;
-	-ms-flex-align: center;
-	align-items: center;
-	background-image: -o-linear-gradient(left bottom, #f87930, #e35741, #c63a4c, #a22551, #7a1950, #7b2750, #7c3251, #7c3c53, #9d6365, #b98c7f, #d2b7a3, #ece2d0);
-	background-image: -webkit-gradient(linear, left bottom, right top, from(#f87930), color-stop(#e35741), color-stop(#c63a4c), color-stop(#a22551), color-stop(#7a1950), color-stop(#7b2750), color-stop(#7c3251), color-stop(#7c3c53), color-stop(#9d6365), color-stop(#b98c7f), color-stop(#d2b7a3), to(#ece2d0));
-	background-image: linear-gradient(to right top, #f87930, #e35741, #c63a4c, #a22551, #7a1950, #7b2750, #7c3251, #7c3c53, #9d6365, #b98c7f, #d2b7a3, #ece2d0);
-	color: white;
-	-webkit-box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
-	box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
-}
-.carouselcontainer:hover {
-	opacity: 0.9;
-}
-#carouselExampleControlsone,#carouselExampleControlstwo {
-	text-align: center;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	-webkit-box-align: center;
-	-ms-flex-align: center;
-	align-items: center;
-	margin-top: 10px;
-	margin-bottom: 10px;
-	-webkit-box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
-	box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
-}
-.carousel-caption {
-	font-size: 2rem;
-	color: rgba(255,255,255,1.0);
-	text-align: center;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	-webkit-box-align: center;
-	-ms-flex-align: center;
-	align-items: center;
-	background-color:rgba(217,3,104,0.7);
-}
-.carousel-control-prev-icon,.carousel-control-next-icon {
-	background-color: #D90368;
-	color: #D90368;
-	text-align: center;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	-webkit-box-align: center;
-	-ms-flex-align: center;
-	align-items: center;
-	border-color:#D90368;
-}
+
 /* popular destinations */
 .lead-populardestinationstitle {
 	margin-top: 60px;
@@ -173,7 +130,7 @@ img {
 .popular-destinations-home-page {
 	margin-top: 10px;
 	margin-bottom: 10px;
-	background-color: white;
+	background-image: linear-gradient(to right top, #ffb9b9, #ffaaaa, #ff9b9a, #ff8c8b, #ff7c7b, #ff807f, #ff8482, #ff8886, #ff9f9e, #ffb6b5, #ffcdcc, #ffe3e3);
 	text-align: center;
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
@@ -194,7 +151,7 @@ img {
 	-webkit-box-align: center;
 	-ms-flex-align: center;
 	align-items: center;
-	background-color:rgba(1,22,56,0.7);
+	background-color: rgba(33,11,44,0.65);
 }
 /* popular destinations */
 .card-title-package-deals {
@@ -209,7 +166,7 @@ img {
 	-webkit-box-align: center;
 	-ms-flex-align: center;
 	align-items: center;
-	background-color: rgba(247,92,3,0.6);
+	background-color: rgba(255,102,102,0.65);
 }
 
 .bg-light-package-deals {
@@ -246,12 +203,10 @@ img {
 	-ms-flex-align: center;
 	align-items: center;
 	background-color: rgba(236,226,208,0.7);
-	color: #D90368;
+	color:#210B2C;
 }
 .useful-information-home-page {
-	background-image: -o-linear-gradient(left bottom, #dc1975, #b52981, #8a3483, #60377b, #3b356a, #353467, #2f3363, #2a325f, #3d356d, #543779, #6d3681, #873286);
-	background-image: -webkit-gradient(linear, left bottom, right top, from(#dc1975), color-stop(#b52981), color-stop(#8a3483), color-stop(#60377b), color-stop(#3b356a), color-stop(#353467), color-stop(#2f3363), color-stop(#2a325f), color-stop(#3d356d), color-stop(#543779), color-stop(#6d3681), to(#873286));
-	background-image: linear-gradient(to right top, #dc1975, #b52981, #8a3483, #60377b, #3b356a, #353467, #2f3363, #2a325f, #3d356d, #543779, #6d3681, #873286);
+	background-image: linear-gradient(to right top, #c1aec5, #b198bc, #a083b4, #8c70ad, #755da6, #765ba6, #7759a7, #7857a7, #9065ad, #a675b4, #ba85bc, #cc97c4);
 }
 .useful-information-home-page:hover {
 	opacity: 0.9;
@@ -259,9 +214,7 @@ img {
 /* socialmedia */
 .page-footer {
 	color: white;
-	background-image: -o-linear-gradient(left bottom, #d90368, #c6035f, #b30256, #a0024e, #8e0245, #901f50, #91305a, #923e64, #a45f83, #b680a2, #c8a0bf, #dbc1da);
-	background-image: -webkit-gradient(linear, left bottom, right top, from(#d90368), color-stop(#c6035f), color-stop(#b30256), color-stop(#a0024e), color-stop(#8e0245), color-stop(#901f50), color-stop(#91305a), color-stop(#923e64), color-stop(#a45f83), color-stop(#b680a2), color-stop(#c8a0bf), to(#dbc1da));
-	background-image: linear-gradient(to right top, #d90368, #c6035f, #b30256, #a0024e, #8e0245, #901f50, #91305a, #923e64, #a45f83, #b680a2, #c8a0bf, #dbc1da);
+	background-image: linear-gradient(to right top, #c1aec5, #cda2c3, #dc94ba, #ec85a9, #f87690, #f9748d, #f9718b, #fa6f88, #f2789d, #e683af, #d98dbc, #cc97c4);
 }
 .text-uppercase {
 	background-color: white;
@@ -286,7 +239,7 @@ img {
 	align-items: center;
 	text-align: center;
 	background-color: transparent;
-	color: #F75C03;
+	color: #210B2C;
 	font-size: 1rem;
 	margin: 0 auto;
 }
@@ -351,9 +304,9 @@ img {
 	font-size: 1rem;
 	height: 3rem;
 	width: 8rem;
-	border-color: #F75C03;
+	border-color: #210B2C;
 	border-width: 5px;
-	color: #F75C03;
+	color: #210B2C;
 	text-align: center;
 	-webkit-box-align: center;
 	-ms-flex-align: center;
@@ -364,7 +317,7 @@ img {
 	margin: 0 auto;
 }
 .btn-outline-white:hover {
-	color:#F75C03;
+	color:#210B2C;
 	opacity:0.5;
 }
 .mb-1,.py-5,.mb-5 {
