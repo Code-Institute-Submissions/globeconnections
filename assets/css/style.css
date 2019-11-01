@@ -14,15 +14,9 @@ img {
     margin-bottom: 100px;
 	font-size:1rem;
 	font-weight:bold;
-	color: black;
 	max-width: 100%;
-	background-image: -o-linear-gradient(left bottom, #ece2d0, #cdb3a4, #ac8583, #855c6a, #563956, #533157, #4f2859, #49205b, #831a63, #b90e5a, #e22b3f, #f75c03);
-	background-image: -webkit-gradient(linear, left bottom, right top, from(#ece2d0), color-stop(#cdb3a4), color-stop(#ac8583), color-stop(#855c6a), color-stop(#563956), color-stop(#533157), color-stop(#4f2859), color-stop(#49205b), color-stop(#831a63), color-stop(#b90e5a), color-stop(#e22b3f), to(#f75c03));
-	background-image: linear-gradient(to right top, #ece2d0, #cdb3a4, #ac8583, #855c6a, #563956, #533157, #4f2859, #49205b, #831a63, #b90e5a, #e22b3f, #f75c03);
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-color: rgba(255,255,255,0.8);
+    color: white;
+    background-image: linear-gradient(to right top, #1e1a3a, #27224c, #302a5e, #393271, #433b84, #4e4590, #5a4f9c, #655aa9, #746ab1, #827aba, #918ac2, #a09aca);
 	-webkit-box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
 	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
 }
@@ -35,60 +29,43 @@ img {
 	justify-content: center;
 	text-align: center;
 	max-width: 100%;
-	background-color: rgba(255,255,255,0.55);
+	background-image: linear-gradient(to right top, #1e1a3a, #27224c, #302a5e, #393271, #433b84, #4e4590, #5a4f9c, #655aa9, #746ab1, #827aba, #918ac2, #a09aca);
+    color: white;
     margin: 0 auto;
 }
-.navbar-brand {
-	background-color: white;
-}
 .navbartogglericon {
-	color: rgba(0,0,0,0.99);
+	color: white;
 	border-color:rgba(0,0,0,0.99);
 	border-width:5px;
 	outline-color:rgba(0,0,0,0.99);
-	;
 	outline-width:5px;
 }
 .navbar-toggler {
 	border-color:rgba(0,0,0,0.99);
 	border-width:5px;
-	color: rgba(0,0,0,0.99);
+	color: white;
 	outline-color:rgba(0,0,0,0.99);
 	outline-width:5px;
 }
-.nav-item {
+.nav-item,
+.nav-link {
 	font: 1rem;
+	background-color: white;
 	color: white;
 	margin: 0 auto;
 }
 .nav-item:hover {
-	background-color: white;
-	color: rgba(0,0,0,0.99);
+	background-color: 	#CC97C4;
+	color: white;
 }
 /* navbar */
 /* Safari 4.0 - 8.0 */
 
-.headingcontainer {
-	background-image: -o-linear-gradient(left bottom, #f2ece1, #edd0b4, #ecb08f, #ed8d76, #ea656d, #da4d68, #c93363, #b61260, #9b0d51, #810842, #670434, #4f0226);
-	background-image: -webkit-gradient(linear, left bottom, right top, from(#f2ece1), color-stop(#edd0b4), color-stop(#ecb08f), color-stop(#ed8d76), color-stop(#ea656d), color-stop(#da4d68), color-stop(#c93363), color-stop(#b61260), color-stop(#9b0d51), color-stop(#810842), color-stop(#670434), to(#4f0226));
-	background-image: linear-gradient(to right top, #f2ece1, #edd0b4, #ecb08f, #ed8d76, #ea656d, #da4d68, #c93363, #b61260, #9b0d51, #810842, #670434, #4f0226);
-}
-.lead-heading {
-	text-align: center;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	-ms-flex-item-align: center;
-	-ms-grid-row-align: center;
-	align-self: center;
-	background-image: -o-linear-gradient(left bottom, #f2ece1, #edd0b4, #ecb08f, #ed8d76, #ea656d, #da4d68, #c93363, #b61260, #9b0d51, #810842, #670434, #4f0226);
-	background-image: -webkit-gradient(linear, left bottom, right top, from(#f2ece1), color-stop(#edd0b4), color-stop(#ecb08f), color-stop(#ed8d76), color-stop(#ea656d), color-stop(#da4d68), color-stop(#c93363), color-stop(#b61260), color-stop(#9b0d51), color-stop(#810842), color-stop(#670434), to(#4f0226));
-	background-image: linear-gradient(to right top, #f2ece1, #edd0b4, #ecb08f, #ed8d76, #ea656d, #da4d68, #c93363, #b61260, #9b0d51, #810842, #670434, #4f0226);
-	margin-top: 150px;
-	margin-bottom: 10px;
-	color: white;
-	font-size: 2rem;
-}
+.navbar {
+	background-color: #51469E;
+    color: white;
+    }
+
 .headingforattractionssearchform {
 	text-align: center;
 	-webkit-box-pack: center;
@@ -97,19 +74,19 @@ img {
 	-ms-flex-item-align: center;
 	-ms-grid-row-align: center;
 	align-self: center;
-	background-image: -o-linear-gradient(left bottom, #f75c03, #f47e29, #f09a4b, #eeb26f, #ecc897, #ebc497, #e9c198, #e7bd98, #e79d79, #e77966, #e34f61, #d90368);
-	background-image: -webkit-gradient(linear, left bottom, right top, from(#f75c03), color-stop(#f47e29), color-stop(#f09a4b), color-stop(#eeb26f), color-stop(#ecc897), color-stop(#ebc497), color-stop(#e9c198), color-stop(#e7bd98), color-stop(#e79d79), color-stop(#e77966), color-stop(#e34f61), to(#d90368));
-	background-image: linear-gradient(to right top, #f75c03, #f47e29, #f09a4b, #eeb26f, #ecc897, #ebc497, #e9c198, #e7bd98, #e79d79, #e77966, #e34f61, #d90368);
+	background-image: linear-gradient(to right top, #8c3838, #a14040, #b64949, #cb5151, #e15a5a, #eb6766, #f57373, #ff807f, #ff9291, #ffa4a3, #ffb6b5, #ffc7c7);
 	margin-top: 150px;
 	margin-bottom: 10px;
 	color: black;
 	font-size: 2rem;
 }
 .btn-outline-secondary-two {
-	background-image: -o-linear-gradient(left bottom, #f75c03, #f47e29, #f09a4b, #eeb26f, #ecc897, #ebc497, #e9c198, #e7bd98, #e79d79, #e77966, #e34f61, #d90368);
-	background-image: -webkit-gradient(linear, left bottom, right top, from(#f75c03), color-stop(#f47e29), color-stop(#f09a4b), color-stop(#eeb26f), color-stop(#ecc897), color-stop(#ebc497), color-stop(#e9c198), color-stop(#e7bd98), color-stop(#e79d79), color-stop(#e77966), color-stop(#e34f61), to(#d90368));
-	background-image: linear-gradient(to right top, #f75c03, #f47e29, #f09a4b, #eeb26f, #ecc897, #ebc497, #e9c198, #e7bd98, #e79d79, #e77966, #e34f61, #d90368);
-	color: white;
+    background-image: linear-gradient(to right top, #0c0410, #120616, #16071b, #1a0920, #1d0a25, #25142e, #2f1c38, #382542, #4a3953, #5d4d65, #716378, #85798b);
+		color: white;
+}
+.btn-outline-secondary-two:hover {
+    background-image: linear-gradient(to right top, #0c0410, #120616, #16071b, #1a0920, #1d0a25, #25142e, #2f1c38, #382542, #4a3953, #5d4d65, #716378, #85798b);
+		color: #CC97C4;
 }
 .mb-3,.form-control {
 	width: 100%;
