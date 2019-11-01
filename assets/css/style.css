@@ -36,6 +36,7 @@ img {
 	text-align: center;
 	max-width: 100%;
 	background-color: rgba(255,255,255,0.55);
+    margin: 0 auto;
 }
 .navbar-brand {
 	background-color: white;
@@ -58,8 +59,7 @@ img {
 .nav-item {
 	font: 1rem;
 	color: white;
-	margin-right:25px;
-	margin-left: 25px;
+	margin: 0 auto;
 }
 .nav-item:hover {
 	background-color: white;
