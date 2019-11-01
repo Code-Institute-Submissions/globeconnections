@@ -106,70 +106,7 @@ img {
 }
 /* navbar */
 /* Safari 4.0 - 8.0 */
-.searchformhomepage {
-	padding: 40px;
-	text-align: center;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	-webkit-box-align: center;
-	-ms-flex-align: center;
-	align-items: center;
-	margin-top: 150px;
-	margin-bottom: 10px;
-	background-color: #D90368;
-}
-.searchformheading {
-	color:white;
-	text-align: center;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	-webkit-box-align: center;
-	-ms-flex-align: center;
-	align-items: center;
-}
-.btn-primary-searchformbutton {
-	color: white;
-	background-color:#011638;
-	margin: 25px;
-	text-align: center;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	-webkit-box-align: center;
-	-ms-flex-align: center;
-	align-items: center;
-	-webkit-box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
-	box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
-}
-input {
-	margin: 0 auto;
-	text-align: center;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	-webkit-box-align: center;
-	-ms-flex-align: center;
-	align-items: center;
-}
-label {
-	color: white;
-	text-align: center;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	-webkit-box-align: center;
-	-ms-flex-align: center;
-	align-items: center;
-	margin: 0 auto;
-}
-#map {
-	width: 70vw;
-	height: 70vh;
-	border-color: black;
-	border-width: 5px;
-}
+
 .headingcontainer {
 	background-image: -o-linear-gradient(left bottom, #f2ece1, #edd0b4, #ecb08f, #ed8d76, #ea656d, #da4d68, #c93363, #b61260, #9b0d51, #810842, #670434, #4f0226);
 	background-image: -webkit-gradient(linear, left bottom, right top, from(#f2ece1), color-stop(#edd0b4), color-stop(#ecb08f), color-stop(#ed8d76), color-stop(#ea656d), color-stop(#da4d68), color-stop(#c93363), color-stop(#b61260), color-stop(#9b0d51), color-stop(#810842), color-stop(#670434), to(#4f0226));
@@ -190,30 +127,6 @@ label {
 	margin-bottom: 10px;
 	color: white;
 	font-size: 2rem;
-}
-.headingforrestaurantsearchform {
-	text-align: center;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	-ms-flex-item-align: center;
-	-ms-grid-row-align: center;
-	align-self: center;
-	background-image: -o-linear-gradient(left bottom, #dbc1da, #c7a2c6, #b384b1, #9f669d, #8b4889, #7b3879, #6b296a, #5b185b, #4c154c, #3d123e, #2f0e2f, #220922);
-	background-image: -webkit-gradient(linear, left bottom, right top, from(#dbc1da), color-stop(#c7a2c6), color-stop(#b384b1), color-stop(#9f669d), color-stop(#8b4889), color-stop(#7b3879), color-stop(#6b296a), color-stop(#5b185b), color-stop(#4c154c), color-stop(#3d123e), color-stop(#2f0e2f), to(#220922));
-	background-image: linear-gradient(to right top, #dbc1da, #c7a2c6, #b384b1, #9f669d, #8b4889, #7b3879, #6b296a, #5b185b, #4c154c, #3d123e, #2f0e2f, #220922);
-	margin-top: 10px;
-	margin-bottom: 10px;
-	color: white;
-	font-size: 2rem;
-}
-.btn-outline-secondary-one {
-	background-image: -o-linear-gradient(left bottom, #dbc1da, #c7a2c6, #b384b1, #9f669d, #8b4889, #7b3879, #6b296a, #5b185b, #4c154c, #3d123e, #2f0e2f, #220922);
-	background-image: -webkit-gradient(linear, left bottom, right top, from(#dbc1da), color-stop(#c7a2c6), color-stop(#b384b1), color-stop(#9f669d), color-stop(#8b4889), color-stop(#7b3879), color-stop(#6b296a), color-stop(#5b185b), color-stop(#4c154c), color-stop(#3d123e), color-stop(#2f0e2f), to(#220922));
-	background-image: linear-gradient(to right top, #dbc1da, #c7a2c6, #b384b1, #9f669d, #8b4889, #7b3879, #6b296a, #5b185b, #4c154c, #3d123e, #2f0e2f, #220922);
-	-webkit-box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
-	box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
-	color: white;
 }
 .headingforattractionssearchform {
 	text-align: center;
