@@ -11,6 +11,7 @@ img {
 /* html and bodyof html */
 /* navbar */
 .fixed-top {
+    margin-bottom: 100px;
 	font-size:1rem;
 	font-weight:bold;
 	color: black;
@@ -64,46 +65,6 @@ img {
 	background-color: white;
 	color: rgba(0,0,0,0.99);
 }
-.topnav .login-container {
-	float: right;
-}
-.topnav input[type=text] {
-	padding: 6px;
-	margin-top: 8px;
-	font-size: 17px;
-	border: none;
-	width:120px;
-}
-.topnav .login-container button {
-	float: right;
-	padding: 6px 10px;
-	margin-top: 8px;
-	margin-right: 16px;
-	background-color: #d90368;
-	color: white;
-	font-size: 17px;
-	border: none;
-	cursor: pointer;
-}
-.topnav .login-container button:hover {
-	background-color: #E34791;
-}
-@media screen and (max-width: 600px) {
-	.topnav .login-container {
-		float: none;
-	}
-	.topnav a, .topnav input[type=text], .topnav .login-container button {
-		float: none;
-		display: block;
-		text-align: left;
-		width: 100%;
-		margin: 0;
-		padding: 14px;
-	}
-	.topnav input[type=text] {
-		border: 1px solid #ccc;
-	}
-}
 /* navbar */
 /* Safari 4.0 - 8.0 */
 
@@ -139,7 +100,7 @@ img {
 	background-image: -o-linear-gradient(left bottom, #f75c03, #f47e29, #f09a4b, #eeb26f, #ecc897, #ebc497, #e9c198, #e7bd98, #e79d79, #e77966, #e34f61, #d90368);
 	background-image: -webkit-gradient(linear, left bottom, right top, from(#f75c03), color-stop(#f47e29), color-stop(#f09a4b), color-stop(#eeb26f), color-stop(#ecc897), color-stop(#ebc497), color-stop(#e9c198), color-stop(#e7bd98), color-stop(#e79d79), color-stop(#e77966), color-stop(#e34f61), to(#d90368));
 	background-image: linear-gradient(to right top, #f75c03, #f47e29, #f09a4b, #eeb26f, #ecc897, #ebc497, #e9c198, #e7bd98, #e79d79, #e77966, #e34f61, #d90368);
-	margin-top: 10px;
+	margin-top: 150px;
 	margin-bottom: 10px;
 	color: black;
 	font-size: 2rem;
@@ -148,8 +109,6 @@ img {
 	background-image: -o-linear-gradient(left bottom, #f75c03, #f47e29, #f09a4b, #eeb26f, #ecc897, #ebc497, #e9c198, #e7bd98, #e79d79, #e77966, #e34f61, #d90368);
 	background-image: -webkit-gradient(linear, left bottom, right top, from(#f75c03), color-stop(#f47e29), color-stop(#f09a4b), color-stop(#eeb26f), color-stop(#ecc897), color-stop(#ebc497), color-stop(#e9c198), color-stop(#e7bd98), color-stop(#e79d79), color-stop(#e77966), color-stop(#e34f61), to(#d90368));
 	background-image: linear-gradient(to right top, #f75c03, #f47e29, #f09a4b, #eeb26f, #ecc897, #ebc497, #e9c198, #e7bd98, #e79d79, #e77966, #e34f61, #d90368);
-	-webkit-box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
-	box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
 	color: white;
 }
 .mb-3,.form-control {
