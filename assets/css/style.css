@@ -113,12 +113,10 @@ img {
 	-webkit-box-align: center;
 	-ms-flex-align: center;
 	align-items: center;
-	margin-top: 100px;
+	margin-top: 150px;
 	margin-bottom: 20px;
 	color: rgba(255,255,255,0.98);
-	background-image: -o-linear-gradient(left bottom, #873302, #9b3b02, #af4202, #c44a02, #da5202, #e7641e, #f37532, #ff8645, #ffa26c, #ffbc94, #ffd6bd, #fef0e8);
-	background-image: -webkit-gradient(linear, left bottom, right top, from(#873302), color-stop(#9b3b02), color-stop(#af4202), color-stop(#c44a02), color-stop(#da5202), color-stop(#e7641e), color-stop(#f37532), color-stop(#ff8645), color-stop(#ffa26c), color-stop(#ffbc94), color-stop(#ffd6bd), to(#fef0e8));
-	background-image: linear-gradient(to right top, #873302, #9b3b02, #af4202, #c44a02, #da5202, #e7641e, #f37532, #ff8645, #ffa26c, #ffbc94, #ffd6bd, #fef0e8);
+    background-color: black;
 	width: 500px;
 	height: 100px;
 	font-weight: bold;
