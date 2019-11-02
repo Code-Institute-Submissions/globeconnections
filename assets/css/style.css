@@ -83,10 +83,12 @@ img {
 .btn-outline-secondary-two {
     background-image: linear-gradient(to right top, #0c0410, #120616, #16071b, #1a0920, #1d0a25, #25142e, #2f1c38, #382542, #4a3953, #5d4d65, #716378, #85798b);
 		color: white;
+        border: 5px solid #FF6666;
 }
 .btn-outline-secondary-two:hover {
     background-image: linear-gradient(to right top, #0c0410, #120616, #16071b, #1a0920, #1d0a25, #25142e, #2f1c38, #382542, #4a3953, #5d4d65, #716378, #85798b);
 		color: #CC97C4;
+        border: 5px solid #FF6666;
 }
 .headingcontainer {
     background-image: linear-gradient(to right top, #200c24, #441a3c, #6d274f, #9a365d, #c74765, #d85470, #e9627c, #fa6f88, #f2789d, #e683af, #d98dbc, #cc97c4);
