@@ -178,7 +178,7 @@ color:#210B2C;
 	align-items: center;
 }
 .popular-destinations-image-overlay-card,.card-title-popular-destinations {
-	padding: 5px;
+	box-shadow:5px 5px 15px 5px #461C1C;
 	font-size: 1rem;
 	color: rgba(255,255,255,1.0);
 	margin-top: 10px;
@@ -194,6 +194,7 @@ color:#210B2C;
 }
 /* popular destinations */
 .card-title-package-deals {
+    box-shadow:5px 5px 15px 5px #461C1C;
 	padding: 5px;
 	font-size: 1rem;
 	color: rgba(255,255,255,1.0);
@@ -209,6 +210,7 @@ color:#210B2C;
 	background-color: rgba(255,102,102,0.65);
 }
 .bg-light-package-deals {
+    box-shadow:5px 5px 15px 5px #461C1C;
 	font-size: 1rem;
 	margin-top: 10px;
 	margin-bottom: 10px;
@@ -221,6 +223,7 @@ color:#210B2C;
 	align-items: center;
 }
 .package-deals-home-page {
+    box-shadow:5px 5px 15px 5px #461C1C;
 	font-size: 1rem;
 	text-align: center;
 	-webkit-box-pack: center;
@@ -231,6 +234,7 @@ color:#210B2C;
 	align-items: center;
 }
 .bg-white-useful-information,.card-title-useful-information {
+    box-shadow:5px 5px 15px 5px #210B2C;
 	font-size: 1rem;
 	margin-top: 10px;
 	margin-bottom: 10px;
@@ -245,6 +249,7 @@ color:#210B2C;
 	color:#210B2C;
 }
 .useful-information-home-page {
+    box-shadow:5px 5px 15px 5px #210B2C;
 	background-image: -webkit-gradient(linear, left bottom, right top, from(#c1aec5), color-stop(#b198bc), color-stop(#a083b4), color-stop(#8c70ad), color-stop(#755da6), color-stop(#765ba6), color-stop(#7759a7), color-stop(#7857a7), color-stop(#9065ad), color-stop(#a675b4), color-stop(#ba85bc), to(#cc97c4));
 	background-image: -o-linear-gradient(left bottom, #c1aec5, #b198bc, #a083b4, #8c70ad, #755da6, #765ba6, #7759a7, #7857a7, #9065ad, #a675b4, #ba85bc, #cc97c4);
 	background-image: linear-gradient(to right top, #c1aec5, #b198bc, #a083b4, #8c70ad, #755da6, #765ba6, #7759a7, #7857a7, #9065ad, #a675b4, #ba85bc, #cc97c4);
