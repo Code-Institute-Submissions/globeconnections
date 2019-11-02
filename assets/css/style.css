@@ -85,6 +85,12 @@ box-shadow: 5px 5px 15px 5px #2D2757;
 	color: black;
 	font-size: 2rem;
 }
+
+.mapcontainer {
+    height: 800px;
+        width: 900px;
+        margin: 0 auto;
+}
 #map {
         height: 800px;
         width: 900px;
