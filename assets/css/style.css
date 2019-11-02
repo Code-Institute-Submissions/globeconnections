@@ -155,6 +155,10 @@ box-shadow: 5px 5px 15px 5px #09030C;
  color: #210B2C;
 
 }
+#enteradestination {
+    background-color: #ECD9E9;
+    color: #210B2C;
+}
 .headingcontainer {
 	background-image: -o-linear-gradient(left bottom, #200c24, #441a3c, #6d274f, #9a365d, #c74765, #d85470, #e9627c, #fa6f88, #f2789d, #e683af, #d98dbc, #cc97c4);
 	background-image: -webkit-gradient(linear, left bottom, right top, from(#200c24), color-stop(#441a3c), color-stop(#6d274f), color-stop(#9a365d), color-stop(#c74765), color-stop(#d85470), color-stop(#e9627c), color-stop(#fa6f88), color-stop(#f2789d), color-stop(#e683af), color-stop(#d98dbc), to(#cc97c4));
