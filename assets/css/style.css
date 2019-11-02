@@ -16,6 +16,8 @@ img {
 	font-weight:bold;
 	max-width: 100%;
 	color: white;
+	background-image: -webkit-gradient(linear, left bottom, right top, from(#1e1a3a), color-stop(#27224c), color-stop(#302a5e), color-stop(#393271), color-stop(#433b84), color-stop(#4e4590), color-stop(#5a4f9c), color-stop(#655aa9), color-stop(#746ab1), color-stop(#827aba), color-stop(#918ac2), to(#a09aca));
+	background-image: -o-linear-gradient(left bottom, #1e1a3a, #27224c, #302a5e, #393271, #433b84, #4e4590, #5a4f9c, #655aa9, #746ab1, #827aba, #918ac2, #a09aca);
 	background-image: linear-gradient(to right top, #1e1a3a, #27224c, #302a5e, #393271, #433b84, #4e4590, #5a4f9c, #655aa9, #746ab1, #827aba, #918ac2, #a09aca);
 	-webkit-box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
 	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
@@ -29,6 +31,8 @@ img {
 	justify-content: center;
 	text-align: center;
 	max-width: 100%;
+	background-image: -webkit-gradient(linear, left bottom, right top, from(#1e1a3a), color-stop(#27224c), color-stop(#302a5e), color-stop(#393271), color-stop(#433b84), color-stop(#4e4590), color-stop(#5a4f9c), color-stop(#655aa9), color-stop(#746ab1), color-stop(#827aba), color-stop(#918ac2), to(#a09aca));
+	background-image: -o-linear-gradient(left bottom, #1e1a3a, #27224c, #302a5e, #393271, #433b84, #4e4590, #5a4f9c, #655aa9, #746ab1, #827aba, #918ac2, #a09aca);
 	background-image: linear-gradient(to right top, #1e1a3a, #27224c, #302a5e, #393271, #433b84, #4e4590, #5a4f9c, #655aa9, #746ab1, #827aba, #918ac2, #a09aca);
 	color: white;
 	margin: 0 auto;
@@ -71,6 +75,8 @@ img {
 	-ms-flex-item-align: center;
 	-ms-grid-row-align: center;
 	align-self: center;
+	background-image: -webkit-gradient(linear, left bottom, right top, from(#8c3838), color-stop(#a14040), color-stop(#b64949), color-stop(#cb5151), color-stop(#e15a5a), color-stop(#eb6766), color-stop(#f57373), color-stop(#ff807f), color-stop(#ff9291), color-stop(#ffa4a3), color-stop(#ffb6b5), to(#ffc7c7));
+	background-image: -o-linear-gradient(left bottom, #8c3838, #a14040, #b64949, #cb5151, #e15a5a, #eb6766, #f57373, #ff807f, #ff9291, #ffa4a3, #ffb6b5, #ffc7c7);
 	background-image: linear-gradient(to right top, #8c3838, #a14040, #b64949, #cb5151, #e15a5a, #eb6766, #f57373, #ff807f, #ff9291, #ffa4a3, #ffb6b5, #ffc7c7);
 	margin-top: 150px;
 	margin-bottom: 10px;
@@ -78,14 +84,20 @@ img {
 	font-size: 2rem;
 }
 .btn-outline-secondary-two {
+	background-image: -webkit-gradient(linear, left bottom, right top, from(#cc97c4), color-stop(#d98dbc), color-stop(#e683af), color-stop(#f2789d), color-stop(#fa6f88), color-stop(#f0637f), color-stop(#e65776), color-stop(#dc4a6e), color-stop(#be3a70), color-stop(#9d2f6f), color-stop(#7a276b), to(#572162));
+	background-image: -o-linear-gradient(left bottom, #cc97c4, #d98dbc, #e683af, #f2789d, #fa6f88, #f0637f, #e65776, #dc4a6e, #be3a70, #9d2f6f, #7a276b, #572162);
 	background-image: linear-gradient(to right top, #cc97c4, #d98dbc, #e683af, #f2789d, #fa6f88, #f0637f, #e65776, #dc4a6e, #be3a70, #9d2f6f, #7a276b, #572162);
 	color: white;
 }
 .btn-outline-secondary-two:hover {
+	background-image: -webkit-gradient(linear, left bottom, right top, from(#210b2c), color-stop(#3d2246), color-stop(#5b3b61), color-stop(#7b557e), color-stop(#9d709b), color-stop(#a373a0), color-stop(#a875a5), color-stop(#ae78aa), color-stop(#986297), color-stop(#824c85), color-stop(#6d3673), to(#572162));
+	background-image: -o-linear-gradient(left bottom, #210b2c, #3d2246, #5b3b61, #7b557e, #9d709b, #a373a0, #a875a5, #ae78aa, #986297, #824c85, #6d3673, #572162);
 	background-image: linear-gradient(to right top, #210b2c, #3d2246, #5b3b61, #7b557e, #9d709b, #a373a0, #a875a5, #ae78aa, #986297, #824c85, #6d3673, #572162);
 	color: #CC97C4;
 }
 .attractions {
+	background-image: -webkit-gradient(linear, left bottom, right top, from(#8c3838), color-stop(#7b2b3a), color-stop(#68203b), color-stop(#531839), color-stop(#3e1235), color-stop(#391136), color-stop(#331138), color-stop(#2d1139), color-stop(#371543), color-stop(#41194d), color-stop(#4c1d58), to(#572162));
+	background-image: -o-linear-gradient(left bottom, #8c3838, #7b2b3a, #68203b, #531839, #3e1235, #391136, #331138, #2d1139, #371543, #41194d, #4c1d58, #572162);
 	background-image: linear-gradient(to right top, #8c3838, #7b2b3a, #68203b, #531839, #3e1235, #391136, #331138, #2d1139, #371543, #41194d, #4c1d58, #572162);
 	height: 800px;
 	width: 100%;
@@ -103,6 +115,8 @@ img {
 	color:white;
 }
 .headingcontainer {
+	background-image: -webkit-gradient(linear, left bottom, right top, from(#200c24), color-stop(#441a3c), color-stop(#6d274f), color-stop(#9a365d), color-stop(#c74765), color-stop(#d85470), color-stop(#e9627c), color-stop(#fa6f88), color-stop(#f2789d), color-stop(#e683af), color-stop(#d98dbc), to(#cc97c4));
+	background-image: -o-linear-gradient(left bottom, #200c24, #441a3c, #6d274f, #9a365d, #c74765, #d85470, #e9627c, #fa6f88, #f2789d, #e683af, #d98dbc, #cc97c4);
 	background-image: linear-gradient(to right top, #200c24, #441a3c, #6d274f, #9a365d, #c74765, #d85470, #e9627c, #fa6f88, #f2789d, #e683af, #d98dbc, #cc97c4);
 	color: white;
 	text-align: center;
@@ -145,6 +159,8 @@ img {
 .popular-destinations-home-page {
 	margin-top: 10px;
 	margin-bottom: 10px;
+	background-image: -webkit-gradient(linear, left bottom, right top, from(#ffb9b9), color-stop(#ffaaaa), color-stop(#ff9b9a), color-stop(#ff8c8b), color-stop(#ff7c7b), color-stop(#ff807f), color-stop(#ff8482), color-stop(#ff8886), color-stop(#ff9f9e), color-stop(#ffb6b5), color-stop(#ffcdcc), to(#ffe3e3));
+	background-image: -o-linear-gradient(left bottom, #ffb9b9, #ffaaaa, #ff9b9a, #ff8c8b, #ff7c7b, #ff807f, #ff8482, #ff8886, #ff9f9e, #ffb6b5, #ffcdcc, #ffe3e3);
 	background-image: linear-gradient(to right top, #ffb9b9, #ffaaaa, #ff9b9a, #ff8c8b, #ff7c7b, #ff807f, #ff8482, #ff8886, #ff9f9e, #ffb6b5, #ffcdcc, #ffe3e3);
 	text-align: center;
 	-webkit-box-pack: center;
@@ -222,6 +238,8 @@ img {
 	color:#210B2C;
 }
 .useful-information-home-page {
+	background-image: -webkit-gradient(linear, left bottom, right top, from(#c1aec5), color-stop(#b198bc), color-stop(#a083b4), color-stop(#8c70ad), color-stop(#755da6), color-stop(#765ba6), color-stop(#7759a7), color-stop(#7857a7), color-stop(#9065ad), color-stop(#a675b4), color-stop(#ba85bc), to(#cc97c4));
+	background-image: -o-linear-gradient(left bottom, #c1aec5, #b198bc, #a083b4, #8c70ad, #755da6, #765ba6, #7759a7, #7857a7, #9065ad, #a675b4, #ba85bc, #cc97c4);
 	background-image: linear-gradient(to right top, #c1aec5, #b198bc, #a083b4, #8c70ad, #755da6, #765ba6, #7759a7, #7857a7, #9065ad, #a675b4, #ba85bc, #cc97c4);
 }
 .useful-information-home-page:hover {
@@ -230,6 +248,8 @@ img {
 /* socialmedia */
 .page-footer {
 	color: white;
+	background-image: -webkit-gradient(linear, left bottom, right top, from(#c1aec5), color-stop(#cda2c3), color-stop(#dc94ba), color-stop(#ec85a9), color-stop(#f87690), color-stop(#f9748d), color-stop(#f9718b), color-stop(#fa6f88), color-stop(#f2789d), color-stop(#e683af), color-stop(#d98dbc), to(#cc97c4));
+	background-image: -o-linear-gradient(left bottom, #c1aec5, #cda2c3, #dc94ba, #ec85a9, #f87690, #f9748d, #f9718b, #fa6f88, #f2789d, #e683af, #d98dbc, #cc97c4);
 	background-image: linear-gradient(to right top, #c1aec5, #cda2c3, #dc94ba, #ec85a9, #f87690, #f9748d, #f9718b, #fa6f88, #f2789d, #e683af, #d98dbc, #cc97c4);
 }
 .text-uppercase {
