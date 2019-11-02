@@ -1,4 +1,5 @@
-#Project Name: GLOBECONNECTIONS# ##(Interactive Frontend Development - Code Institute)##
+# Project Name: GLOBECONNECTIONS
+## (Interactive Frontend Development - Code Institute)
 
 **ABOUT GLOBECONNECTIONS:**
 
@@ -14,8 +15,8 @@
 
 **Access to the website:**
 
-###The website I created can be accessed with the following link:###
+The website I created can be accessed with the following link:
 
-##[GLOBECONNECTIONS](https://codingstudent2019.github.io/globeconnections/)##
+[GLOBECONNECTIONS](https://codingstudent2019.github.io/globeconnections/)
 
-###![GLOBECONNECTIONS](multi-device-website-mock-up.png)###
+![GLOBECONNECTIONS](../images/multi-device-website-mock-up.png)
