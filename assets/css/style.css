@@ -84,20 +84,16 @@ img {
 	font-size: 2rem;
 }
 .btn-outline-secondary-two {
-<<<<<<< HEAD
     background-image: linear-gradient(to right top, #0c0410, #120616, #16071b, #1a0920, #1d0a25, #25142e, #2f1c38, #382542, #4a3953, #5d4d65, #716378, #85798b);
 		color: white;
         border: 5px solid #FF6666;
 }
 .btn-outline-secondary-two:hover {
-    background-image: linear-gradient(to right top, #0c0410, #120616, #16071b, #1a0920, #1d0a25, #25142e, #2f1c38, #382542, #4a3953, #5d4d65, #716378, #85798b);
 		color: #CC97C4;
         border: 5px solid #FF6666;
-=======
 	background-image: -webkit-gradient(linear, left bottom, right top, from(#cc97c4), color-stop(#d98dbc), color-stop(#e683af), color-stop(#f2789d), color-stop(#fa6f88), color-stop(#f0637f), color-stop(#e65776), color-stop(#dc4a6e), color-stop(#be3a70), color-stop(#9d2f6f), color-stop(#7a276b), to(#572162));
 	background-image: -o-linear-gradient(left bottom, #cc97c4, #d98dbc, #e683af, #f2789d, #fa6f88, #f0637f, #e65776, #dc4a6e, #be3a70, #9d2f6f, #7a276b, #572162);
 	background-image: linear-gradient(to right top, #cc97c4, #d98dbc, #e683af, #f2789d, #fa6f88, #f0637f, #e65776, #dc4a6e, #be3a70, #9d2f6f, #7a276b, #572162);
-	color: white;
 }
 .btn-outline-secondary-two:hover {
 	background-image: -webkit-gradient(linear, left bottom, right top, from(#210b2c), color-stop(#3d2246), color-stop(#5b3b61), color-stop(#7b557e), color-stop(#9d709b), color-stop(#a373a0), color-stop(#a875a5), color-stop(#ae78aa), color-stop(#986297), color-stop(#824c85), color-stop(#6d3673), to(#572162));
@@ -122,8 +118,8 @@ img {
 	margin: 0 auto;
 }
 .custom-control-label {
-	color:white;
->>>>>>> 1916a8f8731b354494bdf30a5c580f22a2fe45bf
+color:#210B2C;
+    background-color: #CC97C4;
 }
 .headingcontainer {
 	background-image: -webkit-gradient(linear, left bottom, right top, from(#200c24), color-stop(#441a3c), color-stop(#6d274f), color-stop(#9a365d), color-stop(#c74765), color-stop(#d85470), color-stop(#e9627c), color-stop(#fa6f88), color-stop(#f2789d), color-stop(#e683af), color-stop(#d98dbc), to(#cc97c4));
