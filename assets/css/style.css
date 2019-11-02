@@ -56,6 +56,8 @@ img {
 	background-color: white;
 	color: white;
 	margin: 0 auto;
+    -webkit-box-shadow: 5px 5px 15px 5px #2D2757;
+box-shadow: 5px 5px 15px 5px #2D2757;
 }
 .nav-item:hover {
 	background-color: #CC97C4;
@@ -91,6 +93,7 @@ img {
         border: 5px solid #FF6666;
         -webkit-box-shadow: 0px 0px 5px 5px #FF9D9D;
 box-shadow: 0px 0px 5px 5px #FF9D9D;
+border-radius:10%;
 }
 .btn-outline-secondary-two:hover {
 		color: #CC97C4;
@@ -100,6 +103,7 @@ box-shadow: 0px 0px 5px 5px #FF9D9D;
 	background-image: linear-gradient(to right top, #cc97c4, #d98dbc, #e683af, #f2789d, #fa6f88, #f0637f, #e65776, #dc4a6e, #be3a70, #9d2f6f, #7a276b, #572162);
 -webkit-box-shadow: 0px 0px 5px 5px #FF9D9D;
 box-shadow: 0px 0px 5px 5px #FF9D9D;
+border-radius:10%;
 }
 .btn-outline-secondary-two:hover {
 	background-image: -o-linear-gradient(left bottom, #210b2c, #3d2246, #5b3b61, #7b557e, #9d709b, #a373a0, #a875a5, #ae78aa, #986297, #824c85, #6d3673, #572162);
@@ -125,17 +129,31 @@ box-shadow: 0px 0px 5px 5px #FF9D9D;
     -webkit-box-shadow: 5px 5px 15px 5px #301236;
 box-shadow: 5px 5px 15px 5px #301236;
 }
-.custom-control-input {
-    color:#51469E;
+.custom-radio {
+    background-color:#FFD5D5;
+    outline: 3px solid #FFD5D5;
+outline-offset: 2px;
+
+}
+.custom-radio:hover {
+    background-color: #210B2C;
+ color: #FFD5D5;
+
 }
 .custom-control-label {
-color:#210B2C;
-    background-color: #FFC7C7;
+color:#FFD5D5;
+    background-color: #35213F;
     padding: 15px;
-    outline: 2px solid #210B2C;
+    outline: 2px solid #FF6666;
 outline-offset: -7px;
 -webkit-box-shadow: 5px 5px 15px 5px #09030C;
 box-shadow: 5px 5px 15px 5px #09030C;
+
+}
+.custom-control-label:hover {
+ background-color: #FFB9B9;
+ color: #210B2C;
+
 }
 .headingcontainer {
 	background-image: -o-linear-gradient(left bottom, #200c24, #441a3c, #6d274f, #9a365d, #c74765, #d85470, #e9627c, #fa6f88, #f2789d, #e683af, #d98dbc, #cc97c4);
