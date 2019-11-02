@@ -19,4 +19,8 @@ The website I created can be accessed with the following link:
 
 [GLOBECONNECTIONS](https://codingstudent2019.github.io/globeconnections/)
 
-![GLOBECONNECTIONS](/images/multi-device-website-mock-up.png)
+![GLOBECONNECTIONS](/assets/images/multi-device-website-mock-up.png "Multi-device mock-up")
+
+### UX
+
+
