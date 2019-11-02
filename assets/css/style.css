@@ -86,14 +86,11 @@ box-shadow: 5px 5px 15px 5px #2D2757;
 	font-size: 2rem;
 }
 #map {
-        height: 100%;
+        height: 800px;
+        width: 900px;
+        margin: 0 auto;
       }
 
-      html, body {
-        height: 100%;
-        margin: 0;
-        padding: 0;
-      }
       #description {
         font-family: Roboto;
         font-size: 15px;
