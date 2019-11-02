@@ -11,12 +11,12 @@ img {
 /* html and bodyof html */
 /* navbar */
 .fixed-top {
-    margin-bottom: 100px;
+	margin-bottom: 100px;
 	font-size:1rem;
 	font-weight:bold;
 	max-width: 100%;
-    color: white;
-    background-image: linear-gradient(to right top, #1e1a3a, #27224c, #302a5e, #393271, #433b84, #4e4590, #5a4f9c, #655aa9, #746ab1, #827aba, #918ac2, #a09aca);
+	color: white;
+	background-image: linear-gradient(to right top, #1e1a3a, #27224c, #302a5e, #393271, #433b84, #4e4590, #5a4f9c, #655aa9, #746ab1, #827aba, #918ac2, #a09aca);
 	-webkit-box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
 	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
 }
@@ -30,8 +30,8 @@ img {
 	text-align: center;
 	max-width: 100%;
 	background-image: linear-gradient(to right top, #1e1a3a, #27224c, #302a5e, #393271, #433b84, #4e4590, #5a4f9c, #655aa9, #746ab1, #827aba, #918ac2, #a09aca);
-    color: white;
-    margin: 0 auto;
+	color: white;
+	margin: 0 auto;
 }
 .navbartogglericon {
 	color: white;
@@ -47,25 +47,22 @@ img {
 	outline-color:rgba(0,0,0,0.99);
 	outline-width:5px;
 }
-.nav-item,
-.nav-link {
+.nav-item,.nav-link {
 	font: 1rem;
 	background-color: white;
 	color: white;
 	margin: 0 auto;
 }
 .nav-item:hover {
-	background-color: 	#CC97C4;
+	background-color: #CC97C4;
 	color: white;
 }
 /* navbar */
 /* Safari 4.0 - 8.0 */
-
 .navbar {
 	background-color: #51469E;
-    color: white;
-    }
-
+	color: white;
+}
 .headingforattractionssearchform {
 	text-align: center;
 	-webkit-box-pack: center;
@@ -81,42 +78,42 @@ img {
 	font-size: 2rem;
 }
 .btn-outline-secondary-two {
-    background-image: linear-gradient(to right top, #cc97c4, #d98dbc, #e683af, #f2789d, #fa6f88, #f0637f, #e65776, #dc4a6e, #be3a70, #9d2f6f, #7a276b, #572162);
-		color: white;
+	background-image: linear-gradient(to right top, #cc97c4, #d98dbc, #e683af, #f2789d, #fa6f88, #f0637f, #e65776, #dc4a6e, #be3a70, #9d2f6f, #7a276b, #572162);
+	color: white;
 }
 .btn-outline-secondary-two:hover {
-    background-image: linear-gradient(to right top, #210b2c, #3d2246, #5b3b61, #7b557e, #9d709b, #a373a0, #a875a5, #ae78aa, #986297, #824c85, #6d3673, #572162);
-		color: #CC97C4;
+	background-image: linear-gradient(to right top, #210b2c, #3d2246, #5b3b61, #7b557e, #9d709b, #a373a0, #a875a5, #ae78aa, #986297, #824c85, #6d3673, #572162);
+	color: #CC97C4;
 }
 .attractions {
-background-image: linear-gradient(to right top, #8c3838, #7b2b3a, #68203b, #531839, #3e1235, #391136, #331138, #2d1139, #371543, #41194d, #4c1d58, #572162);
-height: 800px;
-width: 100%;
-text-align: center;
+	background-image: linear-gradient(to right top, #8c3838, #7b2b3a, #68203b, #531839, #3e1235, #391136, #331138, #2d1139, #371543, #41194d, #4c1d58, #572162);
+	height: 800px;
+	width: 100%;
+	text-align: center;
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
 	justify-content: center;
 	-webkit-box-align: center;
 	-ms-flex-align: center;
 	align-items: center;
-    padding: 20px;
-    margin: 0 auto;
+	padding: 20px;
+	margin: 0 auto;
 }
 .custom-control-label {
-    color:white;
+	color:white;
 }
 .headingcontainer {
-    background-image: linear-gradient(to right top, #200c24, #441a3c, #6d274f, #9a365d, #c74765, #d85470, #e9627c, #fa6f88, #f2789d, #e683af, #d98dbc, #cc97c4);
-    color: white;
-    text-align: center;
+	background-image: linear-gradient(to right top, #200c24, #441a3c, #6d274f, #9a365d, #c74765, #d85470, #e9627c, #fa6f88, #f2789d, #e683af, #d98dbc, #cc97c4);
+	color: white;
+	text-align: center;
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
 	justify-content: center;
 	-webkit-box-align: center;
 	-ms-flex-align: center;
 	align-items: center;
-    margin-top: 20px;
-   margin-bottom: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
 }
 .mb-3,.form-control {
 	width: 100%;
@@ -131,7 +128,6 @@ text-align: center;
 	-ms-flex-align: center;
 	align-items: center;
 }
-
 /* popular destinations */
 .lead-populardestinationstitle {
 	margin-top: 60px;
@@ -159,7 +155,7 @@ text-align: center;
 	align-items: center;
 }
 .popular-destinations-image-overlay-card,.card-title-popular-destinations {
-    padding: 5px;
+	padding: 5px;
 	font-size: 1rem;
 	color: rgba(255,255,255,1.0);
 	margin-top: 10px;
@@ -175,7 +171,7 @@ text-align: center;
 }
 /* popular destinations */
 .card-title-package-deals {
-    padding: 5px;
+	padding: 5px;
 	font-size: 1rem;
 	color: rgba(255,255,255,1.0);
 	margin-top: 10px;
@@ -189,7 +185,6 @@ text-align: center;
 	align-items: center;
 	background-color: rgba(255,102,102,0.65);
 }
-
 .bg-light-package-deals {
 	font-size: 1rem;
 	margin-top: 10px;
