@@ -115,7 +115,7 @@ border-radius:10%;
 	background-image: -o-linear-gradient(left bottom, #8c3838, #7b2b3a, #68203b, #531839, #3e1235, #391136, #331138, #2d1139, #371543, #41194d, #4c1d58, #572162);
 	background-image: -webkit-gradient(linear, left bottom, right top, from(#8c3838), color-stop(#7b2b3a), color-stop(#68203b), color-stop(#531839), color-stop(#3e1235), color-stop(#391136), color-stop(#331138), color-stop(#2d1139), color-stop(#371543), color-stop(#41194d), color-stop(#4c1d58), to(#572162));
 	background-image: linear-gradient(to right top, #8c3838, #7b2b3a, #68203b, #531839, #3e1235, #391136, #331138, #2d1139, #371543, #41194d, #4c1d58, #572162);
-	height: 150px;
+	height: 170px;
 	width: 100%;
 	text-align: center;
 	-webkit-box-pack: center;
@@ -158,6 +158,14 @@ box-shadow: 5px 5px 15px 5px #09030C;
 #enteradestination {
     background-color: #ECD9E9;
     color: #210B2C;
+}
+#map {
+    height:800px;
+    width:900px;
+    border: 5px solid #210B2C;
+    margin: 0 auto;
+    padding:20px;
+    background-image: linear-gradient(to right top, #ffb9b9, #ffaaaa, #ff9b9a, #ff8c8b, #ff7c7b, #fe777f, #fc7383, #fa6f88, #f2789d, #e683af, #d98dbc, #cc97c4);
 }
 .headingcontainer {
 	background-image: -o-linear-gradient(left bottom, #200c24, #441a3c, #6d274f, #9a365d, #c74765, #d85470, #e9627c, #fa6f88, #f2789d, #e683af, #d98dbc, #cc97c4);
