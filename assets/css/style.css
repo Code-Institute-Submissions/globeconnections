@@ -85,88 +85,85 @@ box-shadow: 5px 5px 15px 5px #2D2757;
 	color: black;
 	font-size: 2rem;
 }
-.btn-outline-secondary-two {
-    background-image: -webkit-gradient(linear, left bottom, right top, from(#0c0410), color-stop(#120616), color-stop(#16071b), color-stop(#1a0920), color-stop(#1d0a25), color-stop(#25142e), color-stop(#2f1c38), color-stop(#382542), color-stop(#4a3953), color-stop(#5d4d65), color-stop(#716378), to(#85798b));
-    background-image: -o-linear-gradient(left bottom, #0c0410, #120616, #16071b, #1a0920, #1d0a25, #25142e, #2f1c38, #382542, #4a3953, #5d4d65, #716378, #85798b);
-    background-image: linear-gradient(to right top, #0c0410, #120616, #16071b, #1a0920, #1d0a25, #25142e, #2f1c38, #382542, #4a3953, #5d4d65, #716378, #85798b);
-		color: white;
-        border: 5px solid #FF6666;
-        -webkit-box-shadow: 0px 0px 5px 5px #FF9D9D;
-box-shadow: 0px 0px 5px 5px #FF9D9D;
-border-radius:10%;
-}
-.btn-outline-secondary-two:hover {
-		color: #CC97C4;
-        border: 5px solid #FF6666;
-	background-image: -o-linear-gradient(left bottom, #cc97c4, #d98dbc, #e683af, #f2789d, #fa6f88, #f0637f, #e65776, #dc4a6e, #be3a70, #9d2f6f, #7a276b, #572162);
-	background-image: -webkit-gradient(linear, left bottom, right top, from(#cc97c4), color-stop(#d98dbc), color-stop(#e683af), color-stop(#f2789d), color-stop(#fa6f88), color-stop(#f0637f), color-stop(#e65776), color-stop(#dc4a6e), color-stop(#be3a70), color-stop(#9d2f6f), color-stop(#7a276b), to(#572162));
-	background-image: linear-gradient(to right top, #cc97c4, #d98dbc, #e683af, #f2789d, #fa6f88, #f0637f, #e65776, #dc4a6e, #be3a70, #9d2f6f, #7a276b, #572162);
--webkit-box-shadow: 0px 0px 5px 5px #FF9D9D;
-box-shadow: 0px 0px 5px 5px #FF9D9D;
-border-radius:10%;
-}
-.btn-outline-secondary-two:hover {
-	background-image: -o-linear-gradient(left bottom, #210b2c, #3d2246, #5b3b61, #7b557e, #9d709b, #a373a0, #a875a5, #ae78aa, #986297, #824c85, #6d3673, #572162);
-	background-image: -webkit-gradient(linear, left bottom, right top, from(#210b2c), color-stop(#3d2246), color-stop(#5b3b61), color-stop(#7b557e), color-stop(#9d709b), color-stop(#a373a0), color-stop(#a875a5), color-stop(#ae78aa), color-stop(#986297), color-stop(#824c85), color-stop(#6d3673), to(#572162));
-	background-image: linear-gradient(to right top, #210b2c, #3d2246, #5b3b61, #7b557e, #9d709b, #a373a0, #a875a5, #ae78aa, #986297, #824c85, #6d3673, #572162);
-	color: #CC97C4;
-}
-.attractions {
-	background-image: -o-linear-gradient(left bottom, #8c3838, #7b2b3a, #68203b, #531839, #3e1235, #391136, #331138, #2d1139, #371543, #41194d, #4c1d58, #572162);
-	background-image: -webkit-gradient(linear, left bottom, right top, from(#8c3838), color-stop(#7b2b3a), color-stop(#68203b), color-stop(#531839), color-stop(#3e1235), color-stop(#391136), color-stop(#331138), color-stop(#2d1139), color-stop(#371543), color-stop(#41194d), color-stop(#4c1d58), to(#572162));
-	background-image: linear-gradient(to right top, #8c3838, #7b2b3a, #68203b, #531839, #3e1235, #391136, #331138, #2d1139, #371543, #41194d, #4c1d58, #572162);
-	height: 170px;
-	width: 100%;
-	text-align: center;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	-webkit-box-align: center;
-	-ms-flex-align: center;
-	align-items: center;
-	padding: 20px;
-	margin: 0 auto;
-    -webkit-box-shadow: 5px 5px 15px 5px #301236;
-box-shadow: 5px 5px 15px 5px #301236;
-}
-.custom-radio {
-    background-color:#FFD5D5;
-    outline: 3px solid #FFD5D5;
-outline-offset: 2px;
-
-}
-.custom-radio:hover {
-    background-color: #210B2C;
- color: #FFD5D5;
-
-}
-.custom-control-label {
-color:#FFD5D5;
-    background-color: #35213F;
-    padding: 15px;
-    outline: 2px solid #FF6666;
-outline-offset: -7px;
--webkit-box-shadow: 5px 5px 15px 5px #09030C;
-box-shadow: 5px 5px 15px 5px #09030C;
-
-}
-.custom-control-label:hover {
- background-color: #FFB9B9;
- color: #210B2C;
-
-}
-#enteradestination {
-    background-color: #ECD9E9;
-    color: #210B2C;
-}
 #map {
-    height:800px;
-    width:900px;
-    border: 5px solid #210B2C;
-    margin: 0 auto;
-    padding:20px;
-    background-image: linear-gradient(to right top, #ffb9b9, #ffaaaa, #ff9b9a, #ff8c8b, #ff7c7b, #fe777f, #fc7383, #fa6f88, #f2789d, #e683af, #d98dbc, #cc97c4);
-}
+        height: 100%;
+      }
+
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #description {
+        font-family: Roboto;
+        font-size: 15px;
+        font-weight: 300;
+      }
+
+      #infowindow-content .title {
+        font-weight: bold;
+      }
+
+      #infowindow-content {
+        display: none;
+      }
+
+      #map #infowindow-content {
+        display: inline;
+      }
+
+      .pac-card {
+        margin: 10px 10px 0 0;
+        border-radius: 2px 0 0 2px;
+        box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        outline: none;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+        background-color: #fff;
+        font-family: Roboto;
+      }
+
+      #pac-container {
+        padding-bottom: 12px;
+        margin-right: 12px;
+      }
+
+      .pac-controls {
+        display: inline-block;
+        padding: 5px 11px;
+      }
+
+      .pac-controls label {
+        font-family: Roboto;
+        font-size: 13px;
+        font-weight: 300;
+      }
+
+      #pac-input {
+        background-color: #fff;
+        font-family: Roboto;
+        font-size: 15px;
+        font-weight: 300;
+        margin-left: 12px;
+        padding: 0 11px 0 13px;
+        text-overflow: ellipsis;
+        width: 400px;
+      }
+
+      #pac-input:focus {
+        border-color: #4d90fe;
+      }
+
+      #title {
+        color: #fff;
+        background-color: #4d90fe;
+        font-size: 25px;
+        font-weight: 500;
+        padding: 6px 12px;
+      }
+      #target {
+        width: 345px;
+      }
 .headingcontainer {
 	background-image: -o-linear-gradient(left bottom, #200c24, #441a3c, #6d274f, #9a365d, #c74765, #d85470, #e9627c, #fa6f88, #f2789d, #e683af, #d98dbc, #cc97c4);
 	background-image: -webkit-gradient(linear, left bottom, right top, from(#200c24), color-stop(#441a3c), color-stop(#6d274f), color-stop(#9a365d), color-stop(#c74765), color-stop(#d85470), color-stop(#e9627c), color-stop(#fa6f88), color-stop(#f2789d), color-stop(#e683af), color-stop(#d98dbc), to(#cc97c4));
