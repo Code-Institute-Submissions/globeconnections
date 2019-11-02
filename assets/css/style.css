@@ -56,8 +56,8 @@ img {
 	background-color: white;
 	color: white;
 	margin: 0 auto;
-    -webkit-box-shadow: 5px 5px 15px 5px #2D2757;
-box-shadow: 5px 5px 15px 5px #2D2757;
+	-webkit-box-shadow: 5px 5px 15px 5px #2D2757;
+	box-shadow: 5px 5px 15px 5px #2D2757;
 }
 .nav-item:hover {
 	background-color: #CC97C4;
@@ -85,90 +85,81 @@ box-shadow: 5px 5px 15px 5px #2D2757;
 	color: black;
 	font-size: 2rem;
 }
-
 .mapcontainer {
-    height: 800px;
-        width: 900px;
-        margin: 0 auto;
+	height: 800px;
+	width: 900px;
+	margin: 0 auto;
 }
 #map {
-        height: 800px;
-        width: 900px;
-        margin: 0 auto;
-      }
-
-      #description {
-        font-family: Roboto;
-        font-size: 15px;
-        font-weight: 300;
-      }
-
-      #infowindow-content .title {
-        font-weight: bold;
-      }
-
-      #infowindow-content {
-        display: none;
-      }
-
-      #map #infowindow-content {
-        display: inline;
-      }
-
-      .pac-card {
-        margin: 10px 10px 0 0;
-        border-radius: 2px 0 0 2px;
-        box-sizing: border-box;
-        -moz-box-sizing: border-box;
-        outline: none;
-        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
-        background-color: #fff;
-        font-family: Roboto;
-      }
-
-      #pac-container {
-        padding-bottom: 12px;
-        margin-right: 12px;
-      }
-
-      .pac-controls {
-        display: inline-block;
-        padding: 5px 11px;
-      }
-
-      .pac-controls label {
-        font-family: Roboto;
-        font-size: 13px;
-        font-weight: 300;
-      }
-
-      #pac-input {
-        background-color: #fff;
-        font-family: Roboto;
-        font-size: 15px;
-        font-weight: 300;
-        margin: 0 auto;
-        padding: 0 11px 0 13px;
-        text-overflow: ellipsis;
-        width: 600px;
-        height: 50px;
-        text-align: center;
-      }
-
-      #pac-input:focus {
-        border-color: #4d90fe;
-      }
-
-      #title {
-        color: #fff;
-        background-color: #4d90fe;
-        font-size: 25px;
-        font-weight: 500;
-        padding: 6px 12px;
-      }
-      #target {
-        width: 345px;
-      }
+	height: 800px;
+	width: 900px;
+	margin: 0 auto;
+}
+#description {
+	font-family: Roboto;
+	font-size: 15px;
+	font-weight: 300;
+}
+#infowindow-content .title {
+	font-weight: bold;
+}
+#infowindow-content {
+	display: none;
+}
+#map #infowindow-content {
+	display: inline;
+}
+.pac-card {
+	margin: 10px 10px 0 0;
+	border-radius: 2px 0 0 2px;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	outline: none;
+	-webkit-box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+	box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+	background-color: #fff;
+	font-family: Roboto;
+}
+#pac-container {
+	padding-bottom: 12px;
+	margin-right: 12px;
+}
+.pac-controls {
+	display: inline-block;
+	padding: 5px 11px;
+}
+.pac-controls label {
+	font-family: Roboto;
+	font-size: 13px;
+	font-weight: 300;
+}
+#pac-input {
+	background-color: #fff;
+	font-family: Roboto;
+	font-size: 15px;
+	font-weight: 300;
+	margin: 0 auto;
+	padding: 0 11px 0 13px;
+	-o-text-overflow: ellipsis;
+	text-overflow: ellipsis;
+	width: 600px;
+	height: 50px;
+	text-align: center;
+}
+#pac-input:focus {
+	border-color: #4d90fe;
+}
+#title {
+	color: #fff;
+	background-color: #4d90fe;
+	font-size: 25px;
+	font-weight: 500;
+	padding: 6px 12px;
+}
+#target {
+	width: 345px;
+}
 .headingcontainer {
 	background-image: -o-linear-gradient(left bottom, #200c24, #441a3c, #6d274f, #9a365d, #c74765, #d85470, #e9627c, #fa6f88, #f2789d, #e683af, #d98dbc, #cc97c4);
 	background-image: -webkit-gradient(linear, left bottom, right top, from(#200c24), color-stop(#441a3c), color-stop(#6d274f), color-stop(#9a365d), color-stop(#c74765), color-stop(#d85470), color-stop(#e9627c), color-stop(#fa6f88), color-stop(#f2789d), color-stop(#e683af), color-stop(#d98dbc), to(#cc97c4));
@@ -227,7 +218,7 @@ box-shadow: 5px 5px 15px 5px #2D2757;
 }
 .popular-destinations-image-overlay-card,.card-title-popular-destinations {
 	-webkit-box-shadow:5px 5px 15px 5px #461C1C;
-	        box-shadow:5px 5px 15px 5px #461C1C;
+	box-shadow:5px 5px 15px 5px #461C1C;
 	font-size: 1rem;
 	color: rgba(255,255,255,1.0);
 	margin-top: 10px;
@@ -243,8 +234,8 @@ box-shadow: 5px 5px 15px 5px #2D2757;
 }
 /* popular destinations */
 .card-title-package-deals {
-    -webkit-box-shadow:5px 5px 15px 5px #461C1C;
-            box-shadow:5px 5px 15px 5px #461C1C;
+	-webkit-box-shadow:5px 5px 15px 5px #461C1C;
+	box-shadow:5px 5px 15px 5px #461C1C;
 	padding: 5px;
 	font-size: 1rem;
 	color: rgba(255,255,255,1.0);
@@ -260,8 +251,8 @@ box-shadow: 5px 5px 15px 5px #2D2757;
 	background-color: rgba(255,102,102,0.65);
 }
 .bg-light-package-deals {
-    -webkit-box-shadow:5px 5px 15px 5px #461C1C;
-            box-shadow:5px 5px 15px 5px #461C1C;
+	-webkit-box-shadow:5px 5px 15px 5px #461C1C;
+	box-shadow:5px 5px 15px 5px #461C1C;
 	font-size: 1rem;
 	margin-top: 10px;
 	margin-bottom: 10px;
@@ -274,8 +265,8 @@ box-shadow: 5px 5px 15px 5px #2D2757;
 	align-items: center;
 }
 .package-deals-home-page {
-    -webkit-box-shadow:5px 5px 15px 5px #461C1C;
-            box-shadow:5px 5px 15px 5px #461C1C;
+	-webkit-box-shadow:5px 5px 15px 5px #461C1C;
+	box-shadow:5px 5px 15px 5px #461C1C;
 	font-size: 1rem;
 	text-align: center;
 	-webkit-box-pack: center;
@@ -286,8 +277,8 @@ box-shadow: 5px 5px 15px 5px #2D2757;
 	align-items: center;
 }
 .bg-white-useful-information,.card-title-useful-information {
-    -webkit-box-shadow:5px 5px 15px 5px #210B2C;
-            box-shadow:5px 5px 15px 5px #210B2C;
+	-webkit-box-shadow:5px 5px 15px 5px #210B2C;
+	box-shadow:5px 5px 15px 5px #210B2C;
 	font-size: 1rem;
 	margin-top: 10px;
 	margin-bottom: 10px;
@@ -302,8 +293,8 @@ box-shadow: 5px 5px 15px 5px #2D2757;
 	color:#210B2C;
 }
 .useful-information-home-page {
-    -webkit-box-shadow:5px 5px 15px 5px #210B2C;
-            box-shadow:5px 5px 15px 5px #210B2C;
+	-webkit-box-shadow:5px 5px 15px 5px #210B2C;
+	box-shadow:5px 5px 15px 5px #210B2C;
 	background-image: -o-linear-gradient(left bottom, #c1aec5, #b198bc, #a083b4, #8c70ad, #755da6, #765ba6, #7759a7, #7857a7, #9065ad, #a675b4, #ba85bc, #cc97c4);
 	background-image: -webkit-gradient(linear, left bottom, right top, from(#c1aec5), color-stop(#b198bc), color-stop(#a083b4), color-stop(#8c70ad), color-stop(#755da6), color-stop(#765ba6), color-stop(#7759a7), color-stop(#7857a7), color-stop(#9065ad), color-stop(#a675b4), color-stop(#ba85bc), to(#cc97c4));
 	background-image: linear-gradient(to right top, #c1aec5, #b198bc, #a083b4, #8c70ad, #755da6, #765ba6, #7759a7, #7857a7, #9065ad, #a675b4, #ba85bc, #cc97c4);
