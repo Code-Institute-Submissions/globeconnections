@@ -84,10 +84,10 @@ img {
 	margin-bottom: 80px;
 	color: #210B2C;
 	font-size: 2rem;
-    outline: 20px solid #2D2757;
-outline-offset: 35px;
--webkit-box-shadow: 5px 5px 15px 5px #301236;
-box-shadow: 5px 5px 15px 5px #301236;
+	outline: 20px solid #2D2757;
+	outline-offset: 35px;
+	-webkit-box-shadow: 5px 5px 15px 5px #301236;
+	box-shadow: 5px 5px 15px 5px #301236;
 }
 .mapcontainer {
 	height: 800px;
@@ -179,10 +179,10 @@ box-shadow: 5px 5px 15px 5px #301236;
 	margin-top: 70px;
 	margin-bottom: 70px;
 	font-size: 2rem;
-    outline: 20px solid #210B2C;
-outline-offset: 35px;
--webkit-box-shadow: 5px 5px 15px 5px #2D2757;
-box-shadow: 5px 5px 15px 5px #2D2757;
+	outline: 20px solid #210B2C;
+	outline-offset: 35px;
+	-webkit-box-shadow: 5px 5px 15px 5px #2D2757;
+	box-shadow: 5px 5px 15px 5px #2D2757;
 }
 .mb-3,.form-control {
 	width: 100%;
