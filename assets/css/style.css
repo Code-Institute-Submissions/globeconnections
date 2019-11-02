@@ -140,7 +140,8 @@ img {
 	align-items: center;
 }
 .popular-destinations-image-overlay-card,.card-title-popular-destinations {
-	font-size: 2rem;
+    padding: 5px;
+	font-size: 1rem;
 	color: rgba(255,255,255,1.0);
 	margin-top: 10px;
 	margin-bottom: 10px;
@@ -155,6 +156,7 @@ img {
 }
 /* popular destinations */
 .card-title-package-deals {
+    padding: 5px;
 	font-size: 1rem;
 	color: rgba(255,255,255,1.0);
 	margin-top: 10px;
