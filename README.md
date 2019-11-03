@@ -135,85 +135,27 @@ These devtools were tested on the only page in this website *(index.html)* and a
 
  ## DEPLOYMENT:
 
-**This website has been deployed using the Github platform at the following address:**
-
-[GITHUB](https://github.com/CodingStudent2019/globeconnections "web hosting platform").
-
-*The steps taken to deploy this website on Github are as follows:*
-
-Create a repository: Head over to GitHub and create a new repository named TejalSaldanha.github.io, where TejalSaldanha is your Username (or organization name) on GitHub.
-If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.
-
-Clone the repository - Go to the folder where you want to store your project, and clone the new repository: git clone https://github.com/TejalSaldanha/TejalSaldanha.github.io.
-donmiguelruiz - the repository that we created.
-Push it - Add, commit, and push your changes:
-git init
-
-git add .
-
-git commit -m "Initial commit"
-
-git push origin master
-
-5)...and you're done! - Fire up a browser and go to https://tejalsaldanha.github.io/donmiguelruiz/
-
-For more details about deploying your website, please visit the following links:
-
-Github
-
-The steps taken to access the deployed repository are as follows:
-
-To select master or gh-pages as your publishing source, you must have the branch present in your repository. If you don't have a master or gh-pages branch, you can create them and then return to source settings to change your publishing source.
-
-On GitHub, navigate to the donmiguelruiz repository.
-Under your repository name, click Settings.
-Use the Select source drop-down menu to select master or gh-pages as your GitHub Pages publishing source.
-Click Save.
-Publishing your GitHub Pages site from a /docs folder on your master branch
-
-To publish your site's source files, you must have a master branch. After confirming that, follow the steps listed below:
-
-(1) On GitHub, navigate to the donmiguelruiz repository.
-
-(2) Create a folder in the root of your repository on the master branch called /docs.
-
-(3) Under your repository name, click Settings.
-
-(4) Use the Select source drop-down menu to select master branch as your GitHub Pages publishing source.
-
-(5) Click Save.
-
-For more details about deploying your website, please visit the following links:
-
-Github
-
-If the code needs to be run locally, please use the following method step-by-step (This procedure assumes you have already created a repository on GitHub, or have an existing repository owned by someone else you'd like to contribute to.):
-
-Cloning a repository:
-When you create a repository on GitHub, it exists as a remote repository. You can clone your repository to create a local copy on your computer and sync between the two locations.
-This procedure assumes you have already created a repository on GitHub, or have an existing repository owned by someone else you'd like to contribute to.
-(1) On GitHub, navigate to the main page of the repository.
-Note: If the repository is empty, you can manually copy the repository page's URL from your browser and skip to step four.
-
-(2) Under the repository name, click Clone or download.
-
-(3) In the Clone with HTTPs section, click to copy the clone URL for the repository.
-
-(4) Open Git Bash.
-
-(5) Change the current working directory to the location where you want the cloned directory to be made.
-
-(6) Type git clone, and then paste the URL you copied in Step 2.
-
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-
-(7) Press Enter. Your local clone will be created.
-
-Cloning a repository to GitHub Desktop On GitHub, navigate to the main page of the repository.
-
-Under your repository name, click to clone your repository in Desktop. Follow the prompts in GitHub Desktop to complete the clone. For more information, see "Cloning a repository from GitHub to GitHub Desktop."
-
-For further details, please visit the following link:
+To deploy this page to GitHub Pages from your [GitHub repository](https://github.com/CodingStudent2019/globeconnections "web hosting platform"), the following steps were taken:
+1. Log into GitHub.
+2. From the list of repositories on the screen, select **CodingStudent2019/globeconnections**.
+3. From the menu items near the top of the page, select **Settings**.
+4. Scroll down to the **GitHub Pages** section.
+5. Under **Source** click the drop-down menu labelled **None** and select **Master Branch**
+6. On selecting Master Branch the page is automatically refreshed, the website is now deployed.
+7. Scroll back down to the **GitHub Pages** section to retrieve the link to the deployed website.
+​
+### How to run this project locally
+​
+To clone this project from GitHub:
+1. At the top of this repository, click the green button **Clone or download**.
+2. In the Clone with HTTPs section, copy the clone URL for the repository.
+3. Open your favourite terminal (cmd, powershell, bash, git bash, etc.)
+4. Change the current working directory to the location where you want the cloned directory to be made.
+5. Type `git clone`, and then paste the URL you copied in Step 2.
+```console
+git clone https://github.com/CodingStudent2019/globeconnections
+```
+6. Press Enter. Your local clone will be created.
 
  ## CREDITS:
 
