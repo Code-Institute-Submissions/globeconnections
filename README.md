@@ -1,7 +1,7 @@
-# Project Name: GLOBECONNECTIONS
-## (Interactive Frontend Development - Code Institute)
+> # Project Name: GLOBECONNECTIONS
+> ## (Interactive Frontend Development - Code Institute)
 
-**ABOUT GLOBECONNECTIONS:**
+> **ABOUT GLOBECONNECTIONS:**
 
 *Here at Globeconnections, we believe that fulfilling travel experiences begin not only with choosing the right destination, but having the right state of mind.*
 
@@ -13,7 +13,7 @@
 
 *And of course, reminding them to bring snacks on long flights. (Always keep some granola in your carry-on, trust us.)*
 
-**Access to the website:**
+> **Access to the website:**
 
 The website I created can be accessed via the following link:
 
@@ -21,7 +21,7 @@ The website I created can be accessed via the following link:
 
 ![GLOBECONNECTIONS](/assets/images/multi-device-website-mock-up.png "Multi-device mock-up")
 
-### UX
+> ## UX
 
 - The reason behind creating this website is to allow site navigators to choose a package for their next holiday which is best suited to their individual requirements.
 
@@ -48,17 +48,17 @@ The website I created can be accessed via the following link:
 
 **The wireframes have been attached to a separate folder named ***Wireframes*** within this Github repository**.
 
-### FEATURES:
+> ## FEATURES:
 
-#### Existing Features:
+### Existing Features:
 
 *The active/functional features in this website are as follows:*
 
 **a. The Google Maps Search functionality, which allows site navigators to enter a destination of their choice to find information about accommodation, restaurants and local tourist attractions around those places.**
 
-**b. Social Media links to the various different social media platforms and resources provided by the company.**
+**b. Information about popular destinations chosen and visted by site users.**
 
-#### Features Left to Implement (in the future):
+### Features Left to Implement (in the future):
 
 *In the future, I would like to implement the following features to my website:*
 
