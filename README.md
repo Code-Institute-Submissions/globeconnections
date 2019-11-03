@@ -90,46 +90,48 @@ The website I created can be accessed via the following link:
 
 The website usability tests were thoroughly conducted using the following parameters and resources:
 
-Devtools: https://developers.google.com/web/tools/chrome-devtools/
+[DEVTOOLS](https://developers.google.com/web/tools/chrome-devtools/ "testing the responsiveness of the website using an in-built tool designed by Google").
 
-The screen sizes tested on devtools are as follows:
+**The screen sizes tested on devtools are as follows:**
 
-(1) Galaxy S5
+*(1) Galaxy S5*
 
-(2) Pixel 2
+*(2) Pixel 2*
 
-(3) Pixel 2 XL
+*(3) Pixel 2 XL*
 
-(4) iPhone 5/SE
+*(4) iPhone 5/SE*
 
-(5) iPhone 6/7/8
+*(5) iPhone 6/7/8*
 
-(6) iPhone 6/7/7 Plus
+*(6) iPhone 6/7/7 Plus*
 
-(7) iPhone X
+*(7) iPhone X*
 
-(8) iPad
+*(8) iPad*
 
-(9) iPad Pro
+*(9) iPad Pro*
 
-(10) Desktop/desktop-touch
+*(10) Desktop/desktop-touch*
 
-These devtools were tested on all the five pages of the website and across browsers such as the Internet Explorer, Mozilla Firefox and many others using the following website:
-Browsershot
+These devtools were tested on the only page in this website (index.html) and across browsers such as the Internet Explorer, Mozilla Firefox and many others using the following website:
+[BROWSERSHOTS](http://browsershots.org/ "Testing browser compatibility").
 
-The other validators used throughout the website are as follows:
+**The other validators used throughout the website are as follows:**
 
-(1) https://validator.w3.org/
+(1) [W3C-VALIDATION SERVICE](https://validator.w3.org/ "HTML validation service").
 
-(2) https://jigsaw.w3.org/css-validator/
+(2) [JIGSAW W3C VALIDATION SERVICE](https://jigsaw.w3.org/css-validator/ "CSS Validation Service").
 
-During the testing session, no broken links were found.
+(3) [JAVASCRIPT VALIDATION SERVICE](https://www.jslint.com/ "JavaScript Validation Service").
 
-No other errors were found.
+*During the testing session, no broken links were found.*
 
-The website works perfectly fine on all screen sizes and browsers tested with the tools listed above.
+*No other errors were found.*
 
-There were no bugs left unfixed.
+*The website works perfectly fine on all screen sizes and browsers tested with the tools listed above.*
+
+*There were no bugs left unfixed.*
 
 ### DEPLOYMENT:
 
