@@ -45,29 +45,29 @@
 
 - My aim was to make the website easy to navigate, self-explanatory, visually appealing and provided a smooth shopping experience to users from all walks of life.
 
-**The wireframes have been attached to a separate folder named ***Wireframes*** within this Github repository**.
+### The wireframes have been attached to a separate folder named ***Wireframes*** within this Github repository.
 
  ## FEATURES:
 
 ### Existing Features:
 
-*The active/functional features in this website are as follows:*
+**The active/functional features in this website are as follows:**
 
-**a. The Google Maps Search functionality, which allows site navigators to enter a destination of their choice to find information about accommodation, restaurants and local tourist attractions around those places.**
+*a. The Google Maps Search functionality, which allows site navigators to enter a destination of their choice to find information about accommodation, restaurants and local tourist attractions around those places.*
 
-**b. Information about popular destinations chosen and visted by site users.**
+*b. Information about popular destinations chosen and visted by site users.*
 
 ### Features Left to Implement (in the future):
 
-*In the future, I would like to implement the following features to my website:*
+**In the future, I would like to implement the following features to my website:**
 
-**a. Login/Sign-up**
+*a. Login/Sign-up*
 
-**b. Access to booking systems for flights, hotels, restaurants and local tourist attractions.**
+*b. Access to booking systems for flights, hotels, restaurants and local tourist attractions.*
 
-**c. The choice of accessing and choosing from various different packages to provide an extensive shopping experince.**
+*c. The choice of accessing and choosing from various different packages to provide an extensive shopping experince.*
 
-**d. Access to additional resources such as the latest news/updates from the travel industry, health, beauty and safety tips and other useful external resources.**
+*d. Access to additional resources such as the latest news/updates from the travel industry, health, beauty and safety tips and other useful external resources.*
 
  ## TECHNOLOGIES USED:
 
@@ -87,7 +87,7 @@
 
  ## TESTING:
 
-*The website usability tests were thoroughly conducted using the following parameters and resources:*
+**The website usability tests were thoroughly conducted using the following parameters and resources:**
 
 [DEVTOOLS](https://developers.google.com/web/tools/chrome-devtools/ "testing the responsiveness of the website using an in-built tool designed by Google").
 
@@ -134,7 +134,7 @@
 
  ## DEPLOYMENT:
 
-*To deploy this page to GitHub Pages from my [GitHub repository](https://github.com/CodingStudent2019/globeconnections "my Github repository for this project - globeconnections"), the following steps were taken:*
+### To deploy this page to GitHub Pages from my [GitHub repository](https://github.com/CodingStudent2019/globeconnections "my Github repository for this project - globeconnections"), the following steps were taken:
 
 1. Log into GitHub.
 
@@ -152,7 +152,7 @@
 
 ### How to run this project locally:
 ​
-*To clone this project from GitHub:*
+**To clone this project from GitHub:**
 
 1. At the top of this repository, click the green button **Clone or download**.
 
