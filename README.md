@@ -45,7 +45,7 @@
 
 - My aim was to make the website easy to navigate, self-explanatory, visually appealing and provided a smooth shopping experience to users from all walks of life.
 
-### The wireframes have been attached to a separate folder named ***Wireframes*** within this Github repository.
+#### The wireframes have been attached to a separate folder named *wireframes* within this Github repository.
 
  ## FEATURES:
 
