@@ -10,18 +10,17 @@ img {
 }
 /* html and bodyof html */
 /* navbar */
-.navbar,
-.navbar-brand {
+.navbar,.navbar-brand {
 	-webkit-box-pack: center;
-	    -ms-flex-pack: center;
-	        justify-content: center;
+	-ms-flex-pack: center;
+	justify-content: center;
 	-webkit-box-align: center;
-	    -ms-flex-align: center;
-	        align-items: center;
+	-ms-flex-align: center;
+	align-items: center;
 	text-align: center;
 	margin: 0 auto;
-    background-color: transparent;
-    color:#210B2C;
+	background-color: transparent;
+	color:#210B2C;
 }
 .fixed-top {
 	margin-bottom: 100px;
@@ -39,8 +38,8 @@ img {
 	font-weight:bold;
 	max-width: 100%;
 	color: white;
-	background-image: -webkit-gradient(linear, left bottom, right top, from(#cc97c4), color-stop(#a97aa5), color-stop(#875e88), color-stop(#66436b), color-stop(#472a4f), color-stop(#3e2248), color-stop(#361940), color-stop(#2d1139), color-stop(#371543), color-stop(#41194d), color-stop(#4c1d58), to(#572162));
 	background-image: -o-linear-gradient(left bottom, #cc97c4, #a97aa5, #875e88, #66436b, #472a4f, #3e2248, #361940, #2d1139, #371543, #41194d, #4c1d58, #572162);
+	background-image: -webkit-gradient(linear, left bottom, right top, from(#cc97c4), color-stop(#a97aa5), color-stop(#875e88), color-stop(#66436b), color-stop(#472a4f), color-stop(#3e2248), color-stop(#361940), color-stop(#2d1139), color-stop(#371543), color-stop(#41194d), color-stop(#4c1d58), to(#572162));
 	background-image: linear-gradient(to right top, #cc97c4, #a97aa5, #875e88, #66436b, #472a4f, #3e2248, #361940, #2d1139, #371543, #41194d, #4c1d58, #572162);
 	-webkit-box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
 	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
@@ -68,8 +67,8 @@ img {
 	-ms-flex-pack: center;
 	justify-content: center;
 	text-align: center;
-	background-image: -webkit-gradient(linear, left bottom, right top, from(#cc97c4), color-stop(#a97aa5), color-stop(#875e88), color-stop(#66436b), color-stop(#472a4f), color-stop(#3e2248), color-stop(#361940), color-stop(#2d1139), color-stop(#371543), color-stop(#41194d), color-stop(#4c1d58), to(#572162));
 	background-image: -o-linear-gradient(left bottom, #cc97c4, #a97aa5, #875e88, #66436b, #472a4f, #3e2248, #361940, #2d1139, #371543, #41194d, #4c1d58, #572162);
+	background-image: -webkit-gradient(linear, left bottom, right top, from(#cc97c4), color-stop(#a97aa5), color-stop(#875e88), color-stop(#66436b), color-stop(#472a4f), color-stop(#3e2248), color-stop(#361940), color-stop(#2d1139), color-stop(#371543), color-stop(#41194d), color-stop(#4c1d58), to(#572162));
 	background-image: linear-gradient(to right top, #cc97c4, #a97aa5, #875e88, #66436b, #472a4f, #3e2248, #361940, #2d1139, #371543, #41194d, #4c1d58, #572162);
 	max-width: 100%;
 	color: white;
@@ -77,13 +76,13 @@ img {
 }
 .nav-item,.nav-link {
 	background-color: white;
-    color:#210B2C;
+	color:#210B2C;
 	-webkit-box-pack: center;
-	    -ms-flex-pack: center;
-	        justify-content: center;
+	-ms-flex-pack: center;
+	justify-content: center;
 	-webkit-box-align: center;
-	    -ms-flex-align: center;
-	        align-items: center;
+	-ms-flex-align: center;
+	align-items: center;
 	text-align: center;
 	margin: 0 auto;
 }
