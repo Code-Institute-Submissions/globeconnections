@@ -76,13 +76,13 @@
 
 **1. [BOOTSTRAP](https://getbootstrap.com/ "Build responsive, mobile-first projects on the web with the world’s most popular front-end component library.")**
 
-**2. [HTML](index.html "home-page index.html file")**
+**2. HTML**
 
-**3. [CSS](assets/css/style.css "the css folder containing the style.css file")**
+**3. CSS**
 
-**4. [JAVASCRIPT](assets/javascript/script.js "the javascript folder containing the script.js file")**
+**4. JAVASCRIPT**
 
-**5. [JQUERY](https://jqueryui.com/ "jQuery UI is a curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library. Whether you're building highly interactive web applications or you just need to add a date picker to a form control, jQuery UI is the perfect choice.")**
+**5. [JQUERY](https://jquery.com/ "jQuery UI is a curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library. Whether you're building highly interactive web applications or you just need to add a date picker to a form control, jQuery UI is the perfect choice.")**
 
 **6. [GOOGLE MAPS](https://developers.google.com/maps/documentation "the Google Maps Platform for developers")**
 
@@ -144,7 +144,7 @@ These devtools were tested on the only page in this website *(index.html)* and a
 6. On selecting Master Branch the page is automatically refreshed, the website is now deployed.
 7. Scroll back down to the **GitHub Pages** section to retrieve the link to the deployed website.
 ​
-### How to run this project locally
+### How to run this project locally:
 ​
 *To clone this project from GitHub:*
 1. At the top of this repository, click the green button **Clone or download**.
@@ -161,7 +161,7 @@ git clone https://github.com/CodingStudent2019/globeconnections
 
 ### Content:
 
-*The content for this website was taken from the original site created by TUI (at the following web address): https://www.tui.co.uk/ [TUI](https://www.tui.co.uk/ "THE WORLD’S NO. 1 TOURISM COMPANY").*
+*The content for this website was taken from the original site created by TUI (at the following web address): [TUI](https://www.tui.co.uk/ "THE WORLD’S NO. 1 TOURISM COMPANY").*
 
 *The tool utilized to organize the HTML file is [HTML-FORMATTER](https://coolors.co/ "Free online tool to format an ugly HTML code, making it readable and pretty, with the proper indentation").*
 
