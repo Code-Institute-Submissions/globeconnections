@@ -219,13 +219,13 @@ Content:
 
 The content for this website was taken from the original site created by TUI (at the following web address): https://www.tui.co.uk/ [TUI](https://www.tui.co.uk/ "THE WORLD’S NO. 1 TOURISM COMPANY").
 
-The images used in this site were obtained from: https://www.freepik.com/home [FREEPIK](https://www.freepik.com/home "FREEPIK").
+The images used in this site were obtained from: [FREEPIK](https://www.freepik.com/home "FREEPIK").
 
-The color scheme for this website is derived from https://coolors.co/ [COOLORS](https://coolors.co/ "The super fast color schemes generator! Create, save and share perfect palettes in seconds!").
+The color scheme for this website is derived from [COOLORS](https://coolors.co/ "The super fast color schemes generator! Create, save and share perfect palettes in seconds!").
 
-The tool utilized to organize the HTML file is https://htmlformatter.com/ [HTML-FORMATTER](https://coolors.co/ "Free online tool to format an ugly HTML code, making it readable and pretty, with the proper indentation").
+The tool utilized to organize the HTML file is [HTML-FORMATTER](https://coolors.co/ "Free online tool to format an ugly HTML code, making it readable and pretty, with the proper indentation").
 
-The tool utilized to organize the CSS file is https://html-cleaner.com/css/ [CSS-CLEANER](https://html-cleaner.com/css/ "Free online css cleaner and beautifyer").
+The tool utilized to organize the CSS file is [CSS-CLEANER](https://html-cleaner.com/css/ "Free online css cleaner and beautifyer").
 
 The borders and shadows in the website are created with the following tool: Shadows
 
