@@ -135,7 +135,7 @@ These devtools were tested on the only page in this website *(index.html)* and a
 
  ## DEPLOYMENT:
 
-To deploy this page to GitHub Pages from your [GitHub repository](https://github.com/CodingStudent2019/globeconnections "web hosting platform"), the following steps were taken:
+*To deploy this page to GitHub Pages from your [GitHub repository](https://github.com/CodingStudent2019/globeconnections "web hosting platform"), the following steps were taken:*
 1. Log into GitHub.
 2. From the list of repositories on the screen, select **CodingStudent2019/globeconnections**.
 3. From the menu items near the top of the page, select **Settings**.
@@ -146,7 +146,7 @@ To deploy this page to GitHub Pages from your [GitHub repository](https://github
 ​
 ### How to run this project locally
 ​
-To clone this project from GitHub:
+*To clone this project from GitHub:*
 1. At the top of this repository, click the green button **Clone or download**.
 2. In the Clone with HTTPs section, copy the clone URL for the repository.
 3. Open your favourite terminal (cmd, powershell, bash, git bash, etc.)
