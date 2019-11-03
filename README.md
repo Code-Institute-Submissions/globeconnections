@@ -153,7 +153,7 @@ These devtools were tested on the only page in this website *(index.html)* and a
 4. Change the current working directory to the location where you want the cloned directory to be made.
 5. Type `git clone`, and then paste the URL you copied in Step 2.
 ```console
-git clone https://github.com/CodingStudent2019/globeconnections
+git clone https://github.com/CodingStudent2019/globeconnections.git
 ```
 6. Press Enter. Your local clone will be created.
 
