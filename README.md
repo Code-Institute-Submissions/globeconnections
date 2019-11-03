@@ -31,7 +31,7 @@ The website I created can be accessed via the following link:
 
 - The search functionalities provided in my website allow the site navigator to gain access to various services provided by the company to meet their individual requirements.
 
-- I have provided users with access to information about the following resources via the Google Maps APIs, close to their chosen destination :
+- I have provided users with access to information about the following resources via the Google Maps APIs, close to their chosen destination:
 
 **1. Hotels (Accommodation/lodging)**
 
@@ -135,9 +135,9 @@ These devtools were tested on the only page in this website *(index.html)* and a
 
 > ## DEPLOYMENT:
 
-This website has been deployed using the Github platform at the following address:
+**This website has been deployed using the Github platform at the following address:**
 
-Github
+[GITHUB](https://github.com/CodingStudent2019/globeconnections "web hosting platform").
 
 The steps taken to deploy this website on Github are as follows:
 
