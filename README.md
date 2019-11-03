@@ -227,7 +227,9 @@ The tool utilized to organize the HTML file is [HTML-FORMATTER](https://coolors.
 
 The tool utilized to organize the CSS file is [CSS-CLEANER](https://html-cleaner.com/css/ "Free online css cleaner and beautifyer").
 
-The borders and shadows in the website are created with the following tool: [BORDERS-SHADOWS GENERATOR](https://html-css-js.com/css/generator/box-shadow/ "Free online resource to generate creative borders and shadows within seconds").
+The tool utilized to validate JavaScript is [ESPRIMA](https://esprima.org/demo/validate.html "Syntax Validator checks for mistakes and errors in Javascript codes").
+
+The borders and shadows in the website are created with the following tool: [BORDER-SHADOW GENERATOR](https://html-css-js.com/css/generator/box-shadow/ "Free online resource to generate creative borders and shadows within seconds").
 
 Additional help was requested from [SLACK](https://slack.com/intl/en-gb/ "Free online chat forum to discuss programming queries with people working in the industry").
 
@@ -241,25 +243,18 @@ The wire-frames were created using Microsoft Powerpoint: [MICROSOFT POWERPOINT](
 
 A lot of my queries were answered using [STACK OVERFLOW](https://stackoverflow.com/ "the largest, most trusted online community for anyone that codes to learn, share their knowledge, and build their careers").
 
-Most of the code is verified using https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Developer_Edition as well as https://developers.google.com/docs/api/.
+Most of the code is verified using [MDN Web Docs - Mozilla](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Developer_Edition "Mozilla Developer Documents")
 
-A lot of inspiration for CSS styling comes from https://mdbootstrap.com/.
+as well as [Google Developers](https://developers.google.com/docs/api/ "Google Developers").
 
-The multi-device mock-up on this document is created using https://techsini.com/multi-mockup/.
+A lot of inspiration for CSS styling comes from [MATERIAL DESIGN FOR BOOTSTRAP](https://mdbootstrap.com/ "The world's most popular framework for building responsive, mobile-first websites and apps").
 
-The site is thoroughly created using https://developers.google.com/web/tools/chrome-devtools/.
+The multi-device mock-up on this document is created using [MULTI-DEVICE MOCK-UP](https://techsini.com/multi-mockup/ "Multi-device website mock-up generator").
 
-This readme.md document is written using markdownn language from the following link: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet.
+The site is thoroughly created using [Chrome DevTools | Tools for Web Developers | Google](https://developers.google.com/web/tools/chrome-devtools/ "Chrome DevTools | Tools for Web Developers | Google").
 
-Tips to add opacity and colors to images have been taken from https://css-tricks.com/.
+This readme.md document is written using markdownn language from the following link: [MARKDOWN GUIDE](https://www.markdownguide.org/basic-syntax/#links "Markdown Syntax").
 
-https://www.colorhexa.com/ has been used to match gradient colors.
+The favicon was generated with the following website: [FAVICON](https://favicon.io/favicon-generator/ "Favicon Generator").
 
-Images and some information about the books published by the author were taken from http://www.amberallen.com/ and https://www.harpercollins.com/9780062391094/the-three-questions/.
-
-The favicon was generated with the following website: https://favicon.io/favicon-generator/.
-
-I received inspiration for this project from the original website created by TUI: https://www.tui.co.uk/.
-
-
-
+I received inspiration for this project from the original website created by [TUI](https://www.tui.co.uk/ "Travel Packages Finder").
