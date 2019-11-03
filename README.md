@@ -86,7 +86,7 @@ The website I created can be accessed via the following link:
 
 **6. Google Maps Application Programming Interface (API)**
 
-### TESTING:
+> ## TESTING:
 
 The website usability tests were thoroughly conducted using the following parameters and resources:
 
@@ -133,7 +133,7 @@ These devtools were tested on the only page in this website *(index.html)* and a
 
 *There were no bugs left unfixed.*
 
-### DEPLOYMENT:
+> ## DEPLOYMENT:
 
 This website has been deployed using the Github platform at the following address:
 
