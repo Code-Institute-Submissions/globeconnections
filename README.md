@@ -5,7 +5,9 @@
 
 *Here at Globeconnections, we believe that fulfilling travel experiences begin not only with choosing the right destination, but having the right state of mind.*
 
-*The way we see it, life is just one big journey, and we're here to help people make more enlightening stops along the way. But what does that mean, exactly?*
+*The way we see it, life is just one big journey, and we're here to help people make more enlightening stops along the way.*
+
+*But what does that mean, exactly?*
 
 *It means helping them have more fun dreaming and planning by offering up trip and destination ideas that range from time-tested to unexpected via Inspire.*
 
