@@ -10,7 +10,8 @@ img {
 }
 /* html and bodyof html */
 /* navbar */
-.navbar,.navbar-brand {
+.navbar,
+.navbar-brand {
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
 	justify-content: center;
@@ -74,7 +75,8 @@ img {
 	color: white;
 	margin: 0 auto;
 }
-.nav-item,.nav-link {
+.nav-item,
+.nav-link {
 	background-color: white;
 	color:#210B2C;
 	-webkit-box-pack: center;
