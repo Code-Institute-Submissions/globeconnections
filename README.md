@@ -215,8 +215,6 @@ For further details, please visit the following link:
 
 ### CREDITS:
 
-Content:
-
 The content for this website was taken from the original site created by TUI (at the following web address): https://www.tui.co.uk/ [TUI](https://www.tui.co.uk/ "THE WORLD’S NO. 1 TOURISM COMPANY").
 
 The images used in this site were obtained from: [FREEPIK](https://www.freepik.com/home "illustrations, photos, icons, mockups, and presentations templates") and [NATIONAL GEOGRAPHIC](https://www.nationalgeographic.com/ "NATIONAL GEOGRAPHIC")
@@ -243,9 +241,7 @@ The wire-frames were created using Microsoft Powerpoint: [MICROSOFT POWERPOINT](
 
 A lot of my queries were answered using [STACK OVERFLOW](https://stackoverflow.com/ "the largest, most trusted online community for anyone that codes to learn, share their knowledge, and build their careers").
 
-Most of the code is verified using [MDN Web Docs - Mozilla](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Developer_Edition "Mozilla Developer Documents")
-
-as well as [Google Developers](https://developers.google.com/docs/api/ "Google Developers").
+Most of the code is verified using [MDN Web Docs - Mozilla](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Developer_Edition "Mozilla Developer Documents") as well as [Google Developers](https://developers.google.com/docs/api/ "Google Developers").
 
 A lot of inspiration for CSS styling comes from [MATERIAL DESIGN FOR BOOTSTRAP](https://mdbootstrap.com/ "The world's most popular framework for building responsive, mobile-first websites and apps").
 
