@@ -113,8 +113,8 @@
 
 *(10) Desktop/desktop-touch*
 
-These devtools were tested on the only page in this website *(index.html)* and across browsers such as the Internet Explorer, Mozilla Firefox and many others using the following website:
-[BROWSERSHOTS](http://browsershots.org/ "Testing browser compatibility").
+*These devtools were tested on the only page in this website **(index.html)** and across browsers such as the Internet Explorer, Mozilla Firefox and many others using the following website:*
+*[BROWSERSHOTS](http://browsershots.org/ "Testing browser compatibility").*
 
 **The other validators used throughout the website are as follows:**
 
