@@ -1,7 +1,7 @@
-> # Project Name: GLOBECONNECTIONS
-> ## (Interactive Frontend Development - Code Institute)
+ # Project Name: GLOBECONNECTIONS
+ ## (Interactive Frontend Development - Code Institute)
 
-> **ABOUT GLOBECONNECTIONS:**
+ **ABOUT GLOBECONNECTIONS:**
 
 *Here at Globeconnections, we believe that fulfilling travel experiences begin not only with choosing the right destination, but having the right state of mind.*
 
@@ -13,15 +13,15 @@
 
 *And of course, reminding them to bring snacks on long flights. (Always keep some granola in your carry-on, trust us.)*
 
-> **Access to the website:**
+ **Access to the website:**
 
-The website I created can be accessed via the following link:
+**The website I created can be accessed via the following link:**
 
 [GLOBECONNECTIONS](https://codingstudent2019.github.io/globeconnections/)
 
 ![GLOBECONNECTIONS](/assets/images/multi-device-website-mock-up.png "Multi-device mock-up")
 
-> ## UX
+ ## UX
 
 - The reason behind creating this website is to allow site navigators to choose a package for their next holiday which is best suited to their individual requirements.
 
@@ -48,7 +48,7 @@ The website I created can be accessed via the following link:
 
 **The wireframes have been attached to a separate folder named ***Wireframes*** within this Github repository**.
 
-> ## FEATURES:
+ ## FEATURES:
 
 ### Existing Features:
 
@@ -70,7 +70,7 @@ The website I created can be accessed via the following link:
 
 **d. Access to additional resources such as the latest news/updates from the travel industry, health, beauty and safety tips and other useful external resources.**
 
-> ## TECHNOLOGIES USED:
+ ## TECHNOLOGIES USED:
 
 *The technologies used in the creation of this website are as follows:*
 
@@ -86,7 +86,7 @@ The website I created can be accessed via the following link:
 
 **6. Google Maps Application Programming Interface (API)**
 
-> ## TESTING:
+ ## TESTING:
 
 *The website usability tests were thoroughly conducted using the following parameters and resources:*
 
@@ -133,13 +133,13 @@ These devtools were tested on the only page in this website *(index.html)* and a
 
 *There were no bugs left unfixed.*
 
-> ## DEPLOYMENT:
+ ## DEPLOYMENT:
 
 **This website has been deployed using the Github platform at the following address:**
 
 [GITHUB](https://github.com/CodingStudent2019/globeconnections "web hosting platform").
 
-The steps taken to deploy this website on Github are as follows:
+*The steps taken to deploy this website on Github are as follows:*
 
 Create a repository: Head over to GitHub and create a new repository named TejalSaldanha.github.io, where TejalSaldanha is your Username (or organization name) on GitHub.
 If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.
@@ -215,7 +215,7 @@ Under your repository name, click to clone your repository in Desktop. Follow th
 
 For further details, please visit the following link:
 
-> ## CREDITS:
+ ## CREDITS:
 
 ### Content:
 
