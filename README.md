@@ -70,7 +70,7 @@ The website I created can be accessed via the following link:
 
 **d. Access to additional resources such as the latest news/updates from the travel industry, health, beauty and safety tips and other useful external resources.**
 
-### TECHNOLOGIES USED:
+> ## TECHNOLOGIES USED:
 
 *The technologies used in the creation of this website are as follows:*
 
@@ -88,7 +88,7 @@ The website I created can be accessed via the following link:
 
 > ## TESTING:
 
-The website usability tests were thoroughly conducted using the following parameters and resources:
+*The website usability tests were thoroughly conducted using the following parameters and resources:*
 
 [DEVTOOLS](https://developers.google.com/web/tools/chrome-devtools/ "testing the responsiveness of the website using an in-built tool designed by Google").
 
