@@ -74,17 +74,17 @@
 
 *The technologies used in the creation of this website are as follows:*
 
-**1. Bootstrap**
+**1. [BOOTSTRAP](https://getbootstrap.com/ "Build responsive, mobile-first projects on the web with the world’s most popular front-end component library.")**
 
 **2. [HTML](index.html "home-page index.html file")**
 
-**3. CSS**
+**3. [CSS](assets/css/style.css "the css folder containing the style.css file")**
 
-**4. JavaScript**
+**4. [JAVASCRIPT](assets/javascript/script.js "the javascript folder containing the script.js file")**
 
-**5. JQuery**
+**5. [JQUERY](https://jqueryui.com/ "jQuery UI is a curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library. Whether you're building highly interactive web applications or you just need to add a date picker to a form control, jQuery UI is the perfect choice.")**
 
-**6. Google Maps**
+**6. [GOOGLE MAPS](https://developers.google.com/maps/documentation "the Google Maps Platform for developers")**
 
  ## TESTING:
 
@@ -238,6 +238,8 @@ For further details, please visit the following link:
 *The color scheme for this website is derived from: [COOLORS](https://coolors.co/ "The super fast color schemes generator! Create, save and share perfect palettes in seconds!").*
 
 ### Acknowledgements:
+
+*The #1 free and open source CDN built to make life easier for developers. [CDNJS](https://cdnjs.com "a A content delivery network or content distribution network (CDN) library").*
 
 *Additional help was requested from [SLACK](https://slack.com/intl/en-gb/ "Free online chat forum to discuss programming queries with people working in the industry").*
 
