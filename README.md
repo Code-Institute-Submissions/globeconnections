@@ -237,10 +237,6 @@ For further details, please visit the following link:
 
 *The color scheme for this website is derived from: [COOLORS](https://coolors.co/ "The super fast color schemes generator! Create, save and share perfect palettes in seconds!").*
 
-
-
-
-
 ### Acknowledgements:
 
 *Additional help was requested from [SLACK](https://slack.com/intl/en-gb/ "Free online chat forum to discuss programming queries with people working in the industry").*
@@ -259,7 +255,7 @@ For further details, please visit the following link:
 
 *The multi-device mock-up on this document is created using [MULTI-DEVICE MOCK-UP](https://techsini.com/multi-mockup/ "Multi-device website mock-up generator").*
 
-*The site is thoroughly created using [Chrome DevTools | Tools for Web Developers | Google](https://developers.google.com/web/tools/chrome-devtools/ "Chrome DevTools | Tools for Web Developers | Google").*
+*The site is thoroughly tested using [Chrome DevTools | Tools for Web Developers | Google](https://developers.google.com/web/tools/chrome-devtools/ "Chrome DevTools | Tools for Web Developers | Google").*
 
 *This readme.md document is written using markdownn language from the following link: [MARKDOWN GUIDE](https://www.markdownguide.org/basic-syntax/#links "Markdown Syntax").*
 
