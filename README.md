@@ -219,27 +219,27 @@ Content:
 
 The content for this website was taken from the original site created by TUI (at the following web address): https://www.tui.co.uk/ [TUI](https://www.tui.co.uk/ "THE WORLD’S NO. 1 TOURISM COMPANY").
 
-The images used in this site were obtained from: [FREEPIK](https://www.freepik.com/home "FREEPIK").
+The images used in this site were obtained from: [FREEPIK](https://www.freepik.com/home "illustrations, photos, icons, mockups, and presentations templates") and [NATIONAL GEOGRAPHIC](https://www.nationalgeographic.com/ "NATIONAL GEOGRAPHIC")
 
-The color scheme for this website is derived from [COOLORS](https://coolors.co/ "The super fast color schemes generator! Create, save and share perfect palettes in seconds!").
+The color scheme for this website is derived from: [COOLORS](https://coolors.co/ "The super fast color schemes generator! Create, save and share perfect palettes in seconds!").
 
 The tool utilized to organize the HTML file is [HTML-FORMATTER](https://coolors.co/ "Free online tool to format an ugly HTML code, making it readable and pretty, with the proper indentation").
 
 The tool utilized to organize the CSS file is [CSS-CLEANER](https://html-cleaner.com/css/ "Free online css cleaner and beautifyer").
 
-The borders and shadows in the website are created with the following tool: Shadows
+The borders and shadows in the website are created with the following tool: [BORDERS-SHADOWS GENERATOR](https://html-css-js.com/css/generator/box-shadow/ "Free online resource to generate creative borders and shadows within seconds").
 
-Additional help was requested from https://slack.com/intl/en-gb/.
+Additional help was requested from [SLACK](https://slack.com/intl/en-gb/ "Free online chat forum to discuss programming queries with people working in the industry").
 
-A lot of the code is written with information from https://www.w3schools.com/.
+A lot of the code is written with information from [W3SCHOOLS](https://www.w3schools.com/ "THE WORLD'S LARGEST WEB DEVELOPER SITE").
 
-Autoprefixer has been used to ascertain that the site displays correctly on all devices (https://autoprefixer.github.io/).
+Autoprefixer has been used to ascertain that the site displays correctly on all devices [AUTOPREFIXER](https://autoprefixer.github.io/ "Autoprefixer is a PostCSS plugin which parses your CSS and adds vendor prefixes").
 
-Mycolor.space is used to add gradients to the website: https://mycolor.space/?hex=#845EC2&sub=1.
+Mycolor.space is used to add gradients to the website: [MYCOLOR.SPACE](https://mycolor.space/?hex=#845EC2&sub=1 "Gradient Generator").
 
-The wire-frames were created using Microsoft Powerpoint: https://www.microsoft.com/en-us/p/powerpoint/cfq7ttc0k7c6?activetab=pivot:overviewtab.
+The wire-frames were created using Microsoft Powerpoint: [MICROSOFT POWERPOINT](https://www.microsoft.com/en-us/p/powerpoint/cfq7ttc0k7c6?activetab=pivot:overviewtab "Microsoft Powerpoint").
 
-A lot of my queries were answered using https://stackoverflow.com/.
+A lot of my queries were answered using [STACK OVERFLOW](https://stackoverflow.com/ "the largest, most trusted online community for anyone that codes to learn, share their knowledge, and build their careers").
 
 Most of the code is verified using https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Developer_Edition as well as https://developers.google.com/docs/api/.
 
