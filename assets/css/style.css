@@ -106,9 +106,7 @@ img {
 	-ms-flex-item-align: center;
 	-ms-grid-row-align: center;
 	align-self: center;
-	background-image: -o-linear-gradient(left bottom, #8c3838, #a14040, #b64949, #cb5151, #e15a5a, #eb6766, #f57373, #ff807f, #ff9291, #ffa4a3, #ffb6b5, #ffc7c7);
-	background-image: -webkit-gradient(linear, left bottom, right top, from(#8c3838), color-stop(#a14040), color-stop(#b64949), color-stop(#cb5151), color-stop(#e15a5a), color-stop(#eb6766), color-stop(#f57373), color-stop(#ff807f), color-stop(#ff9291), color-stop(#ffa4a3), color-stop(#ffb6b5), to(#ffc7c7));
-	background-image: linear-gradient(to right top, #8c3838, #a14040, #b64949, #cb5151, #e15a5a, #eb6766, #f57373, #ff807f, #ff9291, #ffa4a3, #ffb6b5, #ffc7c7);
+    background-image: linear-gradient(to right top, #742f2f, #8d3939, #a64343, #c04d4d, #db5858, #e76463, #f3706f, #ff7c7b, #ff8c8b, #ff9b9a, #ffaaaa, #ffb9b9);
 	margin-top: 150px;
 	margin-bottom: 80px;
 	color: #210B2C;
@@ -194,10 +192,8 @@ img {
 	width: 345px;
 }
 .headingcontainer {
-	background-image: -o-linear-gradient(left bottom, #200c24, #441a3c, #6d274f, #9a365d, #c74765, #d85470, #e9627c, #fa6f88, #f2789d, #e683af, #d98dbc, #cc97c4);
-	background-image: -webkit-gradient(linear, left bottom, right top, from(#200c24), color-stop(#441a3c), color-stop(#6d274f), color-stop(#9a365d), color-stop(#c74765), color-stop(#d85470), color-stop(#e9627c), color-stop(#fa6f88), color-stop(#f2789d), color-stop(#e683af), color-stop(#d98dbc), to(#cc97c4));
-	background-image: linear-gradient(to right top, #200c24, #441a3c, #6d274f, #9a365d, #c74765, #d85470, #e9627c, #fa6f88, #f2789d, #e683af, #d98dbc, #cc97c4);
-	color: white;
+	background-image: linear-gradient(to right top, #70536b, #805f7b, #916b8b, #a3789c, #b485ad, #be90b7, #c99ac2, #d3a5cc, #d8afd2, #ddbad8, #e2c4de, #e7cfe4);
+    color: #210B2C;
 	text-align: center;
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
@@ -207,11 +203,12 @@ img {
 	align-items: center;
 	margin-top: 70px;
 	margin-bottom: 70px;
-	font-size: 2rem;
 	outline: 20px solid #51469E;
 	outline-offset: 35px;
 	-webkit-box-shadow: 5px 5px 15px 5px #2D2757;
 	box-shadow: 5px 5px 15px 5px #2D2757;
+    font-size: 1rem;
+    font-weight: bold;
 }
 .mb-3,.form-control {
 	width: 100%;
