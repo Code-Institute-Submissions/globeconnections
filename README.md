@@ -74,9 +74,9 @@
 
 *The technologies used in the creation of this website are as follows:*
 
-**1. Bootstrap 4.3.1**
+**1. Bootstrap**
 
-**2. HTML**
+**2. [HTML](index.html "home-page index.html file")**
 
 **3. CSS**
 
@@ -84,7 +84,7 @@
 
 **5. JQuery**
 
-**6. Google Maps Application Programming Interface (API)**
+**6. Google Maps**
 
  ## TESTING:
 
