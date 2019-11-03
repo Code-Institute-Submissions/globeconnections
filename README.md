@@ -29,7 +29,7 @@
 
 - I have created this website using the latest color schemes, keeping it simple yet in line with latest designing trends.
 
-- The search functionalities provided in my website allow the site navigator to gain access to various services provided by the company to meet their individual requirements.
+- The search functions provided in my website allow the site navigator to gain access to various services provided by the company to meet their individual requirements.
 
 - I have provided users with access to information about the following resources via the Google Maps APIs, close to their chosen destination:
 
