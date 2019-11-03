@@ -15,7 +15,7 @@
 
 **Access to the website:**
 
-The website I created can be accessed with the following link:
+The website I created can be accessed via the following link:
 
 [GLOBECONNECTIONS](https://codingstudent2019.github.io/globeconnections/)
 
@@ -23,4 +23,22 @@ The website I created can be accessed with the following link:
 
 ### UX
 
+- The reason behind creating this website is to allow site navigators to choose a package for their next holiday which is best suited to their individual requirements.
 
+- We understand that every traveller is different from another and will have sveeral different requirements to fulfil throughout their journey to ensure that they have the best holiday possible.
+
+- I have created this website using the latest color schemes, keeping it simple yet in line with latest designing trends.
+
+- The search functionalities provided in my website allow the site navigator to gain access to various services provided by the company to meet their individual requirements.
+
+- I have provided users with the following resources via the Google Maps APIs, close to their chosen destination :
+
+1. Hotels (Accommodation/lodging)
+2. Restaurants
+3. Local Tourist Attractions
+
+- The site users can then look at markers for the search results on the map provided within this website.
+
+- My aim was to make the website easy to navigate, self-explanatory, visually appealing and provided a smooth shopping experience to users from all walks of life.
+
+*The wireframes have been attached to a separate folder named ***Wireframes*** within this Github repository*.
