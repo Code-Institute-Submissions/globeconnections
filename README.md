@@ -37,12 +37,9 @@
 
 **1. Hotels (Accommodation/lodging)**
 
-
 **2. Restaurants**
 
-
 **3. Local Tourist Attractions**
-
 
 - The site users can then look at markers displaying the search results on the map provided within this website.
 
@@ -138,73 +135,86 @@ These devtools were tested on the only page in this website *(index.html)* and a
  ## DEPLOYMENT:
 
 *To deploy this page to GitHub Pages from my [GitHub repository](https://github.com/CodingStudent2019/globeconnections "my Github repository for this project - globeconnections"), the following steps were taken:*
+
 1. Log into GitHub.
+
 2. From the list of repositories on the screen, select **CodingStudent2019/globeconnections**.
+
 3. From the menu items near the top of the page, select **Settings**.
+
 4. Scroll down to the **GitHub Pages** section.
-5. Under **Source** click the drop-down menu labelled **None** and select **Master Branch**
+
+5. Under **Source** click the drop-down menu labelled **None** and select **Master Branch**.
+
 6. On selecting Master Branch the page is automatically refreshed, the website is now deployed.
+
 7. Scroll back down to the **GitHub Pages** section to retrieve the link to the deployed website.
-​
+
 ### How to run this project locally:
 ​
 *To clone this project from GitHub:*
+
 1. At the top of this repository, click the green button **Clone or download**.
+
 2. In the Clone with HTTPs section, copy the clone URL for the repository.
-3. Open your favourite terminal (cmd, powershell, bash, git bash, etc.)
+
+3. Open your favourite terminal (cmd, powershell, bash, git bash, etc.).
+
 4. Change the current working directory to the location where you want the cloned directory to be made.
+
 5. Type `git clone`, and then paste the URL you copied in Step 2.
 ```console
 git clone https://github.com/CodingStudent2019/globeconnections.git
 ```
+
 6. Press Enter. Your local clone will be created.
 
  ## CREDITS:
 
 ### Content:
 
-*The content for this website was taken from the original site created by TUI (at the following web address): [TUI](https://www.tui.co.uk/ "THE WORLD’S NO. 1 TOURISM COMPANY").*
+*(1) The content for this website was taken from the original site created by TUI (at the following web address): [TUI](https://www.tui.co.uk/ "THE WORLD’S NO. 1 TOURISM COMPANY").*
 
-*The tool utilized to organize the HTML file is [HTML-FORMATTER](https://coolors.co/ "Free online tool to format an ugly HTML code, making it readable and pretty, with the proper indentation").*
+*(2) The tool utilized to organize the HTML file is [HTML-FORMATTER](https://coolors.co/ "Free online tool to format an ugly HTML code, making it readable and pretty, with the proper indentation").*
 
-*The tool utilized to organize the CSS file is [CSS-CLEANER](https://html-cleaner.com/css/ "Free online css cleaner and beautifyer").*
+*(3) The tool utilized to organize the CSS file is [CSS-CLEANER](https://html-cleaner.com/css/ "Free online css cleaner and beautifyer").*
 
-*The tool utilized to validate JavaScript is [ESPRIMA](https://esprima.org/demo/validate.html "Syntax Validator checks for mistakes and errors in Javascript codes").*
+*(4) The tool utilized to validate JavaScript is [ESPRIMA](https://esprima.org/demo/validate.html "Syntax Validator checks for mistakes and errors in Javascript codes").*
 
-*The borders and shadows in the website are created with the following tool: [BORDER-SHADOW GENERATOR](https://html-css-js.com/css/generator/box-shadow/ "Free online resource to generate creative borders and shadows within seconds").*
+*(5) The borders and shadows in the website are created with the following tool: [BORDER-SHADOW GENERATOR](https://html-css-js.com/css/generator/box-shadow/ "Free online resource to generate creative borders and shadows within seconds").*
 
-*A lot of the code is written with information from [W3SCHOOLS](https://www.w3schools.com/ "THE WORLD'S LARGEST WEB DEVELOPER SITE").*
+*(6) A lot of the code is written with information from [W3SCHOOLS](https://www.w3schools.com/ "THE WORLD'S LARGEST WEB DEVELOPER SITE").*
 
 ### Media:
 
-*The images used in this site were obtained from: [FREEPIK](https://www.freepik.com/home "illustrations, photos, icons, mockups, and presentations templates") and [NATIONAL GEOGRAPHIC](https://www.nationalgeographic.com/ "NATIONAL GEOGRAPHIC").*
+*(1) The images used in this site were obtained from: [FREEPIK](https://www.freepik.com/home "illustrations, photos, icons, mockups, and presentations templates") and [NATIONAL GEOGRAPHIC](https://www.nationalgeographic.com/ "NATIONAL GEOGRAPHIC").*
 
-*The color scheme for this website is derived from: [COOLORS](https://coolors.co/ "The super fast color schemes generator! Create, save and share perfect palettes in seconds!").*
+*(2) The color scheme for this website is derived from: [COOLORS](https://coolors.co/ "The super fast color schemes generator! Create, save and share perfect palettes in seconds!").*
 
 ### Acknowledgements:
 
-*The #1 free and open source CDN built to make life easier for developers. [CDNJS](https://cdnjs.com "a A content delivery network or content distribution network (CDN) library").*
+*(1) The #1 free and open source CDN built to make life easier for developers. [CDNJS](https://cdnjs.com "a A content delivery network or content distribution network (CDN) library").*
 
-*Additional help was requested from [SLACK](https://slack.com/intl/en-gb/ "Free online chat forum to discuss programming queries with people working in the industry").*
+*(2) Additional help was requested from [SLACK](https://slack.com/intl/en-gb/ "Free online chat forum to discuss programming queries with people working in the industry").*
 
-*Autoprefixer has been used to ascertain that the site displays correctly on all devices [AUTOPREFIXER](https://autoprefixer.github.io/ "Autoprefixer is a PostCSS plugin which parses your CSS and adds vendor prefixes").*
+*(3) Autoprefixer has been used to ascertain that the site displays correctly on all devices [AUTOPREFIXER](https://autoprefixer.github.io/ "Autoprefixer is a PostCSS plugin which parses your CSS and adds vendor prefixes").*
 
-*Mycolor.space is used to add gradients to the website: [MYCOLOR.SPACE](https://mycolor.space/?hex=#845EC2&sub=1 "Gradient Generator").*
+*(4) Mycolor.space is used to add gradients to the website: [MYCOLOR.SPACE](https://mycolor.space/?hex=#845EC2&sub=1 "Gradient Generator").*
 
-*The wire-frames were created using Microsoft Powerpoint: [MICROSOFT POWERPOINT](https://www.microsoft.com/en-us/p/powerpoint/cfq7ttc0k7c6?activetab=pivot:overviewtab "Microsoft Powerpoint").*
+*(5) The wire-frames were created using Microsoft Powerpoint: [MICROSOFT POWERPOINT](https://www.microsoft.com/en-us/p/powerpoint/cfq7ttc0k7c6?activetab=pivot:overviewtab "Microsoft Powerpoint").*
 
-*A lot of my queries were answered using [STACK OVERFLOW](https://stackoverflow.com/ "the largest, most trusted online community for anyone that codes to learn, share their knowledge, and build their careers").*
+*(6) A lot of my queries were answered using [STACK OVERFLOW](https://stackoverflow.com/ "the largest, most trusted online community for anyone that codes to learn, share their knowledge, and build their careers").*
 
-*Most of the code is verified using [MDN Web Docs - Mozilla](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Developer_Edition "Mozilla Developer Documents") as well as [Google Developers](https://developers.google.com/docs/api/ "Google Developers").*
+*(7) Most of the code is verified using [MDN Web Docs - Mozilla](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Developer_Edition "Mozilla Developer Documents") as well as [Google Developers](https://developers.google.com/docs/api/ "Google Developers").*
 
-*A lot of inspiration for CSS styling comes from [MATERIAL DESIGN FOR BOOTSTRAP](https://mdbootstrap.com/ "The world's most popular framework for building responsive, mobile-first websites and apps").*
+*(8) A lot of inspiration for CSS styling comes from [MATERIAL DESIGN FOR BOOTSTRAP](https://mdbootstrap.com/ "The world's most popular framework for building responsive, mobile-first websites and apps").*
 
-*The multi-device mock-up on this document is created using [MULTI-DEVICE MOCK-UP](https://techsini.com/multi-mockup/ "Multi-device website mock-up generator").*
+*(9) The multi-device mock-up on this document is created using [MULTI-DEVICE MOCK-UP](https://techsini.com/multi-mockup/ "Multi-device website mock-up generator").*
 
-*The site is thoroughly tested using [Chrome DevTools | Tools for Web Developers | Google](https://developers.google.com/web/tools/chrome-devtools/ "Chrome DevTools | Tools for Web Developers | Google").*
+*(10) The site is thoroughly tested using [Chrome DevTools | Tools for Web Developers | Google](https://developers.google.com/web/tools/chrome-devtools/ "Chrome DevTools | Tools for Web Developers | Google").*
 
-*This readme.md document is written using markdownn language from the following link: [MARKDOWN GUIDE](https://www.markdownguide.org/basic-syntax/#links "Markdown Syntax").*
+*(11) This readme.md document is written using markdownn language from the following link: [MARKDOWN GUIDE](https://www.markdownguide.org/basic-syntax/#links "Markdown Syntax").*
 
-*The favicon was generated with the following website: [FAVICON](https://favicon.io/favicon-generator/ "Favicon Generator").*
+*(12) The favicon was generated with the following website: [FAVICON](https://favicon.io/favicon-generator/ "Favicon Generator").*
 
-*I received inspiration for this project from the original website created by [TUI](https://www.tui.co.uk/ "Travel Packages Finder").*
+*(13) I received inspiration for this project from the original website created by [TUI](https://www.tui.co.uk/ "Travel Packages Finder").*
