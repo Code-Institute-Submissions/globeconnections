@@ -34,8 +34,13 @@ The website I created can be accessed via the following link:
 - I have provided users with access to information about the following resources via the Google Maps APIs, close to their chosen destination :
 
 **1. Hotels (Accommodation/lodging)**
+
+
 **2. Restaurants**
+
+
 **3. Local Tourist Attractions**
+
 
 - The site users can then look at markers for the search results on the map provided within this website.
 
