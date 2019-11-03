@@ -10,7 +10,8 @@ img {
 }
 /* html and bodyof html */
 /* navbar */
-.navbar {
+.navbar,
+.navbar-brand {
 	-webkit-box-pack: center;
 	    -ms-flex-pack: center;
 	        justify-content: center;
@@ -19,12 +20,14 @@ img {
 	        align-items: center;
 	text-align: center;
 	margin: 0 auto;
+    background-color: transparent;
+    color:#210B2C;
 }
 .fixed-top {
 	margin-bottom: 100px;
 	font-weight:bold;
 	max-width: 100%;
-	color: white;
+	color:#210B2C;
 	background-image: -o-linear-gradient(left bottom, #1e1a3a, #27224c, #302a5e, #393271, #433b84, #4e4590, #5a4f9c, #655aa9, #746ab1, #827aba, #918ac2, #a09aca);
 	background-image: -webkit-gradient(linear, left bottom, right top, from(#1e1a3a), color-stop(#27224c), color-stop(#302a5e), color-stop(#393271), color-stop(#433b84), color-stop(#4e4590), color-stop(#5a4f9c), color-stop(#655aa9), color-stop(#746ab1), color-stop(#827aba), color-stop(#918ac2), to(#a09aca));
 	background-image: linear-gradient(to right top, #1e1a3a, #27224c, #302a5e, #393271, #433b84, #4e4590, #5a4f9c, #655aa9, #746ab1, #827aba, #918ac2, #a09aca);
@@ -54,7 +57,7 @@ img {
 	background-image: -o-linear-gradient(left bottom, #1e1a3a, #27224c, #302a5e, #393271, #433b84, #4e4590, #5a4f9c, #655aa9, #746ab1, #827aba, #918ac2, #a09aca);
 	background-image: -webkit-gradient(linear, left bottom, right top, from(#1e1a3a), color-stop(#27224c), color-stop(#302a5e), color-stop(#393271), color-stop(#433b84), color-stop(#4e4590), color-stop(#5a4f9c), color-stop(#655aa9), color-stop(#746ab1), color-stop(#827aba), color-stop(#918ac2), to(#a09aca));
 	background-image: linear-gradient(to right top, #1e1a3a, #27224c, #302a5e, #393271, #433b84, #4e4590, #5a4f9c, #655aa9, #746ab1, #827aba, #918ac2, #a09aca);
-	color: white;
+	color:#210B2C;
 	margin: 0 auto;
 }
 .navbar-nav:hover {
@@ -72,18 +75,9 @@ img {
 	color: white;
 	margin: 0 auto;
 }
-.navbar-toggler-icon {
-	color: #51469E;
-	border-color:rgba(0,0,0,0.99);
-	border-width:5px;
-	outline-color:rgba(0,0,0,0.99);
-	outline-width:5px;
-}
 .nav-item,.nav-link {
 	background-color: white;
-	color: white;
-	-webkit-box-shadow: 5px 5px 15px 5px #2D2757;
-	box-shadow: 5px 5px 15px 5px #2D2757;
+    color:#210B2C;
 	-webkit-box-pack: center;
 	    -ms-flex-pack: center;
 	        justify-content: center;
@@ -94,14 +88,14 @@ img {
 	margin: 0 auto;
 }
 .nav-item:hover {
-	background-color: #CC97C4;
-	color: white;
+	background-color: transparent;
+	color:#210B2C;
 }
 /* navbar */
 /* Safari 4.0 - 8.0 */
 .navbar {
 	background-color: #51469E;
-	color: white;
+	color:#210B2C;
 }
 .headingforattractionssearchform {
 	text-align: center;
