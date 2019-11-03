@@ -215,7 +215,22 @@ Under your repository name, click to clone your repository in Desktop. Follow th
 
 For further details, please visit the following link:
 
-### CREDITS:
+> ## CREDITS:
+
+### Content:
+
+
+
+### Media:
+
+
+
+### Acknowledgements:
+
+
+
+
+
 
 The content for this website was taken from the original site created by TUI (at the following web address): https://www.tui.co.uk/ [TUI](https://www.tui.co.uk/ "THE WORLD’S NO. 1 TOURISM COMPANY").
 
