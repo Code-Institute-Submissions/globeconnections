@@ -15,6 +15,8 @@ img {
 	font-weight:bold;
 	color: rgba(239,238,246,0.99);
     background-color: rgba(81,70,158,0.8);
+    -webkit-box-shadow: 5px 5px 15px 5px #1E1A3A;
+box-shadow: 5px 5px 15px 5px #1E1A3A;
 }
 .navbartogglericon {
 	color: #210B2C;
