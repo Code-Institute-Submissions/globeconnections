@@ -9,24 +9,25 @@ img {
 	height: auto;
 }
 /* html and bodyof html */
-.navbar {
+
+.bg-navbar {
 	font-size:1rem;
 	font-weight:bold;
-	color: black;
-	margin-bottom: 60px;
+	color: rgba(239,238,246,0.99);
+    background-color: rgba(81,70,158,0.8);
 }
 .navbartogglericon {
-	color: black;
-	border-color:black;
+	color: #210B2C;
+	border-color:#210B2C;
 	border-width:5px;
-	outline-color:black;
+	outline-color:#210B2C;
 	outline-width:5px;
 }
 .navbar-toggler {
-	border-color:black;
+	border-color:#433A82;
 	border-width:5px;
-	color: black;
-	outline-color:black;
+	color: #433A82;
+	outline-color:#433A82;
 	outline-width:5px;
 }
 .navbar-brand {
@@ -34,21 +35,22 @@ img {
 	border-radius: 20%;
 	font-size:1rem;
 	font-weight:bold;
-	color:black;
+	color: rgba(239,238,246,0.99);
 }
 .navbar-brand:hover {
 	background-color: white;
-	color: black;
+	color: rgba(33,11,44,0.98);
 }
 .nav-item {
 	font: 1rem;
-	color: black;
+	color: rgba(33,11,44,0.98);
+    background-color: rgba(207,204,228,0.96);
 	margin-left: 20px;
 	margin-right:20px;
 }
 .nav-item:hover {
-	background-color: white;
-	color: black;
+	color: rgba(239,238,246,0.99);
+    background-color: rgba(81,70,158,1.0);
 }
 /* navbar */
 /* Safari 4.0 - 8.0 */
