@@ -152,7 +152,6 @@
 
 *7. Scroll back down to the **GitHub Pages** section to retrieve the link to the deployed website.*
 
-​
 ### How to run this project locally:
 
 #### To clone this project from GitHub:
