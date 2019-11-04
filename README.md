@@ -135,8 +135,8 @@
 *There were no bugs left unfixed.*
 
  ## DEPLOYMENT:
- 
-#### To deploy this page to GitHub Pages from your [GitHub repository](https://github.com/YOURUSERNAME/globeconnections), the following steps were taken:
+
+#### To deploy this page to GitHub Pages from your [GitHub repository](https://github.com/), the following steps were taken:
 
 *1. Log into GitHub.*
 
