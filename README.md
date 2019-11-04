@@ -173,7 +173,7 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *6. Press Enter. Your local clone will be created.*
 
- ##CREDITS:
+ ## CREDITS:
 
 ### Content:
 
