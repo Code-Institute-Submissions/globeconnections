@@ -11,56 +11,47 @@ img {
 /* html and bodyof html */
 /* navbar */
 
-.homepagenavbar {
-    align-items: center;
-    justify-content: center;
-    max-width: 100%;
-    height: auto;
-    text-align: center;
-}
-.fixed-top {
-	margin-bottom: 130px;
+/* navbar */
+.navbar {
+	font-size:1rem;
 	font-weight:bold;
-	color: white;
-	background-image: -o-linear-gradient(left bottom, #1e1a3a, #27224c, #302a5e, #393271, #433b84, #4e4590, #5a4f9c, #655aa9, #746ab1, #827aba, #918ac2, #a09aca);
-	background-image: -webkit-gradient(linear, left bottom, right top, from(#1e1a3a), color-stop(#27224c), color-stop(#302a5e), color-stop(#393271), color-stop(#433b84), color-stop(#4e4590), color-stop(#5a4f9c), color-stop(#655aa9), color-stop(#746ab1), color-stop(#827aba), color-stop(#918ac2), to(#a09aca));
-	background-image: linear-gradient(to right top, #1e1a3a, #27224c, #302a5e, #393271, #433b84, #4e4590, #5a4f9c, #655aa9, #746ab1, #827aba, #918ac2, #a09aca);
-	-webkit-box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
-	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
+	color: black;
+	margin-bottom: 60px;
 }
-.fixed-top:hover {
-	margin-bottom: 100px;
+.navbartogglericon {
+	color: black;
+	border-color:black;
+	border-width:5px;
+	outline-color:black;
+	outline-width:5px;
+}
+.navbar-toggler {
+	border-color:black;
+	border-width:5px;
+	color: black;
+	outline-color:black;
+	outline-width:5px;
+}
+.navbar-brand {
+	outline: black;
+	border-radius: 20%;
+	font-size:1rem;
 	font-weight:bold;
-	color: white;
-	background-image: -o-linear-gradient(left bottom, #cc97c4, #a97aa5, #875e88, #66436b, #472a4f, #3e2248, #361940, #2d1139, #371543, #41194d, #4c1d58, #572162);
-	background-image: -webkit-gradient(linear, left bottom, right top, from(#cc97c4), color-stop(#a97aa5), color-stop(#875e88), color-stop(#66436b), color-stop(#472a4f), color-stop(#3e2248), color-stop(#361940), color-stop(#2d1139), color-stop(#371543), color-stop(#41194d), color-stop(#4c1d58), to(#572162));
-	background-image: linear-gradient(to right top, #cc97c4, #a97aa5, #875e88, #66436b, #472a4f, #3e2248, #361940, #2d1139, #371543, #41194d, #4c1d58, #572162);
-	-webkit-box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
-	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
+	color:black;
 }
-.navbar-nav {
-	background-image: -o-linear-gradient(left bottom, #1e1a3a, #27224c, #302a5e, #393271, #433b84, #4e4590, #5a4f9c, #655aa9, #746ab1, #827aba, #918ac2, #a09aca);
-	background-image: -webkit-gradient(linear, left bottom, right top, from(#1e1a3a), color-stop(#27224c), color-stop(#302a5e), color-stop(#393271), color-stop(#433b84), color-stop(#4e4590), color-stop(#5a4f9c), color-stop(#655aa9), color-stop(#746ab1), color-stop(#827aba), color-stop(#918ac2), to(#a09aca));
-	background-image: linear-gradient(to right top, #1e1a3a, #27224c, #302a5e, #393271, #433b84, #4e4590, #5a4f9c, #655aa9, #746ab1, #827aba, #918ac2, #a09aca);
-	color:#210B2C;
-	margin: 0 auto;
-    text-align: right;
-}
-.navbar-nav:hover {
-	background-image: -o-linear-gradient(left bottom, #cc97c4, #a97aa5, #875e88, #66436b, #472a4f, #3e2248, #361940, #2d1139, #371543, #41194d, #4c1d58, #572162);
-	background-image: -webkit-gradient(linear, left bottom, right top, from(#cc97c4), color-stop(#a97aa5), color-stop(#875e88), color-stop(#66436b), color-stop(#472a4f), color-stop(#3e2248), color-stop(#361940), color-stop(#2d1139), color-stop(#371543), color-stop(#41194d), color-stop(#4c1d58), to(#572162));
-	background-image: linear-gradient(to right top, #cc97c4, #a97aa5, #875e88, #66436b, #472a4f, #3e2248, #361940, #2d1139, #371543, #41194d, #4c1d58, #572162);
-	color: white;
-	margin: 0 auto;
+.navbar-brand:hover {
+	background-color: white;
+	color: black;
 }
 .nav-item {
-    margin-left: 20px;
-    margin-right: 20px;
-	color:rgba(239,238,246,0.97);
+	font: 1rem;
+	color: black;
+	margin-left: 20px;
+	margin-right:20px;
 }
 .nav-item:hover {
-    background-color: rgba(239,238,246,0.97);
-	color: rgba(239,238,246,0.97);
+	background-color: white;
+	color: black;
 }
 /* navbar */
 /* Safari 4.0 - 8.0 */
