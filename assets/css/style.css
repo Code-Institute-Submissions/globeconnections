@@ -34,13 +34,12 @@ box-shadow: 5px 5px 15px 5px #1E1A3A;
 }
 .navbar-brand {
 	outline: black;
-	border-radius: 20%;
 	font-size:1rem;
 	font-weight:bold;
 	color: rgba(239,238,246,0.99);
 }
 .navbar-brand:hover {
-	background-color: white;
+	background-color: rgba(81,70,158,1.0);
 	color: rgba(33,11,44,0.98);
 }
 .nav-item {
