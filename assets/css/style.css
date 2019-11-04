@@ -11,6 +11,13 @@ img {
 /* html and bodyof html */
 /* navbar */
 
+.homepagenavbar {
+    align-items: center;
+    justify-content: center;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+}
 .fixed-top {
 	margin-bottom: 130px;
 	font-weight:bold;
