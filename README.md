@@ -77,11 +77,11 @@
 
 1. [BOOTSTRAP](https://getbootstrap.com/ "Build responsive, mobile-first projects on the web with the world’s most popular front-end component library").
 
-2. HTML
+2. HTML.
 
-3. CSS
+3. CSS.
 
-4. JAVASCRIPT
+4. JAVASCRIPT.
 
 5. [JQUERY](https://jquery.com/ "jQuery UI is a curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library. Whether you're building highly interactive web applications or you just need to add a date picker to a form control, jQuery UI is the perfect choice").
 
@@ -151,16 +151,17 @@
 *6. On selecting Master Branch the page is automatically refreshed, the website is now deployed.*
 
 *7. Scroll back down to the **GitHub Pages** section to retrieve the link to the deployed website.*
+
 ​
 ### How to run this project locally:
-​
+
 #### To clone this project from GitHub:
 
 *1. At the top of this repository, click the green button **Clone or download**.*
 
 *2. In the Clone with HTTPs section, copy the clone URL for the repository.*
 
-*3. Open your favourite terminal (cmd, powershell, bash, git bash, etc.)*
+*3. Open your favourite terminal (cmd, powershell, bash, git bash, etc.).*
 
 *4. Change the current working directory to the location where you want the cloned directory to be made.*
 
