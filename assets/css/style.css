@@ -52,12 +52,12 @@ img {
 .nav-link {
     margin-left: 20px;
     margin-right: 20px;
-	background-color: white;
-	color:#210B2C;
+	background-color: rgba(239,238,246,0.97);
+	color:rgba(239,238,246,0.97);
 }
 .nav-item:hover {
-	background-color: white;
-	color: white;
+    background-color: rgba(239,238,246,0.97);
+	color: rgba(239,238,246,0.97);
 }
 /* navbar */
 /* Safari 4.0 - 8.0 */
