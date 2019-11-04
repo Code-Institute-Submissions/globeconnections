@@ -167,7 +167,8 @@
 *5. Type `git clone`, and then paste the URL you copied in Step 2.*
 
 ```console
-git clone https://github.com/CodingStudent2019/globeconnections.git    ```
+git clone https://github.com/CodingStudent2019/globeconnections.git
+```
 
 *6. Press Enter. Your local clone will be created.*
 
