@@ -10,24 +10,13 @@ img {
 }
 /* html and bodyof html */
 /* navbar */
-.navbar,
-.navbar-brand {
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	-webkit-box-align: center;
-	-ms-flex-align: center;
-	align-items: center;
-	text-align: center;
-	margin: 0 auto;
-	background-color: transparent;
-	color:#210B2C;
+#navbarNavAltMarkup {
+    margin-left: 0;
 }
 .fixed-top {
-	margin-bottom: 100px;
+	margin-bottom: 130px;
 	font-weight:bold;
-	max-width: 100%;
-	color:#210B2C;
+	color: white;
 	background-image: -o-linear-gradient(left bottom, #1e1a3a, #27224c, #302a5e, #393271, #433b84, #4e4590, #5a4f9c, #655aa9, #746ab1, #827aba, #918ac2, #a09aca);
 	background-image: -webkit-gradient(linear, left bottom, right top, from(#1e1a3a), color-stop(#27224c), color-stop(#302a5e), color-stop(#393271), color-stop(#433b84), color-stop(#4e4590), color-stop(#5a4f9c), color-stop(#655aa9), color-stop(#746ab1), color-stop(#827aba), color-stop(#918ac2), to(#a09aca));
 	background-image: linear-gradient(to right top, #1e1a3a, #27224c, #302a5e, #393271, #433b84, #4e4590, #5a4f9c, #655aa9, #746ab1, #827aba, #918ac2, #a09aca);
@@ -37,7 +26,6 @@ img {
 .fixed-top:hover {
 	margin-bottom: 100px;
 	font-weight:bold;
-	max-width: 100%;
 	color: white;
 	background-image: -o-linear-gradient(left bottom, #cc97c4, #a97aa5, #875e88, #66436b, #472a4f, #3e2248, #361940, #2d1139, #371543, #41194d, #4c1d58, #572162);
 	background-image: -webkit-gradient(linear, left bottom, right top, from(#cc97c4), color-stop(#a97aa5), color-stop(#875e88), color-stop(#66436b), color-stop(#472a4f), color-stop(#3e2248), color-stop(#361940), color-stop(#2d1139), color-stop(#371543), color-stop(#41194d), color-stop(#4c1d58), to(#572162));
@@ -46,58 +34,33 @@ img {
 	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
 }
 .navbar-nav {
-	-webkit-box-align: center;
-	-ms-flex-align: center;
-	align-items: center;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	text-align: center;
-	max-width: 100%;
 	background-image: -o-linear-gradient(left bottom, #1e1a3a, #27224c, #302a5e, #393271, #433b84, #4e4590, #5a4f9c, #655aa9, #746ab1, #827aba, #918ac2, #a09aca);
 	background-image: -webkit-gradient(linear, left bottom, right top, from(#1e1a3a), color-stop(#27224c), color-stop(#302a5e), color-stop(#393271), color-stop(#433b84), color-stop(#4e4590), color-stop(#5a4f9c), color-stop(#655aa9), color-stop(#746ab1), color-stop(#827aba), color-stop(#918ac2), to(#a09aca));
 	background-image: linear-gradient(to right top, #1e1a3a, #27224c, #302a5e, #393271, #433b84, #4e4590, #5a4f9c, #655aa9, #746ab1, #827aba, #918ac2, #a09aca);
 	color:#210B2C;
 	margin: 0 auto;
+    text-align: right;
 }
 .navbar-nav:hover {
-	-webkit-box-align: center;
-	-ms-flex-align: center;
-	align-items: center;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	text-align: center;
 	background-image: -o-linear-gradient(left bottom, #cc97c4, #a97aa5, #875e88, #66436b, #472a4f, #3e2248, #361940, #2d1139, #371543, #41194d, #4c1d58, #572162);
 	background-image: -webkit-gradient(linear, left bottom, right top, from(#cc97c4), color-stop(#a97aa5), color-stop(#875e88), color-stop(#66436b), color-stop(#472a4f), color-stop(#3e2248), color-stop(#361940), color-stop(#2d1139), color-stop(#371543), color-stop(#41194d), color-stop(#4c1d58), to(#572162));
 	background-image: linear-gradient(to right top, #cc97c4, #a97aa5, #875e88, #66436b, #472a4f, #3e2248, #361940, #2d1139, #371543, #41194d, #4c1d58, #572162);
-	max-width: 100%;
 	color: white;
 	margin: 0 auto;
 }
 .nav-item,
 .nav-link {
+    margin-left: 20px;
+    margin-right: 20px;
 	background-color: white;
 	color:#210B2C;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	-webkit-box-align: center;
-	-ms-flex-align: center;
-	align-items: center;
-	text-align: center;
-	margin: 0 auto;
 }
 .nav-item:hover {
-	background-color: transparent;
-	color:#210B2C;
+	background-color: #210B2C;
+	color: white;
 }
 /* navbar */
 /* Safari 4.0 - 8.0 */
-.navbar {
-	background-color: #51469E;
-	color:#210B2C;
-}
 .headingforattractionssearchform {
 	text-align: center;
 	-webkit-box-pack: center;
@@ -107,7 +70,7 @@ img {
 	-ms-grid-row-align: center;
 	align-self: center;
     background-image: linear-gradient(to right top, #742f2f, #8d3939, #a64343, #c04d4d, #db5858, #e76463, #f3706f, #ff7c7b, #ff8c8b, #ff9b9a, #ffaaaa, #ffb9b9);
-	margin-top: 150px;
+	margin-top: 170px;
 	margin-bottom: 80px;
 	color: #210B2C;
 	font-size: 2rem;

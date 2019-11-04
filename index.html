@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="shortcut icon" type="image/x-icon" href="assets/favicon/favicon.ico">
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
     <title>GLOBECONNECTIONS</title>
 </head>
@@ -15,26 +15,22 @@
 <body>
     <header>
         <!-- Navbar for index.html -->
-        <div class="container navbar">
-            <nav class="navbar navbar-expand-lg navbar-light bg-light">
-                <a class="navbar-brand" href="#">Navbar</a>
+            <nav class="navbar navbar-expand-lg fixed-top navbar-light bg-light">
+                <a class="navbar-brand" href="index.html"> <img src="assets/images/brand-logo.png" alt="logo" title="GLOBECONNECTIONS" width="70" height="70">GLOBECONNECTIONS</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                     <div class="navbar-nav">
-                        <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+                        <a class="nav-item nav-link" href="index.html">HOME <span class="sr-only">(current)</span></a>
                         <a class="nav-item nav-link" href="#mapsearch">MAP SEARCH</a>
                         <a class="nav-item nav-link" href="#populardestinations">POPULAR DESTINATIONS</a>
-                        <a class="nav-item nav-link" href="#">Pricing</a>
-                        <a class="nav-item nav-link" href="#">Pricing</a>
-                        <a class="nav-item nav-link" href="#">Pricing</a>
-                        <a class="nav-item nav-link" href="#">Pricing</a>
-                        <a class="nav-item nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+                        <a class="nav-item nav-link" href="#packagedeals">PACKAGE DEALS</a>
+                        <a class="nav-item nav-link" href="#usefulinformation">USEFUL INFORMATION</a>
+                        <a class="nav-item nav-link" href="#footer">ABOUT US</a>
                     </div>
                 </div>
             </nav>
-        </div>
         <!-- Navbar for index.html -->
     </header>
     <section>
@@ -193,7 +189,7 @@
                 </div>
             </div>
         </div>
-        <div class="container headingcontainer">
+        <div id="packagedeals" class="container headingcontainer">
             <p class="lead-heading">PACKAGE DEALS (click on the images to find out more)</p>
         </div>
         <div class="container-fluid package-deals-home-page">
@@ -254,7 +250,7 @@
             </div>
         </div>
         </div>
-        <div class="container headingcontainer">
+        <div id="usefulinformation" class="container headingcontainer">
             <p class="lead-heading">OTHER USEFUL INFORMATION (click on the images to find out more)</p>
         </div>
         <div class="jumbotron useful-information-home-page">
@@ -302,7 +298,7 @@
             </div>
         </div>
         <!-- Footer -->
-        <footer class="page-footer font-small unique-color-dark">
+        <footer id="footer" class="page-footer font-small unique-color-dark">
             <!-- Footer Links -->
             <div class="container text-center text-md-left mt-5">
                 <!-- Grid row -->
