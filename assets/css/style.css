@@ -79,6 +79,7 @@ box-shadow: 5px 5px 15px 5px #1E1A3A;
 	margin: 0 auto;
 }
 #map {
+    position: relative;
 	min-height: 800px;
 	width: 900px;
 	margin: 0 auto;
