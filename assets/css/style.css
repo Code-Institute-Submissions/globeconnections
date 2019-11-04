@@ -10,9 +10,7 @@ img {
 }
 /* html and bodyof html */
 /* navbar */
-#navbarNavAltMarkup {
-    margin-left: 0;
-}
+
 .fixed-top {
 	margin-bottom: 130px;
 	font-weight:bold;
@@ -48,11 +46,9 @@ img {
 	color: white;
 	margin: 0 auto;
 }
-.nav-item,
-.nav-link {
+.nav-item {
     margin-left: 20px;
     margin-right: 20px;
-	background-color: rgba(239,238,246,0.97);
 	color:rgba(239,238,246,0.97);
 }
 .nav-item:hover {
