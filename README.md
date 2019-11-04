@@ -47,7 +47,7 @@
 
 #### The wireframes have been attached to a separate folder named *wireframes* within this Github repository.
 
-*The live website is slightly different from the one initially depicted in the wireframes because some features and styles were amended whilst enhancing the website.*
+*The live website is slightly different from the one depicted in the wireframes because some features and styles were amended whilst enhancing the website.*
 
  ## FEATURES:
 
