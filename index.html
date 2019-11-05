@@ -19,8 +19,8 @@
             <nav class="navbar navbar-expand-lg fixed-top navbar-light bg-navbar">
                 <a class="navbar-brand" href="index.html"><img src="assets/images/brand-logo.png" alt="logo" title="GLOBECONNECTIONS" width="40" height="40">GLOBECONNECTIONS</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-<span class="navbartogglericon"><i class="fas fa-bars"></i></span>
-</button>
+                    <span class="navbartogglericon"><i class="fas fa-bars"></i></span>
+                </button>
                 <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                     <div class="navbar-nav ml-auto">
                         <a class="nav-item nav-link active" aria-label="the home page link that is active on the navbar" href="index.html">HOME <span class="sr-only">(current)</span></a>
@@ -34,24 +34,33 @@
             </nav>
         </div>
         <!-- Navbar for index.html -->
-
     </header>
     <section>
         <div id="mapsearch" class="container headingforattractionssearchform">
-            <p class="lead">FIND YOUR NEXT HOLIDAY DESTINATION</p>
-        </div>
-
-        <div class="container mapcontainer">
-            <div class="input-group mb-3">
-                <div class="input-group-prepend">
+            <div class="row justify-content-center">
+                <div class="col-sm-12">
+                    <p class="lead">FIND YOUR NEXT HOLIDAY DESTINATION</p>
                 </div>
-                <input id="pac-input" type="text" class="form-control" placeholder="SEARCH BOX" aria-label="Example text with button addon" aria-describedby="button-addon1">
-                <div id="map"></div>
             </div>
         </div>
-
+        <div class="container mapcontainer">
+            <div class="row justify-content-center">
+                <div class="col-sm-12">
+                    <div class="input-group mb-3">
+                        <div class="input-group-prepend">
+                        </div>
+                        <input id="pac-input" type="text" class="form-control" placeholder="SEARCH BOX" aria-label="Example text with button addon" aria-describedby="button-addon1">
+                        <div id="map"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div id="populardestinations" class="container headingcontainer">
-            <p class="lead-heading">POPULAR DESTINATIONS (click on the images to find out more)</p>
+            <div class="row justify-content-center">
+                <div class="col-sm-12">
+                    <p class="lead-heading">POPULAR DESTINATIONS (click on the images to find out more)</p>
+                </div>
+            </div>
         </div>
         <div class="container-fluid popular-destinations-home-page">
             <div class="row">
@@ -194,7 +203,11 @@
             </div>
         </div>
         <div id="packagedeals" class="container headingcontainer">
-            <p class="lead-heading">PACKAGE DEALS (click on the images to find out more)</p>
+            <div class="row justify-content-center">
+                <div class="col-sm-12">
+                    <p class="lead-heading">PACKAGE DEALS (click on the images to find out more)</p>
+                </div>
+            </div>
         </div>
         <div class="container-fluid package-deals-home-page">
             <div class="row">
@@ -202,7 +215,7 @@
                     <div class="card bg-light-package-deals text-white">
                         <img src="assets/images/package-deals-1.jpg" class="card-img" alt="...">
                         <div class="card-img-overlay">
-                            <h5 class="card-title-package-deals">SELECT YOUR OWN COMBINATION OF HOTELS, FLIGHTS, AND RESTAURANTS</h5>
+                            <h5 class="card-title-package-deals">SELECT YOUR OWN COMBINATION</h5>
                         </div>
                     </div>
                 </div>
@@ -255,7 +268,11 @@
         </div>
         </div>
         <div id="usefulinformation" class="container headingcontainer">
-            <p class="lead-heading">OTHER USEFUL INFORMATION (click on the images to find out more)</p>
+            <div class="row justify-content-center">
+                <div class="col-sm-12">
+                    <p class="lead-heading">OTHER USEFUL INFORMATION (click on the images to find out more)</p>
+                </div>
+            </div>
         </div>
         <div class="jumbotron useful-information-home-page">
             <div class="container useful-information">
@@ -371,7 +388,7 @@
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
         <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
         <script type="text/javascript" src="assets/javascript/script.js"></script>
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCfuzexd6uC-tWf2uhUw2C1eH0wi63GRco&libraries=places&callback=initAutocomplete" async defer></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC7XKv_15gDoiH_yVCitALcFkPiIr7aSSk&libraries=places&callback=initAutocomplete" async defer></script>
 </body>
 
 </html>
