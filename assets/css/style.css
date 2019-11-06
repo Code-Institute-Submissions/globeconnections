@@ -17,8 +17,6 @@ img {
 	font-weight:bold;
 	color: rgba(239,238,246,0.99);
 	background-color: rgba(81,70,158,0.8);
-	-webkit-box-shadow: 5px 5px 15px 5px #1E1A3A;
-	box-shadow: 5px 5px 15px 5px #1E1A3A;
 }
 .navbartogglericon {
 	color: #210B2C;
@@ -73,8 +71,6 @@ img {
 	margin-bottom: 80px;
 	color: #210B2C;
 	font-size: 2rem;
-	-webkit-box-shadow: 5px 5px 15px 5px #301236;
-	box-shadow: 5px 5px 15px 5px #301236;
 }
 .mapcontainer {
 	height: 100%;
@@ -172,8 +168,6 @@ table {
 	align-items: center;
 	margin-top: 600px;
 	margin-bottom: 70px;
-	-webkit-box-shadow: 5px 5px 15px 5px #2D2757;
-	box-shadow: 5px 5px 15px 5px #2D2757;
 	font-size: 1rem;
 	font-weight: bold;
 }
@@ -192,8 +186,6 @@ table {
 	align-items: center;
 	margin-top: 70px;
 	margin-bottom: 70px;
-	-webkit-box-shadow: 5px 5px 15px 5px #2D2757;
-	box-shadow: 5px 5px 15px 5px #2D2757;
 	font-size: 1rem;
 	font-weight: bold;
 }
@@ -213,8 +205,6 @@ table {
 /* popular destinations */
 .card-title-package-deals {
     padding: 2rem;
-	-webkit-box-shadow:5px 5px 15px 5px #461C1C;
-	box-shadow:5px 5px 15px 5px #461C1C;
 	font-size: 1rem;
 	color: rgba(255,255,255,1.0);
 	margin-top: 10px;
@@ -230,8 +220,6 @@ table {
 }
 .bg-light-package-deals {
     padding: 2rem;
-	-webkit-box-shadow:5px 5px 15px 5px #461C1C;
-	box-shadow:5px 5px 15px 5px #461C1C;
 	font-size: 1rem;
 	margin-top: 10px;
 	margin-bottom: 10px;
@@ -256,8 +244,6 @@ table {
 }
 .bg-white-useful-information,.card-title-useful-information {
     padding: 2rem;
-	-webkit-box-shadow:5px 5px 15px 5px #210B2C;
-	box-shadow:5px 5px 15px 5px #210B2C;
 	font-size: 1rem;
 	margin-top: 10px;
 	margin-bottom: 10px;
