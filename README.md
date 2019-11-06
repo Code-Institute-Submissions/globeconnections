@@ -5,7 +5,7 @@
 
 *Here at Globeconnections, we believe that fulfilling travel experiences begin not only with choosing the right destination, but having the right state of mind.*
 
-*The way we see it, life is just one big journey, and we're here to help people make more enlightening stops along the way.*
+*The way we see it, life is just one big journey, and we are here to help people make more enlightening stops along the way.*
 
 *But what does that mean, exactly?*
 
@@ -220,4 +220,4 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *(12) The favicon was generated with the following website: [FAVICON](https://favicon.io/favicon-generator/ "Favicon Generator").*
 
-*(13) I received inspiration for this project from the original website created by [TUI](https://www.tui.co.uk/ "Travel Packages Finder").*
+*(13) I received inspiration for this project from the original website created by [TUI](https://www.tui.co.uk/ "Travel Packages Finder").*[![mockup](multi device "mockup")](https://a19ae2aa-3018-4ca3-a5b9-3325a4dc15f8.ws-eu01.gitpod.io/mini-browser/workspace/globeconnections/assets/images/multi-device-website-mock-up.png "mockup")
