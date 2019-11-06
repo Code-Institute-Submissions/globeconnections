@@ -73,6 +73,16 @@ img {
 	color: #210B2C;
 	font-size: 2rem;
 }
+.btn-outline-secondary-map {
+    background-color: #51469E;
+    color: #CC97C4;
+    border: 1px solid #252048;
+}
+.btn-outline-secondary-map:hover {
+    background-color: #FF6666;
+    color: #FFF1F1;
+    border: 1px solid #5D2626;
+}
 .mapcontainer {
 	height: 100%;
 	width: 100%;
