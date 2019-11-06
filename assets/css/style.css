@@ -58,6 +58,7 @@ img {
 /* navbar */
 /* Safari 4.0 - 8.0 */
 .headingforattractionssearchform {
+    padding: 2rem;
 	text-align: center;
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
