@@ -36,7 +36,8 @@ img {
 	outline: black;
 	font-size:1rem;
 	font-weight:bold;
-	color: rgba(239,238,246,0.99);
+	color:rgba(207,204,228,0.96);
+	background-color:transparent;
 }
 .navbar-brand:hover {
 	background-color: rgba(81,70,158,1.0);
@@ -44,14 +45,14 @@ img {
 }
 .nav-item {
 	font: 1rem;
-	color: rgba(33,11,44,0.98);
-	background-color: rgba(207,204,228,0.96);
+	color:rgba(207,204,228,0.96);
+	background-color:transparent;
 	margin-left: 20px;
 	margin-right:20px;
 }
 .nav-item:hover {
-	color: rgba(239,238,246,0.99);
 	background-color: rgba(81,70,158,1.0);
+	color: rgba(33,11,44,0.98);
 }
 /* navbar */
 /* Safari 4.0 - 8.0 */
