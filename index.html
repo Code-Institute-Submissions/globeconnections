@@ -46,23 +46,16 @@
             <div class="row">
                 <div class="col-sm">
                     <div class="input-group mb-3">
-                        <div class="input-group-prepend">
-                            <div class="dropdown">
-                                <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">SELECT
-                                    <span class="multi-select-dropdown-map-search"></span>
-                                </button>
-                                <div class="dropdown-menu">
-                                    <a class="dropdown-item" href="#findhotels">ACCOMMODATION</a>
-                                    <a class="dropdown-item" href="#">RESTAURANTS</a>
-                                    <a class="dropdown-item" href="#">LOCAL TOURIST ATTRACTIONS</a>
-                                    <div role="separator" class="dropdown-divider"></div>
-                                    <a class="dropdown-item" href="#">SEARCH BY ANY CITY</a>
-                                </div>
-                            </div>
-                            <div id="locationField">
-                                <input id="autocomplete" placeholder="Enter a city" type="text" class="form-control" aria-label="Text input with segmented dropdown button" />
-                            </div>
+                        <div class="input-group-prepend" id="button-addon3">
+                            <button class="btn btn-outline-secondary" id="#findhotels" type="button">ACCOMMODATION</button>
+                            <button class="btn btn-outline-secondary" type="button">RESTAURANTS</button>
+                            <button class="btn btn-outline-secondary" type="button">TOURIST ATTRACTIONS</button>
+                            <button class="btn btn-outline-secondary" type="button">SEARCH ANY CITY</button>
                         </div>
+                        <div class="w-100"></div>
+                         <div class="col-sm">
+                        <input id="autocomplete" placeholder="Enter a city" type="text" class="form-control" aria-label="Text input with segmented dropdown button" aria-describedby="button-addon3">
+                    </div>
                     </div>
                 </div>
             </div>
