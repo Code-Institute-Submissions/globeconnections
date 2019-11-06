@@ -297,6 +297,7 @@ table {
 	background-image: linear-gradient(to right top, #c1aec5, #cda2c3, #dc94ba, #ec85a9, #f87690, #f9748d, #f9718b, #fa6f88, #f2789d, #e683af, #d98dbc, #cc97c4);
 }
 .text-uppercase {
+    padding: 2rem;
 	background-color: white;
 	margin-top: 20px;
 	color: #3C011D;
@@ -373,6 +374,7 @@ table {
 	opacity:0.5;
 }
 .btn-outline-white {
+    padding: 2rem;
 	font-size: 1rem;
 	height: 3rem;
 	width: 8rem;
@@ -393,6 +395,7 @@ table {
 	opacity:0.5;
 }
 .mb-1,.py-5,.mb-5 {
+    padding: 2rem;
 	font-size: 1rem;
 	margin:0 auto;
 	text-align: center;
