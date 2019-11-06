@@ -1,5 +1,5 @@
  # Project Name: GLOBECONNECTIONS
- ## (Interactive Frontend Development - Code Institute)
+ ## (Interactive Front-end Development - Code Institute)
 
  **ABOUT GLOBECONNECTIONS:**
 
@@ -27,7 +27,7 @@
 
 - The reason behind creating this website is to allow site navigators to choose a package for their next holiday which is best suited to their individual requirements.
 
-- We understand that every traveller is different from another and will have sveeral different requirements to fulfil throughout their journey to ensure that they have the best holiday possible.
+- We understand that every traveller is different from another and will have several different requirements to fulfil throughout their journey to ensure that they have the best holiday possible.
 
 - I have created this website using the latest color schemes, keeping it simple yet in line with latest designing trends.
 
@@ -57,7 +57,7 @@
 
 *a. The Google Maps Search functionality, which allows site navigators to enter a destination of their choice to find information about accommodation, restaurants and local tourist attractions around those places.*
 
-*b. Information about popular destinations chosen and visted by site users.*
+*b. Information about popular destinations chosen and visited by site users.*
 
 ### Features Left to Implement (in the future):
 
@@ -67,7 +67,7 @@
 
 *b. Access to booking systems for flights, hotels, restaurants and local tourist attractions.*
 
-*c. The choice of accessing and choosing from various different packages to provide an extensive shopping experince.*
+*c. The choice of accessing and choosing from various different packages to provide an extensive shopping experience.*
 
 *d. Access to additional resources such as the latest news/updates from the travel industry, health, beauty and safety tips and other useful external resources.*
 
@@ -180,7 +180,7 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *(2) The tool utilized to organize the HTML file is [HTML-FORMATTER](https://coolors.co/ "Free online tool to format an ugly HTML code, making it readable and pretty, with the proper indentation").*
 
-*(3) The tool utilized to organize the CSS file is [CSS-CLEANER](https://html-cleaner.com/css/ "Free online css cleaner and beautifyer").*
+*(3) The tool utilized to organize the CSS file is [CSS-CLEANER](https://html-cleaner.com/css/ "Free online css cleaner and beautifier").*
 
 *(4) The tool utilized to validate JavaScript is [ESPRIMA](https://esprima.org/demo/validate.html "Syntax Validator checks for mistakes and errors in Javascript codes").*
 
@@ -216,7 +216,7 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *(10) The site is thoroughly tested using [Chrome DevTools | Tools for Web Developers | Google](https://developers.google.com/web/tools/chrome-devtools/ "Chrome DevTools | Tools for Web Developers | Google").*
 
-*(11) This readme.md document is written using markdownn language from the following link: [MARKDOWN GUIDE](https://www.markdownguide.org/basic-syntax/#links "Markdown Syntax").*
+*(11) This readme.md document is written using markdown language from the following link: [MARKDOWN GUIDE](https://www.markdownguide.org/basic-syntax/#links "Markdown Syntax").*
 
 *(12) The favicon was generated with the following website: [FAVICON](https://favicon.io/favicon-generator/ "Favicon Generator").*
 
