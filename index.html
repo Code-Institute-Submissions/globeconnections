@@ -44,166 +44,111 @@
             </div>
         </div>
         <div class="container mapcontainer">
-            <div class="row justify-content-center">
-                <div class="col-sm-12">
-                    <div class="input-group mb-3">
-                        <div class="input-group-prepend">
+        <div class="row">
+            <div class="col-sm">
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend">
+                        <div class="dropdown">
+                            <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">SELECT
+                                <span class="multi-select-dropdown-map-search"></span>
+                            </button>
+                            <div class="dropdown-menu">
+                                <a class="dropdown-item" href="#findhotels">ACCOMMODATION</a>
+                                <a class="dropdown-item" href="#">RESTAURANTS</a>
+                                <a class="dropdown-item" href="#">LOCAL TOURIST ATTRACTIONS</a>
+                                <div role="separator" class="dropdown-divider"></div>
+                                <a class="dropdown-item" href="#">SEARCH BY ANY CITY</a>
+                            </div>
                         </div>
-                        <input id="pac-input" type="text" class="form-control" placeholder="SEARCH BOX" aria-label="Example text with button addon" aria-describedby="button-addon1">
-                        <div id="map"></div>
+                        <div id="locationField">
+                            <input id="autocomplete" placeholder="Enter a city" type="text" class="form-control" aria-label="Text input with segmented dropdown button" />
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
 
-        <div id="populardestinations" class="container headingcontainer">
-            <div class="row justify-content-center">
-                <div class="col-sm-12">
-                    <p class="lead-heading">POPULAR DESTINATIONS (click on the images to find out more)</p>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm">
+                <div id="controls">
+                    <select id="country">
+                        <option value="all">All</option>
+                        <option value="au">Australia</option>
+                        <option value="br">Brazil</option>
+                        <option value="ca">Canada</option>
+                        <option value="fr">France</option>
+                        <option value="de">Germany</option>
+                        <option value="mx">Mexico</option>
+                        <option value="nz">New Zealand</option>
+                        <option value="it">Italy</option>
+                        <option value="za">South Africa</option>
+                        <option value="es">Spain</option>
+                        <option value="pt">Portugal</option>
+                        <option value="us" selected>United States of America</option>
+                        <option value="uk">United Kingdom</option>
+                    </select>
                 </div>
             </div>
         </div>
-        <div class="container-fluid popular-destinations-home-page">
-            <div class="row">
-                <div class="col-sm-4">
-                    <div class="card bg-light popular-destinations-image-overlay-card text-white">
-                        <img src="assets/images/new-york-city-new-york.jpg" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <h5 class="card-title-popular-destinations">NEW YORK, US</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="card bg-light popular-destinations-image-overlay-card text-white">
-                        <img src="assets/images/bangkok-thailand.jpg" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <h5 class="card-title-popular-destinations">BANGKOK, THAILAND</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="card bg-light popular-destinations-image-overlay-card text-white">
-                        <img src="assets/images/mexico-city-mexico.jpg" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <h5 class="card-title-popular-destinations">MEXICO CITY, MEXICO</h5>
-                        </div>
-                    </div>
+    </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm">
+                <div id="map"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm">
+                <div id="listing">
+                    <table id="resultsTable">
+                        <tbody id="results"></tbody>
+                    </table>
                 </div>
             </div>
         </div>
-        <div class="container-fluid popular-destinations-home-page">
-            <div class="row">
-                <div class="col-sm-4">
-                    <div class="card bg-light popular-destinations-image-overlay-card text-white">
-                        <img src="assets/images/cairo-egypt.jpg" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <h5 class="card-title-popular-destinations">CAIRO, EGYPT</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="card bg-light popular-destinations-image-overlay-card text-white">
-                        <img src="assets/images/mumbai-india.jpg" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <h5 class="card-title-popular-destinations">MUMBAI, INDIA</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="card bg-light popular-destinations-image-overlay-card text-white">
-                        <img src="assets/images/berlin-germany.jpg" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <h5 class="card-title-popular-destinations">BERLIN, GERMANY</h5>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="container-fluid popular-destinations-home-page">
-            <div class="row">
-                <div class="col-sm-4">
-                    <div class="card bg-light popular-destinations-image-overlay-card text-white">
-                        <img src="assets/images/male-maldives.jpg" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <h5 class="card-title-popular-destinations">MALE, MALDIVES</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="card bg-light popular-destinations-image-overlay-card text-white">
-                        <img src="assets/images/colombo-sri-lanka.jpg" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <h5 class="card-title-popular-destinations">COLOMBO, SRI LANKA</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="card bg-light popular-destinations-image-overlay-card text-white">
-                        <img src="assets/images/tenerife-spain.jpg" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <h5 class="card-title-popular-destinations">TENERIFE, SPAIN</h5>
-                        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm">
+                <div style="display: none">
+                    <div id="info-content">
+                        <table>
+                            <tr id="iw-url-row" class="iw_table_row">
+                                <td id="iw-icon" class="iw_table_icon"></td>
+                                <td id="iw-url"></td>
+                            </tr>
+                            <tr id="iw-address-row" class="iw_table_row">
+                                <td class="iw_attribute_name">Address:</td>
+                                <td id="iw-address"></td>
+                            </tr>
+                            <tr id="iw-phone-row" class="iw_table_row">
+                                <td class="iw_attribute_name">Telephone:</td>
+                                <td id="iw-phone"></td>
+                            </tr>
+                            <tr id="iw-rating-row" class="iw_table_row">
+                                <td class="iw_attribute_name">Rating:</td>
+                                <td id="iw-rating"></td>
+                            </tr>
+                            <tr id="iw-website-row" class="iw_table_row">
+                                <td class="iw_attribute_name">Website:</td>
+                                <td id="iw-website"></td>
+                            </tr>
+                        </table>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="container-fluid popular-destinations-home-page">
-            <div class="row">
-                <div class="col-sm-4">
-                    <div class="card bg-light popular-destinations-image-overlay-card text-white">
-                        <img src="assets/images/venice-italy.jpg" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <h5 class="card-title-popular-destinations">VENICE, ITALY</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="card bg-light popular-destinations-image-overlay-card text-white">
-                        <img src="assets/images/mombasa-kenya.jpg" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <h5 class="card-title-popular-destinations">MOMBASA, KENYA</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="card bg-light popular-destinations-image-overlay-card text-white">
-                        <img src="assets/images/paris-france.jpg" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <h5 class="card-title-popular-destinations">PARIS, FRANCE</h5>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="container-fluid popular-destinations-home-page">
-            <div class="row">
-                <div class="col-sm-4">
-                    <div class="card bg-light popular-destinations-image-overlay-card text-white">
-                        <img src="assets/images/shanghai-china.jpg" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <h5 class="card-title-popular-destinations">SHANGHAI, CHINA</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="card bg-light popular-destinations-image-overlay-card text-white">
-                        <img src="assets/images/dubai-united-arab-emirates.jpg" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <h5 class="card-title-popular-destinations">DUBAI, UNITED ARAB EMIRATES</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="card bg-light popular-destinations-image-overlay-card text-white">
-                        <img src="assets/images/amsterdam-netherlands.jpg" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <h5 class="card-title-popular-destinations">AMSTERDAM, NETHERLANDS</h5>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div id="packagedeals" class="container headingcontainer">
+    </div>
+
+        <div id="packagedeals" class="container headingcontainerone">
             <div class="row justify-content-center">
                 <div class="col-sm-12">
                     <p class="lead-heading">PACKAGE DEALS (click on the images to find out more)</p>
@@ -268,7 +213,7 @@
             </div>
         </div>
         </div>
-        <div id="usefulinformation" class="container headingcontainer">
+        <div id="usefulinformation" class="container headingcontainertwo">
             <div class="row justify-content-center">
                 <div class="col-sm-12">
                     <p class="lead-heading">OTHER USEFUL INFORMATION (click on the images to find out more)</p>
@@ -389,7 +334,7 @@
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
         <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
         <script type="text/javascript" src="assets/javascript/script.js"></script>
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC7XKv_15gDoiH_yVCitALcFkPiIr7aSSk&libraries=places&callback=initAutocomplete" async defer></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC7XKv_15gDoiH_yVCitALcFkPiIr7aSSk&libraries=places&callback=initMap" async defer></script>
 </body>
 
 </html>

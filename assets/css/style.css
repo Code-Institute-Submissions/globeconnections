@@ -3,9 +3,6 @@
 html, body {
 	font-family: 'Ubuntu', sans-serif;
 	background-color: #FFC7C7;
-    height: 100%;
-    margin: 0;
-    padding: 0;
 }
 img {
 	max-width: 100%;
@@ -76,93 +73,109 @@ box-shadow: 5px 5px 15px 5px #1E1A3A;
 	-webkit-box-shadow: 5px 5px 15px 5px #301236;
 	box-shadow: 5px 5px 15px 5px #301236;
 }
-.mapcontainer {
-	height: 800px;
-	width: 100%;
-	margin: 0 auto;
-}
 #map {
-    position: relative;
-	min-height: 800px;
-	width: 100%;
+        height: 600px;
+        width: 100%;
 	margin: 0 auto;
-}
-#description {
-	font-family: Roboto;
-	font-size: 1rem;
-	font-weight: 300;
-}
-#infowindow-content .title {
-	font-weight: bold;
-}
-#infowindow-content {
-	display: none;
-}
-#map #infowindow-content {
-	display: inline;
-}
-.pac-card {
-	margin: 10px 10px 0 0;
-	border-radius: 2px 0 0 2px;
-	-webkit-box-sizing: border-box;
-	box-sizing: border-box;
-	-moz-box-sizing: border-box;
-	outline: none;
-	-webkit-box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
-	box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
-	background-color: #fff;
-	font-family: Roboto;
-}
-#pac-container {
-	padding-bottom: 12px;
-	margin-right: 12px;
-}
-.pac-controls {
-	display: inline-block;
-	padding: 5px 11px;
-}
-.pac-controls label {
-	font-family: Roboto;
-	font-size: 1rem;
-	font-weight: 300;
-}
-#pac-input {
-	background-color: #fff;
-	font-family: Roboto;
-	font-size: 1rem;
-	font-weight: 300;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      body {
+        padding: 0 !important;
+      }
+      table {
+        font-size: 12px;
+      }
+      #map {
+        top: 40px;
+        height: 600px;
+        width: 100%;
 	margin: 0 auto;
-	padding: 0 11px 0 13px;
-	-o-text-overflow: ellipsis;
-	text-overflow: ellipsis;
-	width: 350px;
-	height: 30px;
-	text-align: left;
+      }
+      #listing {
+        position: absolute;
+        max-width: 100%;
+        height: 500px;
+        overflow: auto;
+        top: 60px;
+        cursor: pointer;
+        overflow-x: hidden;
+        margin-bottom: 540px;
+      }
+      #findhotels {
+        font-size: 1rem;
+      }
+      #locationField {
+        max-width: 100%;
+        height: auto;
+      }
+      #controls {
+        -webkit-box-flex: 1 1 140px;
+        -ms-flex: 1 1 140px;
+        flex: 1 1 140px;
+      }
+      #autocomplete {
+        max-width: 100%;
+        height: auto;
+      }
+      #country {
+        width: 100%;
+      }
+      .placeIcon {
+        width: 20px;
+        height: 34px;
+        margin: 4px;
+      }
+      .hotelIcon {
+        width: 24px;
+        height: 24px;
+      }
+      #resultsTable {
+        border-collapse: collapse;
+        width: 290px;
+        margin: 0 auto;
+
+      }
+      #rating {
+        font-size: 14px;
+        font-family: Arial Unicode MS;
+      }
+      .iw_table_row {
+        height: 18px;
+      }
+      .iw_attribute_name {
+        font-weight: bold;
+        text-align: right;
+      }
+      .iw_table_icon {
+        text-align: right;
+      }
+
+
+.headingcontainerone {
+	background-image: linear-gradient(to right top, #70536b, #805f7b, #916b8b, #a3789c, #b485ad, #be90b7, #c99ac2, #d3a5cc, #d8afd2, #ddbad8, #e2c4de, #e7cfe4);
+    color: #210B2C;
+	text-align: center;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	margin-top: 600px;
+	margin-bottom: 70px;
+	outline: 5px solid #51469E;
+	outline-offset: 15px;
+	-webkit-box-shadow: 5px 5px 15px 5px #2D2757;
+	box-shadow: 5px 5px 15px 5px #2D2757;
+    font-size: 1rem;
+    font-weight: bold;
 }
-#pac-input:focus {
-	border-color: #4d90fe;
-}
-#title {
-	color: #fff;
-	background-color: #4d90fe;
-	font-size: 1rem;
-	font-weight: 500;
-	padding: 6px 12px;
-}
-#target {
-	width: 345px;
-}
-
-
-
-
-
-
-
-
-
-
-.headingcontainer {
+.headingcontainertwo {
 	background-image: linear-gradient(to right top, #70536b, #805f7b, #916b8b, #a3789c, #b485ad, #be90b7, #c99ac2, #d3a5cc, #d8afd2, #ddbad8, #e2c4de, #e7cfe4);
     color: #210B2C;
 	text-align: center;
@@ -195,50 +208,7 @@ box-shadow: 5px 5px 15px 5px #1E1A3A;
 	align-items: center;
 }
 /* popular destinations */
-.lead-populardestinationstitle {
-	margin-top: 60px;
-	margin-bottom: 20px;
-	height: 50px;
-	background-color: white;
-	-webkit-box-align: center;
-	-ms-flex-align: center;
-	align-items: center;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	text-align: center;
-}
-.popular-destinations-home-page {
-	margin-top: 10px;
-	margin-bottom: 10px;
-	background-image: -o-linear-gradient(left bottom, #ffb9b9, #ffaaaa, #ff9b9a, #ff8c8b, #ff7c7b, #ff807f, #ff8482, #ff8886, #ff9f9e, #ffb6b5, #ffcdcc, #ffe3e3);
-	background-image: -webkit-gradient(linear, left bottom, right top, from(#ffb9b9), color-stop(#ffaaaa), color-stop(#ff9b9a), color-stop(#ff8c8b), color-stop(#ff7c7b), color-stop(#ff807f), color-stop(#ff8482), color-stop(#ff8886), color-stop(#ff9f9e), color-stop(#ffb6b5), color-stop(#ffcdcc), to(#ffe3e3));
-	background-image: linear-gradient(to right top, #ffb9b9, #ffaaaa, #ff9b9a, #ff8c8b, #ff7c7b, #ff807f, #ff8482, #ff8886, #ff9f9e, #ffb6b5, #ffcdcc, #ffe3e3);
-	text-align: center;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	-webkit-box-align: center;
-	-ms-flex-align: center;
-	align-items: center;
-}
-.popular-destinations-image-overlay-card,.card-title-popular-destinations {
-	-webkit-box-shadow:5px 5px 15px 5px #461C1C;
-	box-shadow:5px 5px 15px 5px #461C1C;
-	font-size: 1rem;
-	color: rgba(255,255,255,1.0);
-	margin-top: 10px;
-	margin-bottom: 10px;
-	text-align: center;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	-webkit-box-align: center;
-	-ms-flex-align: center;
-	align-items: center;
-	background-color: rgba(33,11,44,0.65);
-}
-/* popular destinations */
+
 .card-title-package-deals {
 	-webkit-box-shadow:5px 5px 15px 5px #461C1C;
 	box-shadow:5px 5px 15px 5px #461C1C;
