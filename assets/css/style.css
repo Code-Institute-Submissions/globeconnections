@@ -257,7 +257,7 @@ table {
 	background-color: rgba(236,226,208,0.7);
 	color:#210B2C;
 }
-.useful-information-home-page {
+.useful-information {
 	padding: 2rem;
 	font-size: 1rem;
 	text-align: center;
@@ -271,7 +271,7 @@ table {
 	background-image: -webkit-gradient(linear, left bottom, right top, from(#c1aec5), color-stop(#b198bc), color-stop(#a083b4), color-stop(#8c70ad), color-stop(#755da6), color-stop(#765ba6), color-stop(#7759a7), color-stop(#7857a7), color-stop(#9065ad), color-stop(#a675b4), color-stop(#ba85bc), to(#cc97c4));
 	background-image: linear-gradient(to right top, #c1aec5, #b198bc, #a083b4, #8c70ad, #755da6, #765ba6, #7759a7, #7857a7, #9065ad, #a675b4, #ba85bc, #cc97c4);
 }
-.useful-information-home-page:hover {
+.useful-information:hover {
 	opacity: 0.9;
 }
 /* socialmedia */
