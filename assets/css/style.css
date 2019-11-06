@@ -157,6 +157,7 @@ table {
 	text-align: right;
 }
 .headingcontainerone {
+    padding: 2rem;
 	background-image: -webkit-gradient(linear, left bottom, right top, from(#70536b), color-stop(#805f7b), color-stop(#916b8b), color-stop(#a3789c), color-stop(#b485ad), color-stop(#be90b7), color-stop(#c99ac2), color-stop(#d3a5cc), color-stop(#d8afd2), color-stop(#ddbad8), color-stop(#e2c4de), to(#e7cfe4));
 	background-image: -o-linear-gradient(left bottom, #70536b, #805f7b, #916b8b, #a3789c, #b485ad, #be90b7, #c99ac2, #d3a5cc, #d8afd2, #ddbad8, #e2c4de, #e7cfe4);
 	background-image: linear-gradient(to right top, #70536b, #805f7b, #916b8b, #a3789c, #b485ad, #be90b7, #c99ac2, #d3a5cc, #d8afd2, #ddbad8, #e2c4de, #e7cfe4);
@@ -176,6 +177,7 @@ table {
 	font-weight: bold;
 }
 .headingcontainertwo {
+    padding: 2rem;
 	background-image: -webkit-gradient(linear, left bottom, right top, from(#70536b), color-stop(#805f7b), color-stop(#916b8b), color-stop(#a3789c), color-stop(#b485ad), color-stop(#be90b7), color-stop(#c99ac2), color-stop(#d3a5cc), color-stop(#d8afd2), color-stop(#ddbad8), color-stop(#e2c4de), to(#e7cfe4));
 	background-image: -o-linear-gradient(left bottom, #70536b, #805f7b, #916b8b, #a3789c, #b485ad, #be90b7, #c99ac2, #d3a5cc, #d8afd2, #ddbad8, #e2c4de, #e7cfe4);
 	background-image: linear-gradient(to right top, #70536b, #805f7b, #916b8b, #a3789c, #b485ad, #be90b7, #c99ac2, #d3a5cc, #d8afd2, #ddbad8, #e2c4de, #e7cfe4);
@@ -209,9 +211,9 @@ table {
 }
 /* popular destinations */
 .card-title-package-deals {
+    padding: 2rem;
 	-webkit-box-shadow:5px 5px 15px 5px #461C1C;
 	box-shadow:5px 5px 15px 5px #461C1C;
-	padding: 5px;
 	font-size: 1rem;
 	color: rgba(255,255,255,1.0);
 	margin-top: 10px;
@@ -226,6 +228,7 @@ table {
 	background-color: rgba(255,102,102,0.65);
 }
 .bg-light-package-deals {
+    padding: 2rem;
 	-webkit-box-shadow:5px 5px 15px 5px #461C1C;
 	box-shadow:5px 5px 15px 5px #461C1C;
 	font-size: 1rem;
@@ -240,6 +243,7 @@ table {
 	align-items: center;
 }
 .package-deals-home-page {
+    padding: 2rem;
 	font-size: 1rem;
 	text-align: center;
 	-webkit-box-pack: center;
@@ -250,6 +254,7 @@ table {
 	align-items: center;
 }
 .bg-white-useful-information,.card-title-useful-information {
+    padding: 2rem;
 	-webkit-box-shadow:5px 5px 15px 5px #210B2C;
 	box-shadow:5px 5px 15px 5px #210B2C;
 	font-size: 1rem;
@@ -266,6 +271,7 @@ table {
 	color:#210B2C;
 }
 .useful-information-home-page {
+    padding: 2rem;
     font-size: 1rem;
 	text-align: center;
 	-webkit-box-pack: center;
