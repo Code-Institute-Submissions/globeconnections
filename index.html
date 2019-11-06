@@ -44,109 +44,109 @@
             </div>
         </div>
         <div class="container mapcontainer">
-        <div class="row">
-            <div class="col-sm">
-                <div class="input-group mb-3">
-                    <div class="input-group-prepend">
-                        <div class="dropdown">
-                            <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">SELECT
-                                <span class="multi-select-dropdown-map-search"></span>
-                            </button>
-                            <div class="dropdown-menu">
-                                <a class="dropdown-item" href="#findhotels">ACCOMMODATION</a>
-                                <a class="dropdown-item" href="#">RESTAURANTS</a>
-                                <a class="dropdown-item" href="#">LOCAL TOURIST ATTRACTIONS</a>
-                                <div role="separator" class="dropdown-divider"></div>
-                                <a class="dropdown-item" href="#">SEARCH BY ANY CITY</a>
+            <div class="row">
+                <div class="col-sm">
+                    <div class="input-group mb-3">
+                        <div class="input-group-prepend">
+                            <div class="dropdown">
+                                <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">SELECT
+                                    <span class="multi-select-dropdown-map-search"></span>
+                                </button>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" href="#findhotels">ACCOMMODATION</a>
+                                    <a class="dropdown-item" href="#">RESTAURANTS</a>
+                                    <a class="dropdown-item" href="#">LOCAL TOURIST ATTRACTIONS</a>
+                                    <div role="separator" class="dropdown-divider"></div>
+                                    <a class="dropdown-item" href="#">SEARCH BY ANY CITY</a>
+                                </div>
                             </div>
-                        </div>
-                        <div id="locationField">
-                            <input id="autocomplete" placeholder="Enter a city" type="text" class="form-control" aria-label="Text input with segmented dropdown button" />
+                            <div id="locationField">
+                                <input id="autocomplete" placeholder="Enter a city" type="text" class="form-control" aria-label="Text input with segmented dropdown button" />
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
 
-    <div class="container">
-        <div class="row">
-            <div class="col-sm">
-                <div id="controls">
-                    <select id="country">
-                        <option value="all">All</option>
-                        <option value="au">Australia</option>
-                        <option value="br">Brazil</option>
-                        <option value="ca">Canada</option>
-                        <option value="fr">France</option>
-                        <option value="de">Germany</option>
-                        <option value="mx">Mexico</option>
-                        <option value="nz">New Zealand</option>
-                        <option value="it">Italy</option>
-                        <option value="za">South Africa</option>
-                        <option value="es">Spain</option>
-                        <option value="pt">Portugal</option>
-                        <option value="us" selected>United States of America</option>
-                        <option value="uk">United Kingdom</option>
-                    </select>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm">
+                    <div id="controls">
+                        <select id="country">
+                            <option value="all">All</option>
+                            <option value="au">Australia</option>
+                            <option value="br">Brazil</option>
+                            <option value="ca">Canada</option>
+                            <option value="fr">France</option>
+                            <option value="de">Germany</option>
+                            <option value="mx">Mexico</option>
+                            <option value="nz">New Zealand</option>
+                            <option value="it">Italy</option>
+                            <option value="za">South Africa</option>
+                            <option value="es">Spain</option>
+                            <option value="pt">Portugal</option>
+                            <option value="us" selected>United States of America</option>
+                            <option value="uk">United Kingdom</option>
+                        </select>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
-    </div>
-
-    <div class="container">
-        <div class="row">
-            <div class="col-sm">
-                <div id="map"></div>
-            </div>
         </div>
-    </div>
 
-    <div class="container">
-        <div class="row">
-            <div class="col-sm">
-                <div id="listing">
-                    <table id="resultsTable">
-                        <tbody id="results"></tbody>
-                    </table>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm">
+                    <div id="map"></div>
                 </div>
             </div>
         </div>
-    </div>
 
-    <div class="container">
-        <div class="row">
-            <div class="col-sm">
-                <div style="display: none">
-                    <div id="info-content">
-                        <table>
-                            <tr id="iw-url-row" class="iw_table_row">
-                                <td id="iw-icon" class="iw_table_icon"></td>
-                                <td id="iw-url"></td>
-                            </tr>
-                            <tr id="iw-address-row" class="iw_table_row">
-                                <td class="iw_attribute_name">Address:</td>
-                                <td id="iw-address"></td>
-                            </tr>
-                            <tr id="iw-phone-row" class="iw_table_row">
-                                <td class="iw_attribute_name">Telephone:</td>
-                                <td id="iw-phone"></td>
-                            </tr>
-                            <tr id="iw-rating-row" class="iw_table_row">
-                                <td class="iw_attribute_name">Rating:</td>
-                                <td id="iw-rating"></td>
-                            </tr>
-                            <tr id="iw-website-row" class="iw_table_row">
-                                <td class="iw_attribute_name">Website:</td>
-                                <td id="iw-website"></td>
-                            </tr>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm">
+                    <div id="listing">
+                        <table id="resultsTable">
+                            <tbody id="results"></tbody>
                         </table>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-sm">
+                    <div style="display: none">
+                        <div id="info-content">
+                            <table>
+                                <tr id="iw-url-row" class="iw_table_row">
+                                    <td id="iw-icon" class="iw_table_icon"></td>
+                                    <td id="iw-url"></td>
+                                </tr>
+                                <tr id="iw-address-row" class="iw_table_row">
+                                    <td class="iw_attribute_name">Address:</td>
+                                    <td id="iw-address"></td>
+                                </tr>
+                                <tr id="iw-phone-row" class="iw_table_row">
+                                    <td class="iw_attribute_name">Telephone:</td>
+                                    <td id="iw-phone"></td>
+                                </tr>
+                                <tr id="iw-rating-row" class="iw_table_row">
+                                    <td class="iw_attribute_name">Rating:</td>
+                                    <td id="iw-rating"></td>
+                                </tr>
+                                <tr id="iw-website-row" class="iw_table_row">
+                                    <td class="iw_attribute_name">Website:</td>
+                                    <td id="iw-website"></td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
         <div id="packagedeals" class="container headingcontainerone">
             <div class="row justify-content-center">
