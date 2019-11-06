@@ -283,6 +283,7 @@ table {
 }
 /* socialmedia */
 .page-footer {
+    padding: 2rem;
 	color: white;
 	background-image: -o-linear-gradient(left bottom, #c1aec5, #cda2c3, #dc94ba, #ec85a9, #f87690, #f9748d, #f9718b, #fa6f88, #f2789d, #e683af, #d98dbc, #cc97c4);
 	background-image: -webkit-gradient(linear, left bottom, right top, from(#c1aec5), color-stop(#cda2c3), color-stop(#dc94ba), color-stop(#ec85a9), color-stop(#f87690), color-stop(#f9748d), color-stop(#f9718b), color-stop(#fa6f88), color-stop(#f2789d), color-stop(#e683af), color-stop(#d98dbc), to(#cc97c4));
@@ -301,6 +302,7 @@ table {
 	align-items:center;
 }
 .footer {
+    padding: 2rem;
 	max-width:100%;
 	height:auto;
 	-webkit-box-pack: center;
@@ -315,19 +317,8 @@ table {
 	font-size: 1rem;
 	margin: 0 auto;
 }
-.footer-copyright {
-	margin:auto 0;
-	font-size: 1rem;
-	color: #D90368;
-	text-align: center;
-	-webkit-box-align: center;
-	-ms-flex-align: center;
-	align-items: center;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-}
 .social-media-icons,.list-inline-social {
+    padding: 2rem;
 	font-size: 2rem;
 	margin:0 auto;
 	text-decoration:none;
@@ -340,6 +331,7 @@ table {
 	justify-content: center;
 }
 .fab {
+    padding: 2rem;
 	font-size: 2rem;
 	margin-left:10px;
 	margin-right: 10px;
@@ -358,6 +350,7 @@ table {
 	text-decoration:none;
 }
 .footer-copyright {
+    padding: 2rem;
 	margin:0 auto;
 	font-size:1rem;
 	color: white;
