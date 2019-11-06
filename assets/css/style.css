@@ -72,8 +72,6 @@ img {
 	margin-bottom: 80px;
 	color: #210B2C;
 	font-size: 2rem;
-	outline: 5px solid #51469E;
-	outline-offset: 15px;
 	-webkit-box-shadow: 5px 5px 15px 5px #301236;
 	box-shadow: 5px 5px 15px 5px #301236;
 }
@@ -172,8 +170,6 @@ table {
 	align-items: center;
 	margin-top: 600px;
 	margin-bottom: 70px;
-	outline: 5px solid #51469E;
-	outline-offset: 15px;
 	-webkit-box-shadow: 5px 5px 15px 5px #2D2757;
 	box-shadow: 5px 5px 15px 5px #2D2757;
 	font-size: 1rem;
@@ -193,8 +189,6 @@ table {
 	align-items: center;
 	margin-top: 70px;
 	margin-bottom: 70px;
-	outline: 5px solid #51469E;
-	outline-offset: 15px;
 	-webkit-box-shadow: 5px 5px 15px 5px #2D2757;
 	box-shadow: 5px 5px 15px 5px #2D2757;
 	font-size: 1rem;
@@ -246,8 +240,6 @@ table {
 	align-items: center;
 }
 .package-deals-home-page {
-	-webkit-box-shadow:5px 5px 15px 5px #461C1C;
-	box-shadow:5px 5px 15px 5px #461C1C;
 	font-size: 1rem;
 	text-align: center;
 	-webkit-box-pack: center;
@@ -274,8 +266,14 @@ table {
 	color:#210B2C;
 }
 .useful-information-home-page {
-	-webkit-box-shadow:5px 5px 15px 5px #210B2C;
-	box-shadow:5px 5px 15px 5px #210B2C;
+    font-size: 1rem;
+	text-align: center;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
 	background-image: -o-linear-gradient(left bottom, #c1aec5, #b198bc, #a083b4, #8c70ad, #755da6, #765ba6, #7759a7, #7857a7, #9065ad, #a675b4, #ba85bc, #cc97c4);
 	background-image: -webkit-gradient(linear, left bottom, right top, from(#c1aec5), color-stop(#b198bc), color-stop(#a083b4), color-stop(#8c70ad), color-stop(#755da6), color-stop(#765ba6), color-stop(#7759a7), color-stop(#7857a7), color-stop(#9065ad), color-stop(#a675b4), color-stop(#ba85bc), to(#cc97c4));
 	background-image: linear-gradient(to right top, #c1aec5, #b198bc, #a083b4, #8c70ad, #755da6, #765ba6, #7759a7, #7857a7, #9065ad, #a675b4, #ba85bc, #cc97c4);
@@ -318,7 +316,7 @@ table {
 	margin: 0 auto;
 }
 .footer-copyright {
-	margin:auto;
+	margin:auto 0;
 	font-size: 1rem;
 	color: #D90368;
 	text-align: center;
