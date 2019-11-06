@@ -3,6 +3,9 @@
 html, body {
 	font-family: 'Ubuntu', sans-serif;
 	background-color: #FFC7C7;
+    height: 100%;
+    margin: 0;
+    padding: 0;
 }
 img {
 	max-width: 100%;
@@ -73,6 +76,11 @@ box-shadow: 5px 5px 15px 5px #1E1A3A;
 	-webkit-box-shadow: 5px 5px 15px 5px #301236;
 	box-shadow: 5px 5px 15px 5px #301236;
 }
+.mapcontainer {
+	height: 800px;
+	width: 100%;
+	margin: 0 auto;
+}
 #map {
         height: 600px;
         width: 100%;
@@ -104,7 +112,8 @@ box-shadow: 5px 5px 15px 5px #1E1A3A;
         top: 60px;
         cursor: pointer;
         overflow-x: hidden;
-        margin-bottom: 540px;
+        bottom: 540px;
+        margin: 0 auto;
       }
       #findhotels {
         font-size: 1rem;
