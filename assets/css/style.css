@@ -97,8 +97,9 @@ img {
 	margin: 0 auto;
 }
 #frm_map {
-	height: 600px;
-	width: 100%;
+	height: auto;
+	max-width: 100%;
+    padding-bottom: 40px;
 }
 .headingcontainerone {
 	padding: 2rem;
@@ -271,8 +272,8 @@ img {
 	justify-content: center;
 }
 .fab {
-	padding: 2rem;
-	font-size:1rem;
+    padding: 10px;
+	font-size:2rem;
 	margin-left:10px;
 	margin-right: 10px;
 	text-decoration:none;
