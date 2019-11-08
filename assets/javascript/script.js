@@ -87,7 +87,7 @@ function renderMap() {
                 location: Fairmount,
                 //radius: 5000,
                 //types: ["atm"]
-                radius: 5000,
+                radius: radius,
                 types: selectedTypes
             };
 
