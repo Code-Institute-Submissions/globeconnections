@@ -74,31 +74,32 @@ img {
 	font-size:1rem;
 }
 .btn-outline-secondary-map {
-    background-color: #51469E;
-    color: #CC97C4;
-    border: 1px solid #252048;
+	background-color: #51469E;
+	color: #CC97C4;
+	border: 1px solid #252048;
 }
 .btn-outline-secondary-map:hover {
-    background-color: #FF6666;
-    color: #FFF1F1;
-    border: 1px solid #5D2626;
+	background-color: #FF6666;
+	color: #FFF1F1;
+	border: 1px solid #5D2626;
 }
-
 /* Optional: Makes the sample page fill the window. */
 #map {
 	height: 600px;
 	width: 100%;
-	justify-content: center;
-    align-items: center;
-    text-align: center;
-margin: 0 auto;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	text-align: center;
+	margin: 0 auto;
 }
 #frm_map {
-
 	height: 600px;
 	width: 100%;
 }
-
 .headingcontainerone {
 	padding: 2rem;
 	background-image: -o-linear-gradient(left bottom, #70536b, #805f7b, #916b8b, #a3789c, #b485ad, #be90b7, #c99ac2, #d3a5cc, #d8afd2, #ddbad8, #e2c4de, #e7cfe4);
@@ -112,7 +113,7 @@ margin: 0 auto;
 	-webkit-box-align: center;
 	-ms-flex-align: center;
 	align-items: center;
-	margin-top: 600px;
+	margin-top: 70px;
 	margin-bottom: 70px;
 	font-size:1rem;
 	font-weight: bold;
