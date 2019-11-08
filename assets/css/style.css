@@ -125,7 +125,7 @@ img {
     background-color:#FFC7C7;
 }
 #map {
-	height: 600px;
+	height: 850px;
 	width: 100%;
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
@@ -144,6 +144,13 @@ img {
 	background-image: -webkit-gradient(linear, left bottom, right top, from(#cc97c4), color-stop(#ba85bc), color-stop(#a675b4), color-stop(#9065ad), color-stop(#7857a7), color-stop(#7153a2), color-stop(#6b4e9e), color-stop(#644a99), color-stop(#6f4e95), color-stop(#775292), color-stop(#7e578f), to(#845d8c));
 	background-image: -o-linear-gradient(left bottom, #cc97c4, #ba85bc, #a675b4, #9065ad, #7857a7, #7153a2, #6b4e9e, #644a99, #6f4e95, #775292, #7e578f, #845d8c);
 	background-image: linear-gradient(to right top, #cc97c4, #ba85bc, #a675b4, #9065ad, #7857a7, #7153a2, #6b4e9e, #644a99, #6f4e95, #775292, #7e578f, #845d8c);
+}
+
+#autocomplete {
+  width: 100%;
+}
+#country {
+  width: 100%;
 }
 .btn-primary-mapsearch {
 	background-color: #210B2C;
