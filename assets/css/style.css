@@ -89,81 +89,20 @@ img {
 	margin: 0 auto;
 }
 /* Optional: Makes the sample page fill the window. */
-html, body {
-	height: 100%;
-	margin: 0;
-	padding: 0;
-}
-body {
-	padding: 0 !important;
-}
-table {
-	font-size:1rem;
-}
 #map {
-	top: 40px;
 	height: 600px;
 	width: 100%;
-	margin: 0 auto;
+	justify-content: center;
+    align-items: center;
+    text-align: center;
+margin: 0 auto;
 }
-#listing {
-	position: absolute;
-	max-width: 100%;
-	height: 500px;
-	overflow: auto;
-	top: 60px;
-	cursor: pointer;
-	overflow-x: hidden;
-	bottom: 540px;
-	margin: 0 auto;
-}
-#findhotels {
-	font-size:1rem;
-}
-#locationField {
-	max-width: 100%;
-	height: auto;
-}
-#controls {
-	-webkit-box-flex: 1 1 140px;
-	-ms-flex: 1 1 140px;
-	flex: 1 1 140px;
-}
-#autocomplete {
-	max-width: 100%;
-	height: auto;
-}
-#country {
+#frm_map {
+
+	height: 600px;
 	width: 100%;
 }
-.placeIcon {
-	width: 20px;
-	height: 34px;
-	margin: 4px;
-}
-.hotelIcon {
-	width: 24px;
-	height: 24px;
-}
-#resultsTable {
-	border-collapse: collapse;
-	width: 290px;
-	margin: 0 auto;
-}
-#rating {
-	font-size:1rem;
-	font-family: Arial Unicode MS;
-}
-.iw_table_row {
-	height: 18px;
-}
-.iw_attribute_name {
-	font-weight: bold;
-	text-align: right;
-}
-.iw_table_icon {
-	text-align: right;
-}
+
 .headingcontainerone {
 	padding: 2rem;
 	background-image: -o-linear-gradient(left bottom, #70536b, #805f7b, #916b8b, #a3789c, #b485ad, #be90b7, #c99ac2, #d3a5cc, #d8afd2, #ddbad8, #e2c4de, #e7cfe4);
