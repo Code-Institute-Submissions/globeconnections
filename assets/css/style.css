@@ -84,7 +84,8 @@ img {
 	border: 1px solid #5D2626;
 }
 .col-form-label,
-label {
+label,
+.form-group {
     background-image: linear-gradient(to right top, #cc97c4, #d98dbc, #e683af, #f2789d, #fa6f88, #f46984, #ee6480, #e85e7c, #d25c88, #b85d8f, #9e5d90, #845d8c);
     color: #210B2C;
     max-width: 100%;
@@ -108,6 +109,30 @@ label {
 	max-width: 100%;
     padding: 15px;
     background-image: linear-gradient(to right top, #cc97c4, #ba85bc, #a675b4, #9065ad, #7857a7, #7153a2, #6b4e9e, #644a99, #6f4e95, #775292, #7e578f, #845d8c);
+}
+.btn-primary-mapsearch {
+    background-color: #210B2C;
+    color: #CC97C4;
+    -webkit-box-shadow: 5px 5px 15px 5px #000000;
+box-shadow: 5px 5px 15px 5px #000000;
+padding:10px;
+margin:10px;
+}
+.btn-primary-mapsearch:hover {
+    background-image: linear-gradient(to right top, #cc97c4, #d98dbc, #e683af, #f2789d, #fa6f88, #f46484, #ee5981, #e84e7e, #cd458d, #ab4399, #82459f, #51469e);
+    color: #ECD9E9;
+}
+.btn-light-mapsearch {
+    background-color: #FF6666;
+    color: #572162;
+    -webkit-box-shadow: 5px 5px 15px 5px #000000;
+box-shadow: 5px 5px 15px 5px #000000;
+padding:10px;
+margin:10px;
+}
+.btn-light-mapsearch:hover {
+background-image: linear-gradient(to right top, #cc97c4, #d98dbc, #e683af, #f2789d, #fa6f88, #f46484, #ee5981, #e84e7e, #cd458d, #ab4399, #82459f, #51469e);
+    color: #ECD9E9;
 }
 .headingcontainerone {
 	padding: 2rem;
