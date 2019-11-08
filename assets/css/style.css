@@ -109,7 +109,8 @@ img {
 	margin: 0 auto;
 }
 .mapcontainer,
-.form-group {
+.form-group,
+input {
     max-width: 100%;
 	height: auto;
 	text-align: center;
