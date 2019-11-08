@@ -6,7 +6,7 @@ html, body {
 	height: 100%;
 	margin: 0;
 	padding: 0;
-    font-weight: bold;
+	font-weight: bold;
 }
 img {
 	max-width: 100%;
@@ -46,7 +46,7 @@ img {
 }
 .nav-item {
 	font-size:1rem;
-    font-weight: bold;
+	font-weight: bold;
 	color:rgba(207,204,228,0.96);
 	background-color:transparent;
 	margin-left: 20px;
@@ -74,7 +74,7 @@ img {
 	margin-bottom: 80px;
 	color: #210B2C;
 	font-size:1rem;
-    font-weight: bold;
+	font-weight: bold;
 }
 .btn-outline-secondary-map {
 	background-color: #51469E;
@@ -86,63 +86,72 @@ img {
 	color: #FFF1F1;
 	border: 1px solid #5D2626;
 }
-.col-form-label,
-label,
-.form-group {
-    background-image: linear-gradient(to right top, #cc97c4, #d98dbc, #e683af, #f2789d, #fa6f88, #f46984, #ee6480, #e85e7c, #d25c88, #b85d8f, #9e5d90, #845d8c);
-    color: #210B2C;
-    max-width: 100%;
-    height: auto;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
-}
-#type_holder{
-   border: 1px solid #210B2C;
-
-}
-#map {
-	height: 600px;
-	width: 100%;
+.col-form-label,label,.form-group {
+	background-image: -webkit-gradient(linear, left bottom, right top, from(#cc97c4), color-stop(#d98dbc), color-stop(#e683af), color-stop(#f2789d), color-stop(#fa6f88), color-stop(#f46984), color-stop(#ee6480), color-stop(#e85e7c), color-stop(#d25c88), color-stop(#b85d8f), color-stop(#9e5d90), to(#845d8c));
+	background-image: -o-linear-gradient(left bottom, #cc97c4, #d98dbc, #e683af, #f2789d, #fa6f88, #f46984, #ee6480, #e85e7c, #d25c88, #b85d8f, #9e5d90, #845d8c);
+	background-image: linear-gradient(to right top, #cc97c4, #d98dbc, #e683af, #f2789d, #fa6f88, #f46984, #ee6480, #e85e7c, #d25c88, #b85d8f, #9e5d90, #845d8c);
+	color: #210B2C;
+	max-width: 100%;
+	height: auto;
+	text-align: center;
 	-webkit-box-pack: center;
 	    -ms-flex-pack: center;
 	        justify-content: center;
 	-webkit-box-align: center;
 	    -ms-flex-align: center;
 	        align-items: center;
+}
+#type_holder{
+	border: 1px solid #210B2C;
+}
+#map {
+	height: 600px;
+	width: 100%;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
 	text-align: center;
 	margin: 0 auto;
 }
 #frm_map {
-    font:1rem;
+	font:1rem;
 	height: auto;
 	max-width: 100%;
-    padding: 15px;
-    background-image: linear-gradient(to right top, #cc97c4, #ba85bc, #a675b4, #9065ad, #7857a7, #7153a2, #6b4e9e, #644a99, #6f4e95, #775292, #7e578f, #845d8c);
+	padding: 15px;
+	background-image: -webkit-gradient(linear, left bottom, right top, from(#cc97c4), color-stop(#ba85bc), color-stop(#a675b4), color-stop(#9065ad), color-stop(#7857a7), color-stop(#7153a2), color-stop(#6b4e9e), color-stop(#644a99), color-stop(#6f4e95), color-stop(#775292), color-stop(#7e578f), to(#845d8c));
+	background-image: -o-linear-gradient(left bottom, #cc97c4, #ba85bc, #a675b4, #9065ad, #7857a7, #7153a2, #6b4e9e, #644a99, #6f4e95, #775292, #7e578f, #845d8c);
+	background-image: linear-gradient(to right top, #cc97c4, #ba85bc, #a675b4, #9065ad, #7857a7, #7153a2, #6b4e9e, #644a99, #6f4e95, #775292, #7e578f, #845d8c);
 }
 .btn-primary-mapsearch {
-    background-color: #210B2C;
-    color: #CC97C4;
-    -webkit-box-shadow: 5px 5px 15px 5px #000000;
-box-shadow: 5px 5px 15px 5px #000000;
-padding:10px;
-margin:10px;
+	background-color: #210B2C;
+	color: #CC97C4;
+	-webkit-box-shadow: 5px 5px 15px 5px #000000;
+	box-shadow: 5px 5px 15px 5px #000000;
+	padding:10px;
+	margin:10px;
 }
 .btn-primary-mapsearch:hover {
-    background-image: linear-gradient(to right top, #cc97c4, #d98dbc, #e683af, #f2789d, #fa6f88, #f46484, #ee5981, #e84e7e, #cd458d, #ab4399, #82459f, #51469e);
-    color: #ECD9E9;
+	background-image: -webkit-gradient(linear, left bottom, right top, from(#cc97c4), color-stop(#d98dbc), color-stop(#e683af), color-stop(#f2789d), color-stop(#fa6f88), color-stop(#f46484), color-stop(#ee5981), color-stop(#e84e7e), color-stop(#cd458d), color-stop(#ab4399), color-stop(#82459f), to(#51469e));
+	background-image: -o-linear-gradient(left bottom, #cc97c4, #d98dbc, #e683af, #f2789d, #fa6f88, #f46484, #ee5981, #e84e7e, #cd458d, #ab4399, #82459f, #51469e);
+	background-image: linear-gradient(to right top, #cc97c4, #d98dbc, #e683af, #f2789d, #fa6f88, #f46484, #ee5981, #e84e7e, #cd458d, #ab4399, #82459f, #51469e);
+	color: #ECD9E9;
 }
 .btn-light-mapsearch {
-    background-color: #FF6666;
-    color: #572162;
-    -webkit-box-shadow: 5px 5px 15px 5px #000000;
-box-shadow: 5px 5px 15px 5px #000000;
-padding:10px;
-margin:10px;
+	background-color: #FF6666;
+	color: #572162;
+	-webkit-box-shadow: 5px 5px 15px 5px #000000;
+	box-shadow: 5px 5px 15px 5px #000000;
+	padding:10px;
+	margin:10px;
 }
 .btn-light-mapsearch:hover {
-background-image: linear-gradient(to right top, #cc97c4, #d98dbc, #e683af, #f2789d, #fa6f88, #f46484, #ee5981, #e84e7e, #cd458d, #ab4399, #82459f, #51469e);
-    color: #ECD9E9;
+	background-image: -webkit-gradient(linear, left bottom, right top, from(#cc97c4), color-stop(#d98dbc), color-stop(#e683af), color-stop(#f2789d), color-stop(#fa6f88), color-stop(#f46484), color-stop(#ee5981), color-stop(#e84e7e), color-stop(#cd458d), color-stop(#ab4399), color-stop(#82459f), to(#51469e));
+	background-image: -o-linear-gradient(left bottom, #cc97c4, #d98dbc, #e683af, #f2789d, #fa6f88, #f46484, #ee5981, #e84e7e, #cd458d, #ab4399, #82459f, #51469e);
+	background-image: linear-gradient(to right top, #cc97c4, #d98dbc, #e683af, #f2789d, #fa6f88, #f46484, #ee5981, #e84e7e, #cd458d, #ab4399, #82459f, #51469e);
+	color: #ECD9E9;
 }
 .headingcontainerone {
 	padding: 2rem;
@@ -197,7 +206,7 @@ background-image: linear-gradient(to right top, #cc97c4, #d98dbc, #e683af, #f278
 .card-title-package-deals {
 	padding: 10px;
 	font-size:1rem;
-    font-weight: bold;
+	font-weight: bold;
 	color: rgba(255,255,255,1.0);
 	margin-top: 10px;
 	margin-bottom: 10px;
@@ -212,7 +221,7 @@ background-image: linear-gradient(to right top, #cc97c4, #d98dbc, #e683af, #f278
 }
 .bg-light-package-deals {
 	font-size:1rem;
-    font-weight: bold;
+	font-weight: bold;
 	margin-top: 10px;
 	margin-bottom: 10px;
 	text-align: center;
@@ -226,7 +235,7 @@ background-image: linear-gradient(to right top, #cc97c4, #d98dbc, #e683af, #f278
 .package-deals-home-page {
 	padding: 2rem;
 	font-size:1rem;
-    font-weight: bold;
+	font-weight: bold;
 	text-align: center;
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
@@ -238,7 +247,7 @@ background-image: linear-gradient(to right top, #cc97c4, #d98dbc, #e683af, #f278
 .bg-white-useful-information,.card-title-useful-information {
 	padding: 2rem;
 	font-size:1rem;
-    font-weight: bold;
+	font-weight: bold;
 	margin-top: 10px;
 	margin-bottom: 10px;
 	text-align: center;
@@ -254,7 +263,7 @@ background-image: linear-gradient(to right top, #cc97c4, #d98dbc, #e683af, #f278
 .useful-information {
 	padding: 2rem;
 	font-size:1rem;
-    font-weight: bold;
+	font-weight: bold;
 	text-align: center;
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
@@ -304,13 +313,13 @@ background-image: linear-gradient(to right top, #cc97c4, #d98dbc, #e683af, #f278
 	background-color: transparent;
 	color: #210B2C;
 	font-size:1rem;
-    font-weight: bold;
+	font-weight: bold;
 	margin: 0 auto;
 }
 .social-media-icons,.list-inline-social {
 	padding: 2rem;
 	font-size:1rem;
-    font-weight: bold;
+	font-weight: bold;
 	margin:0 auto;
 	text-decoration:none;
 	text-align: center;
@@ -322,9 +331,9 @@ background-image: linear-gradient(to right top, #cc97c4, #d98dbc, #e683af, #f278
 	justify-content: center;
 }
 .fab {
-    padding: 10px;
+	padding: 10px;
 	font-size:2rem;
-    font-weight: bold;
+	font-weight: bold;
 	margin-left:10px;
 	margin-right: 10px;
 	text-decoration:none;
@@ -345,7 +354,7 @@ background-image: linear-gradient(to right top, #cc97c4, #d98dbc, #e683af, #f278
 	padding: 2rem;
 	margin:0 auto;
 	font-size:1rem;
-    font-weight: bold;
+	font-weight: bold;
 	color: white;
 	text-align: center;
 	-webkit-box-align: center;
@@ -360,7 +369,7 @@ background-image: linear-gradient(to right top, #cc97c4, #d98dbc, #e683af, #f278
 }
 .btn-outline-white {
 	font-size:1rem;
-    font-weight: bold;
+	font-weight: bold;
 	height: 3rem;
 	width: 8rem;
 	border-color: #210B2C;
@@ -382,7 +391,7 @@ background-image: linear-gradient(to right top, #cc97c4, #d98dbc, #e683af, #f278
 .mb-1,.py-5,.mb-5 {
 	padding: 2rem;
 	font-size:1rem;
-    font-weight: bold;
+	font-weight: bold;
 	margin:0 auto;
 	text-align: center;
 	-webkit-box-align: center;
