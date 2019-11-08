@@ -62,24 +62,28 @@
                                 </div>
                             </div>
                             <table class="form-group">
-                                <div class="container-fluid">
-                                    <blockquote class="blockquote">
-                                        <p class="mb-0">Please select only one option at a time.</p>
-                                    </blockquote>
+                                <div class="container-fluid form-group-container">
+                                    <div class="row">
+                                        <div class="col-sm">
+                                            <blockquote class="blockquote">
+                                                <p class="mb-0">Please select only one option at a time.</p>
+                                            </blockquote>
+                                            <tr>
+                                                <th>TYPES</th>
+                                                <td>
+                                                    <div id="type_holder"></div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td></td>
+                                                <td>
+                                                    <input type="button" class="btn btn-primary-mapsearch" value="SEARCH" id="submit" onclick="renderMap();">
+                                                    <input type="reset" class="btn btn-light-mapsearch" value="RESET">
+                                                </td>
+                                            </tr>
+                                        </div>
+                                    </div>
                                 </div>
-                                <tr>
-                                    <th>TYPES</th>
-                                    <td>
-                                        <div id="type_holder"></div>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td>
-                                        <input type="button" class="btn btn-primary-mapsearch" value="SEARCH" id="submit" onclick="renderMap();">
-                                        <input type="reset" class="btn btn-light-mapsearch" value="RESET">
-                                    </td>
-                                </tr>
                             </table>
                         </form>
                     </div>
