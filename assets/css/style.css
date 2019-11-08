@@ -90,6 +90,13 @@ label,
     color: #210B2C;
     max-width: 100%;
     height: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+#type_holder{
+   border: 1px solid #210B2C;
+
 }
 #map {
 	height: 600px;
