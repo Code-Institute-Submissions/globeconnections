@@ -83,7 +83,13 @@ img {
 	color: #FFF1F1;
 	border: 1px solid #5D2626;
 }
-/* Optional: Makes the sample page fill the window. */
+.col-form-label,
+label {
+    background-image: linear-gradient(to right top, #cc97c4, #d98dbc, #e683af, #f2789d, #fa6f88, #f46984, #ee6480, #e85e7c, #d25c88, #b85d8f, #9e5d90, #845d8c);
+    color: #210B2C;
+    max-width: 100%;
+    height: auto;
+}
 #map {
 	height: 600px;
 	width: 100%;
@@ -97,9 +103,11 @@ img {
 	margin: 0 auto;
 }
 #frm_map {
+    font:1rem;
 	height: auto;
 	max-width: 100%;
-    padding-bottom: 40px;
+    padding: 15px;
+    background-image: linear-gradient(to right top, #cc97c4, #ba85bc, #a675b4, #9065ad, #7857a7, #7153a2, #6b4e9e, #644a99, #6f4e95, #775292, #7e578f, #845d8c);
 }
 .headingcontainerone {
 	padding: 2rem;
@@ -152,7 +160,7 @@ img {
 }
 /* popular destinations */
 .card-title-package-deals {
-	padding: 2rem;
+	padding: 10px;
 	font-size:1rem;
 	color: rgba(255,255,255,1.0);
 	margin-top: 10px;
