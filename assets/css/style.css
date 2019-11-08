@@ -100,9 +100,29 @@ img {
 	-webkit-box-align: center;
 	    -ms-flex-align: center;
 	        align-items: center;
+            padding:10px;
+	margin:10px;
 }
 #type_holder{
 	border: 1px solid #210B2C;
+    padding:20px;
+	margin: 0 auto;
+}
+.mapcontainer,
+.form-group {
+    max-width: 100%;
+	height: auto;
+	text-align: center;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+.blockquote {
+    color:#FF6666;
+    background-color:#FFC7C7;
 }
 #map {
 	height: 600px;
