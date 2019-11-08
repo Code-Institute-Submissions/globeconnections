@@ -13,7 +13,7 @@ img {
 }
 /* html and bodyof html */
 .bg-navbar {
-	font-size:2rem;
+	font-size:1rem;
 	font-weight:bold;
 	color: rgba(239,238,246,0.99);
 	background-color: rgba(81,70,158,0.8);
@@ -34,7 +34,7 @@ img {
 }
 .navbar-brand {
 	outline: black;
-	font-size:2rem;
+	font-size:1rem;
 	font-weight:bold;
 	color:rgba(207,204,228,0.96);
 	background-color:transparent;
@@ -44,7 +44,7 @@ img {
 	color: rgba(33,11,44,0.98);
 }
 .nav-item {
-	font-size:2rem;
+	font-size:1rem;
 	color:rgba(207,204,228,0.96);
 	background-color:transparent;
 	margin-left: 20px;
@@ -71,7 +71,7 @@ img {
 	margin-top: 170px;
 	margin-bottom: 80px;
 	color: #210B2C;
-	font-size: 2rem;
+	font-size:1rem;
 }
 .btn-outline-secondary-map {
     background-color: #51469E;
@@ -98,7 +98,7 @@ body {
 	padding: 0 !important;
 }
 table {
-	font-size: 12px;
+	font-size:1rem;
 }
 #map {
 	top: 40px;
@@ -118,7 +118,7 @@ table {
 	margin: 0 auto;
 }
 #findhotels {
-	font-size:2rem;
+	font-size:1rem;
 }
 #locationField {
 	max-width: 100%;
@@ -151,7 +151,7 @@ table {
 	margin: 0 auto;
 }
 #rating {
-	font-size:2rem;
+	font-size:1rem;
 	font-family: Arial Unicode MS;
 }
 .iw_table_row {
@@ -179,7 +179,7 @@ table {
 	align-items: center;
 	margin-top: 600px;
 	margin-bottom: 70px;
-	font-size:2rem;
+	font-size:1rem;
 	font-weight: bold;
 }
 .headingcontainertwo {
@@ -197,7 +197,7 @@ table {
 	align-items: center;
 	margin-top: 70px;
 	margin-bottom: 70px;
-	font-size:2rem;
+	font-size:1rem;
 	font-weight: bold;
 }
 .mb-3,.form-control {
@@ -216,7 +216,7 @@ table {
 /* popular destinations */
 .card-title-package-deals {
 	padding: 2rem;
-	font-size:2rem;
+	font-size:1rem;
 	color: rgba(255,255,255,1.0);
 	margin-top: 10px;
 	margin-bottom: 10px;
@@ -230,7 +230,7 @@ table {
 	background-color: rgba(255,102,102,0.65);
 }
 .bg-light-package-deals {
-	font-size:2rem;
+	font-size:1rem;
 	margin-top: 10px;
 	margin-bottom: 10px;
 	text-align: center;
@@ -243,7 +243,7 @@ table {
 }
 .package-deals-home-page {
 	padding: 2rem;
-	font-size:2rem;
+	font-size:1rem;
 	text-align: center;
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
@@ -254,7 +254,7 @@ table {
 }
 .bg-white-useful-information,.card-title-useful-information {
 	padding: 2rem;
-	font-size:2rem;
+	font-size:1rem;
 	margin-top: 10px;
 	margin-bottom: 10px;
 	text-align: center;
@@ -269,7 +269,7 @@ table {
 }
 .useful-information {
 	padding: 2rem;
-	font-size:2rem;
+	font-size:1rem;
 	text-align: center;
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
@@ -318,12 +318,12 @@ table {
 	text-align: center;
 	background-color: transparent;
 	color: #210B2C;
-	font-size:2rem;
+	font-size:1rem;
 	margin: 0 auto;
 }
 .social-media-icons,.list-inline-social {
 	padding: 2rem;
-	font-size: 2rem;
+	font-size:1rem;
 	margin:0 auto;
 	text-decoration:none;
 	text-align: center;
@@ -336,7 +336,7 @@ table {
 }
 .fab {
 	padding: 2rem;
-	font-size: 2rem;
+	font-size:1rem;
 	margin-left:10px;
 	margin-right: 10px;
 	text-decoration:none;
@@ -356,7 +356,7 @@ table {
 .footer-copyright {
 	padding: 2rem;
 	margin:0 auto;
-	font-size:2rem;
+	font-size:1rem;
 	color: white;
 	text-align: center;
 	-webkit-box-align: center;
@@ -370,7 +370,7 @@ table {
 	opacity:0.5;
 }
 .btn-outline-white {
-	font-size:2rem;
+	font-size:1rem;
 	height: 3rem;
 	width: 8rem;
 	border-color: #210B2C;
@@ -391,7 +391,7 @@ table {
 }
 .mb-1,.py-5,.mb-5 {
 	padding: 2rem;
-	font-size:2rem;
+	font-size:1rem;
 	margin:0 auto;
 	text-align: center;
 	-webkit-box-align: center;
