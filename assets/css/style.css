@@ -126,7 +126,7 @@ input {
     background-color:#FFC7C7;
 }
 #map {
-	height: 850px;
+	height: 825px;
 	width: 100%;
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
