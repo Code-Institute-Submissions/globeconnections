@@ -119,12 +119,11 @@ img {
 	-ms-flex-align: center;
 	align-items: center;
 }
-.form-group-container,
-.form-group {
+.form-group-container,.form-group {
 	color:#FF6666;
 	background-color:#FFC7C7;
-    margin: 0 auto;
-    text-align: center;
+	margin: 0 auto;
+	text-align: center;
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
 	justify-content: center;
