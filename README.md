@@ -87,7 +87,7 @@
 
 6. [GOOGLE MAPS](https://developers.google.com/maps/documentation "the Google Maps Platform for developers").
 
- ## TESTING:
+## TESTING:
 
 **The website usability tests were thoroughly conducted using the following parameters and resources:**
 
