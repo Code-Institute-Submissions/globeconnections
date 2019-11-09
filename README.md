@@ -220,4 +220,4 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *(12) The favicon was generated with the following website: [FAVICON](https://favicon.io/favicon-generator/ "Favicon Generator").*
 
-*(13) I received inspiration for this project from the original website created by [TUI](https://www.tui.co.uk/ "Travel Packages Finder").
+*(13) I received inspiration for this project from the original website created by [TUI](https://www.tui.co.uk/ "Travel Packages Finder").*
