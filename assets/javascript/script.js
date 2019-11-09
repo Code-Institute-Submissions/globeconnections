@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    // type_holder
+    // type_holder (THIS IS NOT MY CODE. I AM IN THE PROCESS OF WRITING MY OWN).
     // <div><label><input type="checkbox" class="types" value="mosque" />Mosque</label></div>
 
     var types = ['lodging', 'restaurant', 'tourist_attraction'];
