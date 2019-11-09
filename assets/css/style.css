@@ -16,11 +16,11 @@ img {
 .bg-navbar {
 	font-size:1rem;
 	font-weight:bold;
-	color: rgba(239,238,246,0.99);
+	color: white;
 	background-color: rgba(81,70,158,0.8);
 }
 .navbartogglericon {
-	color: #210B2C;
+	color: white;
 	border-color:#210B2C;
 	border-width:5px;
 	outline-color:#210B2C;
@@ -29,7 +29,7 @@ img {
 .navbar-toggler {
 	border-color:#433A82;
 	border-width:5px;
-	color: #433A82;
+    color:white;
 	outline-color:#433A82;
 	outline-width:5px;
 }
@@ -37,7 +37,7 @@ img {
 	outline: black;
 	font-size:1rem;
 	font-weight:bold;
-	color:rgba(207,204,228,0.96);
+	color:white;
 	background-color:transparent;
 }
 .navbar-brand:hover {
@@ -47,14 +47,14 @@ img {
 .nav-item {
 	font-size:1rem;
 	font-weight: bold;
-	color:rgba(207,204,228,0.96);
+    color:white;
 	background-color:transparent;
 	margin-left: 20px;
 	margin-right:20px;
 }
 .nav-item:hover {
 	background-color: rgba(81,70,158,1.0);
-	color: rgba(33,11,44,0.98);
+	color:white;
 }
 /* navbar */
 /* Safari 4.0 - 8.0 */
@@ -67,12 +67,10 @@ img {
 	-ms-flex-item-align: center;
 	-ms-grid-row-align: center;
 	align-self: center;
-	background-image: -o-linear-gradient(left bottom, #742f2f, #8d3939, #a64343, #c04d4d, #db5858, #e76463, #f3706f, #ff7c7b, #ff8c8b, #ff9b9a, #ffaaaa, #ffb9b9);
-	background-image: -webkit-gradient(linear, left bottom, right top, from(#742f2f), color-stop(#8d3939), color-stop(#a64343), color-stop(#c04d4d), color-stop(#db5858), color-stop(#e76463), color-stop(#f3706f), color-stop(#ff7c7b), color-stop(#ff8c8b), color-stop(#ff9b9a), color-stop(#ffaaaa), to(#ffb9b9));
-	background-image: linear-gradient(to right top, #742f2f, #8d3939, #a64343, #c04d4d, #db5858, #e76463, #f3706f, #ff7c7b, #ff8c8b, #ff9b9a, #ffaaaa, #ffb9b9);
-	margin-top: 170px;
+	background-color:#572162;
+    margin-top: 170px;
 	margin-bottom: 80px;
-	color: #210B2C;
+	color: white;
 	font-size:1rem;
 	font-weight: bold;
 }
@@ -154,10 +152,8 @@ img {
 	height: auto;
 	max-width: 100%;
 	padding: 15px;
-	background-image: -o-linear-gradient(left bottom, #cc97c4, #ba85bc, #a675b4, #9065ad, #7857a7, #7153a2, #6b4e9e, #644a99, #6f4e95, #775292, #7e578f, #845d8c);
-	background-image: -webkit-gradient(linear, left bottom, right top, from(#cc97c4), color-stop(#ba85bc), color-stop(#a675b4), color-stop(#9065ad), color-stop(#7857a7), color-stop(#7153a2), color-stop(#6b4e9e), color-stop(#644a99), color-stop(#6f4e95), color-stop(#775292), color-stop(#7e578f), to(#845d8c));
-	background-image: linear-gradient(to right top, #cc97c4, #ba85bc, #a675b4, #9065ad, #7857a7, #7153a2, #6b4e9e, #644a99, #6f4e95, #775292, #7e578f, #845d8c);
-}
+	background-color:#CC97C4;
+    }
 #autocomplete {
 	width: 100%;
 }
@@ -192,30 +188,12 @@ img {
 	background-image: linear-gradient(to right top, #cc97c4, #d98dbc, #e683af, #f2789d, #fa6f88, #f46484, #ee5981, #e84e7e, #cd458d, #ab4399, #82459f, #51469e);
 	color: #ECD9E9;
 }
-.headingcontainerone {
-	padding: 2rem;
-	background-image: -o-linear-gradient(left bottom, #70536b, #805f7b, #916b8b, #a3789c, #b485ad, #be90b7, #c99ac2, #d3a5cc, #d8afd2, #ddbad8, #e2c4de, #e7cfe4);
-	background-image: -webkit-gradient(linear, left bottom, right top, from(#70536b), color-stop(#805f7b), color-stop(#916b8b), color-stop(#a3789c), color-stop(#b485ad), color-stop(#be90b7), color-stop(#c99ac2), color-stop(#d3a5cc), color-stop(#d8afd2), color-stop(#ddbad8), color-stop(#e2c4de), to(#e7cfe4));
-	background-image: linear-gradient(to right top, #70536b, #805f7b, #916b8b, #a3789c, #b485ad, #be90b7, #c99ac2, #d3a5cc, #d8afd2, #ddbad8, #e2c4de, #e7cfe4);
-	color: #210B2C;
-	text-align: center;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	-webkit-box-align: center;
-	-ms-flex-align: center;
-	align-items: center;
-	margin-top: 70px;
-	margin-bottom: 70px;
-	font-size:1rem;
-	font-weight: bold;
-}
+
+.headingcontainerone,
 .headingcontainertwo {
 	padding: 2rem;
-	background-image: -o-linear-gradient(left bottom, #70536b, #805f7b, #916b8b, #a3789c, #b485ad, #be90b7, #c99ac2, #d3a5cc, #d8afd2, #ddbad8, #e2c4de, #e7cfe4);
-	background-image: -webkit-gradient(linear, left bottom, right top, from(#70536b), color-stop(#805f7b), color-stop(#916b8b), color-stop(#a3789c), color-stop(#b485ad), color-stop(#be90b7), color-stop(#c99ac2), color-stop(#d3a5cc), color-stop(#d8afd2), color-stop(#ddbad8), color-stop(#e2c4de), to(#e7cfe4));
-	background-image: linear-gradient(to right top, #70536b, #805f7b, #916b8b, #a3789c, #b485ad, #be90b7, #c99ac2, #d3a5cc, #d8afd2, #ddbad8, #e2c4de, #e7cfe4);
-	color: #210B2C;
+	background-color:#51469E;
+    color: #210B2C;
 	text-align: center;
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
@@ -311,20 +289,13 @@ img {
 	-webkit-box-align: center;
 	-ms-flex-align: center;
 	align-items: center;
-	background-image: -o-linear-gradient(left bottom, #c1aec5, #b198bc, #a083b4, #8c70ad, #755da6, #765ba6, #7759a7, #7857a7, #9065ad, #a675b4, #ba85bc, #cc97c4);
-	background-image: -webkit-gradient(linear, left bottom, right top, from(#c1aec5), color-stop(#b198bc), color-stop(#a083b4), color-stop(#8c70ad), color-stop(#755da6), color-stop(#765ba6), color-stop(#7759a7), color-stop(#7857a7), color-stop(#9065ad), color-stop(#a675b4), color-stop(#ba85bc), to(#cc97c4));
-	background-image: linear-gradient(to right top, #c1aec5, #b198bc, #a083b4, #8c70ad, #755da6, #765ba6, #7759a7, #7857a7, #9065ad, #a675b4, #ba85bc, #cc97c4);
-}
-.useful-information:hover {
-	opacity: 0.9;
-}
+	background-color: #210B2C;
+    }
 /* socialmedia */
 .page-footer {
 	padding: 2rem;
 	color: white;
-	background-image: -o-linear-gradient(left bottom, #c1aec5, #cda2c3, #dc94ba, #ec85a9, #f87690, #f9748d, #f9718b, #fa6f88, #f2789d, #e683af, #d98dbc, #cc97c4);
-	background-image: -webkit-gradient(linear, left bottom, right top, from(#c1aec5), color-stop(#cda2c3), color-stop(#dc94ba), color-stop(#ec85a9), color-stop(#f87690), color-stop(#f9748d), color-stop(#f9718b), color-stop(#fa6f88), color-stop(#f2789d), color-stop(#e683af), color-stop(#d98dbc), to(#cc97c4));
-	background-image: linear-gradient(to right top, #c1aec5, #cda2c3, #dc94ba, #ec85a9, #f87690, #f9748d, #f9718b, #fa6f88, #f2789d, #e683af, #d98dbc, #cc97c4);
+	background-color:#FF6666;
 }
 .text-uppercase {
 	padding: 2rem;
