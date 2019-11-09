@@ -104,6 +104,7 @@ img {
 	margin:10px;
 }
 #type_holder{
+    padding:21px;
 	margin: 0 auto;
     text-align: center;
 	-webkit-box-pack: center;
