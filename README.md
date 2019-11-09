@@ -43,7 +43,7 @@
 
 - The site users can then look at markers displaying the search results on the map provided within this website.
 
-- My aim was to make the website easy to navigate, self-explanatory, visually appealing and provided a smooth shopping experience to users from all walks of life.
+- My aim was to make the website easy to navigate, self-explanatory, visually appealing and provide a smooth shopping experience to users from all walks of life.
 
 #### The wireframes have been attached to a separate folder named *wireframes* within this Github repository.
 
