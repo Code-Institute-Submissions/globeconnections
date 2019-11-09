@@ -273,7 +273,7 @@ input {
 	align-items: center;
 }
 .bg-white-useful-information,.card-title-useful-information {
-	padding: 2rem;
+    padding:1rem;
 	font-size:1rem;
 	font-weight: bold;
 	margin-top: 10px;
