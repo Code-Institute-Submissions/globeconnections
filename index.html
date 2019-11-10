@@ -35,19 +35,24 @@
         <!-- Navbar for index.html -->
     </header>
 
-        <div id="mapsearch" class="container-fluid headingforattractionssearchform">
-            <div class="row justify-content-center">
-                <div class="col-sm-12">
-                    <p class="lead">FIND YOUR NEXT HOLIDAY DESTINATION</p>
-                </div>
+    <input id="pac-input" class="controls" type="text" placeholder="ENTER A LOCATION">
+
+    <div id="mapsearch" class="container-fluid headingforattractionssearchform">
+        <div class="row justify-content-center">
+            <div class="col-sm-12">
+                <p class="lead">FIND YOUR NEXT HOLIDAY DESTINATION</p>
             </div>
         </div>
+    </div>
 
-       <div class="container mapcontainer">
+    <div class="container mapcontainer">
         <div class="row">
             <div class="col-sm-12 col-md-12 col-lg-6">
-                <div class="card" id="searchboxcard">
-                    <input id="pac-input" class="controls" type="text" placeholder="ENTER A LOCATION">
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" id="basic-addon3">https://example.com/users/</span>
+                    </div>
+                    <input type="text" class="form-control" id="basic-url" aria-describedby="basic-addon3">
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-6 mapcontainer">
                     <div id="map"></div>
@@ -56,113 +61,113 @@
         </div>
     </div>
 
-        <div id="packagedeals" class="container-fluid headingcontainerone">
-            <div class="row justify-content-center">
-                <div class="col-sm-12">
-                    <p class="lead-heading">PACKAGE DEALS (click on the image titles to find out more)</p>
-                </div>
+    <div id="packagedeals" class="container-fluid headingcontainerone">
+        <div class="row justify-content-center">
+            <div class="col-sm-12">
+                <p class="lead-heading">PACKAGE DEALS (click on the image titles to find out more)</p>
             </div>
         </div>
-        <div class="container-fluid package-deals-home-page">
-            <div class="row">
-                <div class="col-sm-4">
-                    <div class="card bg-light-package-deals text-white">
-                        <img src="assets/images/package-deals-1.jpg" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <a href="https://www.tripadvisor.co.uk/" class="card-title-package-deals">COMBINATION</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="card bg-light-package-deals text-white">
-                        <img src="assets/images/package-deals-2.jpg" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <a href="https://www.tripadvisor.co.uk/" class="card-title-package-deals">SHORT HOLIDAYS</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="card bg-light-package-deals text-white">
-                        <img src="assets/images/package-deals-3.jpg" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <a href="https://www.tripadvisor.co.uk/" class="card-title-package-deals">LONG HOLIDAYS</a>
-                        </div>
+    </div>
+    <div class="container-fluid package-deals-home-page">
+        <div class="row">
+            <div class="col-sm-4">
+                <div class="card bg-light-package-deals text-white">
+                    <img src="assets/images/package-deals-1.jpg" class="card-img" alt="...">
+                    <div class="card-img-overlay">
+                        <a href="https://www.tripadvisor.co.uk/" class="card-title-package-deals">COMBINATION</a>
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="container-fluid package-deals-home-page">
-            <div class="row justify-content-center">
-                <div class="col-sm-4">
-                    <div class="card bg-light-package-deals text-white">
-                        <img src="assets/images/package-deals-4.jpg" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <a href="https://www.tripadvisor.co.uk/" class="card-title-package-deals">LOW BUDGET DEALS</a>
-                        </div>
+            <div class="col-sm-4">
+                <div class="card bg-light-package-deals text-white">
+                    <img src="assets/images/package-deals-2.jpg" class="card-img" alt="...">
+                    <div class="card-img-overlay">
+                        <a href="https://www.tripadvisor.co.uk/" class="card-title-package-deals">SHORT HOLIDAYS</a>
                     </div>
                 </div>
-                <div class="col-sm-4">
-                    <div class="card bg-light-package-deals text-white">
-                        <img src="assets/images/package-deals-5.jpg" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <a href="https://www.tripadvisor.co.uk/" class="card-title-package-deals">LAST MINUTE DEALS</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="card bg-light-package-deals text-white">
-                        <img src="assets/images/package-deals-6.jpg" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <a href="https://www.tripadvisor.co.uk/" class="card-title-package-deals">LUXURY DEALS</a>
-                        </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="card bg-light-package-deals text-white">
+                    <img src="assets/images/package-deals-3.jpg" class="card-img" alt="...">
+                    <div class="card-img-overlay">
+                        <a href="https://www.tripadvisor.co.uk/" class="card-title-package-deals">LONG HOLIDAYS</a>
                     </div>
                 </div>
             </div>
         </div>
-        <div id="usefulinformation" class="container-fluid headingcontainertwo">
-            <div class="row">
-                <div class="col-sm-12">
-                    <p class="lead-heading">OTHER USEFUL INFORMATION (click on the image titles to find out more)</p>
+    </div>
+    <div class="container-fluid package-deals-home-page">
+        <div class="row justify-content-center">
+            <div class="col-sm-4">
+                <div class="card bg-light-package-deals text-white">
+                    <img src="assets/images/package-deals-4.jpg" class="card-img" alt="...">
+                    <div class="card-img-overlay">
+                        <a href="https://www.tripadvisor.co.uk/" class="card-title-package-deals">LOW BUDGET DEALS</a>
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="container-fluid useful-information">
-            <div class="row">
-                <div class="col-sm-6 col-md-6 col-lg-6">
-                    <div class="card bg-white-useful-information text-white">
-                        <img src="assets/images/useful-information-1.jpg" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <a href="https://www.zigzagonearth.com/" class="card-title-useful-information">SAFETY</a>
-                        </div>
+            <div class="col-sm-4">
+                <div class="card bg-light-package-deals text-white">
+                    <img src="assets/images/package-deals-5.jpg" class="card-img" alt="...">
+                    <div class="card-img-overlay">
+                        <a href="https://www.tripadvisor.co.uk/" class="card-title-package-deals">LAST MINUTE DEALS</a>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-6 col-lg-6">
-                    <div class="card bg-white-useful-information text-white">
-                        <img src="assets/images/useful-information-2.jpg" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <a href="https://www.tripadvisor.co.uk/" class="card-title-useful-information">INDIVIDUAL SERVICES</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="w-100"></div>
-                <div class="col-sm-6 col-md-6 col-lg-6">
-                    <div class="card bg-white-useful-information text-white">
-                        <img src="assets/images/useful-information-3.jpg" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <a href="https://www.smartertravel.com/expert-travel-beauty-tips/" class="card-title-useful-information">HEALTH AND BEAUTY</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-6 col-lg-6">
-                    <div class="card bg-white-useful-information text-white">
-                        <img src="assets/images/useful-information-4.jpg" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <a href="https://www.google.com/" class="card-title-useful-information">USEFUL LINKS</a>
-                        </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="card bg-light-package-deals text-white">
+                    <img src="assets/images/package-deals-6.jpg" class="card-img" alt="...">
+                    <div class="card-img-overlay">
+                        <a href="https://www.tripadvisor.co.uk/" class="card-title-package-deals">LUXURY DEALS</a>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
+    <div id="usefulinformation" class="container-fluid headingcontainertwo">
+        <div class="row">
+            <div class="col-sm-12">
+                <p class="lead-heading">OTHER USEFUL INFORMATION (click on the image titles to find out more)</p>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid useful-information">
+        <div class="row">
+            <div class="col-sm-6 col-md-6 col-lg-6">
+                <div class="card bg-white-useful-information text-white">
+                    <img src="assets/images/useful-information-1.jpg" class="card-img" alt="...">
+                    <div class="card-img-overlay">
+                        <a href="https://www.zigzagonearth.com/" class="card-title-useful-information">SAFETY</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-6 col-lg-6">
+                <div class="card bg-white-useful-information text-white">
+                    <img src="assets/images/useful-information-2.jpg" class="card-img" alt="...">
+                    <div class="card-img-overlay">
+                        <a href="https://www.tripadvisor.co.uk/" class="card-title-useful-information">INDIVIDUAL SERVICES</a>
+                    </div>
+                </div>
+            </div>
+            <div class="w-100"></div>
+            <div class="col-sm-6 col-md-6 col-lg-6">
+                <div class="card bg-white-useful-information text-white">
+                    <img src="assets/images/useful-information-3.jpg" class="card-img" alt="...">
+                    <div class="card-img-overlay">
+                        <a href="https://www.smartertravel.com/expert-travel-beauty-tips/" class="card-title-useful-information">HEALTH AND BEAUTY</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-6 col-lg-6">
+                <div class="card bg-white-useful-information text-white">
+                    <img src="assets/images/useful-information-4.jpg" class="card-img" alt="...">
+                    <div class="card-img-overlay">
+                        <a href="https://www.google.com/" class="card-title-useful-information">USEFUL LINKS</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
     </section>
 
     <!-- Footer -->
