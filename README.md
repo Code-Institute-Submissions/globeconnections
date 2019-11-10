@@ -1,3 +1,5 @@
+# this project has code written by someone else (javascript and jquery). i am in the process of writing my own code.
+
  # Project Name: GLOBECONNECTIONS
  ## (Interactive Front-end Development - Code Institute)
 
