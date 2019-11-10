@@ -87,6 +87,7 @@ img {
 	font-size:1rem;
 	font-weight: bold;
 }
+
 #map {
 	height: 800px;
 	width: 100%;
@@ -112,11 +113,9 @@ img {
 	font-weight: 300;
 	-o-text-overflow: ellipsis;
 	   text-overflow: ellipsis;
-	width: 400px;
+    text-align: center;
 }
-#pac-input:focus {
-	border-color: #4d90fe;
-}
+
 #title {
 	color: #fff;
 	background-color: #4d90fe;
