@@ -1,6 +1,6 @@
 function initAutocomplete() {
         var map = new google.maps.Map(document.getElementById('map'), {
-          center: {lat: -33.8688, lng: 151.2195},
+          center: {lat: 39.9526, lng: -75.1606},
           zoom: 13,
           mapTypeId: 'roadmap'
         });

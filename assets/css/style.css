@@ -106,7 +106,18 @@ img {
 #map #infowindow-content {
 	display: inline;
 }
+.mapcontainercard {
+    background-color:#51469E;
+}
 #pac-input {
+
+    width: 100%;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
 	background-color: #fff;
 	font-family: Roboto;
 	font-size: 15px;
@@ -115,7 +126,6 @@ img {
 	   text-overflow: ellipsis;
     text-align: center;
 }
-
 #title {
 	color: #fff;
 	background-color: #4d90fe;
