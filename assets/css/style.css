@@ -56,7 +56,7 @@ img {
 	color:white;
 }
 /* navbar */
-/* Safari 4.0 - 8.0 */
+
 .headingforattractionssearchform {
 	padding: 2rem;
 	text-align: center;
@@ -67,17 +67,36 @@ img {
 	-ms-grid-row-align: center;
 	align-self: center;
 	background-color:#572162;
-    margin-top: 170px;
-	margin-bottom: 80px;
+    margin-top: 80px;
+	margin-bottom: 0px;
 	color: white;
 	font-size:1rem;
 	font-weight: bold;
 }
-#map {
+.headingformapcontainersearchbox {
+	text-align: center;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+	-ms-flex-item-align: center;
+	-ms-grid-row-align: center;
+	align-self: center;
+	background-color:#FF6666;
+    margin-top: 10px;
+	margin-bottom: 10px;
+	color: white;
+	font-size:1rem;
+	font-weight: bold;
+}
+ #map {
         height: 800px;
-        width: auto;
+        width: 100%;
       }
-
+   #description {
+        font-family: Roboto;
+        font-size: 15px;
+        font-weight: 300;
+      }
 
       #infowindow-content .title {
         font-weight: bold;
@@ -99,7 +118,7 @@ img {
         outline: none;
         box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
         background-color: #fff;
-
+        font-family: Roboto;
       }
 
       #pac-container {
@@ -107,20 +126,26 @@ img {
         margin-right: 12px;
       }
 
-      .pac-form-control {
+      .pac-controls {
         display: inline-block;
+        padding: 5px 11px;
+      }
+
+      .pac-controls label {
+        font-family: Roboto;
+        font-size: 13px;
+        font-weight: 300;
       }
 
       #pac-input {
         background-color: #fff;
-        margin: 70px 0 0 0;
-        padding:10px;
+        font-family: Roboto;
+        font-size: 15px;
+        font-weight: 300;
+
         text-overflow: ellipsis;
         width: 400px;
-        align-self: center;
-        text-align: center;
-        justify-content: center;
-        }
+      }
 
       #pac-input:focus {
         border-color: #4d90fe;
@@ -129,18 +154,12 @@ img {
       #title {
         color: #fff;
         background-color: #4d90fe;
+        font-size: 25px;
+        font-weight: 500;
         padding: 6px 12px;
       }
       #target {
         width: 345px;
-      }
-      .mapcontainer {
-          max-width: 100%;
-          height: auto;
-          margin: 0 auto;
-          text-align: center;
-          justify-content: center;
-          align-items: center;
       }
 .headingcontainerone,
 .headingcontainertwo {
@@ -159,19 +178,7 @@ img {
 	font-size:1rem;
 	font-weight: bold;
 }
-.mb-3,.form-control {
-	width: 100%;
-	height: auto;
-	border-color: black;
-	border-width: 2px;
-	text-align: center;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	-webkit-box-align: center;
-	-ms-flex-align: center;
-	align-items: center;
-}
+
 /* popular destinations */
 .card-title-package-deals {
 	padding: 10px;
