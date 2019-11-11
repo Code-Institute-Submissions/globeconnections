@@ -220,10 +220,6 @@ img {
 	-ms-flex-align: center;
 	align-items: center;
 }
-.package-deals-home-page:hover {
-	-webkit-box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
-	        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
-}
 .bg-white-useful-information,.card-title-useful-information {
 	padding:1rem;
 	font-size:1rem;
