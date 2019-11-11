@@ -87,7 +87,6 @@ img {
 	font-size:1rem;
 	font-weight: bold;
 }
-
 #map {
 	height: 800px;
 	width: 100%;
@@ -107,11 +106,10 @@ img {
 	display: inline;
 }
 .mapcontainercard {
-    background-color:#51469E;
+	background-color:#51469E;
 }
 #pac-input {
-
-    width: 100%;
+	width: 100%;
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
 	justify-content: center;
@@ -123,18 +121,8 @@ img {
 	font-size: 15px;
 	font-weight: 300;
 	-o-text-overflow: ellipsis;
-	   text-overflow: ellipsis;
-    text-align: center;
-}
-#title {
-	color: #fff;
-	background-color: #4d90fe;
-	font-size: 25px;
-	font-weight: 500;
-	padding: 6px 12px;
-}
-#target {
-	width: 345px;
+	text-overflow: ellipsis;
+	text-align: center;
 }
 .headingcontainerone,.headingcontainertwo {
 	padding: 2rem;
