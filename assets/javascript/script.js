@@ -80,6 +80,8 @@ var map, places, infoWindow;
         });
       }
       
+       // Get the place details for a hotel. Show the information in an info window,
+      // anchored on the marker for the hotel that the user selected.
       function showInfoWindow() {
         var marker = this;
         places.getDetails({placeId: marker.placeResult.place_id},
@@ -91,7 +93,8 @@ var map, places, infoWindow;
               buildIWContent(place);
             });
       }
-      
+
+      // Load the place information into the HTML elements used by the info window.
       function buildIWContent(place) {
         document.getElementById('iw-icon').innerHTML = '<img class="hotelIcon" ' +
             'src="' + place.icon + '"/>';
