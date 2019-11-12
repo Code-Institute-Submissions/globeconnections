@@ -1,4 +1,6 @@
 var map, places, infoWindow;
+var markers = [];
+var MARKER_PATH = 'https://developers.google.com/maps/documentation/javascript/images/marker_green';
 var hostnameRegexp = new RegExp('^https?://.+?/');
       
       function initAutocomplete() {
