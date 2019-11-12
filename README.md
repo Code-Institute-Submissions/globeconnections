@@ -23,7 +23,7 @@
 
 ![GLOBECONNECTIONS](/assets/images/multi-device-website-mock-up.png "Multi-device mock-up")
 
- ## UX
+ # UX
 
 - The reason behind creating this website is to allow site navigators to choose a package for their next holiday which is best suited to their individual requirements.
 
@@ -49,7 +49,7 @@
 
 *The live website is slightly different from the one depicted in the wireframes because some features and styles were amended whilst enhancing the website.*
 
- ## FEATURES:
+ # FEATURES:
 
 ### Existing Features:
 
@@ -71,7 +71,7 @@
 
 *d. Access to additional resources such as the latest news/updates from the travel industry, health, beauty and safety tips and other useful external resources.*
 
- ## TECHNOLOGIES USED:
+ # TECHNOLOGIES USED:
 
 *The technologies used in the creation of this website are as follows:*
 
@@ -87,7 +87,7 @@
 
 6. [GOOGLE MAPS](https://developers.google.com/maps/documentation "the Google Maps Platform for developers").
 
-## TESTING:
+# TESTING:
 
 **The website usability tests were thoroughly conducted using the following parameters and resources:**
 
@@ -134,7 +134,7 @@
 
 *There were no bugs left unfixed.*
 
- ## DEPLOYMENT:
+ # DEPLOYMENT:
 
 #### To deploy this page to GitHub Pages from your [GitHub repository](https://github.com/), the following steps were taken:
 
@@ -172,7 +172,7 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *6. Press Enter. Your local clone will be created.*
 
- ## CREDITS:
+ # CREDITS:
 
 ### Content:
 
