@@ -393,8 +393,6 @@ img {
 }
 .footer-copyright:hover {
 	opacity:0.5;
-	-webkit-box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
-	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
 .btn-outline-white {
 	font-size:1rem;
@@ -414,10 +412,15 @@ img {
 	margin: 0 auto;
 }
 .btn-outline-white:hover {
-	color:#210B2C;
-	opacity:0.5;
+	color:#51469E;
+    border-color: #51469E;
+    background-color:#9089C1;
 	-webkit-box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.list-unstyled:hover,
+.footerwriting:hover {
+    color: #51469E;
 }
 .mb-1,.py-5,.mb-5 {
 	padding: 2rem;
