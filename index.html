@@ -52,9 +52,34 @@
             </div>
         </div>
 
+        <div class="container mapcontainer">
+            <div class="row">
+                <div class="col-sm">
+                    <div class="card mapcontainercard">
+                        <div class="card-body">
+                            <input id="pac-input" class="controls" type="text" aria-label="Sizing example input" placeholder="ENTER A SEARCH TERM">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="container">
             <div class="row">
                 <div class="col-sm">
+                    <div id="map"></div>
+                </div>
+            </div>
+        </div>
+        <!-- results list display container -->
+        <div class="container">
+            <div class="row">
+                <div class="col-sm">
+                    <div id="listing">
+                        <table id="resultsTable">
+                            <tbody id="results"></tbody>
+                        </table>
+                    </div>
+
                     <div style="display: none">
                         <div id="info-content">
                             <table>
@@ -84,38 +109,7 @@
                 </div>
             </div>
         </div>
-
-        <div class="container mapcontainer">
-            <div class="row">
-                <div class="col-sm">
-                    <div class="card mapcontainercard">
-                        <div class="card-body">
-                            <input id="pac-input" class="controls" type="text" aria-label="Sizing example input" placeholder="ENTER A SEARCH TERM">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-sm">
-                    <div id="map"></div>
-                </div>
-            </div>
-        </div>
-<!-- results list display container -->
-        <div class="container">
-            <div class="row">
-                <div class="col-sm">
-                    <div id="listing">
-                        <table id="resultsTable">
-                            <tbody id="results"></tbody>
-                        </table>
-                    </div>
-                </div>
-            </div>
-        </div>
-<!-- results list display container -->
+        <!-- results list display container -->
         <div id="packagedeals" class="container-fluid headingcontainerone">
             <div class="row justify-content-center">
                 <div class="col-sm-12">
@@ -125,7 +119,7 @@
         </div>
         <div class="container-fluid package-deals-home-page">
             <div class="row">
-                 <div class="col-sm-4">
+                <div class="col-sm-4">
                     <div class="card bg-light-package-deals text-white">
                         <img src="assets/images/package-deals-1.jpg" class="card-img" alt="...">
                         <div class="card-img-overlay">
@@ -292,7 +286,7 @@
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.15.0/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
-    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>    
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyANa4TOUMO6zcXtU6Hs8-PfXofvCyEF3DI&libraries=places&callback=initAutocomplete" async defer></script>
     <script src="assets/javascript/script.js"></script>
 </body>
