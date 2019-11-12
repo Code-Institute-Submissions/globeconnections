@@ -25,7 +25,7 @@ var hostnameRegexp = new RegExp('^https?://.+?/');
           searchBox.setBounds(map.getBounds());
         });
 
-        var markers = [];
+        
         // Listen for the event fired when the user selects a prediction and retrieve
         // more details for that place.
         searchBox.addListener('places_changed', function() {
