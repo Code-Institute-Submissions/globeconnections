@@ -117,8 +117,7 @@ var hostnameRegexp = new RegExp('^https?://.+?/');
             count++;
           });
           map.fitBounds(bounds);
-        });
-      }
+            
       
        // Get the place details for a hotel. Show the information in an info window,
       // anchored on the marker for the hotel that the user selected.
