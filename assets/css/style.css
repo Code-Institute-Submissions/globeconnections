@@ -129,6 +129,9 @@ img {
 }
 .mapcontainercard {
 	background-color:#51469E;
+    outline: 5px solid #210B2C;
+outline-offset: -5px;
+border: 2px solid #210B2C;
 }
 #pac-input {
 	width: 100%;
@@ -138,12 +141,7 @@ img {
 	-webkit-box-align: center;
 	-ms-flex-align: center;
 	align-items: center;
-	background-color: #fff;
-	font-family: Roboto;
-	font-size: 15px;
-	font-weight: 300;
-	-o-text-overflow: ellipsis;
-	text-overflow: ellipsis;
+	background-color: #FFFFFF;	
 	text-align: center;
 }
 #pac-input:hover {
