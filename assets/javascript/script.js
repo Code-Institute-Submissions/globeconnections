@@ -1,12 +1,10 @@
 var map, places, infoWindow;
-var MARKER_PATH = 'https://developers.google.com/maps/documentation/javascript/images/marker_green';
 var hostnameRegexp = new RegExp('^https?://.+?/');
-
       
       function initAutocomplete() {
         map = new google.maps.Map(document.getElementById('map'), {
-          center: {lat: -33.8688, lng: 151.2195},
-          zoom: 13,
+          center: {lat: 39.952583, lng: -75.165222},
+          zoom: 10,
           mapTypeId: 'roadmap'
         });
         
@@ -19,7 +17,6 @@ var hostnameRegexp = new RegExp('^https?://.+?/');
         // Create the search box and link it to the UI element.
         var input = document.getElementById('pac-input');
         var searchBox = new google.maps.places.SearchBox(input);
-        map.controls[google.maps.ControlPosition.TOP_LEFT].push(input);
 
         // Bias the SearchBox results towards current map's viewport.
         map.addListener('bounds_changed', function() {
@@ -84,6 +81,8 @@ var hostnameRegexp = new RegExp('^https?://.+?/');
         });
       }
       
+       // Get the place details for a hotel. Show the information in an info window,
+      // anchored on the marker for the hotel that the user selected.
       function showInfoWindow() {
         var marker = this;
         places.getDetails({placeId: marker.placeResult.place_id},
@@ -95,7 +94,8 @@ var hostnameRegexp = new RegExp('^https?://.+?/');
               buildIWContent(place);
             });
       }
-      
+
+      // Load the place information into the HTML elements used by the info window.
       function buildIWContent(place) {
         document.getElementById('iw-icon').innerHTML = '<img class="hotelIcon" ' +
             'src="' + place.icon + '"/>';
