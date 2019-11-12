@@ -176,7 +176,7 @@ img {
 	width: 24px;
 	height: 24px;
 }
-#listing {
+/* #listing {
 	position: absolute;
 	width: 200px;
 	height: 470px;
@@ -185,7 +185,7 @@ img {
 	top: 0px;
 	cursor: pointer;
 	overflow-x: hidden;
-}
+} */
 #resultsTable {
 	border-collapse: collapse;
 	width: 240px;
