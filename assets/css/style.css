@@ -437,7 +437,7 @@ img {
 	-ms-flex-pack: center;
 	justify-content: center;
 }
-p:hover {
+h6 {
 	background-color: white;
 	color:#FF6666;
 }
