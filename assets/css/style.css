@@ -8,15 +8,17 @@ html, body {
 	padding: 0;
 	font-weight: bold;
 }
+/* all images within html and bodyof html */
 img {
 	max-width: 100%;
 	height: auto;
 }
+/* all cards within html and bodyof html */
 .card:hover {
 	-webkit-box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
-/* html and bodyof html */
+/* navbar */
 .bg-navbar {
 	font-size:1rem;
 	font-weight:bold;
@@ -25,6 +27,7 @@ img {
 	-webkit-box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
+/* navbar toggler icon */
 .navbartogglericon {
 	color: white;
 	border-color:#210B2C;
@@ -32,6 +35,7 @@ img {
 	outline-color:#210B2C;
 	outline-width:5px;
 }
+/* navbar toggler */
 .navbar-toggler {
 	border-color:#433A82;
 	border-width:5px;
@@ -39,6 +43,7 @@ img {
 	outline-color:#433A82;
 	outline-width:5px;
 }
+/* navbar brand */
 .navbar-brand {
 	outline: black;
 	font-size:1rem;
@@ -46,12 +51,14 @@ img {
 	color:white;
 	background-color:transparent;
 }
+/* navbar brand hover */
 .navbar-brand:hover {
 	-webkit-box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 	background-color: rgba(81,70,158,1.0);
 	color: rgba(33,11,44,0.98);
 }
+/* nav item */
 .nav-item {
 	font-size:1rem;
 	font-weight: bold;
@@ -59,14 +66,15 @@ img {
 	background-color: #AFAAD2;
 	margin-right:20px;
 }
+/* nav item hover */
 .nav-item:hover {
 	background-color:#CC97C4;
 	color:white;
 	-webkit-box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
-/* navbar */
-.headingforattractionssearchform {
+/* heading container for the website */
+.headingcontainerforthewebsite {
 	padding: 2rem;
 	text-align: center;
 	-webkit-box-pack: center;
@@ -82,11 +90,13 @@ img {
 	font-size:1rem;
 	font-weight: bold;
 }
-.headingforattractionssearchform:hover {
+/* heading container for the website hover */
+.headingcontainerforthewebsite:hover {
 	-webkit-box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
-.headingformapcontainersearchbox {
+/* heading container for map searchbox card */
+.headingcontainerformapsearchboxcard {
 	text-align: center;
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
@@ -101,22 +111,20 @@ img {
 	font-size:1rem;
 	font-weight: bold;
 }
-.headingformapcontainersearchbox:hover {
+/* heading container for map searchbox card hover */
+.headingcontainerformapsearchboxcard:hover {
 	-webkit-box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
+/* map */
 #map {
 	height: 800px;
 	width: 100%;
 }
+/* map hover */
 #map:hover {
 	-webkit-box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
-}
-#description {
-	font-family: Roboto;
-	font-size: 15px;
-	font-weight: 300;
 }
 #infowindow-content .title {
 	font-weight: bold;
@@ -157,16 +165,6 @@ img {
 	font-size: 13px;
 	font-weight: 300;
 }
-#title {
-	color: #fff;
-	background-color: #4d90fe;
-	font-size: 25px;
-	font-weight: 500;
-	padding: 6px 12px;
-}
-#target {
-	width: 345px;
-}
 .placeIcon {
 	width: 20px;
 	height: 34px;
@@ -175,21 +173,6 @@ img {
 .hotelIcon {
 	width: 24px;
 	height: 24px;
-}
-/* #listing {
-	position: absolute;
-	width: 200px;
-	height: 470px;
-	overflow: auto;
-	left: 442px;
-	top: 0px;
-	cursor: pointer;
-	overflow-x: hidden;
-}
-*/
-#resultsTable {
-	border-collapse: collapse;
-	width: 240px;
 }
 .headingcontainerone,.headingcontainertwo {
 	padding: 2rem;
