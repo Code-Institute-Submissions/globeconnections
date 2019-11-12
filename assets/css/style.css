@@ -191,6 +191,7 @@ img {
 	border-collapse: collapse;
 	width: 240px;
 }
+
 .headingcontainerone,.headingcontainertwo {
 	padding: 2rem;
 	background-color:#51469E;
@@ -376,7 +377,7 @@ img {
 	justify-content: center;
 	color: white;
 }
-.fab:hover {
+.fa-facebook-square:hover {
 	color: #011638;
 	text-decoration:none;
 	-webkit-box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
@@ -444,8 +445,8 @@ h6 {
 .fas:hover,i:hover {
 	-webkit-box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
-	background-color: transparent;
-	outline: 5px outset #742F2F;
+	background-color: #CC97C4;
+	outline: 5px outset #51469E;
 	outline-offset: 7px;
 }
 /* socialmedia */
