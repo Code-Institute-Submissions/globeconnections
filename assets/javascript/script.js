@@ -93,7 +93,7 @@ var hostnameRegexp = new RegExp('^https?://.+?/');
               infoWindow.open(map, marker);
               buildIWContent(place);
             });
-      }
+      }      
 
       // Load the place information into the HTML elements used by the info window.
       function buildIWContent(place) {
