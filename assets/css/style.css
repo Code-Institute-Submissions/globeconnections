@@ -8,6 +8,9 @@ html, body {
 	padding: 0;
 	font-weight: bold;
 }
+html {
+  scroll-behavior: smooth;
+}
 /* all images within html and bodyof html */
 img {
 	max-width: 100%;
@@ -135,13 +138,10 @@ img {
 #infowindow-content {
 	display: none;
 }
-#map #infowindow-content {
-	display: inline;
+#info-content {
+    display: inline-block;
 }
 /* card with a map search input field in it */
-#info-content {
-    display: inline;
-}
 .mapcontainercard {
 	background-color:#51469E;
 	outline: 5px solid #210B2C;
