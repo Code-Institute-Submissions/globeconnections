@@ -83,17 +83,17 @@
 
 *The technologies used in the creation of this website are as follows:*
 
-1. [BOOTSTRAP](https://getbootstrap.com/ "Build responsive, mobile-first projects on the web with the world’s most popular front-end component library").
+1. [BOOTSTRAP](https://getbootstrap.com/ "Build responsive, mobile-first projects on the web with the world’s most popular front-end component library")
 
-2. HTML.
+2. HTML
 
-3. CSS.
+3. CSS
 
-4. JAVASCRIPT.
+4. JAVASCRIPT
 
-5. [JQUERY](https://jquery.com/ "jQuery UI is a curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library. Whether you're building highly interactive web applications or you just need to add a date picker to a form control, jQuery UI is the perfect choice").
+5. [JQUERY](https://jquery.com/ "jQuery UI is a curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library. Whether you're building highly interactive web applications or you just need to add a date picker to a form control, jQuery UI is the perfect choice")
 
-6. [GOOGLE MAPS](https://developers.google.com/maps/documentation "the Google Maps Platform for developers").
+6. [GOOGLE MAPS](https://developers.google.com/maps/documentation "the Google Maps Platform for developers")
 
 # TESTING:
 
