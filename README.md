@@ -51,7 +51,7 @@
 
 ### Skeleton:
 
-- [LARGE-SCREEN-WIREFRAMES](assets/wireframes/large-screens-wireframe-GLOBECONNECTIONS.pdf "wireframe for large screens").
+- [LARGE-SCREEN-WIREFRAMES](/assets/wireframes/large-screens-wireframe-GLOBECONNECTIONS.pdf "wireframe for large screens").
 
 *The live website is slightly different from the one depicted in the wireframes because some features and styles were amended whilst enhancing the website.*
 
