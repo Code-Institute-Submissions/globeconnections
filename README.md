@@ -125,6 +125,7 @@
 
 *These devtools were tested on the only page in this website **(index.html)** and across browsers such as the Internet Explorer, Mozilla Firefox and many others using the following website:*
 *[BROWSERSHOTS](http://browsershots.org/ "Testing browser compatibility").*
+*[BROWSERSHOTS TESTING EVIDENCE](/assets/browser-shots-evidence-for-testing/ "Testing images as evidence for the browser's compatibility").*
 
 **The other validators used throughout the website are as follows:**
 
@@ -227,6 +228,8 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 *(11) This readme.md document is written using markdown language from the following link: [MARKDOWN GUIDE](https://www.markdownguide.org/basic-syntax/#links "Markdown Syntax").*
 
 *(12) The favicon was generated with the following website: [FAVICON](https://favicon.io/favicon-generator/ "Favicon Generator").*
+
+*(12) The images were compressed with the following website: [TINYJPG](https://tinyjpg.com/ "Smart JPEG and PNG compression").*
 
 *(13) I received inspiration for this project from the original website created by [TUI](https://www.tui.co.uk/ "Travel Packages Finder").*
 
