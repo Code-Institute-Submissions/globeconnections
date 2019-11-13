@@ -3,19 +3,13 @@
 
  **ABOUT GLOBECONNECTIONS:**
 
-*Here at Globeconnections, we believe that fulfilling travel experiences begin not only with choosing the right destination, but having the right state of mind.*
+*Globeconnections is a digital platform created to allow travellers to choose from a variety of services offered to make their journey an unforgettable one.*
 
-*The way we see it, life is just one big journey, and we are here to help people make more enlightening stops along the way.*
+*There are a variety of packages offered to suit the needs of different individuals from all walks of life.*
 
-*But what does that mean, exactly?*
+*The choice of services offered by Globeconnections range from cars to hotel rooms etc.*
 
-*It means helping them have more fun dreaming and planning by offering up trip and destination ideas that range from time-tested to unexpected via Inspire.*
-
-*Giving them more fulfilling journeys and more cherished memories by delivering innovative products at Globeconnections Customer First Guarantee that provides personal support before, during and after the trip.*
-
-*And of course, reminding them to bring snacks on long flights. (Always keep some granola in your carry-on, trust us.)*
-
- **Access to the website:**
+**Access to the website:**
 
 **The website I created for this project can be accessed via the following link:**
 
