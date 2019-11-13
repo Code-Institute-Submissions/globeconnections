@@ -51,6 +51,11 @@ img {
 	color:white;
 	background-color:transparent;
 }
+/* navbar brand logo image */
+#brandlogoimage {
+    width: 40px;
+    height:40px;
+}
 /* navbar brand hover */
 .navbar-brand:hover {
 	-webkit-box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
@@ -134,6 +139,9 @@ img {
 	display: inline;
 }
 /* card with a map search input field in it */
+#info-content {
+    display: inline;
+}
 .mapcontainercard {
 	background-color:#51469E;
 	outline: 5px solid #210B2C;
