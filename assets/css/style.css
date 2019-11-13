@@ -16,13 +16,34 @@ img {
 	max-width: 100%;
 	height: auto;
 }
-/* all cards within html and bodyof html */
+/* all hover effects with a box shadow */
 .card:hover,
 .navbar-brand:hover,
 .nav-item:hover,
-.headingcontainerforthewebsite:hover {
+.headingcontainerforthewebsite:hover,
+.headingcontainerformapsearchboxcard:hover,
+#map:hover,
+#pac-input:hover,
+.headingcontainerone:hover,
+.headingcontainertwo:hover,
+.card-title-package-deals:hover {
 	-webkit-box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+/* centering css for all elements */
+.headingcontainerforthewebsite,
+.headingcontainerformapsearchboxcard,
+#pac-input,
+.headingcontainerone,
+.headingcontainertwo,
+.card-title-package-deals {
+text-align: center;
+-webkit-box-pack: center;
+    -ms-flex-pack: center;
+        justify-content: center;
+-webkit-box-align: center;
+    -ms-flex-align: center;
+        align-items: center;
 }
 /* navbar */
 .bg-navbar {
@@ -84,13 +105,6 @@ img {
 /* heading container for the website */
 .headingcontainerforthewebsite {
 	padding: 2rem;
-	text-align: center;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	-ms-flex-item-align: center;
-	-ms-grid-row-align: center;
-	align-self: center;
 	background-color:#572162;
 	margin-top: 80px;
 	margin-bottom: 0px;
@@ -100,13 +114,6 @@ img {
 }
 /* heading container for map searchbox card */
 .headingcontainerformapsearchboxcard {
-	text-align: center;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	-ms-flex-item-align: center;
-	-ms-grid-row-align: center;
-	align-self: center;
 	background-color:#FF6666;
 	margin-top: 10px;
 	margin-bottom: 10px;
@@ -114,20 +121,10 @@ img {
 	font-size:1rem;
 	font-weight: bold;
 }
-/* heading container for map searchbox card hover */
-.headingcontainerformapsearchboxcard:hover {
-	-webkit-box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
-	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
-}
 /* map */
 #map {
 	height: 800px;
 	width: 100%;
-}
-/* map hover */
-#map:hover {
-	-webkit-box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
-	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
 /* infowindow-content */
 #infowindow-content {
@@ -146,19 +143,8 @@ img {
 /* map search input field */
 #pac-input {
 	width: 100%;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	-webkit-box-align: center;
-	-ms-flex-align: center;
-	align-items: center;
 	background-color: #FFFFFF;
 	text-align: center;
-}
-/* map search input field hover */
-#pac-input:hover {
-	-webkit-box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
-	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
 /* input field display controls */
 .pac-controls {
@@ -186,22 +172,10 @@ img {
 	padding: 2rem;
 	background-color:#51469E;
 	color: #210B2C;
-	text-align: center;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	-webkit-box-align: center;
-	-ms-flex-align: center;
-	align-items: center;
 	margin-top: 70px;
 	margin-bottom: 70px;
 	font-size:1rem;
 	font-weight: bold;
-}
-/* container for headings for package deals and useful information hover */
-.headingcontainerone:hover,.headingcontainertwo:hover {
-	-webkit-box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
-	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
 /* image overlay card for package deals */
 .card-title-package-deals {
@@ -211,20 +185,7 @@ img {
 	color: rgba(255,255,255,1.0);
 	margin-top: 10px;
 	margin-bottom: 10px;
-	text-align: center;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	-webkit-box-align: center;
-	-ms-flex-align: center;
-	align-items: center;
 	background-color: rgba(255,102,102,0.65);
-}
-/* image overlay card for package deals hover */
-.card-title-package-deals:hover {
-	-webkit-box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
-	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
-	background-color:#FF6666;
 }
 /* body of image overlay card for package deals */
 .bg-light-package-deals {
@@ -322,13 +283,6 @@ img {
 	-ms-flex-align:center;
 	align-items:center;
 }
-/* contact information for the company hover */
-.text-uppercase:hover {
-	-webkit-box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
-	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
-	color: #51469E;
-	background-color:#9089C1;
-}
 /* social media icons class */
 .social-media-icons,.list-inline-social {
 	padding:1rem;
@@ -382,10 +336,6 @@ img {
 	-ms-flex-pack: center;
 	justify-content: center;
 }
-/* footer copyright information hover */
-.footer-copyright:hover {
-	opacity:0.5;
-}
 /* sign-up button for newsletters */
 .btn-outline-white {
 	font-size:1rem;
@@ -404,18 +354,6 @@ img {
 	justify-content: center;
 	margin: 0 auto;
 }
-/* sign-up button for newsletters hover */
-.btn-outline-white:hover {
-	color:#51469E;
-	border-color: #51469E;
-	background-color:#9089C1;
-	-webkit-box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
-	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
-}
-/* sign-up button list and container */
-.list-unstyled:hover,.footerwriting:hover {
-	color: #51469E;
-}
 /* fontawesome icons for the footer */
 .fas {
 	padding:1rem;
@@ -430,12 +368,4 @@ img {
 	-ms-flex-pack: center;
 	justify-content: center;
 	border-radius: 5px;
-}
-/* fontawesome icons for the footer hover */
-.fas:hover,i:hover {
-	-webkit-box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
-	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
-	background-color: #CC97C4;
-	outline: 5px outset #51469E;
-	outline-offset: 7px;
 }
