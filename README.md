@@ -19,11 +19,19 @@
 
  # UX
 
+ ### User stories:
+
 - The reason behind creating this website is to allow site navigators to choose a package for their next holiday which is best suited to their individual requirements.
+
+### Scope:
 
 - We understand that every traveller is different from another and will have several different requirements to fulfil throughout their journey to ensure that they have the best holiday possible.
 
+### Surface:
+
 - I have created this website using the latest color schemes, keeping it simple yet in line with latest designing trends.
+
+### Strategy:
 
 - The search functions provided in my website allow the site navigator to gain access to various services provided by the company to meet their individual requirements.
 
@@ -35,11 +43,15 @@
 
 **3. Local Tourist Attractions**
 
-- The site users can then look at markers displaying the search results on the map provided within this website.
+- The site users can then look at markers highlighting the search results on the map provided within this website.
+
+### Structure:
 
 - My aim was to make the website easy to navigate, self-explanatory, visually appealing and provide a smooth shopping experience to users from all walks of life.
 
-#### The wireframes have been attached to a separate folder named *wireframes* within this Github repository.
+### Skeleton:
+
+- The wireframes have been attached to a separate folder named *wireframes* within this Github repository.
 
 *The live website is slightly different from the one depicted in the wireframes because some features and styles were amended whilst enhancing the website.*
 
