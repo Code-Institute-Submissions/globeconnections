@@ -315,3 +315,4 @@ table {
 	justify-content: center;
 	border-radius: 5px;
 }
+.footericon:hover{ text-decoration: none; }
