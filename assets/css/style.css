@@ -17,7 +17,7 @@ img {
 	height: auto;
 }
 /* all cards within html and bodyof html */
-.card:hover {
+.shadow:hover {
 	-webkit-box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
