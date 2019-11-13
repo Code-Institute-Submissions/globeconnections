@@ -22,7 +22,10 @@ img {
 	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
 /* centering css for all elements */
-.headingcontainerforthewebsite,.headingcontainerformapsearchboxcard,#pac-input,.headingcontainerone,.headingcontainertwo,.card-title-package-deals {
+.headingcontainerforthewebsite,.headingcontainerformapsearchboxcard,#pac-input,.headingcontainerone,.headingcontainertwo,.card-title-package-deals,
+#footer,
+.page-footer,
+.footerwriting {
 	text-align: center;
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
