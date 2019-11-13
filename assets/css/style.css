@@ -140,12 +140,8 @@ table {
         left: 0;
         position: absolute;
         top: 0;
-        width: 440px;
+        width: 100%;
         z-index: 1;
-      }
-      #map {
-        margin-top: 40px;
-        width: 440px;
       }
       #listing {
         position: absolute;
@@ -171,7 +167,7 @@ table {
         -ms-flex: 1 1 140px;
         flex: 1 1 140px;
       }
-      #autocomplete {
+      #pac-input {
         width: 100%;
       }
       #country {
