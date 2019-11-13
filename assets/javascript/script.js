@@ -1,3 +1,4 @@
+// add map and infowindow information
 var map, places, infoWindow;
 var hostnameRegexp = new RegExp('^https?://.+?/');
 
