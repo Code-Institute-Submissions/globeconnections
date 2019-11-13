@@ -17,7 +17,8 @@ img {
 	height: auto;
 }
 /* all hover effects with a box shadow */
-.card:hover,.navbar-brand:hover,.nav-item:hover,.headingcontainerforthewebsite:hover,.headingcontainerformapsearchboxcard:hover,#map:hover,#pac-input:hover,.headingcontainerone:hover,.headingcontainertwo:hover,.card-title-package-deals:hover.bg-light-package-deals:hover,.card-title-useful-information:hover,.text-white:hover,.useful-information:hover,.card-title-package-deals,.card,.bg-light-package-deals,.text-white,.card-img,.card-img-overlay,.stretched-link {
+.card:hover,.navbar-brand:hover,.nav-item:hover,.headingcontainerforthewebsite:hover,.headingcontainerformapsearchboxcard:hover,#map:hover,#pac-input:hover,.headingcontainerone:hover,.headingcontainertwo:hover,.card-title-package-deals:hover.bg-light-package-deals:hover,.card-title-useful-information:hover,.text-white:hover,.useful-information:hover,.card-title-package-deals,.card,.bg-light-package-deals,.text-white,.card-img,.card-img-overlay,
+.stretched-link {
 	-webkit-box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 	text-decoration: none;
@@ -26,7 +27,6 @@ img {
 .headingcontainerforthewebsite,.headingcontainerformapsearchboxcard,#pac-input,.headingcontainerone,.headingcontainertwo,#footer,.page-footer,.footerwriting,.bg-light-package-deals,.package-deals-home-page,.bg-white-useful-information,.card-title-useful-information,.useful-information,.text-uppercase,
 .social-media-icons,
 .list-inline-social,
-.fab,
 .footer-copyright,
 .btn-outline-white  {
 	text-align: center;
