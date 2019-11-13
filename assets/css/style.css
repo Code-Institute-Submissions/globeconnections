@@ -23,7 +23,12 @@ img {
 	text-decoration: none;
 }
 /* centering css for all elements */
-.headingcontainerforthewebsite,.headingcontainerformapsearchboxcard,#pac-input,.headingcontainerone,.headingcontainertwo,.card-title-package-deals,#footer,.page-footer,.footerwriting,.bg-light-package-deals,.package-deals-home-page,.bg-white-useful-information,.card-title-useful-information,.useful-information,.text-uppercase {
+.headingcontainerforthewebsite,.headingcontainerformapsearchboxcard,#pac-input,.headingcontainerone,.headingcontainertwo,#footer,.page-footer,.footerwriting,.bg-light-package-deals,.package-deals-home-page,.bg-white-useful-information,.card-title-useful-information,.useful-information,.text-uppercase,
+.social-media-icons,
+.list-inline-social,
+.fab,
+.footer-copyright,
+.btn-outline-white  {
 	text-align: center;
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
@@ -264,13 +269,6 @@ table {
 	font-weight: bold;
 	margin:0 auto;
 	text-decoration:none;
-	text-align: center;
-	-webkit-box-align: center;
-	-ms-flex-align: center;
-	align-items: center;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
 }
 /* footer */
 #footer {
@@ -285,13 +283,6 @@ table {
 	margin-left:10px;
 	margin-right: 10px;
 	text-decoration:none;
-	text-align: center;
-	-webkit-box-align: center;
-	-ms-flex-align: center;
-	align-items: center;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
 	color: white;
 	border-radius: 5px;
 }
@@ -302,13 +293,6 @@ table {
 	font-size:1rem;
 	font-weight: bold;
 	color: white;
-	text-align: center;
-	-webkit-box-align: center;
-	-ms-flex-align: center;
-	align-items: center;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
 }
 /* sign-up button for newsletters */
 .btn-outline-white {
@@ -319,13 +303,6 @@ table {
 	border-color: #210B2C;
 	border-width: 5px;
 	color: #210B2C;
-	text-align: center;
-	-webkit-box-align: center;
-	-ms-flex-align: center;
-	align-items: center;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
 	margin: 0 auto;
 }
 /* fontawesome icons for the footer */
