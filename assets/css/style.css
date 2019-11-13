@@ -169,7 +169,7 @@ img {
 	font-weight: 300;
 }
 /* placeicon */
-.placeIcon {    
+.placeIcon {
 	width: 20px;
 	height: 34px;
 	margin: 4px;
@@ -341,9 +341,10 @@ img {
 	-ms-flex-pack: center;
 	justify-content: center;
 }
+/* footer */
 #footer {
-    background-color: #FF6666;
-    color: white;
+	background-color: #FF6666;
+	color: white;
 }
 /* social media icons */
 .fab {
