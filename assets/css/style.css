@@ -126,6 +126,9 @@ text-align: center;
 	height: 800px;
 	width: 100%;
 }
+.mapcontainercard {
+    background-color:#572162;
+}
 table {
         font-size: 12px;
       }
