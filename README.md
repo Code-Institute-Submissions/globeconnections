@@ -51,9 +51,9 @@
 
 ### Skeleton:
 
-- [LARGE-SCREENS-WIREFRAMES](/assets/wireframes/large-screens-wireframe-GLOBECONNECTIONS.pdf "wireframe for large-sized screens").
-- [MEDIUM-SCREENS-WIREFRAMES](/assets/wireframes/medium-screens-wireframe-GLOBECONNECTIONS.pdf "wireframe for medium-sized screens").
-- [SMALL-SCREENS-WIREFRAMES](/assets/wireframes/small-screens-wireframe-GLOBECONNECTIONS.pdf "wireframe for small-sized screens").
+- [LARGE-SCREENS-WIREFRAMES](/assets/wireframes/large-screens-wireframe-GLOBECONNECTIONS.pdf "wireframe for large-sized screens")
+- [MEDIUM-SCREENS-WIREFRAMES](/assets/wireframes/medium-screens-wireframe-GLOBECONNECTIONS.pdf "wireframe for medium-sized screens")
+- [SMALL-SCREENS-WIREFRAMES](/assets/wireframes/small-screens-wireframe-GLOBECONNECTIONS.pdf "wireframe for small-sized screens")
 
 *The live website is slightly different from the one depicted in the wireframes because some features and styles were amended whilst enhancing the website.*
 
