@@ -341,6 +341,10 @@ img {
 	-ms-flex-pack: center;
 	justify-content: center;
 }
+#footer {
+    background-color: #FF6666;
+    color: white;
+}
 /* social media icons */
 .fab {
 	padding: 10px;
@@ -411,7 +415,7 @@ img {
 /* fontawesome icons for the footer */
 .fas {
 	padding:1rem;
-	font-size:1rem;
+	font-size:2rem;
 	font-weight: bold;
 	margin:0 auto;
 	text-align: center;
