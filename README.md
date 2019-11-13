@@ -33,6 +33,10 @@
 
 ### Strategy:
 
+- My aim was to make the website easy to navigate, self-explanatory, visually appealing and provide a smooth shopping experience to users from all walks of life.
+
+### Structure:
+
 - The search functions provided in my website allow the site navigator to gain access to various services provided by the company to meet their individual requirements.
 
 - I have provided users with access to information about the following resources via the Google Maps APIs, close to their chosen destination:
@@ -44,10 +48,6 @@
 **3. Local Tourist Attractions**
 
 - The site users can then look at markers highlighting the search results on the map provided within this website.
-
-### Structure:
-
-- My aim was to make the website easy to navigate, self-explanatory, visually appealing and provide a smooth shopping experience to users from all walks of life.
 
 ### Skeleton:
 
