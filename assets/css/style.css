@@ -131,7 +131,7 @@ text-align: center;
 	display: none;
 }
 #info-content {
-    display: inline-block;
+    display: none;
 }
 /* card with a map search input field in it */
 .mapcontainercard {
