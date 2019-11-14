@@ -1,6 +1,6 @@
 // add map and infowindow information
 let map, places, infoWindow;
-var hostnameRegexp = new RegExp('^https?://.+?/');
+let hostnameRegexp = new RegExp('^https?://.+?/');
 
 function initAutocomplete() {
     map = new google.maps.Map(document.getElementById('map'), {
@@ -19,19 +19,19 @@ function initAutocomplete() {
     places = new google.maps.places.PlacesService(map);
 
     // Create the search box and link it to the UI element.
-    var input = document.getElementById('pac-input');
-    var searchBox = new google.maps.places.SearchBox(input);
+    let input = document.getElementById('pac-input');
+    let searchBox = new google.maps.places.SearchBox(input);
 
     // Bias the SearchBox results towards current map's viewport.
     map.addListener('bounds_changed', function() {
         searchBox.setBounds(map.getBounds());
     });
 
-    var markers = [];
+    let markers = [];
     // Listen for the event fired when the user selects a prediction and retrieve
     // more details for that place.
     searchBox.addListener('places_changed', function() {
-        var places = searchBox.getPlaces();
+        let places = searchBox.getPlaces();
 
         if (places.length == 0) {
             return;
@@ -45,13 +45,13 @@ function initAutocomplete() {
         markers = [];
 
         // For each place, get the icon, name and location.
-        var bounds = new google.maps.LatLngBounds();
-        var count = 0;
+        let bounds = new google.maps.LatLngBounds();
+        let count = 0;
         places.forEach(function(place) {
             if (!place.geometry) {                
                 return;
             }
-            var icon = {
+            let icon = {
                 url: place.icon,
                 size: new google.maps.Size(71, 71),
                 origin: new google.maps.Point(0, 0),
@@ -87,7 +87,7 @@ function initAutocomplete() {
 // Get the place details for a hotel. Show the information in an info window,
 // anchored on the marker for the hotel that the user selected.
 function showInfoWindow() {
-    var marker = this;
+    let marker = this;
     places.getDetails({
             placeId: marker.placeResult.place_id
         },
@@ -120,8 +120,8 @@ function buildIWContent(place) {
     // to indicate the rating the hotel has earned, and a white star ('&#10025;')
     // for the rating points not achieved.
     if (place.rating) {
-        var ratingHtml = '';
-        for (var i = 0; i < 5; i++) {
+        let ratingHtml = '';
+        for (let i = 0; i < 5; i++) {
             if (place.rating < (i + 0.5)) {
                 ratingHtml += '&#10025;';
             } else {
@@ -137,8 +137,8 @@ function buildIWContent(place) {
     // The regexp isolates the first part of the URL (domain plus subdomain)
     // to give a short URL for displaying in the info window.
     if (place.website) {
-        var fullUrl = place.website;
-        var website = hostnameRegexp.exec(place.website);
+        let fullUrl = place.website;
+        let website = hostnameRegexp.exec(place.website);
         if (website === null) {
             website = 'http://' + place.website + '/';
             fullUrl = website;
