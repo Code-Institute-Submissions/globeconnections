@@ -263,20 +263,3 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 #### This website is for educational purposes only.
 
 ------------
-
-|   	|
-|---	|
-|   	|
-|   	|
-|   	|
-|   	|
-|   	|
-|   	|
-|   	|
-|   	|
-|   	|
-|   	|
-|*(7) A lot of inspiration for CSS styling comes from [MATERIAL DESIGN FOR BOOTSTRAP](https://mdbootstrap.com/ "The world's most popular framework for building responsive, mobile-first websites and apps").*   	|
-|*(8) The site is thoroughly tested using [Chrome DevTools | Tools for Web Developers | Google](https://developers.google.com/web/tools/chrome-devtools/ "Chrome DevTools | Tools for Web Developers | Google").*|
-|*(9) This readme.md document is written using markdown language from the following link: [MARKDOWN GUIDE](https://www.markdownguide.org/basic-syntax/#links "Markdown Syntax").*|
-|*(10) I received inspiration for this project from the original website created by [TUI](https://www.tui.co.uk/ "Travel Packages Finder").*|
