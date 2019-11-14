@@ -55,6 +55,8 @@
 
 **(3) Local Tourist Attractions**
 
+**(4) Search for nearby places close to any city in the world**
+
 - The site users can then look at markers highlighting the search results on the map provided within this website.
 
 ## (e) Skeleton:
