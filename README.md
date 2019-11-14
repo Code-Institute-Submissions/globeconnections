@@ -176,6 +176,8 @@
 
 - *The search input was not displaying autocomplete content as it would be expected to. The JavaScript code was corrected to make this feature functional.*
 
+- *The image labels were found to be non-responsive and out-of-line. They were corrected using CSS.*
+
 - *The website works perfectly fine on all screen sizes and browsers tested with the tools listed above.*
 
 - *There were no bugs left unfixed.*
