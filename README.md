@@ -6,11 +6,11 @@
  **ABOUT GLOBECONNECTIONS:**
 
 ------------
-*Globeconnections is a digital platform created to allow travellers to choose from a variety of services offered to make their journey an unforgettable one.*
+- *Globeconnections is a digital platform created to allow travellers to choose from a variety of services offered to make their journey an unforgettable one.*
 
-*There are a variety of packages offered to suit the needs of different individuals from all walks of life.*
+- *There are a variety of packages offered to suit the needs of different individuals from all walks of life.*
 
-*The choice of services offered by Globeconnections ranges from cars to hotel rooms etc.*
+- *The choice of services offered by Globeconnections ranges from cars to hotel rooms etc.*
 
 ------------
 **Access to the website:**
