@@ -49,11 +49,11 @@
 
 - I have provided users with access to information about the following resources via the Google Maps APIs, close to their chosen destination:
 
-**1. Hotels**
+**(1) Hotels**
 
-**2. Restaurants**
+**(2) Restaurants**
 
-**3. Local Tourist Attractions**
+**(3) Local Tourist Attractions**
 
 - The site users can then look at markers highlighting the search results on the map provided within this website.
 
@@ -73,21 +73,21 @@
 
 **The active/functional features in this website are as follows:**
 
-*a. The Google Maps Search functionality, which allows site navigators to enter a destination of their choice to find information about accommodation, restaurants and local tourist attractions around those places.*
+*(1) The Google Maps Search functionality, which allows site navigators to enter a destination of their choice to find information about accommodation, restaurants and local tourist attractions around those places.*
 
-*b. Information about popular destinations chosen and visited by site users.*
+*(2) Information about popular destinations chosen and visited by site users.*
 
 ## Features Left to Implement (in the future):
 
 **In the future, I would like to implement the following features to my website:**
 
-*a. Login/Sign-up*
+*(1) Login/Sign-up*
 
-*b. Access to booking systems for flights, hotels, restaurants and local tourist attractions.*
+*(2) Access to booking systems for flights, hotels, restaurants and local tourist attractions.*
 
-*c. The choice of accessing and choosing from various different packages to provide an extensive shopping experience.*
+*(3) The choice of accessing and choosing from various different packages to provide an extensive shopping experience.*
 
-*d. Access to additional resources such as the latest news/updates from the travel industry, health, beauty and safety tips and other useful external resources.*
+*(4) Access to additional resources such as the latest news/updates from the travel industry, health, beauty and safety tips and other useful external resources.*
 
 ------------
 
@@ -95,17 +95,17 @@
 
 *The technologies used in the creation of this website are as follows:*
 
-1. [BOOTSTRAP](https://getbootstrap.com/ "Build responsive, mobile-first projects on the web with the world’s most popular front-end component library")
+(1) [BOOTSTRAP](https://getbootstrap.com/ "Build responsive, mobile-first projects on the web with the world’s most popular front-end component library")
 
-2. HTML
+(2) HTML
 
-3. CSS
+(3) CSS
 
-4. JAVASCRIPT
+(4) JAVASCRIPT
 
-5. [JQUERY](https://jquery.com/ "jQuery UI is a curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library. Whether you're building highly interactive web applications or you just need to add a date picker to a form control, jQuery UI is the perfect choice")
+(5) [JQUERY](https://jquery.com/ "jQuery UI is a curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library. Whether you're building highly interactive web applications or you just need to add a date picker to a form control, jQuery UI is the perfect choice")
 
-6. [GOOGLE MAPS](https://developers.google.com/maps/documentation "the Google Maps Platform for developers")
+(6) [GOOGLE MAPS](https://developers.google.com/maps/documentation "the Google Maps Platform for developers")
 
 ------------
 
