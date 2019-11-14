@@ -117,6 +117,8 @@
 
 (2) [RESPONSIVE-TEST-TOOL](http://responsivetesttool.com/ "testing the responsiveness of the website")
 
+(3) [WEBSITE PLANET](https://www.websiteplanet.com/ "Home For All of Your Website Solutions")
+
 **The screen sizes tested on devtools are as follows:**
 
 *(1) Galaxy S5*
