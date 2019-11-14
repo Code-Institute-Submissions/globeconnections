@@ -23,7 +23,7 @@ img {
 	text-decoration: none;
 }
 /* centering css for all elements */
-.headingcontainerforthewebsite,.headingcontainerformapsearchboxcard,#pac-input,.headingcontainerone,.headingcontainertwo,#footer,.page-footer,.footerwriting,.bg-light-package-deals,.package-deals-home-page,.bg-white-useful-information,.card-title-useful-information,.useful-information,.text-uppercase,.social-media-icons,.list-inline-social,.footer-copyright,.btn-outline-white,.footericon:hover,.fas {
+.headingcontainerforthewebsite,.headingcontainerformapsearchboxcard,#pac-input,.headingcontainerone,.headingcontainertwo,#footer,.page-footer,.footerwriting,.bg-light-package-deals,.package-deals-home-page,.bg-white-useful-information,.card-title-useful-information,.useful-information,.text-uppercase,.social-media-icons,.list-inline-social,.footer-copyright,.btn-outline-white,.footericon:hover,.fas,.list-group-social {
 	text-align: center;
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
@@ -258,11 +258,12 @@ table {
 	color: #3C011D;
 }
 /* social media icons class */
-.social-media-icons,.list-inline-social {
-	padding:1rem;
+.list-group-social {
+    padding: 1rem;
 	font-size:1rem;
 	font-weight: bold;
 	text-decoration:none;
+    margin: 0 auto;
 }
 /* footer */
 #footer {
