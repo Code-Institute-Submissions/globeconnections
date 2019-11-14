@@ -211,29 +211,8 @@ color: rgba(255,255,255,1.0);
 	padding: 1rem;
 	font-weight: bold;
 }
-/* body of image overlay card for useful information cards */
-.bg-white-useful-information,.card-title-useful-information {
-    padding: 1rem;
-	font-weight: bold;
-	margin-top: 10px;
-	margin-bottom: 10px;
-	background-color: rgba(236,226,208,0.7);
-	color:#210B2C;
-}
-/* body of image overlay card for useful information cards hover */
-.card-title-useful-information:hover {
-	background-color:#CC97C4;
-}
-/* body of image overlay card for package deals and useful information hover */
-.text-white:hover {
-	background-color: #572162;
-}
-/* container for cards about useful information */
-#useful-information {
-	padding: 2rem;
-	font-size:1rem;
-	font-weight: bold;
-	background-color: #210B2C;
+.bg-white-useful-information {
+    padding:1rem;
 }
 /* contact information for the company */
 .text-uppercase {
