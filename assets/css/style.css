@@ -231,7 +231,7 @@ table {
 	background-color: #572162;
 }
 /* container for cards about useful information */
-.useful-information {
+#useful-information {
 	padding: 2rem;
 	font-size:1rem;
 	font-weight: bold;
