@@ -199,10 +199,6 @@ table {
 background-color: rgba(255,102,102,1.0);
 color: rgba(255,255,255,1.0);
 }
-.card-header:hover {
-background-color:#572162;
-color: rgba(255,255,255,1.0);
-}
 /* image overlay card for package deals */
 .card-title-package-deals {
 	font-weight: bold;
