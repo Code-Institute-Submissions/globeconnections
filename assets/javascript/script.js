@@ -48,8 +48,7 @@ function initAutocomplete() {
         var bounds = new google.maps.LatLngBounds();
         var count = 0;
         places.forEach(function(place) {
-            if (!place.geometry) {
-                console.log("Returned place contains no geometry");
+            if (!place.geometry) {                
                 return;
             }
             var icon = {
