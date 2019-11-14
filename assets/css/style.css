@@ -44,7 +44,7 @@ img {
 }
 /* navbar toggler icon */
 .navbartogglericon {
-	color: white;
+	color: rgba(255,255,255,0.97);
 	border-color:#210B2C;
 	border-width:5px;
 	outline-color:#210B2C;
