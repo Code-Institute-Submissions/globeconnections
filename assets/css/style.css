@@ -280,9 +280,10 @@ table {
 	color: white;
 	border-radius: 5px;
 }
-/* footer copyright information */
+/* footer icons and copyright information */
 .footer-copyright,
-.footerwriting {
+.footerwriting,
+.fas {
 	padding:1rem;
 	font-size:1rem;
 	font-weight: bold;
@@ -296,10 +297,4 @@ table {
 	border-color: #210B2C;
 	border-width: 5px;
 	color: #210B2C;
-}
-/* fontawesome icons for the footer */
-.fas {
-	padding:1rem;
-	font-size:2rem;
-	border-radius: 5px;
 }
