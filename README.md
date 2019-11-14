@@ -1,7 +1,7 @@
- [========]
+------------
  # Name: GLOBECONNECTIONS
  ## (Interactive Front-end Development - Code Institute)
- [========]
+ ------------
 
  **ABOUT GLOBECONNECTIONS:**
 
