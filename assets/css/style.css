@@ -37,7 +37,7 @@ img {
 .bg-navbar {
 	font-size:1rem;
 	font-weight:bold;
-	color: white;
+    color:rgba(255,255,255,0.97);
 	background-color: rgba(81,70,158,0.8);
 	-webkit-box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
@@ -54,7 +54,7 @@ img {
 .navbar-toggler {
 	border-color:#433A82;
 	border-width:5px;
-	color:white;
+	color:rgba(255,255,255,0.97);
 	outline-color:#433A82;
 	outline-width:5px;
 }
@@ -63,7 +63,7 @@ img {
 	outline: black;
 	font-size:1rem;
 	font-weight:bold;
-	color:white;
+	color:rgba(255,255,255,0.97);
 	background-color:transparent;
 }
 /* navbar brand logo image */
@@ -80,14 +80,14 @@ img {
 .nav-item {
 	font-size:1rem;
 	font-weight: bold;
-	color:white;
+	color:rgba(255,255,255,0.97);
 	background-color: #AFAAD2;
 	margin-right:20px;
 }
 /* nav item hover */
 .nav-item:hover {
 	background-color:#CC97C4;
-	color:white;
+	color:rgba(255,255,255,0.97);
 }
 /* heading container for the website */
 .headingcontainerforthewebsite {
@@ -95,7 +95,7 @@ img {
 	background-color:#572162;
 	margin-top: 80px;
 	margin-bottom: 0px;
-	color: white;
+	color: rgba(255,255,255,0.97);
 	font-size:1rem;
 	font-weight: bold;
 }
@@ -104,7 +104,7 @@ img {
 	background-color:#FF6666;
 	margin-top: 10px;
 	margin-bottom: 10px;
-	color: white;
+	color: rgba(255,255,255,0.97);
 	font-size:1rem;
 	font-weight: bold;
 }
@@ -123,7 +123,7 @@ table {
 	-webkit-box-align: center;
 	-ms-flex-align: center;
 	align-items: center;
-	background: #fff;
+	background: rgba(255,255,255,0.97);
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
@@ -253,7 +253,7 @@ table {
 .text-uppercase {
 	padding:1rem;
 	font-size:1rem;
-	background-color: white;
+	background-color:rgba(255,255,255,0.97);
 	margin-top: 20px;
 	color: #3C011D;
 }
@@ -267,7 +267,7 @@ table {
 /* footer */
 #footer {
 	background-color: #FF6666;
-	color: white;
+	color:rgba(255,255,255,0.97);
 }
 /* social media icons */
 .fab {
@@ -277,17 +277,19 @@ table {
 	margin-left:10px;
 	margin-right: 10px;
 	text-decoration:none;
-	color: white;
+	color: rgba(255,255,255,0.97);
 	border-radius: 5px;
 }
 /* footer icons and copyright information */
 .footer-copyright,
-.footerwriting,
-.fas {
+.footericon {
 	padding:1rem;
 	font-size:1rem;
 	font-weight: bold;
-	color: white;
+	color:rgba(255,255,255,0.97);
+}
+.footericon:hover {
+    color:rgba(255,255,255,0.97);
 }
 /* sign-up button for newsletters */
 .btn-outline-white {
