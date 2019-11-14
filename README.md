@@ -1,13 +1,11 @@
 ------------
  # Name: GLOBECONNECTIONS
  ## (Interactive Front-end Development - Code Institute)
- ------------
 
 ------------
  **ABOUT GLOBECONNECTIONS:**
- ------------
 
- ------------
+------------
 *Globeconnections is a digital platform created to allow travellers to choose from a variety of services offered to make their journey an unforgettable one.*
 
 *There are a variety of packages offered to suit the needs of different individuals from all walks of life.*
@@ -15,16 +13,17 @@
 *The choice of services offered by Globeconnections ranges from cars to hotel rooms etc.*
 
 ------------
-
-------------
 **Access to the website:**
 
 **The website I created for this project can be accessed via the following link:**
 
 [GLOBECONNECTIONS](https://codingstudent2019.github.io/globeconnections/)
+
 ------------
 
 ![GLOBECONNECTIONS](/assets/images/multi-device-website-mock-up.png "Multi-device mock-up")
+
+------------
 
  # UX
 
@@ -66,6 +65,8 @@
 
 *The live website is slightly different from the one depicted in the wireframes because some features and styles were amended whilst enhancing the website.*
 
+------------
+
  # FEATURES:
 
 ### Existing Features:
@@ -88,6 +89,8 @@
 
 *d. Access to additional resources such as the latest news/updates from the travel industry, health, beauty and safety tips and other useful external resources.*
 
+------------
+
  # TECHNOLOGIES USED:
 
 *The technologies used in the creation of this website are as follows:*
@@ -103,6 +106,8 @@
 5. [JQUERY](https://jquery.com/ "jQuery UI is a curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library. Whether you're building highly interactive web applications or you just need to add a date picker to a form control, jQuery UI is the perfect choice")
 
 6. [GOOGLE MAPS](https://developers.google.com/maps/documentation "the Google Maps Platform for developers")
+
+------------
 
 # TESTING:
 
@@ -153,6 +158,8 @@
 
 *There were no bugs left unfixed.*
 
+------------
+
  # DEPLOYMENT:
 
 #### To deploy this page to GitHub Pages from your [GitHub repository](https://github.com/), the following steps were taken:
@@ -190,6 +197,8 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 ```
 
 *6. Press Enter. Your local clone will be created.*
+
+------------
 
  # CREDITS:
 
@@ -243,4 +252,8 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *(14) I received inspiration for this project from the original website created by [TUI](https://www.tui.co.uk/ "Travel Packages Finder").*
 
+------------
+
 #### This website is for educational purposes only.
+
+------------
