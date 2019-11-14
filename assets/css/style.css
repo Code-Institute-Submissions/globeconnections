@@ -216,7 +216,6 @@ table {
 }
 /* body of image overlay card for useful information cards */
 .bg-white-useful-information,.card-title-useful-information {
-    padding:10px;
 	font-weight: bold;
 	margin-top: 10px;
 	margin-bottom: 10px;
