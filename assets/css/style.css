@@ -136,16 +136,6 @@ table {
 	width: 100%;
 	z-index: 1;
 }
-#listing {
-	position: absolute;
-	width: 200px;
-	height: 470px;
-	overflow: auto;
-	left: 442px;
-	top: 0px;
-	cursor: pointer;
-	overflow-x: hidden;
-}
 #findhotels {
 	font-size: 14px;
 }
