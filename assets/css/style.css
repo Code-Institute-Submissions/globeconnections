@@ -109,7 +109,7 @@ img {
 	font-size:1rem;
 	font-weight: bold;
 }
-/* map */
+/* map and its components*/
 #map {
 	height: 800px;
 	width: 100%;
@@ -211,6 +211,7 @@ table {
 	padding: 1rem;
 	font-weight: bold;
 }
+/* useful information container */
 .bg-white-useful-information,
 .text-white {
 	padding:1rem;
@@ -272,3 +273,4 @@ table {
 	border-width: 5px;
 	color: #210B2C;
 }
+/* end */
