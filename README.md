@@ -1,9 +1,8 @@
 ------------
-------------
  # Name: GLOBECONNECTIONS
  ## (Interactive Front-end Development - Code Institute)
 ------------
-------------
+
  **ABOUT GLOBECONNECTIONS:**
 
 ------------
@@ -26,7 +25,7 @@
 
 ------------
 
- # UX
+ # 1) UX
 
  ### User stories:
 
@@ -68,7 +67,7 @@
 
 ------------
 
- # FEATURES:
+ # 2) FEATURES:
 
 ### Existing Features:
 
@@ -92,7 +91,7 @@
 
 ------------
 
- # TECHNOLOGIES USED:
+ # 3) TECHNOLOGIES USED:
 
 *The technologies used in the creation of this website are as follows:*
 
@@ -110,7 +109,7 @@
 
 ------------
 
-# TESTING:
+# 4) TESTING:
 
 **The website usability tests were thoroughly conducted using the following parameters and resources:**
 
@@ -161,7 +160,7 @@
 
 ------------
 
- # DEPLOYMENT:
+ # 5) DEPLOYMENT:
 
 #### To deploy this page to GitHub Pages from your [GitHub repository](https://github.com/), the following steps were taken:
 
@@ -201,7 +200,7 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 ------------
 
- # CREDITS:
+ # 6) CREDITS:
 
 ### Content:
 
