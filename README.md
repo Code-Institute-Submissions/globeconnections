@@ -113,7 +113,7 @@
 
 **The website usability tests were thoroughly conducted using the following parameters and resources:**
 
-[DEVTOOLS](https://developers.google.com/web/tools/chrome-devtools/ "testing the responsiveness of the website using an in-built tool designed by Google").
+[DEVTOOLS](https://developers.google.com/web/tools/chrome-devtools/ "testing the responsiveness of the website using an in-built tool designed by Google")
 
 **The screen sizes tested on devtools are as follows:**
 
