@@ -3,19 +3,26 @@
  ## (Interactive Front-end Development - Code Institute)
  ------------
 
+------------
  **ABOUT GLOBECONNECTIONS:**
+ ------------
 
+ ------------
 *Globeconnections is a digital platform created to allow travellers to choose from a variety of services offered to make their journey an unforgettable one.*
 
 *There are a variety of packages offered to suit the needs of different individuals from all walks of life.*
 
 *The choice of services offered by Globeconnections ranges from cars to hotel rooms etc.*
 
+------------
+
+------------
 **Access to the website:**
 
 **The website I created for this project can be accessed via the following link:**
 
 [GLOBECONNECTIONS](https://codingstudent2019.github.io/globeconnections/)
+------------
 
 ![GLOBECONNECTIONS](/assets/images/multi-device-website-mock-up.png "Multi-device mock-up")
 
