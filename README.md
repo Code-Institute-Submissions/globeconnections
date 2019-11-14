@@ -113,27 +113,25 @@
 
 **The website usability tests were thoroughly conducted using the following parameters and resources:**
 
+(1) [RESPONSIVE-TEST-TOOL](http://responsivetesttool.com/ "testing the responsiveness of the website")
 
-
-(2) [RESPONSIVE-TEST-TOOL](http://responsivetesttool.com/ "testing the responsiveness of the website")
-
-(3) [RESPONSIVE DESIGN CHECKER](https://responsivedesignchecker.com/ "RESPONSIVE WEB DESIGN CHECKER")
+(2) [RESPONSIVE DESIGN CHECKER](https://responsivedesignchecker.com/ "RESPONSIVE WEB DESIGN CHECKER")
 
 (3) [WEBSITE PLANET](https://www.websiteplanet.com/ "Home For All of Your Website Solutions")
 
-(3) [IS RESPONSIVE](http://www.isresponsive.com/ "Getting Started with a Responsive Web Design")
+(4) [IS RESPONSIVE](http://www.isresponsive.com/ "Getting Started with a Responsive Web Design")
 
-(3) [WEBSITE PLANET](https://www.websiteplanet.com/ "Home For All of Your Website Solutions")
+(5) [WEBSITE PLANET](https://www.websiteplanet.com/ "Home For All of Your Website Solutions")
 
-(3) [DESIGN MODO](https://designmodo.com/responsive-test/ "Test the responsiveness of your website on all devices")
+(6) [DESIGN MODO](https://designmodo.com/responsive-test/ "Test the responsiveness of your website on all devices")
 
-(3) [WEBSITE PLANET](https://www.websiteplanet.com/ "Home For All of Your Website Solutions")
+(7) [RESIZER](https://material.io/resources/resizer/ "An interactive viewer that helps designers test material design breakpoints across desktop, mobile, and tablet.")
 
-(3) [WEBSITE PLANET](https://www.websiteplanet.com/ "Home For All of Your Website Solutions")
+(8) [DEMONSTRATING RESPONSIVE DESIGN](http://www.jamus.co.uk/demos/rwd-demonstrations/ "Demonstrating Responsive Designby jamusreynolds")
 
-(3) [WEBSITE PLANET](https://www.websiteplanet.com/ "Home For All of Your Website Solutions")
+(9) [RESPONSINATOR](http://www.responsinator.com/?url=https%3A%2F%2Fcodingstudent2019.github.io%2Fglobeconnections%2F "Check website responsiveness")
 
-(1) [DEVTOOLS](https://developers.google.com/web/tools/chrome-devtools/ "testing the responsiveness of the website using an in-built tool designed by Google")
+(10) [DEVTOOLS](https://developers.google.com/web/tools/chrome-devtools/ "testing the responsiveness of the website using an in-built tool designed by Google")
 
 **The screen sizes tested on devtools are as follows:**
 
