@@ -60,7 +60,7 @@ img {
 }
 /* navbar brand */
 .navbar-brand {
-	outline: black;
+	outline: rgba(0,0,0,1.0);
 	font-size:1rem;
 	font-weight:bold;
 	color:rgba(255,255,255,0.97);
