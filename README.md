@@ -149,7 +149,13 @@
 
 (17) [W3C LINK CHECKER](https://validator.w3.org/checklink "Check links and anchors in Web pages or full Web sites.")
 
-(18) [DEVTOOLS](https://developers.google.com/web/tools/chrome-devtools/ "Check your website's broken links. Remove those toxic harmful broken links from your website and give a boost. Paste the URL to check for broken links!")
+(18) [DUPLI CHECKER](https://www.duplichecker.com/broken-link-checker.php "broken links checker.")
+
+(19) [W3C LINK CHECKER](https://validator.w3.org/checklink "Check links and anchors in Web pages or full Web sites.")
+
+(20) [HEXOMETER](https://hexometer.com/ "Website Hygiene Attendant.Type Your URL to Analyze Now!.")
+
+(21) [DEVTOOLS](https://developers.google.com/web/tools/chrome-devtools/ "Check your website's broken links. Remove those toxic harmful broken links from your website and give a boost. Paste the URL to check for broken links!")
 
 **The screen sizes tested on devtools are as follows:**
 
