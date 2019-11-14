@@ -49,7 +49,7 @@
 
 - I have provided users with access to information about the following resources via the Google Maps APIs, close to their chosen destination:
 
-**1. Hotels (Accommodation/lodging)**
+**1. Hotels**
 
 **2. Restaurants**
 
