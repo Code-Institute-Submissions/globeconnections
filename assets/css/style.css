@@ -211,7 +211,8 @@ table {
 	padding: 1rem;
 	font-weight: bold;
 }
-.bg-white-useful-information {
+.bg-white-useful-information,
+.text-white {
 	padding:1rem;
 }
 .bg-light-package-deals:hover {
