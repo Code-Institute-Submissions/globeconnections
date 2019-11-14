@@ -216,6 +216,8 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *(6) A lot of the code is written with information from [W3SCHOOLS](https://www.w3schools.com/ "THE WORLD'S LARGEST WEB DEVELOPER SITE").*
 
+*(7) The JavaScript code was written with information from the following example provided by the [GOOGLE MAPS PLATFORM](https://developers-dot-devsite-v2-prod.appspot.com/maps/documentation/javascript/examples/places-autocomplete-hotelsearch "Explore where real-world insights and immersive location experiences can take your business").*
+
 ### Media:
 
 *(1) The images used in this site were obtained from: [FREEPIK](https://www.freepik.com/home "illustrations, photos, icons, mockups, and presentations templates") and [NATIONAL GEOGRAPHIC](https://www.nationalgeographic.com/ "NATIONAL GEOGRAPHIC").*
@@ -252,9 +254,7 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *(9) This readme.md document is written using markdown language from the following link: [MARKDOWN GUIDE](https://www.markdownguide.org/basic-syntax/#links "Markdown Syntax").*
 
-*(10) The JavaScript code was written with information from the following example provided by the [GOOGLE MAPS PLATFORM](https://developers-dot-devsite-v2-prod.appspot.com/maps/documentation/javascript/examples/places-autocomplete-hotelsearch "Explore where real-world insights and immersive location experiences can take your business").*
-
-*(11) I received inspiration for this project from the original website created by [TUI](https://www.tui.co.uk/ "Travel Packages Finder").*
+*(10) I received inspiration for this project from the original website created by [TUI](https://www.tui.co.uk/ "Travel Packages Finder").*
 
 ------------
 
