@@ -281,7 +281,8 @@ table {
 	border-radius: 5px;
 }
 /* footer copyright information */
-.footer-copyright {
+.footer-copyright,
+.footerwriting {
 	padding:1rem;
 	font-size:1rem;
 	font-weight: bold;
