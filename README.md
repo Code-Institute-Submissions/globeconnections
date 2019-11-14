@@ -254,12 +254,17 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *(8) The site is thoroughly tested using [Chrome DevTools | Tools for Web Developers | Google](https://developers.google.com/web/tools/chrome-devtools/ "Chrome DevTools | Tools for Web Developers | Google").*
 
-|*(9) This readme.md document is written using markdown language from the following link: [MARKDOWN GUIDE](https://www.markdownguide.org/basic-syntax/#links "Markdown Syntax").*|
+*(9) This readme.md document is written using markdown language from the following link: [MARKDOWN GUIDE](https://www.markdownguide.org/basic-syntax/#links "Markdown Syntax").*
 
-|*(10) I received inspiration for this project from the original website created by [TUI](https://www.tui.co.uk/ "Travel Packages Finder").*|
+*(10) I received inspiration for this project from the original website created by [TUI](https://www.tui.co.uk/ "Travel Packages Finder").*
+
+------------
+
+#### This website is for educational purposes only.
 
 ------------
 
-|#### This website is for educational purposes only.|
 
-------------
+| ------------ |
+|#### This website is for educational purposes only. |
+|   |   |
