@@ -144,11 +144,11 @@
 
 **The other validators used throughout the website are as follows:**
 
-(1) [W3C-VALIDATION SERVICE](https://validator.w3.org/ "HTML validation service").
+(1) [W3C-VALIDATION SERVICE](https://validator.w3.org/ "HTML validation service")
 
-(2) [JIGSAW W3C VALIDATION SERVICE](https://jigsaw.w3.org/css-validator/ "CSS Validation Service").
+(2) [JIGSAW W3C VALIDATION SERVICE](https://jigsaw.w3.org/css-validator/ "CSS Validation Service")
 
-(3) [JAVASCRIPT VALIDATION SERVICE](https://www.jslint.com/ "JavaScript Validation Service").
+(3) [JAVASCRIPT VALIDATION SERVICE](https://www.jslint.com/ "JavaScript Validation Service")
 
 *During the testing session, no broken links were found.*
 
