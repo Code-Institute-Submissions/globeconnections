@@ -238,18 +238,25 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 ### Acknowledgements:
 
-|   |
-| ------------ |
-| *(1) The #1 free and open source CDN built to make life easier for developers. [CDNJS](https://cdnjs.com "a A content delivery network or content distribution network (CDN) library").*  |
-|*(2) Additional help was requested from [SLACK](https://slack.com/intl/en-gb/ "Free online chat forum to discuss programming queries with people working in the industry").*   |
-|*(3) Autoprefixer has been used to ascertain that the site displays correctly on all devices [AUTOPREFIXER](https://autoprefixer.github.io/ "Autoprefixer is a PostCSS plugin which parses your CSS and adds vendor prefixes").*   |
-|*(4) The wire-frames were created using Microsoft Powerpoint: [MICROSOFT POWERPOINT](https://www.microsoft.com/en-us/p/powerpoint/cfq7ttc0k7c6?activetab=pivot:overviewtab "Microsoft Powerpoint").*  |
-|*(5) A lot of my queries were answered using [STACK OVERFLOW](https://stackoverflow.com/ "the largest, most trusted online community for anyone that codes to learn, share their knowledge, and build their careers").*  |
-|*(6) Most of the code is verified using [MDN Web Docs - Mozilla](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Developer_Edition "Mozilla Developer Documents") as well as [Google Developers](https://developers.google.com/docs/api/ "Google Developers").*  |
-|*(7) A lot of inspiration for CSS styling comes from [MATERIAL DESIGN FOR BOOTSTRAP](https://mdbootstrap.com/ "The world's most popular framework for building responsive, mobile-first websites and apps").*   |
-|*(8) The site is thoroughly tested using [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/ "Chrome DevTools-Tools for Web Developers-Google").*  |
-|*(9) This readme.md document is written using markdown language from the following link: [MARKDOWN GUIDE](https://www.markdownguide.org/basic-syntax/#links "Markdown Syntax").*   |
-|*(10) I received inspiration for this project from the original website created by [TUI](https://www.tui.co.uk/ "Travel Packages Finder").*  |
+*(1) The #1 free and open source CDN built to make life easier for developers. [CDNJS](https://cdnjs.com "a A content delivery network or content distribution network (CDN) library").*
+
+*(2) Additional help was requested from [SLACK](https://slack.com/intl/en-gb/ "Free online chat forum to discuss programming queries with people working in the industry").*
+
+*(3) Autoprefixer has been used to ascertain that the site displays correctly on all devices [AUTOPREFIXER](https://autoprefixer.github.io/ "Autoprefixer is a PostCSS plugin which parses your CSS and adds vendor prefixes").*
+
+*(4) The wire-frames were created using Microsoft Powerpoint: [MICROSOFT POWERPOINT](https://www.microsoft.com/en-us/p/powerpoint/cfq7ttc0k7c6?activetab=pivot:overviewtab "Microsoft Powerpoint").*
+
+*(5) A lot of my queries were answered using [STACK OVERFLOW](https://stackoverflow.com/ "the largest, most trusted online community for anyone that codes to learn, share their knowledge, and build their careers").*
+
+*(6) Most of the code is verified using [MDN Web Docs - Mozilla](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Developer_Edition "Mozilla Developer Documents") as well as [Google Developers](https://developers.google.com/docs/api/ "Google Developers").*
+
+*(7) A lot of inspiration for CSS styling comes from [MATERIAL DESIGN FOR BOOTSTRAP](https://mdbootstrap.com/ "The world's most popular framework for building responsive, mobile-first websites and apps").*
+
+*(8) The site is thoroughly tested using [Chrome DevTools | Tools for Web Developers | Google](https://developers.google.com/web/tools/chrome-devtools/ "Chrome DevTools | Tools for Web Developers | Google").*
+
+*(9) This readme.md document is written using markdown language from the following link: [MARKDOWN GUIDE](https://www.markdownguide.org/basic-syntax/#links "Markdown Syntax").*
+
+*(10) I received inspiration for this project from the original website created by [TUI](https://www.tui.co.uk/ "Travel Packages Finder").*
 
 ------------
 
