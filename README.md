@@ -218,7 +218,7 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *(6) A lot of the code is written with information from [W3SCHOOLS](https://www.w3schools.com/ "THE WORLD'S LARGEST WEB DEVELOPER SITE").*
 
-*(7) The JavaScript code is written with information from the following example provided by the [GOOGLE MAPS PLATFORM](https://developers-dot-devsite-v2-prod.appspot.com/maps/documentation/javascript/examples/places-autocomplete-hotelsearch "Explore where real-world insights and immersive location experiences can take your business").*
+*(7) The JavaScript code is written with information from the example provided by the [GOOGLE MAPS PLATFORM](https://developers-dot-devsite-v2-prod.appspot.com/maps/documentation/javascript/examples/places-autocomplete-hotelsearch "Explore where real-world insights and immersive location experiences can take your business").*
 
 ### Media:
 
