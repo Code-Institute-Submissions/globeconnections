@@ -31,19 +31,19 @@
 
 - The reason behind creating this website is to allow site navigators to choose a package for their next holiday which is best suited to their individual requirements.
 
-## Scope:
+## (a) Scope:
 
 - We understand that every traveller is different from another and will have several different requirements to fulfil throughout their journey to ensure that they have the best holiday possible.
 
-## Surface:
+## (b) Surface:
 
 - I have created this website using the latest color schemes, keeping it simple yet in line with latest designing trends.
 
-## Strategy:
+## (c) Strategy:
 
 - My aim was to make the website easy to navigate, self-explanatory, visually appealing and provide a smooth shopping experience to users from all walks of life.
 
-## Structure:
+## (d) Structure:
 
 - The search functions provided in my website allow the site navigator to gain access to various services provided by the company to meet their individual requirements.
 
@@ -57,7 +57,7 @@
 
 - The site users can then look at markers highlighting the search results on the map provided within this website.
 
-## Skeleton:
+## (e) Skeleton:
 
 - [LARGE-SCREENS-WIREFRAMES](/assets/wireframes/large-screens-wireframe-GLOBECONNECTIONS.pdf "wireframe for large-sized screens")
 - [MEDIUM-SCREENS-WIREFRAMES](/assets/wireframes/medium-screens-wireframe-GLOBECONNECTIONS.pdf "wireframe for medium-sized screens")
