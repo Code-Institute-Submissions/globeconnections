@@ -70,6 +70,7 @@ img {
 #brandlogoimage {
 	width: 40px;
 	height:40px;
+    margin-right:1rem;
 }
 /* navbar brand hover */
 .navbar-brand:hover {
