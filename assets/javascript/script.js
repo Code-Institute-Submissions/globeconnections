@@ -1,5 +1,5 @@
 // add map and infowindow information
-var map, places, infoWindow;
+let map, places, infoWindow;
 var hostnameRegexp = new RegExp('^https?://.+?/');
 
 function initAutocomplete() {
