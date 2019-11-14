@@ -133,7 +133,23 @@
 
 (9) [RESPONSINATOR](http://www.responsinator.com/?url=https%3A%2F%2Fcodingstudent2019.github.io%2Fglobeconnections%2F "Check website responsiveness")
 
-(10) [DEVTOOLS](https://developers.google.com/web/tools/chrome-devtools/ "testing the responsiveness of the website using an in-built tool designed by Google")
+(9) [DR. LINK CHECK](https://www.drlinkcheck.com/ "Broken links are bad for business.Let Dr. Link Check track them down for you.")
+
+(9) [ATOMSEO](https://error404.atomseo.com/ "Сheck your website for broken links with Atomseo.")
+
+(9) [SMALL SEO TOOLS](https://smallseotools.com/websites-broken-link-checker/ "Сheck your website for broken links with Atomseo.")
+
+(9) [SITE24X7](https://www.site24x7.com/link-checker.html "Monitoring Availability and End User Experience Made Simple.")
+
+(9) [POWER-MAPPER](https://www.powermapper.com/ "One click website tools.")
+
+(9) [DEAD LINK CHECKER](https://www.deadlinkchecker.com/ "Free Broken Link Checker.")
+
+(9) [POWER-MAPPER](https://www.powermapper.com/ "One click website tools.")
+
+(9) [W3C LINK CHECKER](https://validator.w3.org/checklink "Check links and anchors in Web pages or full Web sites.")
+
+(10) [DEVTOOLS](https://developers.google.com/web/tools/chrome-devtools/ "Check your website's broken links. Remove those toxic harmful broken links from your website and give a boost. Paste the URL to check for broken links!")
 
 **The screen sizes tested on devtools are as follows:**
 
