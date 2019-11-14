@@ -196,8 +196,8 @@ table {
 }
 /* card titles for all cards about travel deals */
 .card-header {
-background-color: rgba(255,102,102,1.0);
-color: rgba(255,255,255,1.0);
+	background-color: rgba(255,102,102,1.0);
+	color: rgba(255,255,255,1.0);
 }
 /* body of image overlay card for package deals */
 .bg-light-package-deals {
@@ -212,13 +212,13 @@ color: rgba(255,255,255,1.0);
 	font-weight: bold;
 }
 .bg-white-useful-information {
-    padding:1rem;
+	padding:1rem;
 }
 .bg-light-package-deals:hover {
-background-color:#572162;
+	background-color:#572162;
 }
 .bg-white-useful-information:hover {
-background-color:#CC97C4;
+	background-color:#CC97C4;
 }
 /* contact information for the company */
 .text-uppercase {
