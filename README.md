@@ -69,7 +69,7 @@
 
  # 2) FEATURES:
 
-### Existing Features:
+- ### Existing Features:
 
 **The active/functional features in this website are as follows:**
 
@@ -77,7 +77,7 @@
 
 *b. Information about popular destinations chosen and visited by site users.*
 
-### Features Left to Implement (in the future):
+- ### Features Left to Implement (in the future):
 
 **In the future, I would like to implement the following features to my website:**
 
