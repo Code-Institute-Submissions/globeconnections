@@ -282,6 +282,6 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 ------------
 
-#### This website is for educational purposes only.
+#### This website has been created for educational purposes only.
 
 ------------
