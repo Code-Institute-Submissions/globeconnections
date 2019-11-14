@@ -150,15 +150,15 @@
 
 (3) [JAVASCRIPT VALIDATION SERVICE](https://www.jslint.com/ "JavaScript Validation Service")
 
-*During the testing session, the map was not displaying correctly. It was center-aligned using CSS.*
+- *During the testing session, the map was not displaying correctly. It was center-aligned using CSS.*
 
-*The info-windows within the map were not popping-up as they are expected to on regular maps. The HTML, CSS and JavaScript code was amended to rectify this error.*
+- *The info-windows within the map were not popping-up as they are expected to on regular maps. The HTML, CSS and JavaScript code was amended to rectify this error.*
 
-*The search input was not displaying autocomplete content as it would be expected to. The JavaScript code was corrected to make this feature functional.*
+- *The search input was not displaying autocomplete content as it would be expected to. The JavaScript code was corrected to make this feature functional.*
 
-*The website works perfectly fine on all screen sizes and browsers tested with the tools listed above.*
+- *The website works perfectly fine on all screen sizes and browsers tested with the tools listed above.*
 
-*There were no bugs left unfixed.*
+- *There were no bugs left unfixed.*
 
 ------------
 
