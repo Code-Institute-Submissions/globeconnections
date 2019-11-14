@@ -70,7 +70,7 @@ img {
 #brandlogoimage {
 	width: 40px;
 	height:40px;
-    margin-right:1rem;
+	margin-right:1rem;
 }
 /* navbar brand hover */
 .navbar-brand:hover {
@@ -113,11 +113,11 @@ img {
 #map {
 	height: 800px;
 	width: 100%;
-    margin: 0 auto;
+	margin: 0 auto;
 }
 .mapcontainercard {
 	background-color:#572162;
-    margin: 0 auto;
+	margin: 0 auto;
 }
 table {
 	font-size: 12px;
@@ -152,7 +152,7 @@ table {
 }
 #pac-input {
 	max-width: 100%;
-    height: auto;
+	height: auto;
 }
 #country {
 	width: 100%;
@@ -196,8 +196,6 @@ table {
 }
 /* image overlay card for package deals */
 .card-title-package-deals {
-	padding: 10px;
-	font-size:1rem;
 	font-weight: bold;
 	color: rgba(255,255,255,1.0);
 	margin-top: 10px;
@@ -207,21 +205,17 @@ table {
 /* body of image overlay card for package deals */
 .bg-light-package-deals {
 	padding: 2rem;
-	font-size:1rem;
 	font-weight: bold;
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
 /* package deals card container */
 .package-deals-home-page {
-	padding: 2rem;
-	font-size:1rem;
+	padding: 1rem;
 	font-weight: bold;
 }
 /* body of image overlay card for useful information cards */
 .bg-white-useful-information,.card-title-useful-information {
-	padding:1rem;
-	font-size:1rem;
 	font-weight: bold;
 	margin-top: 10px;
 	margin-bottom: 10px;
