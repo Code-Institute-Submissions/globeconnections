@@ -222,6 +222,16 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *(2) The color scheme for this website is derived from: [COOLORS](https://coolors.co/ "The super fast color schemes generator! Create, save and share perfect palettes in seconds!").*
 
+*(3) The favicon was generated with the following website: [FAVICON](https://favicon.io/favicon-generator/ "Favicon Generator").*
+
+*(4) All the images were compressed with the following website: [TINYJPG](https://tinyjpg.com/ "Smart JPEG and PNG compression").*
+
+*(5) The icons were added from the following website: [FONTAWESOME](https://fontawesome.com/ "Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit.").*
+
+*(6) Mycolor.space is used to add gradients to the website: [MYCOLOR.SPACE](https://mycolor.space/?hex=#845EC2&sub=1 "Gradient Generator").*
+
+*(7) The multi-device mock-up on this document is created using [MULTI-DEVICE MOCK-UP](https://techsini.com/multi-mockup/ "Multi-device website mock-up generator").*
+
 ### Acknowledgements:
 
 *(1) The #1 free and open source CDN built to make life easier for developers. [CDNJS](https://cdnjs.com "a A content delivery network or content distribution network (CDN) library").*
@@ -230,27 +240,21 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *(3) Autoprefixer has been used to ascertain that the site displays correctly on all devices [AUTOPREFIXER](https://autoprefixer.github.io/ "Autoprefixer is a PostCSS plugin which parses your CSS and adds vendor prefixes").*
 
-*(4) Mycolor.space is used to add gradients to the website: [MYCOLOR.SPACE](https://mycolor.space/?hex=#845EC2&sub=1 "Gradient Generator").*
+*(4) The wire-frames were created using Microsoft Powerpoint: [MICROSOFT POWERPOINT](https://www.microsoft.com/en-us/p/powerpoint/cfq7ttc0k7c6?activetab=pivot:overviewtab "Microsoft Powerpoint").*
 
-*(5) The wire-frames were created using Microsoft Powerpoint: [MICROSOFT POWERPOINT](https://www.microsoft.com/en-us/p/powerpoint/cfq7ttc0k7c6?activetab=pivot:overviewtab "Microsoft Powerpoint").*
+*(5) A lot of my queries were answered using [STACK OVERFLOW](https://stackoverflow.com/ "the largest, most trusted online community for anyone that codes to learn, share their knowledge, and build their careers").*
 
-*(6) A lot of my queries were answered using [STACK OVERFLOW](https://stackoverflow.com/ "the largest, most trusted online community for anyone that codes to learn, share their knowledge, and build their careers").*
+*(6) Most of the code is verified using [MDN Web Docs - Mozilla](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Developer_Edition "Mozilla Developer Documents") as well as [Google Developers](https://developers.google.com/docs/api/ "Google Developers").*
 
-*(7) Most of the code is verified using [MDN Web Docs - Mozilla](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Developer_Edition "Mozilla Developer Documents") as well as [Google Developers](https://developers.google.com/docs/api/ "Google Developers").*
+*(7) A lot of inspiration for CSS styling comes from [MATERIAL DESIGN FOR BOOTSTRAP](https://mdbootstrap.com/ "The world's most popular framework for building responsive, mobile-first websites and apps").*
 
-*(8) A lot of inspiration for CSS styling comes from [MATERIAL DESIGN FOR BOOTSTRAP](https://mdbootstrap.com/ "The world's most popular framework for building responsive, mobile-first websites and apps").*
+*(8) The site is thoroughly tested using [Chrome DevTools | Tools for Web Developers | Google](https://developers.google.com/web/tools/chrome-devtools/ "Chrome DevTools | Tools for Web Developers | Google").*
 
-*(9) The multi-device mock-up on this document is created using [MULTI-DEVICE MOCK-UP](https://techsini.com/multi-mockup/ "Multi-device website mock-up generator").*
+*(9) This readme.md document is written using markdown language from the following link: [MARKDOWN GUIDE](https://www.markdownguide.org/basic-syntax/#links "Markdown Syntax").*
 
-*(10) The site is thoroughly tested using [Chrome DevTools | Tools for Web Developers | Google](https://developers.google.com/web/tools/chrome-devtools/ "Chrome DevTools | Tools for Web Developers | Google").*
+*(10) The JavaScript code was written with information from the following example provided by the [GOOGLE MAPS PLATFORM](https://developers-dot-devsite-v2-prod.appspot.com/maps/documentation/javascript/examples/places-autocomplete-hotelsearch "Explore where real-world insights and immersive location experiences can take your business").*
 
-*(11) This readme.md document is written using markdown language from the following link: [MARKDOWN GUIDE](https://www.markdownguide.org/basic-syntax/#links "Markdown Syntax").*
-
-*(12) The favicon was generated with the following website: [FAVICON](https://favicon.io/favicon-generator/ "Favicon Generator").*
-
-*(13) All the images were compressed with the following website: [TINYJPG](https://tinyjpg.com/ "Smart JPEG and PNG compression").*
-
-*(14) I received inspiration for this project from the original website created by [TUI](https://www.tui.co.uk/ "Travel Packages Finder").*
+*(11) I received inspiration for this project from the original website created by [TUI](https://www.tui.co.uk/ "Travel Packages Finder").*
 
 ------------
 
