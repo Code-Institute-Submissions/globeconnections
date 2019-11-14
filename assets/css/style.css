@@ -23,7 +23,7 @@ img {
 	text-decoration: none;
 }
 /* centering css for all elements */
-.headingcontainerforthewebsite,.headingcontainerformapsearchboxcard,#pac-input,.headingcontainerone,.headingcontainertwo,#footer,.page-footer,.footerwriting,.bg-light-package-deals,.package-deals-home-page,.bg-white-useful-information,.card-title-useful-information,.useful-information,.text-uppercase,.social-media-icons,.list-inline-social,.footer-copyright,.btn-outline-white,.footericon:hover,.fas,.list-group-social {
+.headingcontainerforthewebsite,.headingcontainerformapsearchboxcard,#pac-input,.headingcontainerone,.headingcontainertwo,#footer,.page-footer,.footerwriting,.bg-light-package-deals,.package-deals-home-page,.bg-white-useful-information,.card-title-useful-information,.useful-information,.text-uppercase,.social-media-icons,.list-inline-social,.footer-copyright,.btn-outline-white,.footericon:hover,.fas,.list-group-social,.mapcontainercard,#map {
 	text-align: center;
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
@@ -113,9 +113,11 @@ img {
 #map {
 	height: 800px;
 	width: 100%;
+    margin: 0 auto;
 }
 .mapcontainercard {
 	background-color:#572162;
+    margin: 0 auto;
 }
 table {
 	font-size: 12px;
