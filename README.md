@@ -166,19 +166,19 @@
 
 #### To deploy this page to GitHub Pages from your [GitHub repository](https://github.com/), the following steps were taken:
 
-*1. Log into GitHub.*
+*(1) Log into GitHub.*
 
-*2. From the list of repositories on the screen, select **YOURUSERNAME/globeconnections**.*
+*(2) From the list of repositories on the screen, select **YOURUSERNAME/globeconnections**.*
 
-*3. From the menu items near the top of the page, select **Settings**.*
+*(3) From the menu items near the top of the page, select **Settings**.*
 
-*4. Scroll down to the **GitHub Pages** section.*
+*(4) Scroll down to the **GitHub Pages** section.*
 
-*5. Under **Source** click the drop-down menu labelled **None** and select **Master Branch**.*
+*(5) Under **Source** click the drop-down menu labelled **None** and select **Master Branch**.*
 
-*6. On selecting Master Branch the page is automatically refreshed, the website is now deployed.*
+*(6) On selecting Master Branch the page is automatically refreshed, the website is now deployed.*
 
-*7. Scroll back down to the **GitHub Pages** section to retrieve the link to the deployed website.*
+*(7) Scroll back down to the **GitHub Pages** section to retrieve the link to the deployed website.*
 
 ### How to run this project locally:
 
