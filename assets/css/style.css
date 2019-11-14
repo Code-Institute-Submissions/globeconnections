@@ -23,7 +23,7 @@ img {
 	text-decoration: none;
 }
 /* centering css for all elements */
-.headingcontainerforthewebsite,.headingcontainerformapsearchboxcard,#pac-input,.headingcontainerone,.headingcontainertwo,#footer,.page-footer,.footerwriting,.bg-light-package-deals,.package-deals-home-page,.bg-white-useful-information,.card-title-useful-information,.useful-information,.text-uppercase,.social-media-icons,.list-inline-social,.footer-copyright,.btn-outline-white,.footericon:hover,.fas,.list-group-social,.mapcontainercard,#map {
+.headingcontainerforthewebsite,.headingcontainerformapsearchboxcard,#pac-input,.headingcontainerone,.headingcontainertwo,#footer,.page-footer,.footerwriting,.bg-light-package-deals,.package-deals-home-page,.bg-white-useful-information,.card-title-useful-information,.useful-information,.text-uppercase,.social-media-icons,.list-inline-social,.footer-copyright,.btn-outline-white,.footericon:hover,.fas,.list-group-social,.mapcontainercard,#map,.card-header {
 	text-align: center;
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
@@ -193,6 +193,15 @@ table {
 	margin-bottom: 70px;
 	font-size:1rem;
 	font-weight: bold;
+}
+/* card titles for all cards about travel deals */
+.card-header {
+background-color: rgba(255,102,102,1.0);
+color: rgba(255,255,255,1.0);
+}
+.card-header:hover {
+background-color:#572162;
+color: rgba(255,255,255,1.0);
 }
 /* image overlay card for package deals */
 .card-title-package-deals {
