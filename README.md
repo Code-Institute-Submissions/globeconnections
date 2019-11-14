@@ -77,7 +77,7 @@
 
 *(1) The Google Maps Search functionality, which allows site navigators to enter a destination of their choice to find information about accommodation, restaurants and local tourist attractions around those places.*
 
-*(2) Information about popular destinations chosen and visited by site users.*
+*(2) Information about popular destinations chosen by site users.*
 
 ## Features Left to Implement (in the future):
 
