@@ -1,5 +1,5 @@
 ------------
- # Name: GLOBECONNECTIONS
+ # GLOBECONNECTIONS
  ## (Interactive Front-end Development - Code Institute)
 ------------
 
