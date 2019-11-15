@@ -98,7 +98,7 @@
 
  # 3) TECHNOLOGIES USED:
 
-*The technologies used in the creation of this website are as follows:*
+- *The technologies used in the creation of this website are as follows:*
 
 (1) [BOOTSTRAP](https://getbootstrap.com/ "Build responsive, mobile-first projects on the web with the world’s most popular front-end component library")
 
@@ -117,7 +117,7 @@
 
 # 4) TESTING:
 
-**The website usability tests were thoroughly conducted using the following parameters and resources:**
+- **The website usability tests were thoroughly conducted using the following parameters and resources:**
 
 (1) [RESPONSIVE-TEST-TOOL](http://responsivetesttool.com/ "testing the responsiveness of the website")
 
