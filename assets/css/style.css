@@ -147,7 +147,7 @@ tr,td {
 #listing {
 	position: absolute;
 	width: 200px;
-	height: 450px;
+	height: auto;
 	overflow: auto;
 	left: 442px;
 	top: 0px;
@@ -186,6 +186,7 @@ tr,td {
 #resultsTable {
 	border-collapse: collapse;
 	width: 240px;
+    height: auto;
 }
 #rating {
 	font-size: 13px;
