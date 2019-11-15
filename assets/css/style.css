@@ -195,6 +195,10 @@ table {
 	background-color: rgba(255,102,102,1.0);
 	color: rgba(255,255,255,1.0);
 }
+.usefulone {
+    background-color: #210B2C;
+	color: rgba(255,255,255,1.0);
+}
 /* body of image overlay card for package deals */
 .bg-light-package-deals {
 	padding: 1rem;
