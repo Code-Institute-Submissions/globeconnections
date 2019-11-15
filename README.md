@@ -254,7 +254,7 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
  # 6) CREDITS:
 
-### Content:
+- ### Content:
 
 *(1) The content for this website was taken from the original site created by TUI (at the following web address): [TUI](https://www.tui.co.uk/ "THE WORLD’S NO. 1 TOURISM COMPANY").*
 
@@ -270,7 +270,7 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *(7) The JavaScript code is written with information from the example provided by the [GOOGLE MAPS PLATFORM](https://developers-dot-devsite-v2-prod.appspot.com/maps/documentation/javascript/examples/places-autocomplete-hotelsearch "Explore where real-world insights and immersive location experiences can take your business").*
 
-### Media:
+- ### Media:
 
 *(1) The images used in this site were obtained from: [FREEPIK](https://www.freepik.com/home "illustrations, photos, icons, mockups, and presentations templates") and [NATIONAL GEOGRAPHIC](https://www.nationalgeographic.com/ "NATIONAL GEOGRAPHIC").*
 
@@ -286,7 +286,7 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *(7) The multi-device mock-up on this document is created using [MULTI-DEVICE MOCK-UP](https://techsini.com/multi-mockup/ "Multi-device website mock-up generator").*
 
-### Acknowledgements:
+- ### Acknowledgements:
 
 *(1) The #1 free and open source CDN built to make life easier for developers. [CDNJS](https://cdnjs.com "a A content delivery network or content distribution network (CDN) library").*
 
