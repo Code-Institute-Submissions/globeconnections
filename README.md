@@ -66,7 +66,7 @@
 - [MEDIUM-SCREENS-WIRE-FRAMES](/assets/wireframes/medium-screens-wireframe-GLOBECONNECTIONS.pdf "wireframe for medium-sized screens")
 - [SMALL-SCREENS-WIRE-FRAMES](/assets/wireframes/small-screens-wireframe-GLOBECONNECTIONS.pdf "wireframe for small-sized screens")
 
-*The live website is slightly different from the one depicted in the wire-frames because some features and styles were amended whilst enhancing the website.*
+- *The live website is slightly different from the one depicted in the wire-frames because some features and styles were amended whilst enhancing the website.*
 
 ------------
 ------------
