@@ -123,7 +123,7 @@
 
 (2) [RESPONSIVE DESIGN CHECKER](https://responsivedesignchecker.com/ "RESPONSIVE WEB DESIGN CHECKER")
 
-(3) [WEBSITE PLANET](https://www.websiteplanet.com/ "Home For All of Your Website Solutions")
+(3) [WEBSITE PLANET](https://www.websiteplanet.com/webtools/responsive-checker/ "Home For All of Your Website Solutions")
 
 (4) [IS RESPONSIVE](http://www.isresponsive.com/ "Getting Started with a Responsive Web Design")
 
