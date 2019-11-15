@@ -149,17 +149,15 @@
 
 (15) [DEAD LINK CHECKER](https://www.deadlinkchecker.com/ "Free Broken Link Checker.")
 
-(16) [POWER-MAPPER](https://www.powermapper.com/ "One click website tools.")
+(16) [W3C LINK CHECKER](https://validator.w3.org/checklink "Check links and anchors in Web pages or full Web sites.")
 
-(17) [W3C LINK CHECKER](https://validator.w3.org/checklink "Check links and anchors in Web pages or full Web sites.")
+(17) [DUPLI CHECKER](https://www.duplichecker.com/broken-link-checker.php "broken links checker.")
 
-(18) [DUPLI CHECKER](https://www.duplichecker.com/broken-link-checker.php "broken links checker.")
+(18) [W3C LINK CHECKER](https://validator.w3.org/checklink "Check links and anchors in Web pages or full Web sites.")
 
-(19) [W3C LINK CHECKER](https://validator.w3.org/checklink "Check links and anchors in Web pages or full Web sites.")
+(19) [HEXOMETER](https://hexometer.com/ "Website Hygiene Attendant.Type Your URL to Analyze Now!.")
 
-(20) [HEXOMETER](https://hexometer.com/ "Website Hygiene Attendant.Type Your URL to Analyze Now!.")
-
-(21) [DEVTOOLS](https://developers.google.com/web/tools/chrome-devtools/ "Check your website's broken links. Remove those toxic harmful broken links from your website and give a boost. Paste the URL to check for broken links!")
+(20) [DEVTOOLS](https://developers.google.com/web/tools/chrome-devtools/ "Check your website's broken links. Remove those toxic harmful broken links from your website and give a boost. Paste the URL to check for broken links!")
 
 - **The screen sizes tested on devtools are as follows:**
 
