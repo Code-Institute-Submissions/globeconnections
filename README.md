@@ -17,7 +17,7 @@
 
 - **The website I created for this project can be accessed via the following link:**
 
-[GLOBECONNECTIONS](https://codingstudent2019.github.io/globeconnections/)
+**[GLOBECONNECTIONS](https://codingstudent2019.github.io/globeconnections/)**
 
 ------------
 
