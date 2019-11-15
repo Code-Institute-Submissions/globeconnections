@@ -298,7 +298,7 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *(5) A lot of my queries were answered using [STACK OVERFLOW](https://stackoverflow.com/ "the largest, most trusted online community for anyone that codes to learn, share their knowledge, and build their careers").*
 
-*(6) Most of the code is verified using [MDN WEB DOCS - MOZILLA](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Developer_Edition "Mozilla Developer Documents") as well as [Google Developers](https://developers.google.com/docs/api/ "Google Developers").*
+*(6) Most of the code is verified using [MDN WEB DOCS - MOZILLA](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Developer_Edition "Mozilla Developer Documents") as well as [GOOGLE DEVELOPERS](https://developers.google.com/docs/api/ "Google Developers").*
 
 *(7) A lot of inspiration for CSS styling comes from [MATERIAL DESIGN FOR BOOTSTRAP](https://mdbootstrap.com/ "The world's most popular framework for building responsive, mobile-first websites and apps").*
 
