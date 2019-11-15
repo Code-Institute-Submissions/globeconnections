@@ -262,7 +262,7 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *(3) The tool utilized to organize the CSS file is [CSS-CLEANER](https://html-cleaner.com/css/ "Free online css cleaner and beautifier").*
 
-*(4) The tool utilized to validate JavaScript is [ESPRIMA](https://esprima.org/demo/validate.html "Syntax Validator checks for mistakes and errors in Javascript codes").*
+*(4) The toolS utilized to validate JavaScript are [ESPRIMA](https://esprima.org/demo/validate.html "Syntax Validator checks for mistakes and errors in Javascript codes"), [JSHINT](https://jshint.com/ "JSHint, A Static Code Analysis Tool for JavaScript") and [BEAUTIFYTOOLS](http://beautifytools.com/javascript-validator.php "Use Online Javascript Validator").*
 
 *(5) The borders and shadows in the website are created with the following tool: [BORDER-SHADOW GENERATOR](https://html-css-js.com/css/generator/box-shadow/ "Free online resource to generate creative borders and shadows within seconds").*
 
