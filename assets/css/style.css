@@ -141,27 +141,21 @@ tr,td {
 	left: 0;
 	position: absolute;
 	top: 0;
-	width: 440px;
+	width: auto;
 	z-index: 1;
 }
 #listing {
 	position: absolute;
-	width: 200px;
+	width: auto;
 	height: auto;
 	overflow: auto;
-	left: 442px;
+	left: 0;
 	top: 0px;
 	cursor: pointer;
 	overflow-x: hidden;
 }
 #findhotels {
 	font-size: 14px;
-}
-#locationField {
-	-webkit-box-flex: 1 1 190px;
-	-ms-flex: 1 1 190px;
-	flex: 1 1 190px;
-	margin: 0 8px;
 }
 #controls {
 	-webkit-box-flex: 1 1 140px;
@@ -173,27 +167,6 @@ tr,td {
 }
 #country {
 	width: 100%;
-}
-.placeIcon {
-	width: 20px;
-	height: 34px;
-	margin: 4px;
-}
-.hotelIcon {
-	width: 24px;
-	height: 24px;
-}
-#resultsTable {
-	border-collapse: collapse;
-	width: 240px;
-    height: auto;
-}
-#rating {
-	font-size: 13px;
-	font-family: Arial Unicode MS;
-}
-.iw_table_row {
-	height: 18px;
 }
 /* container for headings for package deals and useful information */
 .headingcontainerone,.headingcontainertwo {
