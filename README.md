@@ -48,7 +48,7 @@
 
 - The search functions provided in my website allow the site navigator to gain access to various services provided by the company to meet their individual requirements.
 
-- I have provided users with access to information about the following resources via the Google Maps APIs, close to their chosen destination:
+- I have provided users with access to information about the following resources via the Google Maps APIs, closer to their chosen destination:
 
 **(1) Hotels**
 
@@ -56,7 +56,7 @@
 
 **(3) Local Tourist Attractions**
 
-**(4) Search for nearby places close to any city in the world**
+**(4) Search for nearby places around any city in the world**
 
 - The site users can then look at markers highlighting the search results on the map provided within this website.
 
