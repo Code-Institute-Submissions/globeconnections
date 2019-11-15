@@ -246,6 +246,11 @@ table {
 	color: rgba(255,255,255,0.97);
 	background-color: transparent;
 }
+.footersignup,
+.footersocialicons,
+.aboutus {
+    padding: 3rem;
+}
 /* social media icons */
 .fab {
 	padding: 10px;
