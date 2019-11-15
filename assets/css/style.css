@@ -150,10 +150,6 @@ table {
 	-ms-flex: 1 1 140px;
 	flex: 1 1 140px;
 }
-#pac-input {
-	max-width: 100%;
-	height: auto;
-}
 #country {
 	width: 100%;
 }
