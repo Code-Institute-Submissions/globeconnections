@@ -196,7 +196,7 @@ table {
 	color: rgba(255,255,255,1.0);
 }
 .usefulone {
-    background-color: #210B2C;
+	background-color: #210B2C;
 	color: rgba(255,255,255,1.0);
 }
 /* body of image overlay card for package deals */
@@ -238,16 +238,12 @@ table {
 	margin: 0 auto;
 }
 /* footer */
-#footer,
-.list-group,
-.list-group-item,
-.list-group-item-action {
+#footer,.list-group,.list-group-item,.list-group-item-action {
 	background-color: #FF6666;
-    color: rgba(255,255,255,0.97);
+	color: rgba(255,255,255,0.97);
 }
-.list-group-item:hover,
-.list-group-item-action:hover {
-      color: #FF6666;
+.list-group-item:hover,.list-group-item-action:hover {
+	color: #FF6666;
 	background-color: rgba(255,255,255,0.97);
 }
 /* social media icons */
