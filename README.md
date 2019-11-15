@@ -214,7 +214,6 @@
  # 5) DEPLOYMENT:
 
 ### To deploy this page to GitHub Pages from your [GitHub repository](https://github.com/), the following steps were taken:
-***************
 
 *(1) Log into GitHub.*
 
@@ -233,7 +232,6 @@
 ## How to run this project locally:
 
 ### To clone this project from GitHub:
-***************
 
 *(1) At the top of this repository, click the green button **Clone or download**.*
 
