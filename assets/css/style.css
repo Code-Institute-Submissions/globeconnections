@@ -121,6 +121,8 @@ img {
 }
 table {
 	font-size: 12px;
+    background-color:#FFD5D5;
+    color: rgba(0,0,0,1.0);
 }
 .hotel-search {
 	-webkit-box-align: center;
