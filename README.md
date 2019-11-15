@@ -208,7 +208,7 @@
 
 - *There were no bugs left unfixed.*
 
-------------
+*------------
 ------------
 
  # 5) DEPLOYMENT:
