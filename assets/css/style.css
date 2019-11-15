@@ -238,9 +238,12 @@ table {
 	margin: 0 auto;
 }
 /* footer */
-#footer {
+#footer,
+.list-group,
+.list-group-item,
+.list-group-item-action {
 	background-color: #FF6666;
-	color:rgba(255,255,255,0.97);
+    color: rgba(255,255,255,0.97);
 }
 /* social media icons */
 .fab {
