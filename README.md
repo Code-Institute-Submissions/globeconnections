@@ -282,7 +282,7 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *(6) Mycolor.space is used to add gradients to the website: [MYCOLOR.SPACE](https://mycolor.space/?hex=#845EC2&sub=1 "Gradient Generator").*
 
-*(7) The multi-device mock-up on this document is created using [MULTI-DEVICE MOCK-UP](https://techsini.com/multi-mockup/ "Multi-device website mock-up generator").*
+*(7) The multi-device mock-up on this document is created using [TECHSINI](https://techsini.com/multi-mockup/ "Multi-device website mock-up generator").*
 
 - ### Acknowledgements:
 
