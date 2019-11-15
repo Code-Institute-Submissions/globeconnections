@@ -44,13 +44,6 @@ function initAutocomplete() {
   });
   markers = [];
 
-
-  /* my code for a new map window */
-  function openNewwindow() {
-  let infowindow = document.getElementById(`iw-url`);
-}
-  /* my code for a new map window */
-
   // For each place, get the icon, name and location.
   let bounds = new google.maps.LatLngBounds();
   let count = 0;
