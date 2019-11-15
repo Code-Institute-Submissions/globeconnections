@@ -46,12 +46,9 @@ function initAutocomplete() {
 
 
   /* my code for a new map window */
-  var url = document.querySelectorAll('#map');
-
-  for (var iw in url) {
-   linkList[url].setAttribute('target', '_blank',`rel`,`noopener`);
-  }
-
+  function openNewwindow() {
+  let infowindow = document.getElementById(`iw-url`);
+}
   /* my code for a new map window */
 
   // For each place, get the icon, name and location.
