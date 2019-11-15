@@ -245,6 +245,11 @@ table {
 	background-color: #FF6666;
     color: rgba(255,255,255,0.97);
 }
+.list-group-item:hover,
+.list-group-item-action:hover {
+      color: #FF6666;
+	background-color: rgba(255,255,255,0.97);
+}
 /* social media icons */
 .fab {
 	padding: 10px;
