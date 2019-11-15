@@ -23,8 +23,7 @@ img {
 	text-decoration: none;
 }
 /* centering css for all elements */
-.headingcontainerforthewebsite,.headingcontainerformapsearchboxcard,#pac-input,.headingcontainerone,.headingcontainertwo,#footer,.page-footer,.footerwriting,.bg-light-package-deals,.package-deals-home-page,.bg-white-useful-information,.card-title-useful-information,.useful-information,.text-uppercase,.social-media-icons,.list-inline-social,.footer-copyright,.btn-outline-white,.footericon:hover,.fas,.list-group-social,.mapcontainercard,#map,.card-header,.card-header-one,#iw-url-row,#iw-icon,table,tr,
-td {
+.headingcontainerforthewebsite,.headingcontainerformapsearchboxcard,#pac-input,.headingcontainerone,.headingcontainertwo,#footer,.page-footer,.footerwriting,.bg-light-package-deals,.package-deals-home-page,.bg-white-useful-information,.card-title-useful-information,.useful-information,.text-uppercase,.social-media-icons,.list-inline-social,.footer-copyright,.btn-outline-white,.footericon:hover,.fas,.list-group-social,.mapcontainercard,#map,.card-header,.card-header-one,#iw-url-row,#iw-icon,table,tr,td {
 	text-align: center;
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
@@ -120,13 +119,11 @@ td {
 	background-color:#572162;
 	margin: 0 auto;
 }
-table,
-tr,
-td {
+table,tr,td {
 	background-color:#FFD5D5;
-    color: #210B2C;
-    border: 2px solid #210B2C;
-    font-weight:bold;
+	color: #210B2C;
+	border: 2px solid #210B2C;
+	font-weight:bold;
 }
 /* container for headings for package deals and useful information */
 .headingcontainerone,.headingcontainertwo {
