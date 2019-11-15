@@ -120,7 +120,7 @@ img {
 	margin: 0 auto;
 }
 table {
-	font-size: 12px;
+	font-size: 1rem;
 	font-weight:bold;
 	background-color:#FFD5D5;
 	color: rgba(0,0,0,1.0);
@@ -128,7 +128,6 @@ table {
 }
 tr,td {
 	border: 1px solid #210B2C;
-	font-weight:bold;
 }
 /* container for headings for package deals and useful information */
 .headingcontainerone,.headingcontainertwo {
