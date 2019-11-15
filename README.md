@@ -24,6 +24,7 @@
 ![GLOBECONNECTIONS](/assets/images/multi-device-website-mock-up.png "Multi-device mock-up")
 
 ------------
+------------
 
  # 1) UX:
 
@@ -68,6 +69,7 @@
 *The live website is slightly different from the one depicted in the wire-frames because some features and styles were amended whilst enhancing the website.*
 
 ------------
+------------
 
  # 2) FEATURES:
 
@@ -92,6 +94,7 @@
 *(4) Access to additional resources such as the latest news/updates from the travel industry, health, beauty and safety tips and other useful external resources.*
 
 ------------
+------------
 
  # 3) TECHNOLOGIES USED:
 
@@ -109,6 +112,7 @@
 
 (6) [GOOGLE MAPS](https://developers.google.com/maps/documentation "the Google Maps Platform for developers")
 
+------------
 ------------
 
 # 4) TESTING:
@@ -205,6 +209,7 @@
 - *There were no bugs left unfixed.*
 
 ------------
+------------
 
  # 5) DEPLOYMENT:
 
@@ -244,6 +249,7 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *(6) Press Enter. Your local clone will be created.*
 
+------------
 ------------
 
  # 6) CREDITS:
@@ -302,6 +308,7 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *(10) I received inspiration for this project from the original website created by [TUI](https://www.tui.co.uk/ "Travel Packages Finder").*
 
+------------
 ------------
 
 #### This website has been created for educational purposes only.
