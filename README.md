@@ -155,7 +155,7 @@
 
 (18) [W3C LINK CHECKER](https://validator.w3.org/checklink "Check links and anchors in Web pages or full Web sites.")
 
-(19) [HEXOMETER](https://hexometer.com/ "Website Hygiene Attendant.Type Your URL to Analyze Now!.")
+(19) [HEXOMETER](https://hexometer.com/broken-links "Website Hygiene Attendant.Type Your URL to Analyze Now!.")
 
 (20) [DEVTOOLS](https://developers.google.com/web/tools/chrome-devtools/ "Check your website's broken links. Remove those toxic harmful broken links from your website and give a boost. Paste the URL to check for broken links!")
 
