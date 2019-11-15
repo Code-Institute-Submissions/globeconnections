@@ -119,12 +119,15 @@ img {
 	background-color:#572162;
 	margin: 0 auto;
 }
-table,tr,td {
+tr,td {
     font-size:1rem;
 	background-color:#FFD5D5;
 	color: #210B2C;
 	border: 2px solid #210B2C;
 	font-weight:bold;
+}
+table {
+    border: 5px solid #210B2C;
 }
 /* container for headings for package deals and useful information */
 .headingcontainerone,.headingcontainertwo {
