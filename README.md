@@ -75,7 +75,7 @@
 
 ## Existing Features:
 
-**The active/functional features in this website are as follows:**
+- **The active/functional features in this website are as follows:**
 
 *(1) The Google Maps Search functionality, which allows site navigators to enter a destination of their choice to find information about accommodation, restaurants and local tourist attractions around those places.*
 
@@ -83,7 +83,7 @@
 
 ## Features Left to Implement (in the future):
 
-**In the future, I would like to implement the following features to my website:**
+- **In the future, I would like to implement the following features to my website:**
 
 *(1) Login/Sign-up*
 
