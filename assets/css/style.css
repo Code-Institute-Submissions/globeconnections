@@ -128,43 +128,6 @@ td {
     border: 2px solid #210B2C;
     font-weight:bold;
 }
-.hotel-search {
-	-webkit-box-align: center;
-	-ms-flex-align: center;
-	align-items: center;
-	background: rgba(255,255,255,0.97);
-	display: -webkit-box;
-	display: -ms-flexbox;
-	display: flex;
-	left: 0;
-	position: absolute;
-	top: 0;
-	width: 100%;
-	z-index: 1;
-}
-.placeIcon {
-	width: 20px;
-	height: 34px;
-	margin: 4px;
-}
-.hotelIcon {
-	width: 24px;
-	height: 24px;
-}
-#resultsTable {
-	border-collapse: collapse;
-	
-}
-.iw_table_row {
-	height: 18px;
-}
-.iw_attribute_name {
-	font-weight: bold;
-	text-align: right;
-}
-.iw_table_icon {
-	text-align: right;
-}
 /* container for headings for package deals and useful information */
 .headingcontainerone,.headingcontainertwo {
 	padding: 2rem;
