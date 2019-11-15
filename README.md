@@ -188,7 +188,7 @@
 
 - *Images from browser testing - [BROWSERSHOTS TESTING EVIDENCE](/assets/browser-shots-evidence-for-testing/ "Testing images as evidence for the browser's compatibility").*
 
-**The other validators used throughout the website are as follows:**
+- **The other validators used throughout the website are as follows:**
 
 (1) [W3C-VALIDATION SERVICE](https://validator.w3.org/ "HTML validation service")
 
