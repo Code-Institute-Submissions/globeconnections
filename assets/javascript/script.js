@@ -48,6 +48,7 @@ function initAutocomplete() {
   /* my code for a new map window */
   function openNewwindow() {
   let infowindow = document.getElementById(`iw-url`);
+  
 }
   /* my code for a new map window */
 
