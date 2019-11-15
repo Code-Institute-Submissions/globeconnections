@@ -128,6 +128,7 @@ tr,td {
 }
 table {
     border: 5px solid #210B2C;
+     overflow-y: hidden;
 }
 /* container for headings for package deals and useful information */
 .headingcontainerone,.headingcontainertwo {
