@@ -12,9 +12,7 @@ function initAutocomplete() {
 		mapTypeId: 'roadmap'
 	});
 
-	infoWindow = new google.maps.InfoWindow({
-		content: document.getElementById('info-content')
-	});
+	infoWindow = new google.maps.InfoWindow({content: document.getElementById('info-content')});
 
 	places = new google.maps.places.PlacesService(map);
 
