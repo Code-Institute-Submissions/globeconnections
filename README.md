@@ -27,7 +27,7 @@
 
  # 1) UX:
 
-## User stories:
+## USER STORIES:
 
 - The reason behind creating this website is to allow site navigators to choose a package for their next holiday which is best suited to their individual requirements.
 
