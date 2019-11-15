@@ -120,6 +120,7 @@ img {
 	margin: 0 auto;
 }
 tr,td {    
+    font-size:10px;
 	background-color:#FFD5D5;
 	color: #210B2C;
 	border: 2px solid #210B2C;
