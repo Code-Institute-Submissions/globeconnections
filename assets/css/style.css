@@ -174,8 +174,7 @@ tr,td {
 .bg-white-useful-information,.text-white {
 	padding:1rem;
 }
-.card-title-package-deals:hover,
-.bg-light-package-deals:hover {
+.card-title-package-deals:hover,.bg-light-package-deals:hover {
 	background-color:#210B2C;
 }
 .bg-white-useful-information:hover,.text-white:hover {
