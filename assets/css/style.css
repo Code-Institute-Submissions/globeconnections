@@ -119,6 +119,9 @@ img {
 	background-color:#572162;
 	margin: 0 auto;
 }
+#pac-input {
+    padding:2rem;
+}
 table {
 	font-size: 1rem;
 	font-weight:bold;
