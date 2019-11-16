@@ -83,8 +83,7 @@ function initAutocomplete() {
  });
 }
 
-// Get the place details for a hotel. Show the information in an info window,
- anchored on the marker for the hotel that the user selected. 
+// Get the place details for a hotel. Show the information in an info window, anchored on the marker for the hotel that the user selected. 
 function showInfoWindow() {
  let marker = this;
  places.getDetails({
@@ -130,9 +129,7 @@ function buildIWContent(place) {
 });
 
 
- // Assign a five-star rating to the hotel, using a black star ('&#10029;')
-  to indicate the rating the hotel has earned, and a white star ('&#10025;')
-  for the rating points not achieved. 
+ // Assign a five-star rating to the hotel, using a black star ('&#10029;') to indicate the rating the hotel has earned, and a white star ('&#10025;') for the rating points not achieved. 
  if (place.rating) {
   let ratingHtml = '';
   for (let i = 0; i < 5; i++) {
@@ -148,8 +145,7 @@ function buildIWContent(place) {
   document.getElementById('iw-rating-row').style.display = 'none';
  }
 
- // The regexp isolates the first part of the URL (domain plus subdomain)
-  to give a short URL for displaying in the info window. 
+ // The regexp isolates the first part of the URL (domain plus subdomain) to give a short URL for displaying in the info window. 
  if (place.website) {
   let fullUrl = place.website;
   let website = hostnameRegexp.exec(place.website);
