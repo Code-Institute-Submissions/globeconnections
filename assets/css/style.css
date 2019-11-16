@@ -23,7 +23,7 @@ img {
 	text-decoration: none;
 }
 /* centering css for all elements */
-.headingcontainerforthewebsite,.headingcontainerformapsearchboxcard,#pac-input,.headingcontainerone,.headingcontainertwo,#footer,.bg-light-package-deals,.package-deals-home-page,.bg-white-useful-information,.card-title-useful-information,.useful-information,.social-media-icons,.list-inline-social,.btn-outline-white,.footericon:hover,.fas,.list-group-social,.mapcontainercard,#map,.card-header,.card-header-one,table,td,tr,.footercard,.copyrightcontainer,.aboutus {
+.headingcontainerforthewebsite,.headingcontainerformapsearchboxcard,#pac-input,.headingcontainerone,.headingcontainertwo,#footer,.bg-light-package-deals,.package-deals-home-page,.bg-white-useful-information,.card-title-useful-information,.useful-information,.btn-outline-white,.footericon:hover,.fas,.mapcontainercard,#map,.card-header,.card-header-one,table,td,tr,.footercard,.copyrightcontainer,.aboutus {
 	text-align: center;
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
