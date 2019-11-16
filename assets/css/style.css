@@ -92,8 +92,8 @@ img {
 }
 /* heading container for the website */
 .headingcontainerforthewebsite {
-    font-size:3rem;
-	padding:1rem;	
+	font-size:3rem;
+	padding:1rem;
 	background-color:#572162;
 	margin-top: 80px;
 	margin-bottom: 0px;
@@ -132,7 +132,7 @@ tr,td {
 /* container for headings for package deals and useful information */
 .headingcontainerone,.headingcontainertwo {
 	padding: 2rem;
-    font-size:3rem;
+	font-size:40px;
 	background-color:#51469E;
 	color: #210B2C;
 	margin-top: 70px;
@@ -174,9 +174,13 @@ tr,td {
 }
 /* contact information for the company */
 .footercard {
+	padding:2rem;
 	background-color:rgba(255,255,255,0.97);
 	margin-top: 20px;
 	color: #3C011D;
+}
+.aboutus {
+	padding:2rem;
 }
 /* social media icons class */
 .list-group-social {
@@ -209,7 +213,7 @@ tr,td {
 /* footer copyright information */
 .copyrightcontainer {
 	padding: 2rem;
-    font-size:1rem;
+	font-size:1rem;
 	background-color:#742F2F;
 	color: #FFF1F1;
 	margin-top: 70px;
