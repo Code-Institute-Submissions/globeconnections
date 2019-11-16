@@ -38,7 +38,7 @@
 
 ## (b) SURFACE:
 
-- I have created this website using the latest color schemes, keeping it simple yet in line with latest designing trends.
+- I have created this website using the latest [COLOR-SCHEME](/assets/images/palette.pdf "coolors.com - The super fast color schemes generator"), keeping it simple yet in line with latest designing trends.
 
 ## (c) STRATEGY:
 
@@ -275,9 +275,7 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *(5) The icons were added from the following website: [FONTAWESOME](https://fontawesome.com/ "Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit.").*
 
-*(6) Mycolor.space is used to add gradients to the website: [MYCOLOR.SPACE](https://mycolor.space/?hex=#845EC2&sub=1 "Gradient Generator").*
-
-*(7) The multi-device mock-up on this document is created using [TECHSINI](https://techsini.com/multi-mockup/ "Multi-device website mock-up generator").*
+*(6) The multi-device mock-up on this document is created using [TECHSINI](https://techsini.com/multi-mockup/ "Multi-device website mock-up generator").*
 
 - ### Acknowledgements:
 
