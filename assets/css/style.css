@@ -179,7 +179,7 @@ tr,td {
 	margin-top: 20px;
 	color: #3C011D;
 }
-.aboutus {
+.aboutus,.footersocialicons {
 	padding:2rem;
 }
 /* social media icons class */
