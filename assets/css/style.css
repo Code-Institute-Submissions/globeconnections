@@ -208,8 +208,10 @@ tr,td {
 	border-radius: 5px;
 }
 /* footer icons and copyright information */
-.footer-copyright {    
-	font-size:2rem;
+/* footer icons and copyright information */
+.footer-copyright {
+	padding:1rem;
+	font-size:1rem;
 	font-weight: bold;
 	color:rgba(255,255,255,0.97);
 	background-color: #8C3838;
