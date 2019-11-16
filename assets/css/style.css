@@ -209,11 +209,11 @@ tr,td {
 }
 /* footer copyright information */
 .footer-copyright {
-	padding:1rem;
 	font-size:1rem;
 	font-weight: bold;
 	color:rgba(255,255,255,0.97);
 	background-color: #8C3838;
+    max-width:100%;
 }
 /* sign-up button for newsletters */
 .btn-outline-white {
