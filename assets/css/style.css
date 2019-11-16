@@ -23,9 +23,7 @@ img {
 	text-decoration: none;
 }
 /* centering css for all elements */
-.headingcontainerforthewebsite,.headingcontainerformapsearchboxcard,#pac-input,.headingcontainerone,.headingcontainertwo,#footer,.page-footer,.footerwriting,.bg-light-package-deals,.package-deals-home-page,.bg-white-useful-information,.card-title-useful-information,.useful-information,.text-uppercase,.social-media-icons,.list-inline-social,.footer-copyright,.btn-outline-white,.footericon:hover,.fas,.list-group-social,.mapcontainercard,#map,.card-header,.card-header-one,table,td,tr,#packagedeals,
-#usefulinformation,
-.lead-heading {
+.headingcontainerforthewebsite,.headingcontainerformapsearchboxcard,#pac-input,.headingcontainerone,.headingcontainertwo,#footer,.page-footer,.footerwriting,.bg-light-package-deals,.package-deals-home-page,.bg-white-useful-information,.card-title-useful-information,.useful-information,.text-uppercase,.social-media-icons,.list-inline-social,.footer-copyright,.btn-outline-white,.footericon:hover,.fas,.list-group-social,.mapcontainercard,#map,.card-header,.card-header-one,table,td,tr,#packagedeals,#usefulinformation,.lead-heading,.footercard {
 	text-align: center;
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
@@ -95,7 +93,7 @@ img {
 /* heading container for the website */
 .headingcontainerforthewebsite {
 	padding:2rem;
-    font-size:2rem;
+	font-size:2rem;
 	background-color:#572162;
 	margin-top: 80px;
 	margin-bottom: 0px;
@@ -141,22 +139,19 @@ tr,td {
 	font-size:1rem;
 	font-weight: bold;
 }
-#packagedeals,
-#usefulinformation,
-.lead-heading,
-#sitetitle {
-    font-size:42px;
+#packagedeals,#usefulinformation,.lead-heading,#sitetitle {
+	font-size:42px;
 }
 /* card titles for all cards about travel deals */
 .card-header {
 	background-color: rgba(255,102,102,1.0);
 	color: rgba(255,255,255,1.0);
-    font-size:2rem;
+	font-size:2rem;
 }
 .usefulone {
 	background-color: #210B2C;
 	color: rgba(255,255,255,1.0);
-    font-size:2rem;
+	font-size:2rem;
 }
 /* body of image overlay card for package deals */
 .bg-light-package-deals {
@@ -177,13 +172,11 @@ tr,td {
 .bg-light-package-deals:hover {
 	background-color:#572162;
 }
-.bg-white-useful-information:hover {
+.bg-white-useful-information:hover,.text-white:hover {
 	background-color:#CC97C4;
 }
 /* contact information for the company */
-.text-uppercase {
-	padding:1rem;
-	font-size:1rem;
+.footercard {
 	background-color:rgba(255,255,255,0.97);
 	margin-top: 20px;
 	color: #3C011D;
@@ -191,7 +184,7 @@ tr,td {
 /* social media icons class */
 .list-group-social {
 	padding: 1rem;
-	font-size:1rem;
+	font-size:2rem;
 	font-weight: bold;
 	text-decoration:none;
 	margin: 0 auto;
@@ -204,9 +197,6 @@ tr,td {
 .list-group-item:hover,.list-group-item-action:hover {
 	color: rgba(255,255,255,0.97);
 	background-color: transparent;
-}
-.footersignup,.footersocialicons,.aboutus {
-	padding: 3rem;
 }
 /* social media icons */
 .fab {
@@ -222,7 +212,7 @@ tr,td {
 /* footer icons and copyright information */
 .footer-copyright {
 	padding:1rem;
-	font-size:1rem;
+	font-size:2rem;
 	font-weight: bold;
 	color:rgba(255,255,255,0.97);
 	background-color: #8C3838;
