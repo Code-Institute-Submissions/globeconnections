@@ -281,7 +281,7 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 - ### Acknowledgements:
 
-*(1) The #1 free and open source CDN built to make life easier for developers. [CDNJS](https://cdnjs.com "a A content delivery network or content distribution network (CDN) library").*
+*(1) The code libraries have been obtained from [CDNJS](https://cdnjs.com "a A content delivery network or content distribution network (CDN) library").*
 
 *(2) Additional help was requested from [SLACK](https://slack.com/intl/en-gb/ "Free online chat forum to discuss programming queries with people working in the industry").*
 
