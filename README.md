@@ -30,11 +30,11 @@
 
 ## USER STORIES:
 
-- The reason behind creating this website is to allow site navigators to choose a package for their next holiday which is best suited to their individual requirements.
+- The reason behind creating this website is to allow site navigators to choose a package for their next holiday that is best suited to their individual requirements.
 
 ## (a) SCOPE:
 
-- We understand that every traveller is different from another and will have several different requirements to fulfil throughout their journey to ensure that they have the best holiday possible.
+- We understand that each traveller is different from another and will have several different requirements to fulfil throughout their journey, to ensure that they have the best holiday possible.
 
 ## (b) SURFACE:
 
@@ -42,13 +42,13 @@
 
 ## (c) STRATEGY:
 
-- My aim was to make the website easy to navigate, self-explanatory, visually appealing and provide a smooth shopping experience to users from all walks of life.
+- My aim was to make the website easy to navigate, self-explanatory, visually appealing and provide a smooth shopping experience to site navigators from all walks of life.
 
 ## (d) STRUCTURE:
 
-- The search functions provided in my website allow the site navigator to gain access to various services provided by the company to meet their individual requirements.
+- The search functions provided within my website allow site navigators to gain access to various services provided by the company to meet their individual requirements.
 
-- I have provided users with access to information about the following resources via the Google Maps APIs, closer to their chosen destination:
+- I have provided site navigators with access to information about the following resources via the Google Maps APIs, closer to their chosen destination:
 
 **(1) Hotels**
 
