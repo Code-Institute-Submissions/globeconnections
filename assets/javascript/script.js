@@ -10,7 +10,7 @@ function initAutocomplete() {
   },
   zoom: 10,
   mapTypeId: 'roadmap'
- });
+ }); 
 
  infoWindow = new google.maps.InfoWindow({
   content: document.getElementById('info-content')
