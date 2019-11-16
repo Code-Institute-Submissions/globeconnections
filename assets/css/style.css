@@ -93,11 +93,11 @@ img {
 /* heading container for the website */
 .headingcontainerforthewebsite {
 	padding: 2rem;
+    font-size:5rem;
 	background-color:#572162;
 	margin-top: 80px;
 	margin-bottom: 0px;
 	color: rgba(255,255,255,0.97);
-	font-size:1rem;
 	font-weight: bold;
 }
 /* heading container for map searchbox card */
