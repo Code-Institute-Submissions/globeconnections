@@ -153,11 +153,6 @@ tr,td {
 	color: rgba(255,255,255,1.0);
     font-size:2rem;
 }
-.card-header:hover {
-	background-color: rgba(255,102,102,1.0);
-	color: rgba(255,255,255,1.0);
-    font-size:2rem;
-}
 .usefulone {
 	background-color: #210B2C;
 	color: rgba(255,255,255,1.0);
