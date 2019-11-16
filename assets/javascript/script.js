@@ -1,8 +1,3 @@
-/* open all hyperlinks in a new window using jQuery */
-$('a[href^="http://"]')
-  .attr("target", "_blank", "rel", "noopener");
-  $(this).attr('href', newHref).attr("target", "_blank", "rel", "noopener");
-
 /* add map and infowindow information */
 let map, places, infoWindow;
 let hostnameRegexp = new RegExp('^https?://.+?/');
