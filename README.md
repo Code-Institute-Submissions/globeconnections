@@ -251,7 +251,7 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 - ### Content:
 
-*(1) The content for this website was taken from the original site created by TUI (at the following web address): [TUI](https://www.tui.co.uk/ "THE WORLD’S NO. 1 TOURISM COMPANY").*
+*(1) The content for this website was taken from the original site created by [TUI](https://www.tui.co.uk/ "THE WORLD’S NO. 1 TOURISM COMPANY").*
 
 *(2) The tool utilized to organize the HTML file is [HTML-FORMATTER](https://coolors.co/ "Free online tool to format an ugly HTML code, making it readable and pretty, with the proper indentation").*
 
@@ -259,7 +259,7 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *(4) The tools utilized to validate JavaScript are [ESPRIMA](https://esprima.org/demo/validate.html "Syntax Validator checks for mistakes and errors in Javascript codes"), [JSHINT](https://jshint.com/ "JSHint, A Static Code Analysis Tool for JavaScript") and [BEAUTIFYTOOLS](http://beautifytools.com/javascript-validator.php "Use Online Javascript Validator").*
 
-*(5) The borders and shadows in the website are created with the following tool: [BORDER-SHADOW GENERATOR](https://html-css-js.com/css/generator/box-shadow/ "Free online resource to generate creative borders and shadows within seconds").*
+*(5) The borders and shadows in the website are created with the [BORDER-SHADOW GENERATOR](https://html-css-js.com/css/generator/box-shadow/ "Free online resource to generate creative borders and shadows within seconds").*
 
 *(6) A lot of the code is written with information from [W3SCHOOLS](https://www.w3schools.com/ "THE WORLD'S LARGEST WEB DEVELOPER SITE").*
 
@@ -267,15 +267,15 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 - ### Media:
 
-*(1) The images used in this site were obtained from: [FREEPIK](https://www.freepik.com/home "illustrations, photos, icons, mockups, and presentations templates") and [NATIONAL GEOGRAPHIC](https://www.nationalgeographic.com/ "NATIONAL GEOGRAPHIC").*
+*(1) The images used in this site were obtained from [FREEPIK](https://www.freepik.com/home "illustrations, photos, icons, mockups, and presentations templates") and [NATIONAL GEOGRAPHIC](https://www.nationalgeographic.com/ "NATIONAL GEOGRAPHIC").*
 
-*(2) The color scheme for this website is derived from: [COOLORS](https://coolors.co/ "The super fast color schemes generator! Create, save and share perfect palettes in seconds!").*
+*(2) The color scheme for this website is derived from [COOLORS](https://coolors.co/ "The super fast color schemes generator! Create, save and share perfect palettes in seconds!").*
 
-*(3) The favicon was generated with the following website: [FAVICON](https://favicon.io/favicon-generator/ "Favicon Generator").*
+*(3) The favicon was generated with [FAVICON GENERATOR](https://favicon.io/favicon-generator/ "Favicon Generator").*
 
 *(4) All the images were compressed with the following website: [TINYJPG](https://tinyjpg.com/ "Smart JPEG and PNG compression").*
 
-*(5) The icons were added from the following website: [FONTAWESOME](https://fontawesome.com/ "Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit.").*
+*(5) The icons were added from [FONTAWESOME](https://fontawesome.com/ "Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit.").*
 
 *(6) The multi-device mock-up on this document is created using [TECHSINI](https://techsini.com/multi-mockup/ "Multi-device website mock-up generator").*
 
