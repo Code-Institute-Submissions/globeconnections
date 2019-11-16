@@ -119,7 +119,7 @@ function buildIWContent(place) {
   document.getElementById('iw-phone-row').style.display = 'none';
  }
 
- /* jquery for new window */
+ /* jquery for new window  */
  $(document).ready(function() {
 
   $('#iw-url').click(function() {
@@ -128,7 +128,7 @@ function buildIWContent(place) {
   });
 
  });
- /* jquery for new window */
+
 
  /* Assign a five-star rating to the hotel, using a black star ('&#10029;')
   to indicate the rating the hotel has earned, and a white star ('&#10025;')
