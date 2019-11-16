@@ -100,6 +100,9 @@ img {
 	color: rgba(255,255,255,0.97);
 	font-weight: bold;
 }
+.lead-heading {
+    margin:0 auto;
+}
 /* heading container for map searchbox card */
 .headingcontainerformapsearchboxcard {
 	background-color:#FF6666;
