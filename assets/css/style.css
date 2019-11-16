@@ -23,7 +23,7 @@ img {
 	text-decoration: none;
 }
 /* centering css for all elements */
-.headingcontainerforthewebsite,.headingcontainerformapsearchboxcard,#pac-input,.headingcontainerone,.headingcontainertwo,#footer,.page-footer,.footerwriting,.bg-light-package-deals,.package-deals-home-page,.bg-white-useful-information,.card-title-useful-information,.useful-information,.text-uppercase,.social-media-icons,.list-inline-social,.footer-copyright,.btn-outline-white,.footericon:hover,.fas,.list-group-social,.mapcontainercard,#map,.card-header,.card-header-one,table,td,tr,#packagedeals,#usefulinformation,.lead-heading,.footercard {
+.headingcontainerforthewebsite,.headingcontainerformapsearchboxcard,#pac-input,.headingcontainerone,.headingcontainertwo,#footer,.page-footer,.footerwriting,.bg-light-package-deals,.package-deals-home-page,.bg-white-useful-information,.card-title-useful-information,.useful-information,.text-uppercase,.social-media-icons,.list-inline-social,.footer-copyright,.btn-outline-white,.footericon:hover,.fas,.list-group-social,.mapcontainercard,#map,.card-header,.card-header-one,table,td,tr,.footercard {
 	text-align: center;
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
@@ -136,11 +136,7 @@ tr,td {
 	color: #210B2C;
 	margin-top: 70px;
 	margin-bottom: 70px;
-	font-size:1rem;
 	font-weight: bold;
-}
-#packagedeals,#usefulinformation,.lead-heading,#sitetitle {
-	font-size:42px;
 }
 /* card titles for all cards about travel deals */
 .card-header {
