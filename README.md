@@ -62,6 +62,8 @@
 
 ## (e) SKELETON:
 
+- The design of this website is depicted in the wire-frames attached below to demonstrate how it is supposed to display on small, medium and large screen sizes.
+
 - [LARGE-SCREENS-WIRE-FRAMES](/assets/wireframes/large-screens-wireframe-GLOBECONNECTIONS.pdf "wireframe for large-sized screens")
 - [MEDIUM-SCREENS-WIRE-FRAMES](/assets/wireframes/medium-screens-wireframe-GLOBECONNECTIONS.pdf "wireframe for medium-sized screens")
 - [SMALL-SCREENS-WIRE-FRAMES](/assets/wireframes/small-screens-wireframe-GLOBECONNECTIONS.pdf "wireframe for small-sized screens")
