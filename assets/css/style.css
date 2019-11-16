@@ -23,7 +23,7 @@ img {
 	text-decoration: none;
 }
 /* centering css for all elements */
-.headingcontainerforthewebsite,.headingcontainerformapsearchboxcard,#pac-input,.headingcontainerone,.headingcontainertwo,#footer,.page-footer,.bg-light-package-deals,.package-deals-home-page,.bg-white-useful-information,.card-title-useful-information,.useful-information,.social-media-icons,.list-inline-social,.footer-copyright,.btn-outline-white,.footericon:hover,.fas,.list-group-social,.mapcontainercard,#map,.card-header,.card-header-one,table,td,tr,.footercard {
+.headingcontainerforthewebsite,.headingcontainerformapsearchboxcard,#pac-input,.headingcontainerone,.headingcontainertwo,#footer,.bg-light-package-deals,.package-deals-home-page,.bg-white-useful-information,.card-title-useful-information,.useful-information,.social-media-icons,.list-inline-social,.btn-outline-white,.footericon:hover,.fas,.list-group-social,.mapcontainercard,#map,.card-header,.card-header-one,table,td,tr,.footercard,.copyrightcontainer,.aboutus {
 	text-align: center;
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
@@ -190,7 +190,6 @@ tr,td {
 #footer,.list-group,.list-group-item,.list-group-item-action {
 	background-color: #FF6666;
 	color: rgba(255,255,255,0.97);
-    padding:2rem;
 }
 .list-group-item:hover,.list-group-item-action:hover {
 	color: rgba(255,255,255,0.97);
@@ -208,12 +207,13 @@ tr,td {
 	border-radius: 5px;
 }
 /* footer copyright information */
-.footer-copyright {
-	font-size:1rem;
+.copyrightcontainer {
+	padding: 2rem;
+    font-size:1rem;
+	background-color:#742F2F;
+	color: #FFF1F1;
+	margin-top: 70px;
 	font-weight: bold;
-	color:rgba(255,255,255,0.97);
-	background-color: #8C3838;
-    max-width:100%;
 }
 /* sign-up button for newsletters */
 .btn-outline-white {
