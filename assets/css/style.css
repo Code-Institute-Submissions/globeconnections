@@ -120,7 +120,11 @@ img {
 	margin: 0 auto;
 }
 #pac-input {
+    font-size:1rem;
     padding:2rem;
+    background-color:#AFAAD2;
+    color: rgba(0,0,0,1.0);
+    border: 3px solid #210B2C;
 }
 table {
 	font-size: 1rem;
