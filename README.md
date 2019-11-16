@@ -58,7 +58,7 @@
 
 **(4) Search for nearby places around any city in the world.**
 
-- The site users can then look at markers highlighting the search results on the map provided within this website.
+- The site navigators can then look at markers highlighting the search results on the map provided within this website.
 
 ## (e) SKELETON:
 
