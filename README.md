@@ -38,7 +38,7 @@
 
 ## (b) SURFACE:
 
-- I have created this website using one of the latest [COLOR SCHEMES](/assets/images/palette.pdf "coolors.com - The super fast color schemes generator"), keeping it simple, yet in line with latest designing trends.
+- I have created this website using one of the latest [COLOR SCHEMES](/assets/images/palette.pdf "coolors.com - The super fast color schemes generator"), keeping it simple, yet in line with the latest designing trends.
 
 ## (c) STRATEGY:
 
