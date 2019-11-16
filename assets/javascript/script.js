@@ -28,8 +28,7 @@ function initAutocomplete() {
  });
 
  let markers = [];
- // Listen for the event fired when the user selects a prediction and retrieve
-  more details for that place. 
+ // Listen for the event fired when the user selects a prediction and retrieve more details for that place. 
  searchBox.addListener('places_changed', function() {
   let places = searchBox.getPlaces();
 
