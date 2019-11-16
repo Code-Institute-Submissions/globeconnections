@@ -181,10 +181,6 @@
 
 *(10) Desktop/desktop-touch*
 
-These devtools were tested on the only page in this website (index.html) and across browsers such as the Internet Explorer, Mozilla Firefox and many others using the following website: [W3C-VALIDATION SERVICE](https://validator.w3.org/ "HTML validation service").
-
-Images from browser testing - [BROWSERSHOTS TESTING EVIDENCE](https://validator.w3.org/ "HTML validation service").
-
 - **The other validators used throughout the website are as follows:**
 
 (1) [W3C-VALIDATION SERVICE](https://validator.w3.org/ "HTML validation service")
