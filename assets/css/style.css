@@ -47,6 +47,11 @@ img {
 .lead-heading,#map,.mapcontainercard,.list-group-social {
 	margin: 0 auto;
 }
+/* all classes and ids with padding:2rem */
+.headingcontainerforthewebsite,#pac-input,.headingcontainerone,.headingcontainertwo,.bg-light-package-deals,.package-deals-home-page,.bg-white-useful-information,.text-white,.aboutus,.footersocialicons,.list-group-social,.footercard {
+	padding:2rem;
+  }
+
 /* navbar */
 .bg-navbar {
 	color:rgba(255,255,255,0.97);
@@ -100,7 +105,6 @@ img {
 /* heading container for the website */
 .headingcontainerforthewebsite {
 	font-size:40px;
-	padding:2rem;
 	background-color:#572162;
 	margin-top: 100px;
 	margin-bottom: 0px;
@@ -123,7 +127,6 @@ img {
 	background-color:#572162;
 }
 #pac-input {
-	padding:2rem;
 	background-color:#AFAAD2;
 	color: rgba(0,0,0,1.0);
 	border: 3px solid #210B2C;
@@ -138,7 +141,6 @@ tr,td {
 }
 /* container for headings for package deals and useful information */
 .headingcontainerone,.headingcontainertwo {
-	padding: 2rem;
 	font-size:38px;
 	background-color:#51469E;
 	color: #210B2C;
@@ -157,18 +159,9 @@ tr,td {
 }
 /* body of image overlay card for package deals */
 .bg-light-package-deals {
-	padding: 2rem;
 	font-weight: bold;
 	margin-top: 10px;
 	margin-bottom: 10px;
-}
-/* package deals card container */
-.package-deals-home-page {
-	padding: 2rem;
-}
-/* useful information container */
-.bg-white-useful-information,.text-white {
-	padding:2rem;
 }
 .card-title-package-deals:hover,.bg-light-package-deals:hover {
 	background-color:#210B2C;
@@ -178,17 +171,9 @@ tr,td {
 }
 /* contact information for the company */
 .footercard {
-	padding:2rem;
 	background-color:rgba(255,185,185,0.95);
 	margin-top: 20px;
 	color: #3C011D;
-}
-.aboutus,.footersocialicons {
-	padding:2rem;
-}
-/* social media icons class */
-.list-group-social {
-	padding: 1rem;
 }
 /* footer */
 #footer,.list-group,.list-group-item,.list-group-item-action {
