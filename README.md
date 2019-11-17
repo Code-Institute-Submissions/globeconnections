@@ -119,7 +119,7 @@
 
 # 4) TESTING:
 
-- **The website usability tests were thoroughly conducted using the following parameters and resources:**
+- **The website responsiveness and broken-link tests were thoroughly conducted using the following parameters/resources:**
 
 (1) [RESPONSIVE-TEST-TOOL](http://responsivetesttool.com/ "testing the responsiveness of the website")
 
@@ -190,6 +190,17 @@
 (2) [JIGSAW W3C VALIDATION SERVICE](https://jigsaw.w3.org/css-validator/ "CSS Validation Service")
 
 (3) [JAVASCRIPT VALIDATION SERVICE](https://www.jslint.com/ "JavaScript Validation Service")
+
+- **The cross-browser tests were conducted using the following parameters/resources:**
+
+*(1) [BROWSER STACK](https://www.browserstack.com/screenshots/6671b77f025b60dc363528b91a656b132d95e984 "Screenshot Testing On Real Browsers & Devices")*
+
+*(2) [CROSS BROWSER TESTING](https://crossbrowsertesting.com/ "Make Every Web Experience Perfect, On Any Browser or Mobile Device.")*
+
+*(3) [BROWSER SHOTS](http://browsershots.org/ "Browser Compatibility Test")*
+
+*(4) [MOZILLA FIREFOX](/assets/images/mozilla-firefox-screen-shot.jpg "cross browser testing screen shot for mozilla firefox")*
+
 
 - *During the testing session, the map was not displaying correctly. It was center-aligned using CSS.*
 
