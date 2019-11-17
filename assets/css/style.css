@@ -54,12 +54,12 @@ img {
 
 /* navbar */
 .bg-navbar {
-	color:rgba(255,255,255,0.97);
+	color: rgba(255,255,255,1.0);
 	background-color: rgba(81,70,158,0.8);
 }
 /* navbar toggler icon */
 .navbartogglericon {
-	color: rgba(255,255,255,0.97);
+	color: rgba(255,255,255,1.0);
 	border-color:#210B2C;
 	border-width:5px;
 	outline-color:#210B2C;
@@ -69,7 +69,7 @@ img {
 .navbar-toggler {
 	border-color:#433A82;
 	border-width:5px;
-	color:rgba(255,255,255,0.97);
+	color: rgba(255,255,255,1.0);
 	outline-color:#433A82;
 	outline-width:5px;
 }
@@ -77,7 +77,7 @@ img {
 .navbar-brand {
 	outline: rgba(0,0,0,1.0);
 	font-weight:bold;
-	color:rgba(255,255,255,0.97);
+	color: rgba(255,255,255,1.0);
 	background-color:transparent;
 }
 /* navbar brand logo image */
@@ -93,14 +93,14 @@ img {
 }
 /* nav item */
 .nav-item {
-	color:rgba(255,255,255,0.97);
+	color: rgba(255,255,255,1.0);
 	background-color: #AFAAD2;
 	margin-right:20px;
 }
 /* nav item hover */
 .nav-item:hover {
 	background-color:#CC97C4;
-	color:rgba(255,255,255,0.97);
+	color: rgba(255,255,255,1.0);
 }
 /* heading container for the website */
 .headingcontainerforthewebsite {
@@ -108,7 +108,7 @@ img {
 	background-color:#572162;
 	margin-top: 100px;
 	margin-bottom: 0px;
-	color: rgba(255,255,255,0.97);
+	color: rgba(255,255,255,1.0);
 	font-weight: bold;
 }
 /* heading container for map searchbox card */
@@ -116,7 +116,7 @@ img {
 	background-color:#FF6666;
 	margin-top: 10px;
 	margin-bottom: 10px;
-	color: rgba(255,255,255,0.97);
+	color: rgba(255,255,255,1.0);
 }
 /* map and its components*/
 #map {
@@ -178,10 +178,10 @@ tr,td {
 /* footer */
 #footer,.list-group,.list-group-item,.list-group-item-action {
 	background-color: #FF6666;
-	color: rgba(255,255,255,0.97);
+	color: rgba(255,255,255,1.0);
 }
 .list-group-item:hover,.list-group-item-action:hover {
-	color: rgba(255,255,255,0.97);
+	color: rgba(255,255,255,1.0);
 	background-color: transparent;
 }
 /* social media icons */
@@ -190,13 +190,13 @@ tr,td {
 	margin-left:10px;
 	margin-right: 10px;
 	text-decoration:none;
-	color: rgba(255,255,255,0.97);
+	color: rgba(255,255,255,1.0);
 	border-radius: 5px;
 }
 /* footer copyright information */
 .copyrightcontainer {
 	background-color:#742F2F;
-	color: #FFF1F1;
+	color: rgba(255,255,255,1.0);
 	margin-top: 70px;
 }
 /* sign-up button for newsletters */
