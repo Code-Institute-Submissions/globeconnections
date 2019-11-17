@@ -195,7 +195,7 @@
 
 *(1) [BROWSER STACK](https://www.browserstack.com/screenshots/6671b77f025b60dc363528b91a656b132d95e984 "Screenshot Testing On Real Browsers & Devices")*
 
-*(2) [CROSS BROWSER TESTING](https://crossbrowsertesting.com/ "Make Every Web Experience Perfect, On Any Browser or Mobile Device.")*
+*(2) [CROSS BROWSER TESTING](https://app.crossbrowsertesting.com/livetests/run?browser=Win10%7COpera64%7CResponsive%20Mode&url=https:%2F%2Fcodingstudent2019.github.io%2Fglobeconnections%2F "Make Every Web Experience Perfect, On Any Browser or Mobile Device.")*
 
 *(3) [BROWSER SHOTS](http://browsershots.org/ "Browser Compatibility Test")*
 
