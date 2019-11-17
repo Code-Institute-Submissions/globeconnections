@@ -205,6 +205,8 @@
 
 *(6) [OPERA BROWSER](/assets/images/opera-browser-screen-shot.png "cross browser testing screen shot for OPERA BROWSER")*
 
+*(7) [MICROSOFT EDGE](/assets/images/microsoft-edge-screen-shot.png "cross browser testing screen shot for MICROSOFT EDGE")*
+
 - *During the testing session, the map was not displaying correctly. It was center-aligned using CSS.*
 
 - *The info-windows within the map were not popping-up as they are expected to on regular maps. The HTML, CSS and JavaScript code was amended to rectify this error.*
