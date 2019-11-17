@@ -310,7 +310,7 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *(10) I received inspiration for this project from the original website created by [TUI](https://www.tui.co.uk/ "Travel Packages Finder").*
 
-*(11) The jQuery code to open the map in a new window has been written by Eventyret Mentor from [GITHUB](https://github.com/eventyret "The world's leading software development platform").*
+*(11) The jQuery code to open the map in a new window has been written by Simen Daehlin from [GITHUB](https://github.com/eventyret "The world's leading software development platform").*
 
 ------------
 ------------

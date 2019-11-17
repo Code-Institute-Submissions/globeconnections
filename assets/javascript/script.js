@@ -115,7 +115,7 @@ function buildIWContent(place) {
   document.getElementById('iw-phone-row').style.display = 'none';
  }
 
- // jquery for a new window - written by Eventyret Mentor
+ // jquery for a new window - written by Simen Daehlin
  $(document).ready(function() {
   $("#iw-url").click(function(e) {
    e.preventDefault();
