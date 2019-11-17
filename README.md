@@ -271,7 +271,7 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 - ### Content:
 
-*(1) The content for this website was taken from the original site created by [TUI](https://www.tui.co.uk/ "THE WORLD’S NO. 1 TOURISM COMPANY").*
+*(1) The content for this website is taken from the original site created by [TUI](https://www.tui.co.uk/ "THE WORLD’S NO. 1 TOURISM COMPANY").*
 
 *(2) The tool utilized to organize the HTML file is [HTML-FORMATTER](https://htmlformatter.com/ "Free online tool to format an ugly HTML code, making it readable and pretty, with the proper indentation").*
 
