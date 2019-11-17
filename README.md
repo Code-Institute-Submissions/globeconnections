@@ -199,7 +199,9 @@
 
 *(3) [BROWSER SHOTS](http://browsershots.org/ "Browser Compatibility Test")*
 
-*(4) [MOZILLA FIREFOX](/assets/images/mozilla-firefox-screen-shot.jpg "cross browser testing screen shot for mozilla firefox")*
+*(4) [MOZILLA FIREFOX](/assets/images/mozilla-firefox-screen-shot.jpg "cross browser testing screen shot for MOZILLA FIREFOX")*
+
+*(5) [GOOGLE CHROME](/assets/images/google-chrome-screen-shot.png "cross browser testing screen shot for GOOGLE CHROME")*
 
 
 - *During the testing session, the map was not displaying correctly. It was center-aligned using CSS.*
