@@ -2,7 +2,7 @@ let map, places, infoWindow;
 let hostnameRegexp = new RegExp('^https?://.+?/');
 /**
  * adds map and infowindow information.
- */ 
+ */
 function initAutocomplete() {
  map = new google.maps.Map(document.getElementById('map'), {
   center: {
@@ -19,18 +19,24 @@ function initAutocomplete() {
 
  places = new google.maps.places.PlacesService(map);
 
- // Create the search box and link it to the UI element.
+ /**
+  * Create the search box and link it to the UI element.
+  */
  let input = document.getElementById('pac-input');
  let searchBox = new google.maps.places.SearchBox(input);
 
- // Bias the SearchBox results towards current map's viewport.
+ /**
+  * Bias the SearchBox results towards current map's viewport.
+  */
  map.addListener('bounds_changed', function() {
   searchBox.setBounds(map.getBounds());
  });
 
  let markers = [];
- // Listen for the event fired when the user selects a prediction and retrieve
- // more details for that place.
+
+ /**
+  * Listen for the event fired when the user selects a prediction and retrieve more details for that place.
+  */
  searchBox.addListener('places_changed', function() {
   let places = searchBox.getPlaces();
 
@@ -38,14 +44,18 @@ function initAutocomplete() {
    return;
   }
 
-  // Clear out the old markers.
+  /**
+   * Clear out the old markers.
+   */
   markers.forEach(function(marker) {
    google.maps.event.clearListeners(marker, 'click');
    marker.setMap(null);
   });
   markers = [];
 
-  // For each place, get the icon, name and location.
+  /**
+   * For each place, get the icon, name and location.
+   */
   let bounds = new google.maps.LatLngBounds();
   let count = 0;
   places.forEach(function(place) {
@@ -61,7 +71,9 @@ function initAutocomplete() {
     scaledSize: new google.maps.Size(25, 25)
    };
 
-   // Create a marker for each place.
+   /**
+    * Create a marker for each place.
+    */
    markers.push(new google.maps.Marker({
     map: map,
     icon: icon,
@@ -74,7 +86,10 @@ function initAutocomplete() {
    google.maps.event.addListener(markers[count], 'click', showInfoWindow);
 
    if (place.geometry.viewport) {
-    // Only geocodes have viewport.
+
+    /**
+     * Only geocodes have viewport.
+     */
     bounds.union(place.geometry.viewport);
    } else {
     bounds.extend(place.geometry.location);
@@ -115,7 +130,9 @@ function buildIWContent(place) {
   document.getElementById('iw-phone-row').style.display = 'none';
  }
 
- // jquery for a new window - written by Simen Daehlin
+ /**
+  * jquery for a new window - written by Simen Daehlin
+  */
  $(document).ready(function() {
   $("#iw-url").click(function(e) {
    e.preventDefault();
@@ -126,9 +143,9 @@ function buildIWContent(place) {
   });
  });
 
- // Assign a five-star rating to the hotel, using a black star ('✭')
- // to indicate the rating the hotel has earned, and a white star ('✩')
- // for the rating points not achieved.
+ /**
+  * Assign a five-star rating to the hotel, using a black star ('✭') to indicate the rating the hotel has earned, and a white star ('✩') for the rating points not achieved.
+  */
  if (place.rating) {
   let ratingHtml = '';
   for (let i = 0; i < 5; i++) {
@@ -144,8 +161,9 @@ function buildIWContent(place) {
   document.getElementById('iw-rating-row').style.display = 'none';
  }
 
- // The regexp isolates the first part of the URL (domain plus subdomain)
- // to give a short URL for displaying in the info window.
+ /**
+  * The regexp isolates the first part of the URL (domain plus subdomain) to give a short URL for displaying in the info window.
+  */
  if (place.website) {
   let fullUrl = place.website;
   let website = hostnameRegexp.exec(place.website);
