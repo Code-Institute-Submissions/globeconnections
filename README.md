@@ -203,6 +203,7 @@
 
 *(5) [GOOGLE CHROME](/assets/images/google-chrome-screen-shot.png "cross browser testing screen shot for GOOGLE CHROME")*
 
+*(6) [OPERA BROWSER](/assets/images/opera-browser-screen-shot.png "cross browser testing screen shot for OPERA BROWSER")*
 
 - *During the testing session, the map was not displaying correctly. It was center-aligned using CSS.*
 
