@@ -81,21 +81,21 @@
 
 - **The active/functional features in this website are as follows:**
 
-*(1) The Google Maps Search functionality, which allows site navigators to enter a destination of their choice to find information about accommodation, restaurants and local tourist attractions around those places.*
+(1) The Google Maps Search functionality, which allows site navigators to enter a destination of their choice to find information about accommodation, restaurants and local tourist attractions around those places.
 
-*(2) Information about popular destinations chosen by site users.*
+(2) Information about popular destinations chosen by site users.
 
 ## Features Left to Implement (in the future):
 
 - **In the future, I would like to implement the following features to my website:**
 
-*(1) Login/Sign-up*
+(1) Login/Sign-up
 
-*(2) Access to booking systems for flights, hotels, restaurants and local tourist attractions.*
+(2) Access to booking systems for flights, hotels, restaurants and local tourist attractions.
 
-*(3) The choice of accessing and choosing from various different packages to provide an extensive shopping experience.*
+(3) The choice of accessing and choosing from various different packages to provide an extensive shopping experience.
 
-*(4) Access to additional resources such as the latest news/updates from the travel industry, health, beauty and safety tips and other useful external resources.*
+(4) Access to additional resources such as the latest news/updates from the travel industry, health, beauty and safety tips and other useful external resources.
 
 ------------
 ------------
