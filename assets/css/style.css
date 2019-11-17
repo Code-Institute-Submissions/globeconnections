@@ -50,10 +50,11 @@ img {
 /* all classes and ids with padding:2rem */
 .headingcontainerforthewebsite,#pac-input,.headingcontainerone,.headingcontainertwo,.bg-light-package-deals,.package-deals-home-page,.bg-white-useful-information,.text-white,.aboutus,.footersocialicons,.list-group-social,.footercard,.copyrightcontainer {
 	padding:2rem;
-  }
-  /* all classes and ids with color: rgba(255,255,255,1.0); */
- .bg-navbar,.navbartogglericon,.navbar-toggler,.navbar-brand,.nav-item,.nav-item:hover,.headingcontainerforthewebsite,.headingcontainerformapsearchboxcard,.card-header,.usefulone,#footer,.list-group,.list-group-item,.list-group-item-action,.list-group-item:hover,.list-group-item-action:hover,.fab,.copyrightcontainer  {
-	color: rgba(255,255,255,1.0);  
+}
+/* all classes and ids with color: rgba(255,255,255,1.0);
+*/
+.bg-navbar,.navbartogglericon,.navbar-toggler,.navbar-brand,.nav-item,.nav-item:hover,.headingcontainerforthewebsite,.headingcontainerformapsearchboxcard,.card-header,.usefulone,#footer,.list-group,.list-group-item,.list-group-item-action,.list-group-item:hover,.list-group-item-action:hover,.fab,.copyrightcontainer {
+	color: rgba(255,255,255,1.0);
 }
 /* navbar */
 .bg-navbar {
