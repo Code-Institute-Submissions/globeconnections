@@ -265,7 +265,7 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *(7) The JavaScript code is written with information from the following examples provided by the [GOOGLE MAPS PLATFORM](https://developers.google.com/maps/documentation "Explore where real-world insights and immersive location experiences can take your business").*
 
-        **(i) [PLACES SEARCH BOX](https://developers-dot-devsite-v2-prod.appspot.com/maps/documentation/javascript/examples/places-searchbox "This example creates a map with a search box for users to enter geographical searches").**
+**(i)       [PLACES SEARCH BOX](https://developers-dot-devsite-v2-prod.appspot.com/maps/documentation/javascript/examples/places-searchbox "This example creates a map with a search box for users to enter geographical searches").**
 
 *(8) The tool utilized to format JavaScript is [CODE BEAUTIFY](https://codebeautify.org/jsviewer "JavaScript Beautifier").*
 
