@@ -50,7 +50,7 @@
 
 - *I have provided site navigators with access to information about the following resources via the Google Maps APIs, closer to their chosen destination:*
 
-** *(1) Hotels**
+**(1) Hotels**
 
 **(2) Restaurants**
 
@@ -58,17 +58,17 @@
 
 **(4) Search for nearby places around any city in the world.**
 
-- The site navigators can then look at markers highlighting the search results on the map provided within this website.
+- *The site navigators can then look at markers highlighting the search results on the map provided within this website.*
 
 ## (e) SKELETON:
 
-- The design for this website is depicted in the wire-frames attached below to demonstrate how it is supposed to display on small, medium and large screen sizes:
+- *The design for this website is depicted in the wire-frames attached below to demonstrate how it is supposed to display on small, medium and large screen sizes:*
 
-(i) [LARGE-SCREENS-WIRE-FRAMES](/assets/wireframes/large-screens-wireframe-GLOBECONNECTIONS.pdf "wireframe for large-sized screens")
+*(i) [LARGE-SCREENS-WIRE-FRAMES](/assets/wireframes/large-screens-wireframe-GLOBECONNECTIONS.pdf "wireframe for large-sized screens")*
 
-(ii) [MEDIUM-SCREENS-WIRE-FRAMES](/assets/wireframes/medium-screens-wireframe-GLOBECONNECTIONS.pdf "wireframe for medium-sized screens")
+*(ii) [MEDIUM-SCREENS-WIRE-FRAMES](/assets/wireframes/medium-screens-wireframe-GLOBECONNECTIONS.pdf "wireframe for medium-sized screens")*
 
-(iii) [SMALL-SCREENS-WIRE-FRAMES](/assets/wireframes/small-screens-wireframe-GLOBECONNECTIONS.pdf "wireframe for small-sized screens")
+*(iii) [SMALL-SCREENS-WIRE-FRAMES](/assets/wireframes/small-screens-wireframe-GLOBECONNECTIONS.pdf "wireframe for small-sized screens")*
 
 - *The live website is slightly different from the one depicted in the wire-frames because some features and styles were amended whilst enhancing the website.*
 
@@ -81,21 +81,21 @@
 
 - **The active/functional features in this website are as follows:**
 
-(1) The Google Maps Search functionality, which allows site navigators to enter a destination of their choice to find information about accommodation, restaurants and local tourist attractions around those places.
+*(1) The Google Maps Search functionality, which allows site navigators to enter a destination of their choice to find information about accommodation, restaurants and local tourist attractions around those places.*
 
-(2) Information about popular destinations chosen by site users.
+*(2) Information about popular destinations chosen by site users.*
 
 ## Features Left to Implement (in the future):
 
 - **In the future, I would like to implement the following features to my website:**
 
-(1) Login/Sign-up
+*(1) Login/Sign-up*
 
-(2) Access to booking systems for flights, hotels, restaurants and local tourist attractions.
+*(2) Access to booking systems for flights, hotels, restaurants and local tourist attractions.*
 
-(3) The choice of accessing and choosing from various different packages to provide an extensive shopping experience.
+*(3) The choice of accessing and choosing from various different packages to provide an extensive shopping experience.*
 
-(4) Access to additional resources such as the latest news/updates from the travel industry, health, beauty and safety tips and other useful external resources.
+*(4) Access to additional resources such as the latest news/updates from the travel industry, health, beauty and safety tips and other useful external resources.*
 
 ------------
 ------------
@@ -104,17 +104,17 @@
 
 - *The technologies used in the creation of this website are as follows:*
 
-(1) [BOOTSTRAP](https://getbootstrap.com/ "Build responsive, mobile-first projects on the web with the world’s most popular front-end component library")
+*(1) [BOOTSTRAP](https://getbootstrap.com/ "Build responsive, mobile-first projects on the web with the world’s most popular front-end component library")*
 
-(2) HTML
+*(2) HTML*
 
-(3) CSS
+*(3) CSS*
 
-(4) JAVASCRIPT
+*(4) JAVASCRIPT*
 
-(5) [JQUERY](https://jquery.com/ "jQuery UI is a curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library. Whether you're building highly interactive web applications or you just need to add a date picker to a form control, jQuery UI is the perfect choice")
+*(5) [JQUERY](https://jquery.com/ "jQuery UI is a curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library. Whether you're building highly interactive web applications or you just need to add a date picker to a form control, jQuery UI is the perfect choice")*
 
-(6) [GOOGLE MAPS](https://developers.google.com/maps/documentation "the Google Maps Platform for developers")
+*(6) [GOOGLE MAPS](https://developers.google.com/maps/documentation "the Google Maps Platform for developers")*
 
 ------------
 ------------
@@ -123,27 +123,27 @@
 
 - **The website responsiveness and broken-link tests were thoroughly conducted using the following parameters/resources:**
 
-(1) [RESPONSIVE-TEST-TOOL](http://responsivetesttool.com/ "testing the responsiveness of the website")
+*(1) [RESPONSIVE-TEST-TOOL](http://responsivetesttool.com/ "testing the responsiveness of the website")*
 
-(2) [RESPONSIVE DESIGN CHECKER](https://responsivedesignchecker.com/ "RESPONSIVE WEB DESIGN CHECKER")
+*(2) [RESPONSIVE DESIGN CHECKER](https://responsivedesignchecker.com/ "RESPONSIVE WEB DESIGN CHECKER")*
 
-(3) [WEBSITE PLANET](https://www.websiteplanet.com/webtools/responsive-checker/ "Home For All of Your Website Solutions")
+*(3) [WEBSITE PLANET](https://www.websiteplanet.com/webtools/responsive-checker/ "Home For All of Your Website Solutions")*
 
-(4) [IS RESPONSIVE](http://www.isresponsive.com/ "Getting Started with a Responsive Web Design")
+*(4) [IS RESPONSIVE](http://www.isresponsive.com/ "Getting Started with a Responsive Web Design")*
 
-(5) [WEBSITE PLANET](https://www.websiteplanet.com/ "Home For All of Your Website Solutions")
+*(5) [WEBSITE PLANET](https://www.websiteplanet.com/ "Home For All of Your Website Solutions")*
 
-(6) [DESIGN MODO](https://designmodo.com/responsive-test/ "Test the responsiveness of your website on all devices")
+*(6) [DESIGN MODO](https://designmodo.com/responsive-test/ "Test the responsiveness of your website on all devices")*
 
-(7) [RESIZER](https://material.io/resources/resizer/ "An interactive viewer that helps designers test material design breakpoints across desktop, mobile, and tablet")
+*(7) [RESIZER](https://material.io/resources/resizer/ "An interactive viewer that helps designers test material design breakpoints across desktop, mobile, and tablet")*
 
-(8) [DEMONSTRATING RESPONSIVE DESIGN](http://www.jamus.co.uk/demos/rwd-demonstrations/ "Demonstrating Responsive Designby jamusreynolds")
+*(8) [DEMONSTRATING RESPONSIVE DESIGN](http://www.jamus.co.uk/demos/rwd-demonstrations/ "Demonstrating Responsive Designby jamusreynolds")*
 
-(9) [RESPONSINATOR](http://www.responsinator.com/?url=https%3A%2F%2Fcodingstudent2019.github.io%2Fglobeconnections%2F "Check website responsiveness")
+*(9) [RESPONSINATOR](http://www.responsinator.com/?url=https%3A%2F%2Fcodingstudent2019.github.io%2Fglobeconnections%2F "Check website responsiveness")*
 
-(10) [W3C LINK CHECKER](https://validator.w3.org/checklink "Check links and anchors in Web pages or full Web sites")
+*(10) [W3C LINK CHECKER](https://validator.w3.org/checklink "Check links and anchors in Web pages or full Web sites")*
 
-(11) [DEVTOOLS](https://developers.google.com/web/tools/chrome-devtools/ "Check your website's broken links. Remove those toxic harmful broken links from your website and give a boost. Paste the URL to check for broken links!")
+*(11) [DEVTOOLS](https://developers.google.com/web/tools/chrome-devtools/ "Check your website's broken links. Remove those toxic harmful broken links from your website and give a boost. Paste the URL to check for broken links!")*
 
 - **The screen sizes tested on Google Chrome DevTools are as follows:**
 
@@ -169,11 +169,11 @@
 
 - **The other validators used throughout the website are as follows:**
 
-(1) [W3C-VALIDATION SERVICE](https://validator.w3.org/ "HTML validation service")
+*(1) [W3C-VALIDATION SERVICE](https://validator.w3.org/ "HTML validation service")*
 
-(2) [JIGSAW W3C VALIDATION SERVICE](https://jigsaw.w3.org/css-validator/ "CSS Validation Service")
+*(2) [JIGSAW W3C VALIDATION SERVICE](https://jigsaw.w3.org/css-validator/ "CSS Validation Service")*
 
-(3) [JAVASCRIPT VALIDATION SERVICE](https://www.jslint.com/ "JavaScript Validation Service")
+*(3) [JAVASCRIPT VALIDATION SERVICE](https://www.jslint.com/ "JavaScript Validation Service")*
 
 - **The cross-browser tests were conducted using the following parameters/resources:**
 
