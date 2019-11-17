@@ -30,7 +30,7 @@
 
 ## USER STORIES:
 
-- *The reason behind creating this website is to allow site navigators to choose a package for their next holiday that is best suited to their individual requirements.*
+- *The reason behind creating this website is to find my next holiday destination as a customer.*
 
 ## (a) SCOPE:
 
