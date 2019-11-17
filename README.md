@@ -143,7 +143,7 @@
 
 (11) [DEVTOOLS](https://developers.google.com/web/tools/chrome-devtools/ "Check your website's broken links. Remove those toxic harmful broken links from your website and give a boost. Paste the URL to check for broken links!")
 
-- **The screen sizes tested on devtools are as follows:**
+- **The screen sizes tested on Google Chrome DevTools are as follows:**
 
 *(1) Galaxy S5*
 
