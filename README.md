@@ -34,7 +34,7 @@
 
 ## (a) SCOPE:
 
-- We understand that each traveller is different from another and will have several different requirements to fulfil throughout their journey, to ensure that they have the best holiday possible.
+- We understand that each traveller is different from another and will have several different requirements to fulfil throughout their journey to ensure that they have the best holiday possible.
 
 ## (b) SURFACE:
 
