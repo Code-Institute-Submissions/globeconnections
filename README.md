@@ -253,7 +253,7 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *(1) The content for this website was taken from the original site created by [TUI](https://www.tui.co.uk/ "THE WORLD’S NO. 1 TOURISM COMPANY").*
 
-*(2) The tool utilized to organize the HTML file is [HTML-FORMATTER](https://coolors.co/ "Free online tool to format an ugly HTML code, making it readable and pretty, with the proper indentation").*
+*(2) The tool utilized to organize the HTML file is [HTML-FORMATTER](https://htmlformatter.com/ "Free online tool to format an ugly HTML code, making it readable and pretty, with the proper indentation").*
 
 *(3) The tool utilized to organize the CSS file is [CSS-CLEANER](https://html-cleaner.com/css/ "Free online css cleaner and beautifier").*
 
