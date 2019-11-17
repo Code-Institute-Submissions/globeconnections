@@ -265,6 +265,8 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *(7) The JavaScript code is written with information from the example provided by the [GOOGLE MAPS PLATFORM](https://developers-dot-devsite-v2-prod.appspot.com/maps/documentation/javascript/examples/places-autocomplete-hotelsearch "Explore where real-world insights and immersive location experiences can take your business").*
 
+*(8) The tool utilized to format JavaScript is [CODE BEAUTIFY](https://codebeautify.org/jsviewer "JavaScript Beautifier").*
+
 - ### Media:
 
 *(1) The images used in this site were obtained from [FREEPIK](https://www.freepik.com/home "illustrations, photos, icons, mockups, and presentations templates") and [NATIONAL GEOGRAPHIC](https://www.nationalgeographic.com/ "NATIONAL GEOGRAPHIC").*
