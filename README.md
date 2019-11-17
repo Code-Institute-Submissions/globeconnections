@@ -279,16 +279,16 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *(4) The tools utilized to validate JavaScript are [ESPRIMA](https://esprima.org/demo/validate.html "Syntax Validator checks for mistakes and errors in Javascript codes"), [JSHINT](https://jshint.com/ "JSHint, A Static Code Analysis Tool for JavaScript") and [BEAUTIFYTOOLS](http://beautifytools.com/javascript-validator.php "Use Online Javascript Validator").*
 
-*(5) The borders and shadows in the website are created with the [BORDER-SHADOW GENERATOR](https://html-css-js.com/css/generator/box-shadow/ "Free online resource to generate creative borders and shadows within seconds").*
+*(5) The tool utilized to format JavaScript is [CODE BEAUTIFY](https://codebeautify.org/jsviewer "JavaScript Beautifier").*
 
-*(6) A lot of the code is written with information from [W3SCHOOLS](https://www.w3schools.com/ "THE WORLD'S LARGEST WEB DEVELOPER SITE").*
+*(6) The borders and shadows in the website are created with the [BORDER-SHADOW GENERATOR](https://html-css-js.com/css/generator/box-shadow/ "Free online resource to generate creative borders and shadows within seconds").*
 
-*(7) The JavaScript code is written with information from the following examples provided by the [GOOGLE MAPS PLATFORM](https://developers.google.com/maps/documentation "Explore where real-world insights and immersive location experiences can take your business").*
+*(7) A lot of the code is written with information from [W3SCHOOLS](https://www.w3schools.com/ "THE WORLD'S LARGEST WEB DEVELOPER SITE").*
+
+*(8) The JavaScript code is written with information from the following examples provided by the [GOOGLE MAPS PLATFORM](https://developers.google.com/maps/documentation "Explore where real-world insights and immersive location experiences can take your business").*
 
 | (i) [PLACES SEARCH BOX](https://developers-dot-devsite-v2-prod.appspot.com/maps/documentation/javascript/examples/places-searchbox "This example creates a map with a search box for users to enter geographical searches.") and (ii) [PLACES AUTOCOMPLETE HOTEL SEARCH](https://developers-dot-devsite-v2-prod.appspot.com/maps/documentation/javascript/examples/places-autocomplete-hotelsearch "This example creates a map with a search box that finds all of the hotels in a specified place within a given country.") |
 | ------------ |
-
-*(8) The tool utilized to format JavaScript is [CODE BEAUTIFY](https://codebeautify.org/jsviewer "JavaScript Beautifier").*
 
 - ### Media:
 
