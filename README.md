@@ -139,27 +139,9 @@
 
 (9) [RESPONSINATOR](http://www.responsinator.com/?url=https%3A%2F%2Fcodingstudent2019.github.io%2Fglobeconnections%2F "Check website responsiveness")
 
-(10) [DR. LINK CHECK](https://www.drlinkcheck.com/ "Broken links are bad for business.Let Dr. Link Check track them down for you.")
+(10) [W3C LINK CHECKER](https://validator.w3.org/checklink "Check links and anchors in Web pages or full Web sites.")
 
-(11) [ATOMSEO](https://error404.atomseo.com/ "Сheck your website for broken links with Atomseo.")
-
-(12) [SMALL SEO TOOLS](https://smallseotools.com/websites-broken-link-checker/ "Сheck your website for broken links with Atomseo.")
-
-(13) [SITE24X7](https://www.site24x7.com/link-checker.html "Monitoring Availability and End User Experience Made Simple.")
-
-(14) [POWER-MAPPER](https://www.powermapper.com/ "One click website tools.")
-
-(15) [DEAD LINK CHECKER](https://www.deadlinkchecker.com/ "Free Broken Link Checker.")
-
-(16) [W3C LINK CHECKER](https://validator.w3.org/checklink "Check links and anchors in Web pages or full Web sites.")
-
-(17) [DUPLI CHECKER](https://www.duplichecker.com/broken-link-checker.php "broken links checker.")
-
-(18) [W3C LINK CHECKER](https://validator.w3.org/checklink "Check links and anchors in Web pages or full Web sites.")
-
-(19) [HEXOMETER](https://hexometer.com/broken-links "Website Hygiene Attendant.Type Your URL to Analyze Now!.")
-
-(20) [DEVTOOLS](https://developers.google.com/web/tools/chrome-devtools/ "Check your website's broken links. Remove those toxic harmful broken links from your website and give a boost. Paste the URL to check for broken links!")
+(11) [DEVTOOLS](https://developers.google.com/web/tools/chrome-devtools/ "Check your website's broken links. Remove those toxic harmful broken links from your website and give a boost. Paste the URL to check for broken links!")
 
 - **The screen sizes tested on devtools are as follows:**
 
