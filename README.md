@@ -269,7 +269,7 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 - ### Media:
 
-*(1) The images used in this site have been obtained from [FREEPIK](https://www.freepik.com/home "illustrations, photos, icons, mockups, and presentations templates") and [NATIONAL GEOGRAPHIC](https://www.nationalgeographic.com/ "NATIONAL GEOGRAPHIC").*
+*(1) The images used in this site have been obtained from [FREEPIK](https://www.freepik.com/home "Illustrations, photos, icons, mockups, and presentations templates") and [NATIONAL GEOGRAPHIC](https://www.nationalgeographic.com/ "NATIONAL GEOGRAPHIC").*
 
 *(2) The color scheme for this website is derived from [COOLORS](https://coolors.co/ "The super fast color schemes generator! Create, save and share perfect palettes in seconds!").*
 
