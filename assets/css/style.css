@@ -48,7 +48,7 @@ img {
 	margin: 0 auto;
 }
 /* all classes and ids with padding:2rem */
-.headingcontainerforthewebsite,#pac-input,.headingcontainerone,.headingcontainertwo,.bg-light-package-deals,.package-deals-home-page,.bg-white-useful-information,.text-white,.aboutus,.footersocialicons,.list-group-social,.footercard {
+.headingcontainerforthewebsite,#pac-input,.headingcontainerone,.headingcontainertwo,.bg-light-package-deals,.package-deals-home-page,.bg-white-useful-information,.text-white,.aboutus,.footersocialicons,.list-group-social,.footercard,.copyrightcontainer {
 	padding:2rem;
   }
 
@@ -195,7 +195,6 @@ tr,td {
 }
 /* footer copyright information */
 .copyrightcontainer {
-	padding: 2rem;
 	background-color:#742F2F;
 	color: #FFF1F1;
 	margin-top: 70px;
