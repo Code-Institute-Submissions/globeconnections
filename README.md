@@ -207,7 +207,7 @@
 
 *(7) [MICROSOFT EDGE](/assets/images/microsoft-edge-screen-shot.png "cross browser testing screen shot for MICROSOFT EDGE")*
 
-- ### Testing summary:
+### Testing summary:
 
 - *During the testing session, the map was not displaying correctly. It was center-aligned using CSS.*
 
