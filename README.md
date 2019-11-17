@@ -219,6 +219,8 @@
 
 - *The website works perfectly fine on all screen sizes and browsers tested with the tools listed above.*
 
+- *I was unable to test the website on [Safari for Windows](/assets/images/safari.png "screen shot of the error on safari for windows") due to the error message attached herewith.*
+
 - *There were no bugs left unfixed.*
 
 ------------
