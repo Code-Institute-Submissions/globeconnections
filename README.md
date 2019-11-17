@@ -287,7 +287,7 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 | (i) [PLACES SEARCH BOX](https://developers-dot-devsite-v2-prod.appspot.com/maps/documentation/javascript/examples/places-searchbox "This example creates a map with a search box for users to enter geographical searches.") |
 | ------------ |
-| (ii) [PLACES AUTOCOMPLETE HOTEL SEARCH](https://developers-dot-devsite-v2-prod.appspot.com/maps/documentation/javascript/examples/places-autocomplete-hotelsearch "This example creates a map with a search box that finds all of the hotels in a specified place within a given country.") |
+|       (ii) [PLACES AUTOCOMPLETE HOTEL SEARCH](https://developers-dot-devsite-v2-prod.appspot.com/maps/documentation/javascript/examples/places-autocomplete-hotelsearch "This example creates a map with a search box that finds all of the hotels in a specified place within a given country.") |
 
 *(8) The tool utilized to format JavaScript is [CODE BEAUTIFY](https://codebeautify.org/jsviewer "JavaScript Beautifier").*
 
