@@ -33,10 +33,22 @@ img {
 	align-items: center;
 	text-decoration: none;
 }
-/* navbar */
-.bg-navbar {
+/* all classes and ids with a font size:1rem and font-weight:bold */
+.bg-navbar,.navbar-brand,.nav-item,#pac-input,table,.copyrightcontainer,.btn-outline-white  {
 	font-size:1rem;
-	font-weight:bold;
+    font-weight:bold;    
+} 
+/* all classes and ids with a font size:2rem and font-weight:bold */
+.headingcontainerformapsearchboxcard,.card-header,.usefulone,.list-group-social,.package-deals-home-page,.fab  {
+	font-size:2rem;
+    font-weight:bold;    
+} 
+/* all classes and ids with margin:0 auto */
+.lead-heading,#map,.mapcontainercard,.list-group-social {
+    margin: 0 auto;
+    }
+/* navbar */
+.bg-navbar {	
 	color:rgba(255,255,255,0.97);
 	background-color: rgba(81,70,158,0.8);
 }
@@ -59,7 +71,6 @@ img {
 /* navbar brand */
 .navbar-brand {
 	outline: rgba(0,0,0,1.0);
-	font-size:1rem;
 	font-weight:bold;
 	color:rgba(255,255,255,0.97);
 	background-color:transparent;
@@ -77,8 +88,6 @@ img {
 }
 /* nav item */
 .nav-item {
-	font-size:1rem;
-	font-weight: bold;
 	color:rgba(255,255,255,0.97);
 	background-color: #AFAAD2;
 	margin-right:20px;
@@ -91,15 +100,12 @@ img {
 /* heading container for the website */
 .headingcontainerforthewebsite {
 	font-size:40px;
-	padding:1rem;
+	padding:2rem;
 	background-color:#572162;
 	margin-top: 100px;
 	margin-bottom: 0px;
 	color: rgba(255,255,255,0.97);
 	font-weight: bold;
-}
-.lead-heading {
-	margin:0 auto;
 }
 /* heading container for map searchbox card */
 .headingcontainerformapsearchboxcard {
@@ -107,29 +113,22 @@ img {
 	margin-top: 10px;
 	margin-bottom: 10px;
 	color: rgba(255,255,255,0.97);
-	font-size:2rem;
-	font-weight: bold;
 }
 /* map and its components*/
 #map {
 	height: 800px;
 	width: 100%;
-	margin: 0 auto;
 }
 .mapcontainercard {
 	background-color:#572162;
-	margin: 0 auto;
 }
 #pac-input {
-	font-size:1rem;
 	padding:2rem;
 	background-color:#AFAAD2;
 	color: rgba(0,0,0,1.0);
 	border: 3px solid #210B2C;
 }
 table {
-	font-size: 1rem;
-	font-weight:bold;
 	background-color:#FFD5D5;
 	color: rgba(0,0,0,1.0);
 	border: 3px solid #210B2C;
@@ -151,28 +150,25 @@ tr,td {
 .card-header {
 	background-color: rgba(255,102,102,1.0);
 	color: rgba(255,255,255,1.0);
-	font-size:2rem;
 }
 .usefulone {
 	background-color: #210B2C;
 	color: rgba(255,255,255,1.0);
-	font-size:2rem;
 }
 /* body of image overlay card for package deals */
 .bg-light-package-deals {
-	padding: 1rem;
+	padding: 2rem;
 	font-weight: bold;
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
 /* package deals card container */
 .package-deals-home-page {
-	padding: 1rem;
-	font-weight: bold;
+	padding: 2rem;
 }
 /* useful information container */
 .bg-white-useful-information,.text-white {
-	padding:1rem;
+	padding:2rem;
 }
 .card-title-package-deals:hover,.bg-light-package-deals:hover {
 	background-color:#210B2C;
@@ -182,7 +178,7 @@ tr,td {
 }
 /* contact information for the company */
 .footercard {
-	padding:1rem;
+	padding:2rem;
 	background-color:rgba(255,185,185,0.95);
 	margin-top: 20px;
 	color: #3C011D;
@@ -193,10 +189,6 @@ tr,td {
 /* social media icons class */
 .list-group-social {
 	padding: 1rem;
-	font-size:2rem;
-	font-weight: bold;
-	text-decoration:none;
-	margin: 0 auto;
 }
 /* footer */
 #footer,.list-group,.list-group-item,.list-group-item-action {
@@ -210,8 +202,6 @@ tr,td {
 /* social media icons */
 .fab {
 	padding: 10px;
-	font-size:2rem;
-	font-weight: bold;
 	margin-left:10px;
 	margin-right: 10px;
 	text-decoration:none;
@@ -221,15 +211,12 @@ tr,td {
 /* footer copyright information */
 .copyrightcontainer {
 	padding: 2rem;
-	font-size:1rem;
 	background-color:#742F2F;
 	color: #FFF1F1;
 	margin-top: 70px;
-	font-weight: bold;
 }
 /* sign-up button for newsletters */
 .btn-outline-white {
-	font-size:1rem;
 	height: 3rem;
 	width: 8rem;
 	border-color: #210B2C;
