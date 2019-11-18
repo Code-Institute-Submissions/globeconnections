@@ -324,7 +324,7 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *(11) The jQuery code to open the map in a new window has been written by [SIMEN DAEHLIN](https://github.com/eventyret "The world's leading software development platform").* 
 
-> I would also like to thank [SIMEN DAEHLIN](https://github.com/eventyret "Eventyret Mentor") for providing me with constructive feedback on a daily basis and answering all of my queries about the course.*
+> I would also like to thank [SIMEN DAEHLIN](https://github.com/eventyret "Eventyret Mentor") for providing me with constructive feedback on a daily basis and answering all of my queries about the course.
 
 ------------
 ------------
