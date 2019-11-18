@@ -44,7 +44,7 @@ img {
 	font-weight:bold;
 }
 /* all classes and ids with margin:0 auto */
-.lead-heading,#map,.mapcontainercard,.list-group-social {
+.lead-heading,#map,.mapcontainercard,.list-group-social,.useful-information,.bg-white-useful-information,.card-title-useful-information,.text-white {
 	margin: 0 auto;
 }
 /* all classes and ids with padding:2rem */
