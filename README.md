@@ -292,7 +292,7 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *(4) The brand logo has been generated with [FREE LOGO DESIGN](https://preview.freelogodesign.org/?lang=EN&name=COMPANY%20NAME&logo=9d384024-b4a7-4d2f-b501-9bef860c868c "Create a free logo in seconds!").*
 
-*(5) All the images were compressed with the following website: [TINYJPG](https://tinyjpg.com/ "Smart JPEG and PNG compression").*
+*(5) All the images have been compressed with [TINYJPG](https://tinyjpg.com/ "Smart JPEG and PNG compression").*
 
 *(6) The icons have been added from [FONTAWESOME](https://fontawesome.com/ "Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit.").*
 
