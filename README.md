@@ -304,8 +304,8 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *(2) Additional help was requested from [SLACK](https://slack.com/intl/en-gb/ "Free online chat forum to discuss programming queries with people working in the industry").*
 
-*(3) The tool used to ascertain that vendor prefixes have been added and that the CSS in this project has been parsed is        
-     [AUTOPREFIXER](https://autoprefixer.github.io/ "Autoprefixer is a PostCSS plugin which parses your CSS and adds vendor prefixes").*
+*(3) The tool used to ascertain that vendor prefixes have been added and that the CSS in this project has been parsed is         
+     <br>[AUTOPREFIXER](https://autoprefixer.github.io/ "Autoprefixer is a PostCSS plugin which parses your CSS and adds vendor prefixes").*
 
 *(4) The wire-frames have been created using [MICROSOFT POWERPOINT](https://www.microsoft.com/en-us/p/powerpoint/cfq7ttc0k7c6?activetab=pivot:overviewtab "Microsoft Powerpoint").*
 
