@@ -17,7 +17,7 @@ img {
 	height: auto;
 }
 /* all hover effects with a box shadow */
-.card:hover,.navbar-brand:hover,.nav-item:hover,.headingcontainerforthewebsite:hover,.headingcontainerformapsearchboxcard:hover,#map:hover,#pac-input:hover,.headingcontainerone:hover,.headingcontainertwo:hover,.card-title-package-deals:hover.bg-light-package-deals:hover,.card-title-useful-information:hover,.text-white:hover,.useful-information:hover,.card-title-package-deals,.card,.bg-light-package-deals,.text-white,.card-img,.card-img-overlay,.bg-navbar,.register {
+.card:hover,.navbar-brand:hover,.nav-item:hover,.headingcontainerforthewebsite:hover,.headingcontainerformapsearchboxcard:hover,#map:hover,#pac-input:hover,.headingcontainerone:hover,.headingcontainertwo:hover,.card-title-package-deals:hover,.bg-light-package-deals:hover,.card-title-useful-information:hover,.text-white:hover,.useful-information:hover,.card-title-package-deals,.card,.bg-light-package-deals,.text-white,.card-img,.card-img-overlay,.bg-navbar,.register {
 	-webkit-box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 	text-decoration: none;
@@ -192,7 +192,7 @@ tr,td {
 	margin-top: 70px;
 }
 /* sign-up button for newsletters */
-.register,#exampleModalLabel,.modalbutton {
+.register,.modalbutton {
 	margin:0 auto;
 	background-color: rgba(87,33,98,0.99);
 	border: 5px solid rgba(87,33,98,0.99);
@@ -200,13 +200,13 @@ tr,td {
 	width: 8rem;
 	color: rgba(255,255,255,1.0);
 }
-.register:hover,#exampleModalLabel:hover,.modalbutton:hover {
+.register:hover,.modalbutton:hover {
 	margin:0 auto;
 	background-color:rgba(33,11,44,0.98);
 	border: 5px solid rgba(33,11,44,0.98);
 	color: rgba(255,255,255,1.0);
 }
-.btn:hover,.btn:focus,.btn:active {
+.btn:hover,.btn:focus,.btn:active,#exampleModalLabel {
 	background-color:rgba(33,11,44,0.98);
 	border: 5px solid rgba(33,11,44,0.98);
 	color: rgba(255,255,255,1.0);
