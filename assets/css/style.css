@@ -181,8 +181,11 @@ tr,td {
 	padding: 10px;
 	margin-left:10px;
 	margin-right: 10px;
-	text-decoration:none;
 	border-radius: 5px;
+}
+.fab:hover,
+.fas:hover {
+    text-decoration:none;
 }
 /* footer copyright information */
 .copyrightcontainer {
