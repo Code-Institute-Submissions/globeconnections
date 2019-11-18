@@ -23,7 +23,7 @@ img {
 	text-decoration: none;
 }
 /* centering css for all elements */
-.headingcontainerforthewebsite,.headingcontainerformapsearchboxcard,#pac-input,.headingcontainerone,.headingcontainertwo,#footer,.bg-light-package-deals,.package-deals-home-page,.bg-white-useful-information,.card-title-useful-information,.useful-information,.btn-outline-white,.footericon:hover,.fas,.mapcontainercard,#map,.card-header,.card-header-one,table,td,tr,.footercard,.copyrightcontainer,.aboutus,.lead-heading,p,.footersocialicons {
+.headingcontainerforthewebsite,.headingcontainerformapsearchboxcard,#pac-input,.headingcontainerone,.headingcontainertwo,#footer,.bg-light-package-deals,.package-deals-home-page,.bg-white-useful-information,.card-title-useful-information,.useful-information,.btn-outline-white,.footericon:hover,.fas,.mapcontainercard,#map,.card-header,.usefulone,table,td,tr,.footercard,.copyrightcontainer,.aboutus,.lead-heading,p,.footersocialicons {
 	text-align: center;
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
@@ -152,7 +152,7 @@ tr,td {
 	background-color: #210B2C;
 }
 .card-header,.usefulone {
-	max-width: 100%;
+	width: 600px;
 	height:auto;
 }
 /* body of image overlay card for package deals */
