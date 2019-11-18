@@ -197,7 +197,7 @@
 
 *(5) [GOOGLE CHROME](/assets/images/google-chrome-screen-shot.png "cross browser testing screen shot for GOOGLE CHROME")*
 
-*(6) [OPERA BROWSER](/assets/images/opera-browser-screen-shot.png "cross browser testing screen shot for OPERA BROWSER")*
+*(6) [OPERA BROWSER](/assets/images/opera-browser-screen-shot.jpg "cross browser testing screen shot for OPERA BROWSER")*
 
 *(7) [MICROSOFT EDGE](/assets/images/microsoft-edge-screen-shot.png "cross browser testing screen shot for MICROSOFT EDGE")*
 
