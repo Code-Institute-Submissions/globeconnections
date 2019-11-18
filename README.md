@@ -304,8 +304,7 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *(2) Additional help was requested from [SLACK](https://slack.com/intl/en-gb/ "Free online chat forum to discuss programming queries with people working in the industry").*
 
-*(3) The tool used to ascertain that vendor prefixes have been added and that the CSS in this project has been parsed is         
-     <br>[AUTOPREFIXER](https://autoprefixer.github.io/ "Autoprefixer is a PostCSS plugin which parses your CSS and adds vendor prefixes").*
+*(3) The tool used to add vendor prefixes and parsing the CSS is [AUTOPREFIXER](https://autoprefixer.github.io/ "Autoprefixer is a PostCSS plugin which parses your CSS and adds vendor prefixes").*
 
 *(4) The wire-frames have been created using [MICROSOFT POWERPOINT](https://www.microsoft.com/en-us/p/powerpoint/cfq7ttc0k7c6?activetab=pivot:overviewtab "Microsoft Powerpoint").*
 
@@ -323,7 +322,7 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *(11) The jQuery code to open the map in a new window has been written by [SIMEN DAEHLIN](https://github.com/eventyret "The world's leading software development platform").* 
 
-*(12) I would also like to thank [SIMEN DAEHLIN](https://github.com/eventyret "The world's leading software development platform") for providing me with constructive feedback on a daily basis and answering all of my queries about the course.*
+*(12) I would also like to thank [SIMEN DAEHLIN](https://github.com/eventyret "Eventyret Mentor") for providing me with constructive feedback on a daily basis and answering all of my queries about the course.*
 
 ------------
 ------------
