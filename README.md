@@ -290,11 +290,13 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *(3) The favicon was generated with [FAVICON GENERATOR](https://favicon.io/favicon-generator/ "Favicon Generator").*
 
-*(4) All the images were compressed with the following website: [TINYJPG](https://tinyjpg.com/ "Smart JPEG and PNG compression").*
+*(4) The brand logo has been generated with [FREE LOGO DESIGN](https://preview.freelogodesign.org/?lang=EN&name=COMPANY%20NAME&logo=9d384024-b4a7-4d2f-b501-9bef860c868c "Create a free logo in seconds!").*
 
-*(5) The icons have been added from [FONTAWESOME](https://fontawesome.com/ "Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit.").*
+*(5) All the images were compressed with the following website: [TINYJPG](https://tinyjpg.com/ "Smart JPEG and PNG compression").*
 
-*(6) The multi-device mock-up on this document is created using [TECHSINI](https://techsini.com/multi-mockup/ "Multi-device website mock-up generator").*
+*(6) The icons have been added from [FONTAWESOME](https://fontawesome.com/ "Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit.").*
+
+*(7) The multi-device mock-up on this document is created using [TECHSINI](https://techsini.com/multi-mockup/ "Multi-device website mock-up generator").*
 
 - ### Acknowledgements:
 
