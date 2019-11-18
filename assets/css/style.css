@@ -206,11 +206,9 @@ tr,td {
 	border: 5px solid rgba(33,11,44,0.98);
 	color: rgba(255,255,255,1.0);
 }
-.btn:hover, 
-.btn:focus, 
-.btn:active {
+.btn:hover,.btn:focus,.btn:active {
 	outline: none;
-    background-color:rgba(33,11,44,0.98);
+	background-color:rgba(33,11,44,0.98);
 	border: 5px solid rgba(33,11,44,0.98);
 	color: rgba(255,255,255,1.0);
 }
