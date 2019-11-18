@@ -48,7 +48,7 @@ img {
 	margin: 0 auto;
 }
 /* all classes and ids with padding:2rem */
-.headingcontainerforthewebsite,#pac-input,.headingcontainerone,.headingcontainertwo,.bg-light-package-deals,.package-deals-home-page,.bg-white-useful-information,.text-white,.aboutus,.footersocialicons,.list-group-social,.footercard,.copyrightcontainer {
+.headingcontainerforthewebsite,#pac-input,.headingcontainerone,.headingcontainertwo,.bg-light-package-deals,.package-deals-home-page,.bg-white-useful-information,.text-white,.aboutus,.footersocialicons,.list-group-social,.footercard,.copyrightcontainer,form,.form-row {
 	padding:2rem;
 }
 /* all classes and ids with color: rgba(255,255,255,1.0);
@@ -200,7 +200,10 @@ tr,td {
 	width: 8rem;
 	color: rgba(255,255,255,1.0);
 }
-.register:hover {
+.register:hover,
+#exampleModalLabel,
+.modalbutton {
+    margin:0 auto;
 background-color:rgba(33,11,44,0.98);
 border: 5px solid rgba(33,11,44,0.98);
 color: rgba(255,255,255,1.0);
