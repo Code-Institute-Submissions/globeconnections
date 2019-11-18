@@ -165,9 +165,9 @@ tr,td {
 }
 /* contact information for the company */
 .footercard,#exampleModal {
-	background-color:rgba(255,185,185,0.95);
+	background-color:#572162;
 	margin-top: 20px;
-	color: #3C011D;
+	color: rgba(255,255,255,1.0);
 }
 /* footer */
 #footer,.list-group,.list-group-item,.list-group-item-action {
