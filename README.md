@@ -222,7 +222,7 @@
 
  # 5) DEPLOYMENT:
 
-- ### To deploy this page to GitHub Pages from your [GITHUB REPOSITORY](https://github.com/ "The world's leading software development platform"), the following steps were taken:
+- ### To deploy this page to GitHub Pages from the [GITHUB REPOSITORY](https://github.com/ "The world's leading software development platform"), the following steps were taken:
 
 *(1) Log into GitHub.*
 
