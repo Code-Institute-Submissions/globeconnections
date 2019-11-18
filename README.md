@@ -290,7 +290,7 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *(2) The color scheme for this website is derived from [COOLORS](https://coolors.co/ "The super fast color schemes generator! Create, save and share perfect palettes in seconds!").*
 
-*(3) The favicon has been generated with [FAVICON GENERATOR](https://favicon.io/favicon-generator/ "Favicon Generator").*
+*(3) The favicon has been generated with the [FAVICON GENERATOR](https://favicon.io/favicon-generator/ "Favicon Generator").*
 
 *(4) The brand logo has been generated with [FREE LOGO DESIGN](https://preview.freelogodesign.org/?lang=EN&name=COMPANY%20NAME&logo=9d384024-b4a7-4d2f-b501-9bef860c868c "Create a free logo in seconds!").*
 
