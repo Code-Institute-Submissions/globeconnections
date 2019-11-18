@@ -141,19 +141,17 @@
 
 *(4) [IS RESPONSIVE](http://www.isresponsive.com/ "Getting Started with a Responsive Web Design")*
 
-*(5) [WEBSITE PLANET](https://www.websiteplanet.com/ "Home For All of Your Website Solutions")*
+*(5) [DESIGN MODO](https://designmodo.com/responsive-test/ "Test the responsiveness of your website on all devices")*
 
-*(6) [DESIGN MODO](https://designmodo.com/responsive-test/ "Test the responsiveness of your website on all devices")*
+*(6) [RESIZER](https://material.io/resources/resizer/ "An interactive viewer that helps designers test material design breakpoints across desktop, mobile, and tablet")*
 
-*(7) [RESIZER](https://material.io/resources/resizer/ "An interactive viewer that helps designers test material design breakpoints across desktop, mobile, and tablet")*
+*(7) [DEMONSTRATING RESPONSIVE DESIGN](http://www.jamus.co.uk/demos/rwd-demonstrations/ "Demonstrating Responsive Designby jamusreynolds")*
 
-*(8) [DEMONSTRATING RESPONSIVE DESIGN](http://www.jamus.co.uk/demos/rwd-demonstrations/ "Demonstrating Responsive Designby jamusreynolds")*
+*(8) [RESPONSINATOR](http://www.responsinator.com/?url=https%3A%2F%2Fcodingstudent2019.github.io%2Fglobeconnections%2F "Check website responsiveness")*
 
-*(9) [RESPONSINATOR](http://www.responsinator.com/?url=https%3A%2F%2Fcodingstudent2019.github.io%2Fglobeconnections%2F "Check website responsiveness")*
+*(9) [W3C LINK CHECKER](https://validator.w3.org/checklink "Check links and anchors in Web pages or full Web sites")*
 
-*(10) [W3C LINK CHECKER](https://validator.w3.org/checklink "Check links and anchors in Web pages or full Web sites")*
-
-*(11) [DEVTOOLS](https://developers.google.com/web/tools/chrome-devtools/ "Check your website's broken links. Remove those toxic harmful broken links from your website and give a boost. Paste the URL to check for broken links!")*
+*(10) [DEVTOOLS](https://developers.google.com/web/tools/chrome-devtools/ "Check your website's broken links. Remove those toxic harmful broken links from your website and give a boost. Paste the URL to check for broken links!")*
 
 - **The screen sizes tested on Google Chrome DevTools are as follows:**
 
