@@ -188,7 +188,7 @@ tr,td {
 }
 /* footer copyright information */
 .copyrightcontainer {
-	background-color:#742F2F;
+	background-color:#51469E;
 	margin-top: 70px;
 }
 /* sign-up button for newsletters */
@@ -212,7 +212,9 @@ tr,td {
 	color: rgba(255,255,255,1.0);
 }
 h4 {
+    color:#210B2C;
 	margin:0 auto;
 	padding:3rem;
+    font-weight:bold;
 }
 /* end */
