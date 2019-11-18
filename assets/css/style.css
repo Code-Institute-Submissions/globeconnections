@@ -151,10 +151,6 @@ tr,td {
 .usefulone {
 	background-color: #210B2C;
 }
-.card-header,.usefulone {
-	max-width: 100%;
-	height:auto;
-}
 /* body of image overlay card for package deals */
 .bg-light-package-deals {
 	font-weight: bold;
