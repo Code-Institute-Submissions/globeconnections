@@ -173,6 +173,9 @@ tr,td {
 #footer,.list-group,.list-group-item,.list-group-item-action {
 	background-color: #FF6666;
 }
+#footer {
+    margin-top: 4rem;
+}
 .list-group-item:hover,.list-group-item-action:hover {
 	background-color: transparent;
 }
