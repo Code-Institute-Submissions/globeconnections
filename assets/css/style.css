@@ -122,12 +122,12 @@ img {
 .mapcontainercard {
 	background-color:#572162;
 }
-#pac-input,form,.form-control {
+#pac-input,form {
 	background-color:#AFAAD2;
 	color: rgba(0,0,0,1.0);
 	border: 3px solid #210B2C;
 }
-table {
+table,.form-control {
 	background-color:#FFD5D5;
 	color: rgba(0,0,0,1.0);
 	border: 3px solid #210B2C;
@@ -164,8 +164,7 @@ tr,td {
 	background-color:#CC97C4;
 }
 /* contact information for the company */
-.footercard,
-#exampleModal {
+.footercard,#exampleModal {
 	background-color:rgba(255,185,185,0.95);
 	margin-top: 20px;
 	color: #3C011D;
