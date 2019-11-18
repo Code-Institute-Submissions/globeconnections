@@ -164,7 +164,8 @@ tr,td {
 	background-color:#CC97C4;
 }
 /* contact information for the company */
-.footercard {
+.footercard,
+#exampleModal {
 	background-color:rgba(255,185,185,0.95);
 	margin-top: 20px;
 	color: #3C011D;
