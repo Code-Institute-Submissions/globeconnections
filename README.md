@@ -38,6 +38,8 @@
 
 - *We understand that each traveller is different from another and will have several different requirements to fulfil throughout their journey to ensure that they have the best holiday possible.*
 
+- *I wish to allow customers to choose a package that is suitable for their unique requirements and also provide travellers with the choice of selecting inidividual services offered by the company to make their journey an unforgettable one.*
+
 ## (b) SURFACE:
 
 - *I have created this website using one of the latest [color schemes](/assets/images/palette.pdf "coolors.com - The super fast color schemes generator"), keeping it simple, yet in line with the latest designing trends.*
