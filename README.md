@@ -46,7 +46,7 @@
 
 ## (c) STRATEGY:
 
-- *My aim was to make the website easy to navigate, self-explanatory, visually appealing and provide a smooth shopping experience to site navigators from all walks of life.*
+- *My aim is to make the website easy to navigate, self-explanatory, visually appealing and provide a smooth shopping experience to site navigators from all walks of life.*
 
 ## (d) STRUCTURE:
 
