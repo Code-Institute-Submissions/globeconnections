@@ -125,11 +125,11 @@
 
 # 4) TESTING:
 
-- *The customer and traveller user stories were achieved by creating a website that is straight-forward to use, provides easy access to the various services offered by the company in a clear, concise and a professional.*
+- *The customer and traveller user stories have been achieved by creating a website that is straight-forward to use, provides easy access to the various services offered by the company in a clear, concise and a professional.*
 
 - *All sections provide users with various options that they can choose from and the site navigators also have access to additional useful information, which is a very essential part of any customer's/traveller's journey.*
 
-- *The site navigators can click on any images for them to then open in a new tab/window (by adding **target="_blank" rel="noopener"**). The map also opens in a new tab/window when a site navigator clicks on the name of the place provided in the info-windows.*
+- *The site navigators can click on any images for them to then open in a new tab/window (by adding **target="_blank" rel="noopener"**). The map also opens in a new tab/window when a site navigator clicks on the name of the place provided within the info-windows.*
 
 - **The website responsiveness and broken-link tests were thoroughly conducted using the following parameters/resources:**
 
