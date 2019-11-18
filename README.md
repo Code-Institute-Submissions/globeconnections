@@ -232,9 +232,9 @@
 
 *(4) Scroll down to the **GitHub Pages** section.*
 
-*(5) Under **Source** click the drop-down menu labelled **None** and select **Master Branch**.*
+*(5) Under **Source**, click the drop-down menu labelled **None** and select **Master Branch**.*
 
-*(6) On selecting Master Branch the page is automatically refreshed, the website is now deployed.*
+*(6) On selecting Master Branch, the page is automatically refreshed, the website is then deployed.*
 
 *(7) Scroll back down to the **GitHub Pages** section to retrieve the link to the deployed website.*
 
@@ -294,7 +294,7 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *(4) All the images were compressed with the following website: [TINYJPG](https://tinyjpg.com/ "Smart JPEG and PNG compression").*
 
-*(5) The icons were added from [FONTAWESOME](https://fontawesome.com/ "Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit.").*
+*(5) The icons have been added from [FONTAWESOME](https://fontawesome.com/ "Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit.").*
 
 *(6) The multi-device mock-up on this document is created using [TECHSINI](https://techsini.com/multi-mockup/ "Multi-device website mock-up generator").*
 
@@ -306,7 +306,7 @@ git clone https://github.com/CodingStudent2019/globeconnections.git
 
 *(3) The tool used to ascertain that the site displays correctly on all devices is [AUTOPREFIXER](https://autoprefixer.github.io/ "Autoprefixer is a PostCSS plugin which parses your CSS and adds vendor prefixes").*
 
-*(4) The wire-frames were created using [MICROSOFT POWERPOINT](https://www.microsoft.com/en-us/p/powerpoint/cfq7ttc0k7c6?activetab=pivot:overviewtab "Microsoft Powerpoint").*
+*(4) The wire-frames have been created using [MICROSOFT POWERPOINT](https://www.microsoft.com/en-us/p/powerpoint/cfq7ttc0k7c6?activetab=pivot:overviewtab "Microsoft Powerpoint").*
 
 *(5) A lot of my queries were answered using [STACK OVERFLOW](https://stackoverflow.com/ "the largest, most trusted online community for anyone that codes to learn, share their knowledge, and build their careers").*
 
