@@ -192,24 +192,25 @@ tr,td {
 	margin-top: 70px;
 }
 /* sign-up button for newsletters */
-.register {    
-    margin:0 auto;
-  background-color: rgba(87,33,98,0.99);
-  border: 5px solid rgba(87,33,98,0.99);
+.register {
+	margin:0 auto;
+	background-color: rgba(87,33,98,0.99);
+	border: 5px solid rgba(87,33,98,0.99);
 	height: 4rem;
 	width: 8rem;
 	color: rgba(255,255,255,1.0);
 }
-.register:hover,
-#exampleModalLabel,
-.modalbutton {
-    margin:0 auto;
-background-color:rgba(33,11,44,0.98);
-border: 5px solid rgba(33,11,44,0.98);
-color: rgba(255,255,255,1.0);
+.register:hover,#exampleModalLabel,.modalbutton {
+	margin:0 auto;
+	background-color:rgba(33,11,44,0.98);
+	border: 5px solid rgba(33,11,44,0.98);
+	color: rgba(255,255,255,1.0);
+}
+.btn:focus {
+	outline: none;
 }
 h4 {
-    margin:0 auto;
-    padding:3rem;
+	margin:0 auto;
+	padding:3rem;
 }
 /* end */
