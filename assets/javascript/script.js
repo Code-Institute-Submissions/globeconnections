@@ -1,7 +1,7 @@
 let map, places, infoWindow;
 let hostnameRegexp = new RegExp('^https?://.+?/');
 /**
- * adds map and infowindow information.
+ * add map and infowindow information.
  */
 function initAutocomplete() {
  map = new google.maps.Map(document.getElementById('map'), {
