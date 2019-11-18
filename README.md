@@ -185,7 +185,7 @@
 
 *(3) [JAVASCRIPT VALIDATION SERVICE](https://www.jslint.com/ "JavaScript Validation Service")*
 
-- **The cross-browser tests were conducted using the following parameters/resources:**
+- **The cross-browser tests have been conducted using the following parameters/resources:**
 
 *(1) [BROWSER STACK](https://www.browserstack.com/screenshots/6671b77f025b60dc363528b91a656b132d95e984 "Screenshot Testing On Real Browsers & Devices")*
 
