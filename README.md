@@ -129,7 +129,9 @@
 
 - *All sections provide users with various options that they can choose from and the site navigators also have access to additional useful information, which is a very essential part of any customer's/traveller's journey.*
 
-- *The site navigators can click on any images for them to then open in a new tab/window (by adding **target="_blank" rel="noopener"**). The map also opens in a new tab/window when a site navigator clicks on the name of the place provided within the info-windows.*
+- *The site navigators can click on any images for them to then open in a new tab/window (by adding **target="_blank" rel="noopener"**).* 
+
+- *The map also opens in a new tab/window when a site navigator clicks on the name of the place provided within the info-windows on the map.*
 
 - **The website responsiveness and broken-link tests were thoroughly conducted using the following parameters/resources:**
 
