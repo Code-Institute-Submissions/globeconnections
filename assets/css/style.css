@@ -152,7 +152,7 @@ tr,td {
 	background-color: #210B2C;
 }
 .card-header,.usefulone {
-	width: 550px;
+	max-width: 100%;
 	height:auto;
 }
 /* body of image overlay card for package deals */
