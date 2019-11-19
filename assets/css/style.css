@@ -184,6 +184,7 @@ tr,td {
 }
 .list-group-item:hover,.list-group-item-action:hover {
 	background-color: transparent;
+    color:#572162;
 }
 /* social media icons */
 .fab {
