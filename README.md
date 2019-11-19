@@ -50,7 +50,7 @@
 
 ## (d) STRUCTURE:
 
-- *The search functions provided within my website allow site navigators to gain access to various services provided by the company to meet their individual requirements.*
+- *The search functions provided within my website allow site navigators to gain access to the various different services provided by the company to meet their individual requirements.*
 
 - *I have provided site navigators with access to information about the following resources via the Google Maps APIs, closer to their chosen destination:*
 
