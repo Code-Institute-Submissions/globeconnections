@@ -10,7 +10,7 @@
 
 - *There are a variety of packages offered to suit the needs of different individuals from all walks of life.*
 
-- *The choice of services offered by Globeconnections ranges from cars to hotel rooms etc.*
+- *Globeconnections offers a wide range of services to choose from, for e.g.: cars, hotels, flights etc.*
 
 ------------
 **Access to the website:**
