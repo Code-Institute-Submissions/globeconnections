@@ -133,15 +133,13 @@
 
 - *The map also opens in a new tab/window (because of adding **target="_blank" rel="noopener"**) when a site navigator clicks on the name of the place provided within the info-windows on the map.*
 
-- ### Form testing (modal button trigger form in the footer):
+- *Form testing (modal button trigger form in the footer):*
 
-**(i) I have added the *"required"* attribute to test all the input fields of the modal registration form in the footer, namely the **First name**, **Last name**, **Email** and **Password**.**
+| **(i) I have added the *"required"* attribute to test all the input fields of the modal registration form in the footer, namely the **First name**, **Last name**, **Email** and **Password**.** |
+| ------------ |
+| **(ii) The form throws an error (For eg: Please fill in this field), when any of the input fields are left blank or if an invalid email address is entered.  The site navigator will not be able to submit the form in this event.** |
+| **(iii) If all the fields are completed correctly on the form when it is submitted, the page will reload without performing any other action.**  |
 
-**(ii) The form throws an error (For eg: Please fill in this field), when any of the input fields are left blank or if an invalid email address is entered.  The site navigator will not be able to submit the form in this event.**
-
-**(iii)) If all the fields are completed correctly on the form when it is submitted, the page will reload without performing any other action.**
-
-- **The website responsiveness and broken-link tests were thoroughly conducted using the following parameters/resources:**
 
 *(1) [RESPONSIVE-TEST-TOOL](http://responsivetesttool.com/ "testing the responsiveness of the website")*
 
