@@ -23,7 +23,7 @@ img {
 	text-decoration: none;
 }
 /* centering css for all elements */
-.headingcontainerforthewebsite,.headingcontainerformapsearchboxcard,#pac-input,.headingcontainerone,.headingcontainertwo,#footer,.bg-light-package-deals,.package-deals-home-page,.bg-white-useful-information,.card-title-useful-information,.useful-information,.btn-outline-white,.footericon:hover,.fas,.mapcontainercard,#map,.card-header,.usefulone,table,td,tr,.footercard,.copyrightcontainer,.aboutus,.lead-heading,p,.footersocialicons,#exampleModal,form {
+.headingcontainerforthewebsite,.headingcontainerformapsearchboxcard,#pac-input,.headingcontainerone,.headingcontainertwo,#footer,.bg-light-package-deals,.package-deals-home-page,.bg-white-useful-information,.card-title-useful-information,.useful-information,.btn-outline-white,.footericon:hover,.fas,.mapcontainercard,#map,.card-header,.usefulone,table,td,tr,.footercard,.copyrightcontainer,.aboutus,.lead-heading,p,.footersocialicons,#exampleModal,form,.bg-white-useful-information {
 	text-align: center;
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
@@ -160,7 +160,12 @@ tr,td {
 .card-title-package-deals:hover,.bg-light-package-deals:hover {
 	background-color:#210B2C;
 }
-.bg-white-useful-information:hover,.text-white:hover {
+/* image overlay cards for useful information */
+.bg-white-useful-information {
+    padding:2rem;
+    margin: 2rem;
+}
+.bg-white-useful-information:hover {
 	background-color:#CC97C4;
 }
 /* contact information for the company */
@@ -173,7 +178,7 @@ tr,td {
 #footer,.list-group,.list-group-item,.list-group-item-action {
 	background-color: #FF6666;
 }
-#footer,.bg-white-useful-information {
+#footer {
 	margin-top: 4rem;
 }
 .list-group-item:hover,.list-group-item-action:hover {
