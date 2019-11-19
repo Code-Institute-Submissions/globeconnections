@@ -136,7 +136,7 @@
 Form testing (modal button trigger form in the footer):
 ---------------------------------------------------------------
 
-| - *I have added the *"required"* attribute to test all the input fields of the modal registration form in the footer, namely "**First name**, **Last name**, **Email** and **Password**".* |
+| - *I have added the *"required"* attribute to test all the input fields of the modal registration form in the footer, namely "**First name**", "**Last name**", "**Email**" and "**Password**".* |
 | ------------ |
 | - *The form throws an error (For e.g.: Please fill in this field), when any of the input fields are left blank or if an invalid email address is entered.  The site navigator will not be able to submit the form in this event.* |
 | - *If all the fields are completed correctly on the form when it is submitted, the page will reload without performing any other action.*  |
