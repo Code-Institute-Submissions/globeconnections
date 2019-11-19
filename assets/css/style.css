@@ -23,7 +23,7 @@ img {
 	text-decoration: none;
 }
 /* centering css for all elements */
-.headingcontainerforthewebsite,.headingcontainerformapsearchboxcard,#pac-input,.headingcontainerone,.headingcontainertwo,#footer,.bg-light-package-deals,.package-deals-home-page,.bg-white-useful-information,.card-title-useful-information,.useful-information,.btn-outline-white,.footericon:hover,.fas,.mapcontainercard,#map,.card-header,.usefulone,table,td,tr,.footercard,.copyrightcontainer,.aboutus,.lead-heading,p,.footersocialicons,#exampleModal,form,.bg-white-useful-information,.modal,.modal-body {
+.headingcontainerforthewebsite,.headingcontainerformapsearchboxcard,#pac-input,.headingcontainerone,.headingcontainertwo,#footer,.bg-light-package-deals,.package-deals-home-page,.bg-white-useful-information,.card-title-useful-information,.useful-information,.btn-outline-white,.footericon:hover,.fas,.mapcontainercard,#map,.card-header,.usefulone,table,td,tr,.footercard,.copyrightcontainer,.aboutus,.lead-heading,p,.footersocialicons,#exampleModal,form,.bg-white-useful-information,.modal,.modal-dialog {
 	text-align: center;
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
@@ -201,6 +201,11 @@ tr,td {
 	margin-top: 70px;
 }
 /* sign-up section for the footer */
+#exampleModal,
+form {
+    padding:1rem;
+    margin:0 auto;
+}
 .register,.modalbutton {
 	margin: 20px 0px 20px 0px;
 	background-color: rgba(87,33,98,0.99);
