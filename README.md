@@ -99,7 +99,7 @@
 
 *(3) The choice of accessing and choosing from different packages to provide an extensive shopping experience.*
 
-*(4) Access to additional resources such as the latest news/updates from the travel industry, health, beauty and safety tips and other useful external resources.*
+*(4) Access to additional resources such as the latest news/updates from the travel industry, health, beauty, safety tips and other useful external resources.*
 
 ------------
 ------------
