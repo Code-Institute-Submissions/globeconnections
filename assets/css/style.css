@@ -34,7 +34,7 @@ img {
 	text-decoration: none;
 }
 /* all classes and ids with a font size:1rem and font-weight:bold */
-.bg-navbar,.navbar-brand,.nav-item,#pac-input,table,.copyrightcontainer,.btn-outline-white,#footer,.register {
+.bg-navbar,.navbar-brand,.nav-item,#pac-input,table,.copyrightcontainer,.btn-outline-white,#footer,.register,#pac-input {
 	font-size:1rem;
 	font-weight:bold;
 }
