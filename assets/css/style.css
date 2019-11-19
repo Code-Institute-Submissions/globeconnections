@@ -163,7 +163,8 @@ tr,td {
 /* image overlay cards for useful information */
 .bg-white-useful-information {
     padding:2rem;
-    margin: 2rem;
+    margin-top:2rem;
+    margin-bottom:2rem;
 }
 .bg-white-useful-information:hover {
 	background-color:#CC97C4;
