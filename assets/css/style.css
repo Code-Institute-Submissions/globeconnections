@@ -162,9 +162,9 @@ tr,td {
 }
 /* image overlay cards for useful information */
 .bg-white-useful-information {
-    padding:2rem;
-    margin-top:2rem;
-    margin-bottom:2rem;
+	padding:2rem;
+	margin-top:2rem;
+	margin-bottom:2rem;
 }
 .bg-white-useful-information:hover {
 	background-color:#CC97C4;
@@ -184,7 +184,7 @@ tr,td {
 }
 .list-group-item:hover,.list-group-item-action:hover {
 	background-color: transparent;
-    color:#572162;
+	color:#572162;
 }
 /* social media icons */
 .fab {
@@ -202,10 +202,9 @@ tr,td {
 	margin-top: 70px;
 }
 /* sign-up section for the footer */
-#exampleModal,
-form {
-    padding:1rem;
-    margin:0 auto;
+#exampleModal,form {
+	padding:1rem;
+	margin:0 auto;
 }
 .register,.modalbutton {
 	margin: 20px 0px 20px 0px;
