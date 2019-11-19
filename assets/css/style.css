@@ -200,9 +200,9 @@ tr,td {
 	background-color:#51469E;
 	margin-top: 70px;
 }
-/* sign-up button for newsletters */
+/* sign-up section for the footer */
 .register,.modalbutton {
-	margin:0 auto;
+	margin: 20px 0px 20px 0px;
 	background-color: rgba(87,33,98,0.99);
 	border: 5px solid rgba(87,33,98,0.99);
 	height: 3rem;
@@ -210,7 +210,7 @@ tr,td {
 	color: rgba(255,255,255,1.0);
 }
 .register:hover,.modalbutton:hover {
-	margin:0 auto;
+	margin: 20px 0px 20px 0px;
 	background-color:rgba(33,11,44,0.98);
 	border: 5px solid rgba(33,11,44,0.98);
 	color: rgba(255,255,255,1.0);
@@ -228,8 +228,5 @@ h4 {
 }
 .form-group {
 	padding:1rem;
-}
-.modalbutton {
-	margin: 20px 0px 20px 0px;
 }
 /* end */
