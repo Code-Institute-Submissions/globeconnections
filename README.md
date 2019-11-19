@@ -66,13 +66,13 @@
 
 ## (e) SKELETON:
 
-- *The design for this website is depicted in the wire-frames attached below to demonstrate how it is supposed to display on large, medium and small screen sizes:*
+- *The design for this website is depicted in the wire-frames attached below to demonstrate how it is supposed to display on small, medium and large screen sizes:*
 
-*(i) [LARGE-SCREENS-WIRE-FRAME](/assets/wireframes/large-screens-wireframe-GLOBECONNECTIONS.pdf "wireframe for large-sized screens")*
+*(i) [SMALL-SCREENS-WIRE-FRAME](/assets/wireframes/small-screens-wireframe-GLOBECONNECTIONS.pdf "wireframe for small-sized screens")*
 
 *(ii) [MEDIUM-SCREENS-WIRE-FRAME](/assets/wireframes/medium-screens-wireframe-GLOBECONNECTIONS.pdf "wireframe for medium-sized screens")*
 
-*(iii) [SMALL-SCREENS-WIRE-FRAME](/assets/wireframes/small-screens-wireframe-GLOBECONNECTIONS.pdf "wireframe for small-sized screens")*
+*(iii) [LARGE-SCREENS-WIRE-FRAME](/assets/wireframes/large-screens-wireframe-GLOBECONNECTIONS.pdf "wireframe for large-sized screens")*
 
 - *The live website is slightly different from the one depicted in the wire-frames because some features and styles were amended whilst enhancing the website.*
 
